@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:9.20:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.50"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:9.20:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:9.50:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:reach_console:10.5.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "10.5.1"
+  }
+]

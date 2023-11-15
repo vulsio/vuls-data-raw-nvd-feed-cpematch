@@ -1,0 +1,27 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:-:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:3.0:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:4.1.0.0:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndExcluding": "4.5.0.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:codesys:edge_gateway:3.0:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndExcluding": "4.1.0.0",
+    "versionStartIncluding": "3.0"
+  }
+]

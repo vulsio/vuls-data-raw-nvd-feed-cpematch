@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "vdv10170"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:intel:ssd_dc_p4618_firmware:vdv10170:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "vdv10182"
+  }
+]

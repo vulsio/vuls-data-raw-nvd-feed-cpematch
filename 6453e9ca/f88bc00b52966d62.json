@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:dell:latitude_e5450_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e5450_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "a21"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:dell:latitude_e5450_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e5450_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e5450_firmware:a21:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "a24"
+  }
+]

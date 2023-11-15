@@ -1,0 +1,27 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:10.8.0-00:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:10.9.0-00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "10.9.1-00"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hitachi:ops_center_viewpoint:10.8.0-00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "10.9.0-00",
+    "versionStartIncluding": "10.8.0-00"
+  }
+]

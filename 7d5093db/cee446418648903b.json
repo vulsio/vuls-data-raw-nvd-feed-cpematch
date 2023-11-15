@@ -1,0 +1,48 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "12.1.1.404"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.1.1.404:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.2.1.280:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.3:*:*:*:general_availability:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.3.0.670:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:2020.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2020.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:solarwinds:n-central:12.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "12.2.1.280",
+    "versionStartIncluding": "12.2"
+  }
+]

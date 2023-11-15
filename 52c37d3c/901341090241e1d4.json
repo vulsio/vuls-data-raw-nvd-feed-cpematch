@@ -1,0 +1,30 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.01.03:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.01.14:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.02.01:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "pt.02.17"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:officeconnect_1820_8g_switch_j9979a_firmware:pt.01.14:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "pt.01.14",
+    "versionStartExcluding": "pt.01.03"
+  }
+]

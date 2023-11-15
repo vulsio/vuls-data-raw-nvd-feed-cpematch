@@ -1,0 +1,27 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:2.5:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:2.8:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "3.0.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1518-4_pn_firmware:2.5:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.8",
+    "versionStartIncluding": "2.5"
+  }
+]

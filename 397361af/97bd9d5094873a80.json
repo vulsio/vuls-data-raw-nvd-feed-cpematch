@@ -1,0 +1,46 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:*:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.1:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.2:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.3:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.4:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.5:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.7.6:*:*:*:*:pivotal_cloud_foundry:*:*"
+      }
+    ],
+    "versionEndIncluding": "1.7.6",
+    "versionStartIncluding": "1.7.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:*:*:*:*:*:pivotal_cloud_foundry:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.8.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.8.1:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.8.2:*:*:*:*:pivotal_cloud_foundry:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:vmware:harbor_container_registry:1.8.3:*:*:*:*:pivotal_cloud_foundry:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.8.4",
+    "versionStartIncluding": "1.8.0"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:*:*:*:*:*:windows:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "e80.96"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e80.96:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e81.30"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e80.96:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e81.30:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e83.20"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e80.96:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e81.30:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e83.20:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e84.10:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e84.20"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e80.96:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e81.30:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e83.20:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e84.10:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security:e84.20:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e86.20"
+  }
+]

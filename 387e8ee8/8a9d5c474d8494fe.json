@@ -1,0 +1,50 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "03.06.19_\\(18\\)"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:03.06.19_\\(18\\):*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "18"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:03.06.19_\\(18\\):*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:18:-:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:18:patch_1:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:18:patch_2:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "fw22"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-8202_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "fw22",
+    "versionStartIncluding": "fw16"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:yokogawa:plant_resource_manager:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:yokogawa:plant_resource_manager:r3.12.00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "r3.12.00"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:yokogawa:plant_resource_manager:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:yokogawa:plant_resource_manager:r3.12.00:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:yokogawa:plant_resource_manager:r3.31.00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "r3.31.00",
+    "versionStartIncluding": "r2.06.00"
+  }
+]

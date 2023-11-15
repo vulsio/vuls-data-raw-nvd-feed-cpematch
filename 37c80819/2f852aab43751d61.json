@@ -1,0 +1,53 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4pi_1.0.0.8"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4v2_pi_1.2.0.6c"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "picassopi-fp5_1.0.0.d"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3250u_firmware:comboam4v2pi_1.2.0.8:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "renoirpi-fp6_1.0.0.7"
+  }
+]

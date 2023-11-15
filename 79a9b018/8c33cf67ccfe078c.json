@@ -1,0 +1,38 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:7.2:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:9.6:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:9.7:*:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionStartIncluding": "7.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:9.6:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:9.7:*:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionStartIncluding": "9.6"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:virtual_storage_console:9.7:*:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionStartIncluding": "9.7"
+  }
+]

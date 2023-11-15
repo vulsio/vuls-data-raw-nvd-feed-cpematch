@@ -1,0 +1,28 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "stanford-al00c00b175"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:stanford-al00c00b175:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "stanford-al10c00b175"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:stanford-al00c00b175:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:huawei:honor_9_firmware:stanford-al10c00b175:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "stanford-tl00c01b175"
+  }
+]

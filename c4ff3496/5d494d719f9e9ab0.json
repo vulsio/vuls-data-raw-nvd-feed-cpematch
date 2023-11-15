@@ -1,0 +1,32 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:apache:soap:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:1.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:2.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:2.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:apache:soap:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:2.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:apache:soap:2.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionStartIncluding": "2.2"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw930.00:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw930.30:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw940.00:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw940.20:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "fw950.00"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw930.00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "fw930.30",
+    "versionStartIncluding": "fw930.00"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power9_system_firmware:fw940.00:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "fw940.20",
+    "versionStartIncluding": "fw940.00"
+  }
+]

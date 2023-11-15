@@ -1,0 +1,29 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:*:*:*:*:*:log4j:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:-:*:*:*:*:log4j:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:1.1-12:*:*:*:*:log4j:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.1-16"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:*:*:*:*:*:log4j:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:-:*:*:*:*:log4j:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:1.1-12:*:*:*:*:log4j:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:amazon:hotpatch:1.1-16:*:*:*:*:log4j:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.3.5"
+  }
+]

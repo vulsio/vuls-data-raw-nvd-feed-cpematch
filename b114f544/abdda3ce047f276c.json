@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.sb2.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:lw80.sb2.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx310_firmware:lw80.sb2.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.sb2.p245"
+  }
+]

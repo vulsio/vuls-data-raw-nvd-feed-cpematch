@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "giet98ww"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lenovo:thinkpad_x240s_firmware:giet98ww:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "giet99ww"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "castlepeakwspi-swrx8_1.0.0.9"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:castlepeakwspi-swrx8_1.0.0.9:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_threadripper_pro_3995wx_firmware:castlepeakwspi-swrx8_1.0.0.a:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "chagallwspi-swrx8_1.0.0.2"
+  }
+]

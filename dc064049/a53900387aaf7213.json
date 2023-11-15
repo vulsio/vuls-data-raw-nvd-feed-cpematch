@@ -1,0 +1,62 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.6"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.10"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.11p1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vmware_vsphere:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:vmware_vsphere:*:*"
+      }
+    ],
+    "versionStartIncluding": "9.5"
+  }
+]

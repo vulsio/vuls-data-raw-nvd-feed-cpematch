@@ -1,0 +1,33 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:2.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "3.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:simatic_net_cp_1543-1_firmware:2.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "3.0",
+    "versionStartIncluding": "2.2"
+  }
+]

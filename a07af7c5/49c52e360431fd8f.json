@@ -1,0 +1,39 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:5.0.6:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:5.1.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:6.8.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:6.9.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:6.9.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.11.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:5.1.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:6.8.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:realvnc:vnc_server:6.9.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.9.1",
+    "versionStartIncluding": "5.1.0"
+  }
+]

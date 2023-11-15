@@ -1,0 +1,25 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:dotcms:dotcms:*:*:*:*:-:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.2.0:*:*:*:-:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "22.08",
+    "versionStartIncluding": "5.2.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:dotcms:dotcms:*:*:*:*:-:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.2.0:*:*:*:-:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:dotcms:dotcms:22.08:*:*:*:-:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "22.10",
+    "versionStartIncluding": "5.2.0"
+  }
+]

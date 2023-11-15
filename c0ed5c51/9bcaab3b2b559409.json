@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:hp:z2_tower_g8_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:z2_tower_g8_firmware:01.03.00_rev_a:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "01.05.02"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:hp:z2_tower_g8_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:z2_tower_g8_firmware:01.03.00_rev_a:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:hp:z2_tower_g8_firmware:01.05.02:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "01.06.00"
+  }
+]

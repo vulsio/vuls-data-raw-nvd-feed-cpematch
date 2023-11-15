@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:rsa_netwitness:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:rsa_netwitness:9.8.5.17:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.8.5.19"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:rsa_netwitness:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:rsa_netwitness:9.8.5.17:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:rsa_netwitness:9.8.5.19:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "11.1.0.2"
+  }
+]

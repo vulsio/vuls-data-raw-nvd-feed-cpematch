@@ -1,0 +1,31 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:1.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:2.5.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.5.1",
+    "versionStartIncluding": "1.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:2.5.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:2.5.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:qradar_advisor:2.6.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.6.1",
+    "versionStartIncluding": "2.5.0"
+  }
+]

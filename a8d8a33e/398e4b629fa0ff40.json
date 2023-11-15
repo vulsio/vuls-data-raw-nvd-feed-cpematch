@@ -1,0 +1,28 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:4.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "4.4.1",
+    "versionStartIncluding": "4.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:4.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:4.4.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:zetetic:sqlcipher:4.4.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "4.4.3",
+    "versionStartIncluding": "4.0"
+  }
+]

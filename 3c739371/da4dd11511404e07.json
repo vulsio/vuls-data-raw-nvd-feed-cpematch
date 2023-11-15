@@ -1,0 +1,46 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.0.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "8.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.0.0.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.5.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "8.5.0.0",
+    "versionStartIncluding": "8.0.0.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.0.0.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:communications_diameter_signaling_route:8.5.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "8.5.1.0",
+    "versionStartIncluding": "8.0.0.0"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e80.83"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e81.00"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:-:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:checkpoint:endpoint_security_clients:e81.00:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "e82.10"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtx\\)_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtx\\)_firmware:op910:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtx\\)_firmware:op920:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "op920.10"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtx\\)_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtx\\)_firmware:op940:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "op940.40",
+    "versionStartIncluding": "op940"
+  }
+]

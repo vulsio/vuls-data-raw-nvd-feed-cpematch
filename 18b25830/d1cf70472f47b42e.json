@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:9.20.02:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.20.50"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:9.20.02:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:9.20.50:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:goverlan:client_agent:10.1.10:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "10.1.11"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4_pi_v1_1.0.0.a"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4_pi_v1_1.0.0.a:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4_v2_pi_1.2.0.6c"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4_pi_v1_1.0.0.a:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4_v2_pi_1.2.0.6c:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4pi_1.0.0.8"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4_pi_v1_1.0.0.a:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4_v2_pi_1.2.0.6c:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_3300x_firmware:comboam4pi_1.0.0.9:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "comboam4v2_pi_1.2.0.a"
+  }
+]

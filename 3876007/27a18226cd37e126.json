@@ -1,0 +1,33 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:*:*:*:*:*:prestashop:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:-:*:*:*:*:prestashop:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:3.1.3:*:*:*:*:prestashop:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:3.2.1:*:*:*:*:prestashop:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:3.2.2:*:*:*:*:prestashop:*:*"
+      }
+    ],
+    "versionEndIncluding": "3.2.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:*:*:*:*:*:prestashop:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:3.1.3:*:*:*:*:prestashop:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cdesigner_project:cdesigner:3.2.1:*:*:*:*:prestashop:*:*"
+      }
+    ],
+    "versionEndExcluding": "3.2.2",
+    "versionStartIncluding": "3.1.3"
+  }
+]

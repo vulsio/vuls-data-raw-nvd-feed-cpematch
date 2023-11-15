@@ -1,0 +1,32 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:1.97:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "1.97"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:1.97:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:1.98:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:2.80:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:2.85:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:dell:idrac6_monolithic:2.90:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.91"
+  }
+]

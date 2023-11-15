@@ -1,0 +1,31 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.1.14-ga:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:5.2.25-ga:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "5.2.25-ga",
+    "versionStartIncluding": "5.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:6.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:broadleafcommerce:broadleaf_commerce:6.2.6-ga:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.2.6.1-ga",
+    "versionStartIncluding": "6.0"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.vy4.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:lw80.vy4.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs510_firmware:lw80.vy4.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.vy4.p245"
+  }
+]

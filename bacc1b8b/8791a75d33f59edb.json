@@ -1,0 +1,51 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "18.4.5"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "20.6.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.6.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.8:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "20.9"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:20.6.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "20.6.3",
+    "versionStartIncluding": "20.6"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:sd-wan_vsmart_controller:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "20.7.2",
+    "versionStartIncluding": "20.7"
+  }
+]

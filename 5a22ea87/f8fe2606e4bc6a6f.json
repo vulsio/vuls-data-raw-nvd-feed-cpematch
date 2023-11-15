@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_5425c_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_5425c_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "cezannepi-fp6_1.0.0.9"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_5425c_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_5425c_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amd:ryzen_3_5425c_firmware:cezannepi-fp6_1.0.0.9:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "cezannepi-fp6_1.0.0.9a"
+  }
+]

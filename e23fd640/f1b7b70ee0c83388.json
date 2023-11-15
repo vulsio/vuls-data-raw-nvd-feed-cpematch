@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.vyl.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:lw80.vyl.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:cs317_firmware:lw80.vyl.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.vyl.p245"
+  }
+]

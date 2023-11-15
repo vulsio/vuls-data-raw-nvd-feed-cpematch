@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:2.13.100.4:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.13.100.4"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:2.13.100.4:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.17.100.3"
+  }
+]

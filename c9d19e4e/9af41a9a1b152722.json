@@ -1,0 +1,24 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtg\\)_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtg\\)_firmware:op910:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "op910.30"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtg\\)_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtg\\)_firmware:op910:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ibm:power_system_ac922_\\(8335-gtg\\)_firmware:op910.30:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "op910.70",
+    "versionStartIncluding": "op910"
+  }
+]

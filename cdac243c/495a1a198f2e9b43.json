@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:hp:pc_hardware_diagnostics:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hp:pc_hardware_diagnostics:-:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.2.0.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:hp:pc_hardware_diagnostics:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hp:pc_hardware_diagnostics:-:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:hp:pc_hardware_diagnostics:2.2.0.0:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.4.0.0"
+  }
+]

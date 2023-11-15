@@ -1,0 +1,38 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "r21.6"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:r21.6:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "r24.2.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:r21.6:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:nvidia:linux_for_tegra:r24.2.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "r32.5"
+  }
+]

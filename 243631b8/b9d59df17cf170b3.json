@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:2.12.100.4:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.12.100.4"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:-:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:sgx_psw:2.12.100.4:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.16.100.3"
+  }
+]

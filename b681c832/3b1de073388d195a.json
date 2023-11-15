@@ -1,0 +1,27 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:03.03.28c:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "04.09.00c"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:03.03.28c:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:04.09.00c:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:ge:ex2100e_firmware:05.02.04c:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "05.02.04c",
+    "versionStartIncluding": "03.03.28c"
+  }
+]

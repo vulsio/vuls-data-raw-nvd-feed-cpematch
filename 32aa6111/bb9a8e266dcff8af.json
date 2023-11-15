@@ -1,0 +1,53 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "11.1.2.4.47"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndExcluding": "11.1.2.4.047"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:11.1.2.4.47:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "21.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "21.3",
+    "versionStartIncluding": "21.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:oracle:essbase:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:oracle:essbase:21.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "21.3",
+    "versionStartIncluding": "21.1"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:libass_project:libass:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:libass_project:libass:0.13.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "0.13.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:libass_project:libass:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:libass_project:libass:0.13.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "0.14.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:libass_project:libass:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:libass_project:libass:0.13.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:libass_project:libass:0.14.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "0.15.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:libass_project:libass:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:libass_project:libass:0.15.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "0.15.1",
+    "versionStartIncluding": "0.15.0"
+  }
+]

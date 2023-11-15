@@ -1,0 +1,46 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r22:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r23:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r24:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r25:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r26:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r27:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "r27",
+    "versionStartIncluding": "r22"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r25:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r26:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r27:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r28:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "r29",
+    "versionStartIncluding": "r25"
+  }
+]

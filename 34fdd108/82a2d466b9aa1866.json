@@ -1,0 +1,62 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:2.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:2.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "3.0.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:2.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.0.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.5:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "3.5"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:2.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.0.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.5:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:emc:appsync:3.5.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "3.5.0.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:emc:appsync:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndIncluding": "4.6.0.0",
+    "versionStartIncluding": "4.4.0.0"
+  }
+]

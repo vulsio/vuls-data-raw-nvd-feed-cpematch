@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:hcltech:verse:*:*:*:*:*:android:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hcltech:verse:-:*:*:*:*:android:*:*"
+      }
+    ],
+    "versionEndExcluding": "12.0.9"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:hcltech:verse:*:*:*:*:*:android:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:hcltech:verse:-:*:*:*:*:android:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:hcltech:verse:12.0.9:*:*:*:*:android:*:*"
+      }
+    ],
+    "versionEndExcluding": "12.0.15"
+  }
+]

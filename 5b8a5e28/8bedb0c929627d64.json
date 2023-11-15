@@ -1,0 +1,35 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:*:*:pro:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:-:*:pro:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:1.001.02.074:*:pro:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:1.001.02.0715:*:pro:*:*:*:*:*"
+      }
+    ]
+  },
+  {
+    "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:*:*:pro:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:-:*:pro:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "1.001.02.073"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:*:*:pro:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:h:xerox:workcentre_75:1.001.02.074:*:pro:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.001.02.0715",
+    "versionStartIncluding": "1.001.02.074"
+  }
+]

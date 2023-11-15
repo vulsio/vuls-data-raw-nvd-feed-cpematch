@@ -1,0 +1,46 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.0:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.1:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.2:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:2.0.0:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:2.0.3:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.0.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.0:*:*:*:*:linux:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:1.9.1:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.9.2",
+    "versionStartIncluding": "1.9.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:*:*:*:*:*:linux:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:mcafee:virusscan_enterprise:2.0.0:*:*:*:*:linux:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.0.3",
+    "versionStartIncluding": "2.0.0"
+  }
+]

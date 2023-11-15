@@ -1,0 +1,38 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:6.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:6.2.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.4"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:6.2.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:siemens:scalance_xm-400_firmware:6.4:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionStartIncluding": "6.1"
+  }
+]

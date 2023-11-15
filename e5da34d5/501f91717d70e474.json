@@ -1,0 +1,30 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:abb:drive_composer:*:*:*:*:pro:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:abb:drive_composer:2.0:*:*:*:pro:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:abb:drive_composer:2.7:*:*:*:pro:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:abb:drive_composer:2.7.1:*:*:*:pro:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2.8"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:abb:drive_composer:*:*:*:*:pro:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:abb:drive_composer:2.0:*:*:*:pro:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:abb:drive_composer:2.7:*:*:*:pro:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2.7.1",
+    "versionStartIncluding": "2.0"
+  }
+]

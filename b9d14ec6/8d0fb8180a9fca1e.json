@@ -1,0 +1,23 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:dell:latitude_e7250_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e7250_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "a21"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:dell:latitude_e7250_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e7250_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:dell:latitude_e7250_firmware:a21:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "a24"
+  }
+]

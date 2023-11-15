@@ -1,0 +1,15 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus_container_backup_and_restore:*:*:*:*:*:kubernetes:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus_container_backup_and_restore:10.1.5:*:*:*:*:kubernetes:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus_container_backup_and_restore:10.1.10.2:*:*:*:*:kubernetes:*:*"
+      }
+    ],
+    "versionEndExcluding": "10.1.11",
+    "versionStartIncluding": "10.1.5"
+  }
+]

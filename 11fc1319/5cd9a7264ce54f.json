@@ -1,0 +1,35 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:tibco:hawk:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndIncluding": "4.8.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:tibco:hawk:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:tibco:hawk:6.1.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:tibco:hawk:6.2.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:tibco:hawk:6.2.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.2.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:tibco:hawk:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:tibco:hawk:6.1.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:tibco:hawk:6.2.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "6.2.2",
+    "versionStartIncluding": "6.1.0"
+  }
+]

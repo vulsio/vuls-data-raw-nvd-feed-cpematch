@@ -1,0 +1,35 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:lw71.tu.p216:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw71.tu.p216"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:lw71.tu.p216:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.tu.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:lw71.tu.p216:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:lw80.tu.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:xm7155_firmware:lw80.tu.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.tu.p245"
+  }
+]

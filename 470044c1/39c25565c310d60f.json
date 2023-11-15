@@ -1,0 +1,30 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:1.4.7:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:1.4.7.06:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.4.10.6"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:1.4.7:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:sg300-28sfp_firmware:1.4.7.06:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "1.4.7.06",
+    "versionStartIncluding": "1.4.7"
+  }
+]

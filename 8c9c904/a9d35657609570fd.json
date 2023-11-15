@@ -1,0 +1,38 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:support:*:*:*:*:*:android:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:-:*:*:*:*:android:*:*"
+      }
+    ],
+    "versionEndExcluding": "21.7.40"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:support:*:*:*:*:*:android:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:-:*:*:*:*:android:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:21.7.40:*:*:*:*:android:*:*"
+      }
+    ],
+    "versionEndExcluding": "22.02.28"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:intel:support:*:*:*:*:*:android:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:-:*:*:*:*:android:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:21.7.40:*:*:*:*:android:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:intel:support:22.02.28:*:*:*:*:android:*:*"
+      }
+    ],
+    "versionEndExcluding": "v23.02.07"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:fw1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:fw10:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "fw17"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:fw1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:wago:750-331_firmware:fw10:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "fw10",
+    "versionStartIncluding": "fw1"
+  }
+]

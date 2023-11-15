@@ -1,0 +1,37 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:16.2.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:16.16.6:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "17.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:16.2.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "16.16.6",
+    "versionStartIncluding": "16.2.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:cisco:meraki_mx67cw_firmware:17.0.0:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "17.10.1",
+    "versionStartIncluding": "17.0.0"
+  }
+]

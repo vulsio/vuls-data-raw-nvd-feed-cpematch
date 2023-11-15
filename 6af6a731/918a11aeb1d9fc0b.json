@@ -1,0 +1,39 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.101:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.102.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "0.102.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.101:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.102.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "0.102.4"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.101:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:clam_antivirus:0.102.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "0.102.2",
+    "versionStartIncluding": "0.101"
+  }
+]

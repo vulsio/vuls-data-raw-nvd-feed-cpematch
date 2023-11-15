@@ -1,0 +1,41 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:illumos:illumos:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2020-10-22"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:illumos:illumos:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:2020-10-22:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2022-01-18"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:illumos:illumos:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:2020-10-22:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:2022-01-18:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:illumos:illumos:r13723:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "r13723"
+  }
+]

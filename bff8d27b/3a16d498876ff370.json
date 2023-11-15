@@ -1,0 +1,30 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:-:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:4.2.5:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:5.0.2.20:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndExcluding": "5.0.3.3"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:*:*:*:*:*:windows:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:5.0.3.3:*:*:*:*:windows:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:safervpn:safervpn:5.0.4.15:*:*:*:*:windows:*:*"
+      }
+    ],
+    "versionEndIncluding": "5.0.4.15",
+    "versionStartIncluding": "5.0.3.3"
+  }
+]

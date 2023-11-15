@@ -1,0 +1,49 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:*:*:*:*:advanced:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:-:*:*:*:advanced:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:14.0:*:*:*:advanced:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:15.1:*:*:*:advanced:*:*:*"
+      }
+    ]
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:*:*:*:*:advanced:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:-:*:*:*:advanced:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "14.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:*:*:*:*:advanced:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:-:*:*:*:advanced:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:14.0:*:*:*:advanced:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "15.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:*:*:*:*:advanced:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:-:*:*:*:advanced:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc_runtime:14.0:*:*:*:advanced:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "15.1"
+  }
+]

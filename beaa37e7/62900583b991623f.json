@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.pr2.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:lw80.pr2.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:m1140\\+_firmware:lw80.pr2.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.pr2.p245"
+  }
+]

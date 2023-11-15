@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "2018-04-27"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:2018-04-27:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:amazon:echo_dot_firmware:2021-07-02:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "2021-07-02"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:never5:post_connector:*:*:*:*:*:wordpress:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:never5:post_connector:-:*:*:*:*:wordpress:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.0.4"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:never5:post_connector:*:*:*:*:*:wordpress:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:never5:post_connector:-:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:never5:post_connector:1.0.4:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:never5:post_connector:1.0.9:*:*:*:*:wordpress:*:*"
+      }
+    ],
+    "versionEndIncluding": "1.0.9"
+  }
+]

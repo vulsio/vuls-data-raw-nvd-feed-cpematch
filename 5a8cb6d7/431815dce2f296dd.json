@@ -1,0 +1,80 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2.4:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "x8.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2.4:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.1.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "x8.1.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x7.2.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "x7.2.4",
+    "versionStartIncluding": "x7.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.1.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "x8.1.2",
+    "versionStartIncluding": "x8.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:cisco:expressway_software:x8.2.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "x8.2.2",
+    "versionStartIncluding": "x8.2"
+  }
+]

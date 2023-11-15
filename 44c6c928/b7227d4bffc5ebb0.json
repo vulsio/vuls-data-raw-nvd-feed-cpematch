@@ -1,0 +1,26 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "lw80.tu.p210"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:lw80.tu.p210:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:lexmark:mx710_firmware:lw80.tu.p245:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "lw80.tu.p245"
+  }
+]

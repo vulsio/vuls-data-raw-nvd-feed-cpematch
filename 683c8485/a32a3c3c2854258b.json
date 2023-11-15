@@ -1,0 +1,54 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:-:*:*:*:enterprise:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:7.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:7.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:7.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:7.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:7.4:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0.0.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0.1.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "8.1"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:microfocus:sentinel:8.0.0.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "8.0.1",
+    "versionStartIncluding": "8.0"
+  }
+]

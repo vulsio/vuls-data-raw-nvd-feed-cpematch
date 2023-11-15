@@ -1,0 +1,21 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:kubernetes:kube-state-metrics:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:kubernetes:kube-state-metrics:1.7.0:-:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:kubernetes:kube-state-metrics:1.7.0:rc0:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:kubernetes:kube-state-metrics:1.7.0:rc1:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:kubernetes:kube-state-metrics:1.7.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "1.7.2",
+    "versionStartIncluding": "1.7.0"
+  }
+]

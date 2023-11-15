@@ -1,0 +1,46 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:7.1.10.0:*:*:*:*:linux_kernel:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.1.7.0:*:*:*:*:linux_kernel:*:*"
+      }
+    ],
+    "versionEndExcluding": "8.1.12.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*",
+    "cpe_name": [],
+    "versionEndIncluding": "7.1.9.0",
+    "versionStartIncluding": "7.1.6.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*",
+    "cpe_name": [],
+    "versionEndIncluding": "8.1.5.0",
+    "versionStartIncluding": "8.0.3.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:9.0.5.0:*:*:*:*:linux_kernel:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.0.10.0",
+    "versionStartIncluding": "9.0.5.0"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux_kernel:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:9.1.4.0:*:*:*:*:linux_kernel:*:*"
+      }
+    ],
+    "versionEndExcluding": "9.1.11.0",
+    "versionStartIncluding": "9.1.4.0"
+  }
+]

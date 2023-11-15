@@ -1,0 +1,43 @@
+[
+  {
+    "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:33.013:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:34.011:*:*:*:*:*:*:*"
+      }
+    ]
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:-:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "33"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:33.013:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "34.011"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:rockwellautomation:guardlogix_5570_firmware:*:*:*:*:*:*:*:*",
+    "cpe_name": [],
+    "versionEndIncluding": "33",
+    "versionStartIncluding": "20"
+  }
+]
