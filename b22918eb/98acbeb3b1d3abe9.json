@@ -1889,6 +1889,9 @@
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.9:*:*:*:*:*:*:*"
       },
       {
+        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.10:*:*:*:*:*:*:*"
+      },
+      {
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.11:*:*:*:*:*:*:*"
       },
       {
@@ -1920,6 +1923,9 @@
       },
       {
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.21:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.22:*:*:*:*:*:*:*"
       },
       {
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.23:*:*:*:*:*:*:*"
@@ -2022,12 +2028,9 @@
       },
       {
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.56:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.57:*:*:*:*:*:*:*"
       }
     ],
-    "versionEndIncluding": "2.4.57"
+    "versionEndExcluding": "2.4.57"
   },
   {
     "cpe23Uri": "cpe:2.3:a:openldap:openldap:*:*:*:*:*:*:*:*",
@@ -2193,18 +2196,9 @@
       },
       {
         "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.56:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.4.57"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:openldap:openldap:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.10:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.22:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:a:openldap:openldap:2.4.57:*:*:*:*:*:*:*"
       }
     ],
     "versionEndIncluding": "2.4.57"

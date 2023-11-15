@@ -585,9 +585,12 @@
       },
       {
         "cpe23Uri": "cpe:2.3:a:libssh:libssh:0.9.4:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:libssh:libssh:0.9.6:*:*:*:*:*:*:*"
       }
     ],
-    "versionEndExcluding": "0.9.6",
+    "versionEndIncluding": "0.9.6",
     "versionStartIncluding": "0.9.1"
   },
   {
@@ -604,12 +607,9 @@
       },
       {
         "cpe23Uri": "cpe:2.3:a:libssh:libssh:0.9.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:libssh:libssh:0.9.6:*:*:*:*:*:*:*"
       }
     ],
-    "versionEndIncluding": "0.9.6",
+    "versionEndExcluding": "0.9.6",
     "versionStartIncluding": "0.9.1"
   },
   {
