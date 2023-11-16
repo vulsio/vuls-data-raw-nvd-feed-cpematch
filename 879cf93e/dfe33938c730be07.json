@@ -1,7 +1,26 @@
 [
   {
     "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [],
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.1:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.2:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.4:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.5.0:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.5.1:*:*:*:*:wordpress:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:a:topcode:simple_table_manager:1.5.6:*:*:*:*:wordpress:*:*"
+      }
+    ],
     "versionEndIncluding": "1.5.6"
   }
 ]

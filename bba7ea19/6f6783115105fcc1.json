@@ -69,13 +69,58 @@
     "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
     "cpe_name": [
       {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "13.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "13.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.2:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "13.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:-:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
       },
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.2:*:*:*:*:*:*:*"
@@ -109,15 +154,6 @@
       },
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.2:*:*:*:*:*:*:*"
       },
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.3:*:*:*:*:*:*:*"
@@ -127,30 +163,6 @@
       }
     ],
     "versionEndIncluding": "13.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "13.2"
   },
   {
     "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
@@ -1773,30 +1785,6 @@
         "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.3:*:*:*:*:*:*:*"
-      },
-      {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.3.1:*:*:*:*:*:*:*"
       },
       {
@@ -1860,26 +1848,35 @@
     "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
     "cpe_name": [
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:-:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.1:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.1:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.2:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.3:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.3:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.2:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.3:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2.2:*:*:*:*:*:*:*"
       },
       {
-        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.2.3:*:*:*:*:*:*:*"
       },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:13.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndIncluding": "15.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+    "cpe_name": [
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.1:*:*:*:*:*:*:*"
       },
@@ -1903,6 +1900,33 @@
       },
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.3:*:*:*:*:*:*:*"
+      }
+    ],
+    "versionEndExcluding": "15.2"
+  },
+  {
+    "cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
+    "cpe_name": [
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:-:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.1:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.1.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.2:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.3:*:*:*:*:*:*:*"
+      },
+      {
+        "cpe23Uri": "cpe:2.3:o:apple:ipados:12.4:*:*:*:*:*:*:*"
       },
       {
         "cpe23Uri": "cpe:2.3:o:apple:ipados:13.3.1:*:*:*:*:*:*:*"
