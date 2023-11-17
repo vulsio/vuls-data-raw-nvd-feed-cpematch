@@ -1,42 +1,42 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h62:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "10-h62"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h62:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h80:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "10-h81"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h80:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h81:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "10-h81",
-    "versionStartIncluding": "10-h76"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h62:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10-h62"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h62:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h80:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10-h81"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h80:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magnicomp:sysinfo:10-h81:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10-h81",
+		"versionStartIncluding": "10-h76"
+	}
 ]

@@ -1,39 +1,39 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "1.4.8.06"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.8.06:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.9.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "2.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.8.06:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "1.4.9.4",
-    "versionStartIncluding": "1.4.7.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.4.8.06"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.8.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.9.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:esw2-550x-48dc_firmware:1.4.8.06:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.4.9.4",
+		"versionStartIncluding": "1.4.7.0"
+	}
 ]

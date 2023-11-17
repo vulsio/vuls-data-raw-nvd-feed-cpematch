@@ -1,36 +1,36 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "1.9.5.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:2.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.2",
-    "versionStartIncluding": "2.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:1.9.5.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.9.5.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:kernel-patch-vserver:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2",
+		"versionStartIncluding": "2.0"
+	}
 ]

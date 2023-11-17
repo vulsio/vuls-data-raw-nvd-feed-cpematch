@@ -1,28 +1,28 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:oracle:database_server:*:*:*:*:enterprise:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:enterprise:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:database_server:19.20:*:*:*:enterprise:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "19.20",
-    "versionStartIncluding": "19.3"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:oracle:database_server:*:*:*:*:enterprise:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:database_server:21.3:*:*:*:enterprise:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:database_server:21.11:*:*:*:enterprise:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "21.11",
-    "versionStartIncluding": "21.3"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:database_server:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:database_server:19.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:database_server:19.20:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "19.20",
+		"versionStartIncluding": "19.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:database_server:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:database_server:21.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:database_server:21.11:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.11",
+		"versionStartIncluding": "21.3"
+	}
 ]

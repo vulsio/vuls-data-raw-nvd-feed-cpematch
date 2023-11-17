@@ -1,32 +1,32 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vmware_vsphere:*:*"
-      }
-    ],
-    "versionEndExcluding": "9.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vmware_vsphere:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
-      }
-    ],
-    "versionStartIncluding": "9.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
-      }
-    ],
-    "versionStartIncluding": "9.5"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vmware_vsphere:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vmware_vsphere:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+			}
+		],
+		"versionStartIncluding": "9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:*:*:*:*:*:vmware_vsphere:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:oncommand_unified_manager:9.5:*:*:*:*:vmware_vsphere:*:*"
+			}
+		],
+		"versionStartIncluding": "9.5"
+	}
 ]

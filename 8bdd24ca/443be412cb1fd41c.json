@@ -1,28 +1,28 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "19.3.12"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:19.3.12:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.3"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:19.3.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:oracle:nosql_database:20.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "21.1.12"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "19.3.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:19.3.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:19.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:nosql_database:20.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1.12"
+	}
 ]

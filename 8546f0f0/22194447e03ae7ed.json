@@ -1,7 +1,16 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:tagdiv:tagdiv_composer:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "4.2"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:tagdiv:tagdiv_composer:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "4.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tagdiv:tagdiv_composer:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tagdiv:tagdiv_composer:4.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.4"
+	}
 ]

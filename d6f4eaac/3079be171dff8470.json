@@ -1,37 +1,37 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.6.1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.6.0",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.6.0",
-    "versionStartIncluding": "5.1.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.6.0",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openmicroscopy:omero.server:5.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.6.0",
+		"versionStartIncluding": "5.1.0"
+	}
 ]

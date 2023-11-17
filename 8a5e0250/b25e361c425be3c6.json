@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "ethernet_r07"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:ethernet_r07:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "wlan_r05"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "ethernet_r07"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:vzug:combi-stream_mslq_firmware:ethernet_r07:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "wlan_r05"
+	}
 ]

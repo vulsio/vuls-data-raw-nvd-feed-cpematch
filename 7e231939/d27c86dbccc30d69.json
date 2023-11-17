@@ -1,27 +1,27 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "14.1.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:15.0.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "15.2.0",
-    "versionStartIncluding": "15.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:16.0.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "16.1.0",
-    "versionStartIncluding": "16.0.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:15.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.2.0",
+		"versionStartIncluding": "15.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:openstack-cinder:16.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.1.0",
+		"versionStartIncluding": "16.0.0"
+	}
 ]

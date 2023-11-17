@@ -1,50 +1,50 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:3.0.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "3.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.4:p1:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "4.0.4",
-    "versionStartIncluding": "4.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.0.4",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.1.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.1.2",
-    "versionStartIncluding": "5.1.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:3.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:4.0.4:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.0.4",
+		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.4",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rubrik:cdm:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rubrik:cdm:5.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1.2",
+		"versionStartIncluding": "5.1.0"
+	}
 ]

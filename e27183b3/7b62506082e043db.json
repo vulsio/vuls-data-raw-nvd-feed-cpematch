@@ -1,29 +1,41 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "m1wkt37a"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "m1wkt45a"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "m1wkt50a"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m1wkt37a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m1wkt45a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m1wkt50a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:thinkcentre_m625q_firmware:m1wkt50a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m1wkt52a"
+	}
 ]

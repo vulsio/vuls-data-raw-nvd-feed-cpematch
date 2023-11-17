@@ -1,67 +1,67 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "3.6.9"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.7.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "3.7.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "3.6.10",
-    "versionStartIncluding": "3.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:debian:debmake:3.7.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "3.7.7",
-    "versionStartIncluding": "3.7"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.6.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.7.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.6.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.6.10",
+		"versionStartIncluding": "3.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:debian:debmake:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:debmake:3.7.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.7.7",
+		"versionStartIncluding": "3.7"
+	}
 ]

@@ -1,129 +1,129 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "202007-1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "202102-2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202106-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202107-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202108-1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "202108-1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202106-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202107-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202108-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202109-1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "202202-1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202207-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202207-2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202209-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202209-2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202210-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202211-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202212-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202212-2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202301-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202301-2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202302-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202303-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202304-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202305-1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202305-2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "202306-1",
-    "versionStartIncluding": "202207-1"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "202007-1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "202102-2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202106-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202107-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202108-1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "202108-1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202007-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202106-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202107-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202108-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202109-1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "202202-1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202207-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202207-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202208-3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202209-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202209-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202210-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202211-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202212-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202212-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202301-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202301-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202302-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202303-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202304-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202305-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:terraform_enterprise:202305-2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "202306-1",
+		"versionStartIncluding": "202207-1"
+	}
 ]

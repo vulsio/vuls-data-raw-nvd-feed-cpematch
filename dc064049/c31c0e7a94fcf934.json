@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vsphere:*:*"
-      }
-    ],
-    "versionEndExcluding": "9.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vsphere:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vsphere:*:*"
-      }
-    ],
-    "versionStartIncluding": "9.5"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:vsphere:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:vsphere:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.5:*:*:*:*:vsphere:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:vsphere:*:*"
+			}
+		],
+		"versionStartIncluding": "9.5"
+	}
 ]

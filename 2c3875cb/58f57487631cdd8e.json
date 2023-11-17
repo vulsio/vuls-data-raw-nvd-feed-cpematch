@@ -1,50 +1,50 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58.15:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:13.0-61.48:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "21.9.1.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndIncluding": "12.1-58",
-    "versionStartIncluding": "12.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58.15:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndIncluding": "12.1-58.15",
-    "versionStartIncluding": "12.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:13.0-61.48:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndIncluding": "13.0-61.48",
-    "versionStartIncluding": "13.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58.15:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:13.0-61.48:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "21.9.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1-58",
+		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:12.1-58.15:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1-58.15",
+		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:gateway_plug-in:13.0-61.48:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndIncluding": "13.0-61.48",
+		"versionStartIncluding": "13.0"
+	}
 ]

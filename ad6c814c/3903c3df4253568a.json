@@ -1,34 +1,34 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "16.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "16.0.1227",
-    "versionStartIncluding": "16.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0.1227:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "16.0.1249",
-    "versionStartIncluding": "16.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "16.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.1227",
+		"versionStartIncluding": "16.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:antivirus\\+_security_2020:16.0.1227:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.1249",
+		"versionStartIncluding": "16.0"
+	}
 ]

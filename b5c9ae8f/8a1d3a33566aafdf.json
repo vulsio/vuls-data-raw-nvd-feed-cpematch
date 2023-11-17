@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "xcp2361"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:xcp2361:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "xcp3070"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "xcp2361"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:oracle:fujitsu_m10-4_firmware:xcp2361:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "xcp3070"
+	}
 ]

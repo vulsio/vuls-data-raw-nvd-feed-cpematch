@@ -1,26 +1,26 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:mysql:community_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.41:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.0.41"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:mysql:community_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.41:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.44:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.45:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.0.50"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:mysql:community_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.41:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.41"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mysql:community_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.41:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mysql:community_server:5.0.45:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.50"
+	}
 ]

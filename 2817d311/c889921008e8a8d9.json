@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2019:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2022"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2019:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2022:-:*:*:*:*:*:*"
-      }
-    ],
-    "versionStartIncluding": "2019"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2019:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2022"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2019:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_process_historian_opc_ua_server_firmware:2022:-:*:*:*:*:*:*"
+			}
+		],
+		"versionStartIncluding": "2019"
+	}
 ]

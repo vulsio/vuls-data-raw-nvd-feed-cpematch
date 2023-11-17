@@ -1,46 +1,46 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:-:*:*:*:*:windows_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.3.12008.0:*:*:*:*:windows_server:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.0.12013.0",
-    "versionStartIncluding": "6.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.3.12006.0",
-    "versionStartIncluding": "7.0.12014.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:-:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.3.12008.0:*:*:*:*:windows_server:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.12013.0",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:file_security:*:*:*:*:*:windows_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.0.12014.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:file_security:7.2:*:*:*:*:windows_server:*:*"
+			}
+		],
+		"versionEndIncluding": "7.3.12006.0",
+		"versionStartIncluding": "7.0.12014.0"
+	}
 ]

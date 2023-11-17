@@ -1,21 +1,21 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:amazon:opensearch:*:*:*:*:*:maven:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:amazon:opensearch:-:*:*:*:*:maven:*:*"
-      }
-    ],
-    "versionEndExcluding": "1.3.14.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:amazon:opensearch:*:*:*:*:*:maven:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:amazon:opensearch:2.0.0:*:*:*:*:maven:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.11.0.0",
-    "versionStartIncluding": "2.0.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:amazon:opensearch:*:*:*:*:*:maven:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amazon:opensearch:-:*:*:*:*:maven:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:amazon:opensearch:*:*:*:*:*:maven:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amazon:opensearch:2.0.0:*:*:*:*:maven:*:*"
+			}
+		],
+		"versionEndExcluding": "2.11.0.0",
+		"versionStartIncluding": "2.0.0"
+	}
 ]

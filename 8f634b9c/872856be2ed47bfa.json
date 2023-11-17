@@ -1,7 +1,26 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:sfu:customlocale:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "1.2.0-1"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:sfu:customlocale:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:1.0.1-0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:1.1.0-0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:1.1.1-0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:1.1.1-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sfu:customlocale:1.2.0-0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.2.0-1"
+	}
 ]

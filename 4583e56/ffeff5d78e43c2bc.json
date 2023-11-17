@@ -1,23 +1,35 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "m3gkt3aa"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:m3gkt3aa:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "m3gkt33a"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m3gkt3aa"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:m3gkt3aa:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m3gkt3da"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:lenovo:v50t-13iob_g2_firmware:m3gkt3aa:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "m3gkt33a"
+	}
 ]

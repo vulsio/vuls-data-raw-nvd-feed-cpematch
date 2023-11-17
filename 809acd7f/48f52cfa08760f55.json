@@ -1,2527 +1,2548 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "4.8.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "4.8.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.4.3"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.12"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.13.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.16"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.0.7",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.0.7",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.5.4",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.15.0",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.16.2",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.16.2",
-    "versionStartIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.1.6",
-    "versionStartIncluding": "5.1.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.1.6",
-    "versionStartIncluding": "5.1.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.2.7",
-    "versionStartIncluding": "5.2.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.2.7",
-    "versionStartIncluding": "5.2.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.3.7",
-    "versionStartIncluding": "5.3.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.3.10",
-    "versionStartIncluding": "5.3.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.4.3",
-    "versionStartIncluding": "5.4.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.4.6",
-    "versionStartIncluding": "5.4.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.4.10",
-    "versionStartIncluding": "5.4.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.5.6",
-    "versionStartIncluding": "5.5.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.6.1",
-    "versionStartIncluding": "5.6.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.6.1",
-    "versionStartIncluding": "5.6.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.7.1",
-    "versionStartIncluding": "5.7.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.7.5",
-    "versionStartIncluding": "5.7.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.8.3",
-    "versionStartIncluding": "5.8.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.9.1",
-    "versionStartIncluding": "5.9.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.14.4",
-    "versionStartIncluding": "5.14.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.15.1",
-    "versionStartIncluding": "5.15.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "6.1.0",
-    "versionStartIncluding": "6.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "6.3.4",
-    "versionStartIncluding": "6.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.1.4",
-    "versionStartIncluding": "7.1.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.2.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.2.4",
-    "versionStartIncluding": "7.2.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.3.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.3.4",
-    "versionStartIncluding": "7.3.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.8.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.8.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.4.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.13.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.0:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.1:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.2:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.3:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.4:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:3.7.5:*:free:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:4.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.16"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.5.4",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.15.0",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.16.2",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.16.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.16.2",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.1.6",
+		"versionStartIncluding": "5.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1.6",
+		"versionStartIncluding": "5.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.1.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.1.6",
+		"versionStartIncluding": "5.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.7",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.7",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.3.7",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.3.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.3.10",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.4.3",
+		"versionStartIncluding": "5.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.4.6",
+		"versionStartIncluding": "5.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.4.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.4.10",
+		"versionStartIncluding": "5.4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.5.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.5.6",
+		"versionStartIncluding": "5.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.6.1",
+		"versionStartIncluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.6.1",
+		"versionStartIncluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.7.1",
+		"versionStartIncluding": "5.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.7.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.7.5",
+		"versionStartIncluding": "5.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.8.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.8.3",
+		"versionStartIncluding": "5.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.9.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.9.1",
+		"versionStartIncluding": "5.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.14.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.14.4",
+		"versionStartIncluding": "5.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.15.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.15.1",
+		"versionStartIncluding": "5.15.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.1.0",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:6.3.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.3.4",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.1.4",
+		"versionStartIncluding": "7.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.4",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:7.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.3.4",
+		"versionStartIncluding": "7.3.0"
+	}
 ]

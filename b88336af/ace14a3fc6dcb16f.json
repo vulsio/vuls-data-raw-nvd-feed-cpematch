@@ -1,40 +1,40 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.5.0:*:*:*:*:*:*:*"
-      }
-    ]
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "3.0.3"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "4.4.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.5.0:*:*:*:*:*:*:*"
+			}
+		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.0.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_firmware:4.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.4.0"
+	}
 ]

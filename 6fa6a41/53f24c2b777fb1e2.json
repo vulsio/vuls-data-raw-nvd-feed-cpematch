@@ -1,61 +1,61 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.5.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.5.9"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.9:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.5.13.21586"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.0.1.21160:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.1.5",
-    "versionStartIncluding": "8.0.1.21160"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.0.1.21160:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.1.5:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.1.7.21585",
-    "versionStartIncluding": "8.0.1.21160"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "7.5.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "7.5.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:7.5.9:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "7.5.13.21586"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.0.1.21160:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "8.1.5",
+		"versionStartIncluding": "8.0.1.21160"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.0.1.21160:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_endpoint:8.1.5:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "8.1.7.21585",
+		"versionStartIncluding": "8.0.1.21160"
+	}
 ]

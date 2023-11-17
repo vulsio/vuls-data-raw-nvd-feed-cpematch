@@ -1,34 +1,34 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:vmware:remote_console:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.0:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.1:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.2:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.3:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.4:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "10.0.5",
-    "versionStartIncluding": "10.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:vmware:remote_console:*:*:*:*:*:windows:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:vmware:remote_console:12.0.0:*:*:*:*:windows:*:*"
-      }
-    ],
-    "versionEndExcluding": "12.0.1",
-    "versionStartIncluding": "12.0.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:remote_console:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:10.0.4:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.5",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:remote_console:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:remote_console:12.0.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "12.0.1",
+		"versionStartIncluding": "12.0.0"
+	}
 ]

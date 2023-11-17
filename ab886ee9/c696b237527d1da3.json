@@ -1,36 +1,36 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndExcluding": "295.53"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndIncluding": "352.09"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndIncluding": "295.53",
-    "versionStartIncluding": "295.49"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "295.53"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndIncluding": "352.09"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.49:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndIncluding": "295.53",
+		"versionStartIncluding": "295.49"
+	}
 ]

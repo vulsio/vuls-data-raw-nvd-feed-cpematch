@@ -1,35 +1,35 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:12.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "12.1-65.25",
-    "versionStartIncluding": "12.1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "13.0-58.30",
-    "versionStartIncluding": "13.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0-58.30:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "13.0-58.32",
-    "versionStartIncluding": "13.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:12.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1-65.25",
+		"versionStartIncluding": "12.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.0-58.30",
+		"versionStartIncluding": "13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:citrix:gateway_firmware:13.0-58.30:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.0-58.32",
+		"versionStartIncluding": "13.0"
+	}
 ]

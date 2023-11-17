@@ -1,629 +1,601 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.0.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.302:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.303:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.31:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.097:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.099:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.929:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.3.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.4.2",
-    "versionStartIncluding": "18.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "19.2.3",
-    "versionStartIncluding": "19.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "20.1.1",
-    "versionStartIncluding": "20.1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.3.1",
-    "versionStartIncluding": "20.3"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.4.1",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "20.4.2",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.6.1",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.45:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.46:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.47:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.0.21:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.11:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.9.3",
-    "versionStartIncluding": "20.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.5.1",
-    "versionStartIncluding": "20.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "20.5.1",
-    "versionStartIncluding": "20.5.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.6.1",
-    "versionStartIncluding": "20.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.2:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.6.3",
-    "versionStartIncluding": "20.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.0.21:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.6.4.2",
-    "versionStartIncluding": "20.6.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.10:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.11:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.13:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.4:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.6.5.5",
-    "versionStartIncluding": "20.6.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.7.2",
-    "versionStartIncluding": "20.7"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.9.1",
-    "versionStartIncluding": "20.7"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.9.3.2",
-    "versionStartIncluding": "20.7"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.11:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "20.11.1.2",
-    "versionStartIncluding": "20.11"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.302:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:18.4.303:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.097:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.099:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.929:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.4.2",
+		"versionStartIncluding": "18.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:19.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "19.2.3",
+		"versionStartIncluding": "19.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "20.1.1",
+		"versionStartIncluding": "20.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.3.1",
+		"versionStartIncluding": "20.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.4.1",
+		"versionStartIncluding": "20.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.4.2",
+		"versionStartIncluding": "20.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.4.2",
+		"versionStartIncluding": "20.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.6.1",
+		"versionStartIncluding": "20.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.45:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.46:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.0.47:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.0.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.9.3",
+		"versionStartIncluding": "20.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.5.1",
+		"versionStartIncluding": "20.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "20.5.1",
+		"versionStartIncluding": "20.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.6.1",
+		"versionStartIncluding": "20.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.6.3",
+		"versionStartIncluding": "20.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.0.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.6.4.2",
+		"versionStartIncluding": "20.6.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.5.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.6.5.5",
+		"versionStartIncluding": "20.6.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.7.2",
+		"versionStartIncluding": "20.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.9.1",
+		"versionStartIncluding": "20.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.9.3.2",
+		"versionStartIncluding": "20.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.11.1.2",
+		"versionStartIncluding": "20.11"
+	}
 ]

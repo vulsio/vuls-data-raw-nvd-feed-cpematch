@@ -1,26 +1,26 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.1.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "2.4.1"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:2.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:somachine_hvac:2.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.4.1"
+	}
 ]

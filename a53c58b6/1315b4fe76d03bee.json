@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "comboam4_pi_v1_1.0.0.a"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:comboam4_pi_v1_1.0.0.a:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "comboam4v2_pi_1.2.0.a"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "comboam4_pi_v1_1.0.0.a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_3850x_firmware:comboam4_pi_v1_1.0.0.a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "comboam4v2_pi_1.2.0.a"
+	}
 ]

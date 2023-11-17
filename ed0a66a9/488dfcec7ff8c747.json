@@ -1,61 +1,61 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "4.12.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "4.13.4"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.4:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "4.13.6",
-    "versionStartIncluding": "4.3.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "4.13.4",
-    "versionStartIncluding": "4.13"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "4.14.3",
-    "versionStartIncluding": "4.14.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "4.15.3",
-    "versionStartIncluding": "4.15.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.12.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.13.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.12.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.13.6",
+		"versionStartIncluding": "4.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:knime:knime_server:4.13.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.13.4",
+		"versionStartIncluding": "4.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "4.14.3",
+		"versionStartIncluding": "4.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:knime:knime_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "4.15.3",
+		"versionStartIncluding": "4.15.0"
+	}
 ]

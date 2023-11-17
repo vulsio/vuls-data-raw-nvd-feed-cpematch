@@ -1,38 +1,38 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix1:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix2:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix4:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix5:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix6:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "2.0.9"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.0.9"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ui:edgemax_edgerouter_firmware:2.0.9:hotfix6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.9"
+	}
 ]

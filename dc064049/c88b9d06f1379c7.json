@@ -1,62 +1,62 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndExcluding": "9.6"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndExcluding": "9.10"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:linux:*:*"
-      }
-    ],
-    "versionEndExcluding": "9.11p1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:linux:*:*"
-      }
-    ],
-    "versionStartIncluding": "7.3"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "9.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "9.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:-:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "9.11p1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:7.3:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.6:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:active_iq_unified_manager:9.10:-:*:*:*:linux:*:*"
+			}
+		],
+		"versionStartIncluding": "7.3"
+	}
 ]

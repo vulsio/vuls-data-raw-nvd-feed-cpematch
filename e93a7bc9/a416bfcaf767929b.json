@@ -1,1400 +1,1400 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.99:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:362.77:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:365.19:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.44:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.54:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.39:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.69:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.81:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:370.23:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:373.06:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390.141:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:392.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:418:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:427.11:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450.102.04:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:452.77:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460.32.03:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:461.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r21.2:*:*:*:*:linux_kernel:tegra:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r39:*:*:*:*:chrome_os:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r304.125:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r331.00:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r331.112:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r340.00:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r340.65:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r343.00:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r343.36:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r346.00:*:*:*:*:linux_kernel:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r346.22:*:*:*:*:linux_kernel:*:*"
-      }
-    ]
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "352.30"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.99:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "362.00"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "304.125",
-    "versionStartIncluding": "304"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "304.131",
-    "versionStartIncluding": "304"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "331.113",
-    "versionStartIncluding": "331"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "334.21",
-    "versionStartIncluding": "334"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "337.25",
-    "versionStartIncluding": "337"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "340.76",
-    "versionStartIncluding": "340"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "340.96",
-    "versionStartIncluding": "340"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "341.92",
-    "versionStartIncluding": "340"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "341.96",
-    "versionStartIncluding": "340"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "342.00",
-    "versionStartIncluding": "340"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "343.36",
-    "versionStartIncluding": "343"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "346.72",
-    "versionStartIncluding": "346"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "349.16",
-    "versionStartIncluding": "349"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "352.09",
-    "versionStartIncluding": "352"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "352.63",
-    "versionStartIncluding": "352"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "354.35",
-    "versionStartIncluding": "352"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "354.35",
-    "versionStartIncluding": "352"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "354.99",
-    "versionStartIncluding": "352.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "358.16",
-    "versionStartIncluding": "358"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "358.87",
-    "versionStartIncluding": "358"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "358.87",
-    "versionStartIncluding": "358"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "362.77",
-    "versionStartIncluding": "361"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.44:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.54:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "368.39",
-    "versionStartIncluding": "367"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "375.63",
-    "versionStartIncluding": "375"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "390.141",
-    "versionStartIncluding": "390"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390.141:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "392.63",
-    "versionStartIncluding": "390"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:418:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "427.11",
-    "versionStartIncluding": "418"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "450.102.04",
-    "versionStartIncluding": "450"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450.102.04:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "452.77",
-    "versionStartIncluding": "450"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "460.32.03",
-    "versionStartIncluding": "460"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460.32.03:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "461.09",
-    "versionStartIncluding": "460"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.99:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:362.77:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:365.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.54:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.69:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:368.81:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:370.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:373.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390.141:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:392.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:418:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:427.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450.102.04:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:452.77:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460.32.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:461.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r21.2:*:*:*:*:linux_kernel:tegra:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r39:*:*:*:*:chrome_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r304.125:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r331.00:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r331.112:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r340.00:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r340.65:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r343.00:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r343.36:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r346.00:*:*:*:*:linux_kernel:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:r346.22:*:*:*:*:linux_kernel:*:*"
+			}
+		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "352.30"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:195.22:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.131:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:310.44:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:313.30:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:319.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:325.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.113:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:342.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.72:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.99:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "362.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "304.125",
+		"versionStartIncluding": "304"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.79:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:esx:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:freebsd:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:linux_kernel:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.88:-:*:*:sunos:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.123:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:304.125:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "304.131",
+		"versionStartIncluding": "304"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:unix:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:331.104:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "331.113",
+		"versionStartIncluding": "331"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:334.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "334.21",
+		"versionStartIncluding": "334"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:337.19:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "337.25",
+		"versionStartIncluding": "337"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "340.76",
+		"versionStartIncluding": "340"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "340.96",
+		"versionStartIncluding": "340"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "341.92",
+		"versionStartIncluding": "340"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "341.96",
+		"versionStartIncluding": "340"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.65:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.76:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:340.98:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.96:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:341.98:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "342.00",
+		"versionStartIncluding": "340"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:343.22:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "343.36",
+		"versionStartIncluding": "343"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:346.59:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "346.72",
+		"versionStartIncluding": "346"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:349.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "349.16",
+		"versionStartIncluding": "349"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "352.09",
+		"versionStartIncluding": "352"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "352.63",
+		"versionStartIncluding": "352"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "354.35",
+		"versionStartIncluding": "352"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "354.35",
+		"versionStartIncluding": "352"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "354.99",
+		"versionStartIncluding": "352.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "358.16",
+		"versionStartIncluding": "358"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "358.87",
+		"versionStartIncluding": "358"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "358.87",
+		"versionStartIncluding": "358"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.91:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:361.93.02:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "362.77",
+		"versionStartIncluding": "361"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:367.54:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "368.39",
+		"versionStartIncluding": "367"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:375:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "375.63",
+		"versionStartIncluding": "375"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "390.141",
+		"versionStartIncluding": "390"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:390.141:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "392.63",
+		"versionStartIncluding": "390"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:418:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "427.11",
+		"versionStartIncluding": "418"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "450.102.04",
+		"versionStartIncluding": "450"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:450.102.04:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "452.77",
+		"versionStartIncluding": "450"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "460.32.03",
+		"versionStartIncluding": "460"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:460.32.03:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "461.09",
+		"versionStartIncluding": "460"
+	}
 ]

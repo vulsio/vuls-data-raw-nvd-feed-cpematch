@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "e2010480"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "fw600"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "e2010480"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:optane_ssd_900p_firmware:e2010480:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "fw600"
+	}
 ]

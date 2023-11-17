@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:intel:openbmc:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "egs-0.91-179"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:intel:openbmc:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "wht-1.01-61_0.72"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:intel:openbmc:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "egs-0.91-179"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:intel:openbmc:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:openbmc:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "wht-1.01-61_0.72"
+	}
 ]

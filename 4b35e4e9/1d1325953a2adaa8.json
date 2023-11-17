@@ -1,7 +1,14 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:esiteq:wp_report_post:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [],
-    "versionEndIncluding": "2.1.2"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:esiteq:wp_report_post:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:esiteq:wp_report_post:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esiteq:wp_report_post:2.1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.2"
+	}
 ]

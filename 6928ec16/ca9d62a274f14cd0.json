@@ -1,30 +1,30 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.40:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "1.2.40"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.40:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.48:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "1.2.49",
-    "versionStartIncluding": "1.2.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.40:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.2.40"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat_connectors:1.2.48:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.2.49",
+		"versionStartIncluding": "1.2.0"
+	}
 ]

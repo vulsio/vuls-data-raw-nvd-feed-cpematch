@@ -1,62 +1,62 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:-:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
-      }
-    ],
-    "versionEndIncluding": "7.2"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.3.10014.0:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10012.0:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10018.0:*:*:*:*:exchange_server:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.0.10020.0",
-    "versionStartIncluding": "6.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.3.10014.0",
-    "versionStartIncluding": "7.0.10019"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10012.0:*:*:*:*:exchange_server:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.0.10018.0",
-    "versionStartIncluding": "8.0.10012.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:-:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.3.10014.0:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10012.0:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10018.0:*:*:*:*:exchange_server:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.10020.0",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.0.10019:*:*:*:*:exchange_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:7.2:*:*:*:*:exchange_server:*:*"
+			}
+		],
+		"versionEndExcluding": "7.3.10014.0",
+		"versionStartIncluding": "7.0.10019"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:mail_security:*:*:*:*:*:exchange_server:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:mail_security:8.0.10012.0:*:*:*:*:exchange_server:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.10018.0",
+		"versionStartIncluding": "8.0.10012.0"
+	}
 ]

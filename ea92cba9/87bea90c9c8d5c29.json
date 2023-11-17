@@ -1,39 +1,39 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:4.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "4.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:4.5:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.9:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:v4.5:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "v4.5"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "6.0.9",
-    "versionStartIncluding": "6.0.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:v4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "v4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-400h_firmware:6.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.9",
+		"versionStartIncluding": "6.0.0"
+	}
 ]

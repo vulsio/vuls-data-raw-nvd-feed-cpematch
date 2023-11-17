@@ -1,34 +1,34 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.4.0-00:*:*:*:advanced:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.6.2-00:*:*:*:advanced:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "8.6.2-00",
-    "versionStartIncluding": "8.4.0-00"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.4.0-00:*:*:*:advanced:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.6.2-00",
-    "versionStartIncluding": "8.4.0-00"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.6.2-01:*:*:*:advanced:*:*:*"
-      }
-    ],
-    "versionStartIncluding": "8.6.2-01"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.4.0-00:*:*:*:advanced:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.6.2-00",
+		"versionStartIncluding": "8.4.0-00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.4.0-00:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.6.2-00:*:*:*:advanced:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.6.2-00",
+		"versionStartIncluding": "8.4.0-00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:*:*:*:*:advanced:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:xp_p9000_command_view:8.6.2-01:*:*:*:advanced:*:*:*"
+			}
+		],
+		"versionStartIncluding": "8.6.2-01"
+	}
 ]

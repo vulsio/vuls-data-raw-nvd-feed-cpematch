@@ -1,37 +1,37 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:5.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:7.1.1-r2021-09:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.3.1-r2022-09-rt"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:5.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "7.1.1-r2021-09",
-    "versionStartIncluding": "5.1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:talend:esb_runtime:8.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "8.0.1-r2022-10-rt",
-    "versionStartIncluding": "8.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:7.1.1-r2021-09:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.3.1-r2022-09-rt"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.1-r2021-09",
+		"versionStartIncluding": "5.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:talend:esb_runtime:8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.1-r2022-10-rt",
+		"versionStartIncluding": "8.0"
+	}
 ]

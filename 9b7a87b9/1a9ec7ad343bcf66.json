@@ -1,35 +1,35 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
-      }
-    ],
-    "versionEndIncluding": "1.9.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:2.0.0:*:*:*:*:wordpress:*:*"
-      }
-    ],
-    "versionEndIncluding": "2.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:2.0.0:*:*:*:*:wordpress:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.0.3"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:2.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:1.9.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce_pre-orders:2.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.3"
+	}
 ]

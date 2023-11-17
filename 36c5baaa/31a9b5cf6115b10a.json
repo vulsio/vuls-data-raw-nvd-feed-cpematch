@@ -1,38 +1,38 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.1"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:2.1:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "2.9.7"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:2.1:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:20.8:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "20.8"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.9.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_software_controller_firmware:20.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.8"
+	}
 ]

@@ -1,23 +1,23 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.0.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndIncluding": "5.0.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.0.0:*:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.1.0:*:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "5.4.1"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_x200irt_firmware:5.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.4.1"
+	}
 ]

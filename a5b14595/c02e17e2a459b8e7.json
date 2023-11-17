@@ -1,27 +1,153 @@
 [
-  {
-    "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
-    "cpe_name": [
-      {
-        "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2585049:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2889656:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3049220:*:*:*:*:*:*"
-      },
-      {
-        "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3124193:*:*:*:*:*:*"
-      }
-    ],
-    "versionEndExcluding": "6.6.0.2585049",
-    "versionStartIncluding": "6.6.0"
-  },
-  {
-    "cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
-    "cpe_name": [],
-    "versionEndExcluding": "6.10.0.185964",
-    "versionStartIncluding": "6.10.0"
-  }
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:70066:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:73387:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:75211:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:78518:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:5.5.0:94592:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.1:81077:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.2:90947:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.2:93351:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.2:94597:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.0.2:97682:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:1016923:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:1031903:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:1077664:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:1209934:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:1271079:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.1.0:848144:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1271082:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1321594:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1473927:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1578666:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1822745:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:1958888:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.2.0:2392875:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.5.0:2102531:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.5.0:2410815:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.5.0:2583817:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2585049:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2889656:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3049220:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3124193:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.8.0:176620:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.8.0:3261002:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.9.0:130766:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.9.0:177754:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2585049:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:2889656:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3049220:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.6.0:3124193:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.6.0.2585049",
+		"versionStartIncluding": "6.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "6.10.0.185964",
+		"versionStartIncluding": "6.10.0"
+	}
 ]
