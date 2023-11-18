@@ -5332,9 +5332,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.1:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.2:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.3.2"
+		"versionEndIncluding": "1.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:superset:*:*:*:*:*:*:*:*",
@@ -5917,15 +5923,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:superset:1.3.2:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.2"
+		"versionEndExcluding": "1.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:superset:*:*:*:*:*:*:*:*",

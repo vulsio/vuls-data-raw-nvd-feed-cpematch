@@ -7,13 +7,21 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:5.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.4.31",
 		"versionStartIncluding": "5.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:6.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.3.8",
 		"versionStartIncluding": "6.0.0"
 	}
