@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tigera:calico_cloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tigera:calico_cloud:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tigera:calico_cloud:17.1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "18.0.0"
 	}
 ]

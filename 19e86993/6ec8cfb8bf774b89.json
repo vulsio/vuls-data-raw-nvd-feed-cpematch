@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:*:*:*:*:*:netware:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:9.0.4019:*:*:*:*:netware:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:9.1.307:*:*:*:*:netware:*:*"
+			}
+		],
 		"versionEndIncluding": "9.1.307",
 		"versionStartIncluding": "9.0.4019"
 	}

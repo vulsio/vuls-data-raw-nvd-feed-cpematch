@@ -422,14 +422,245 @@
 		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:alpha:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:0.9.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-32:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:0.9.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:powerpc:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:arm:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:hppa:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mipsel:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:hppa:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-32:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ia-32:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-64:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ia-64:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:m68k:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:m68k:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:mips:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-64:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:m68k:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mips:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mips:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mipsel:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:mipsel:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:sparc:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:s-390:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:s-390:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:amd64:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:powerpc:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:sparc:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:hppa:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.1.8.8.p3-1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:0.9.3:*:*:*:*:*:*:*"
 			},
@@ -465,135 +696,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.1.8.8.p3-1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:0.9.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.2-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.3-3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.3-16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:alpha:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:amd64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:arm:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:hppa:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ia-32:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ia-64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:m68k:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:mips:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:mipsel:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:s-390:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:sparc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:alpha:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:amd64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:arm:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:hppa:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-32:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:m68k:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mips:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mipsel:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:powerpc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:s-390:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:sparc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:8.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:0.9.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0"
@@ -641,17 +767,26 @@
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.0.34:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:arm:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.1.8.8.p3-1.1:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:arm:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.3:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:amd64:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.2-1:*:*:*:*:*:*:*"
 			},
@@ -660,6 +795,84 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.3-16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:alpha:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:amd64:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:s-390:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:sparc:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:7.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:s-390:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:sparc:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:alpha:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.0:*:*:*:*:*:*:*"
@@ -672,6 +885,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.2-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.3-3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:2.5.3-16:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:alpha:*:*:*:*:*"
@@ -701,64 +932,10 @@
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:mipsel:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:s-390:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.1:*:sparc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:3.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:alpha:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:amd64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:arm:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:hppa:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-32:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:ia-64:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:m68k:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mips:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:mipsel:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:powerpc:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:s-390:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:4.0:*:sparc:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:5.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:6.0.14:*:*:*:*:*:*:*"
@@ -771,9 +948,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:debian:debian_linux:8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0"
+		"versionEndIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:debian:debian_linux:*:*:*:*:*:*:*:*",

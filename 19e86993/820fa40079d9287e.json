@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:*:*:*:*:*:windows_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:9.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:backup_exec:10.0:*:*:*:*:windows_server:*:*"
+			}
+		],
 		"versionEndIncluding": "10.0",
 		"versionStartIncluding": "9.0"
 	}

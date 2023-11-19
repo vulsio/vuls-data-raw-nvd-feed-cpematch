@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:spamreferrerblock_project:spamreferrerblock:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:spamreferrerblock_project:spamreferrerblock:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:spamreferrerblock_project:spamreferrerblock:2.22:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.22"
 	}
 ]
