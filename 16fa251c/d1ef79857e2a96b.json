@@ -42,6 +42,60 @@
 		"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:*:*:*:*:enterprise:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:-:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.6.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.10.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.12.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.12.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.12.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.15.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.15.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.15.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.15.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.15.5:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.16.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.17.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.18.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.18.1:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.18.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.6.0:*:*:*:enterprise:*:*:*"
 			},
 			{
@@ -180,5 +234,15 @@
 		],
 		"versionEndExcluding": "3.18.1",
 		"versionStartIncluding": "3.18.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:northern.tech:cfengine:3.21.1:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.21.3",
+		"versionStartIncluding": "3.19.0"
 	}
 ]

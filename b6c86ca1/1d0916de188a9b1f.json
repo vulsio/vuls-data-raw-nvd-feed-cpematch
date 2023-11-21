@@ -1,6 +1,15 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:grub:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:grub:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.97"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:grub:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "2.12",
 		"versionStartIncluding": "2.0"

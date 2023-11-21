@@ -43,5 +43,35 @@
 			}
 		],
 		"versionEndExcluding": "5.12.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoom:meetings:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:-:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:5.8.6:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:5.12.6:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "5.15.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoom:meetings:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:-:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:5.8.6:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:meetings:5.12.6:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "5.16.0"
 	}
 ]
