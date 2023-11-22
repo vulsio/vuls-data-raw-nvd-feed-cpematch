@@ -156,7 +156,26 @@
 				"cpe23Uri": "cpe:2.3:a:pivotal:reactor_netty:1.0.23:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "1.0.39",
+		"versionStartIncluding": "1.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:pivotal:reactor_netty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal:reactor_netty:1.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal:reactor_netty:1.0.23:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.23",
 		"versionStartIncluding": "1.0.11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:pivotal:reactor_netty:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "1.1.13",
+		"versionStartIncluding": "1.1.0"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:intel:server_board_m70klp2sb_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:server_board_m70klp2sb_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "01.04.0022"
 	}
 ]

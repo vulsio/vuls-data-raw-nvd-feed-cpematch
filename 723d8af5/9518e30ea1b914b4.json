@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ifeelweb:post_status_notifier_lite:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ifeelweb:post_status_notifier_lite:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10.1"
 	}
 ]
