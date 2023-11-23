@@ -1,13 +1,27 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:2.3.1:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:2.4.53:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndIncluding": "2.4.53",
 		"versionStartIncluding": "2.3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:2.5.2:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:activedesign:newsletterpop:2.6.0:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.6.1",
 		"versionStartIncluding": "2.5.2"
 	}

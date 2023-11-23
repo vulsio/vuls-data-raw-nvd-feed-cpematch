@@ -393,9 +393,6 @@
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.3.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -544,6 +541,15 @@
 			}
 		],
 		"versionEndExcluding": "8.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",

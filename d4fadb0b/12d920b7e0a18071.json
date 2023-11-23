@@ -565,12 +565,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openprinting:cups:2.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openprinting:cups:2.4.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.2"
+		"versionEndExcluding": "2.4.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openprinting:cups:*:*:*:*:*:*:*:*",
@@ -1138,9 +1135,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openprinting:cups:2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openprinting:cups:2.4.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.2"
+		"versionEndIncluding": "2.4.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openprinting:cups:*:*:*:*:*:*:*:*",

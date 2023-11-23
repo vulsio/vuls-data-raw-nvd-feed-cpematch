@@ -2307,12 +2307,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:nifi:1.21.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:nifi:1.22.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.22.0",
+		"versionEndExcluding": "1.22.0",
 		"versionStartIncluding": "0.0.2"
 	},
 	{
@@ -2746,9 +2743,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:nifi:1.21.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:nifi:1.22.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.22.0",
+		"versionEndIncluding": "1.22.0",
 		"versionStartIncluding": "0.0.2"
 	},
 	{

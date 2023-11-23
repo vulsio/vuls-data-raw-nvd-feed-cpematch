@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:paytm:payment_gateway:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paytm:payment_gateway:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paytm:payment_gateway:2.7.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paytm:payment_gateway:2.7.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.7.3"
 	}
 ]

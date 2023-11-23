@@ -135,9 +135,6 @@
 				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:8.0:update7:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:8.1:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:8.1:rev._160519:*:*:*:*:*:*"
 			},
 			{
@@ -349,6 +346,15 @@
 			}
 		],
 		"versionEndExcluding": "10.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:8.1:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:*:*:*:*:*:*:*:*",

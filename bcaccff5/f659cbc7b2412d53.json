@@ -114,13 +114,19 @@
 		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.9.4"
@@ -129,10 +135,25 @@
 		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.8:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.9.4"
@@ -158,6 +179,27 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:1.2.5:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.7.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:1.2.6:*:*:*:*:*:*:*"
 			},
@@ -187,7 +229,37 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.0.3:*:*:*:*:*:*:*"
 			},
@@ -213,28 +285,19 @@
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.7.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.4:*:*:*:*:*:*:*"
@@ -301,45 +364,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.2:*:*:*:*:*:*:*"
