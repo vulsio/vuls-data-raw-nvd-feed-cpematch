@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:20.08.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:20.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:21.05.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:21.08.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:21.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quickassist_technology_library:22.07.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "22.07.1"
 	}
 ]

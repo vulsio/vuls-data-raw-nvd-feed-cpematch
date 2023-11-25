@@ -1,7 +1,56 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "milanpi_1.0.0.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "milanpi_1.0.0.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.7:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "milanpi_1.0.0.a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:epyc_7303_firmware:milanpi_1.0.0.a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "milanpi_1.0.0.b"
 	}
 ]

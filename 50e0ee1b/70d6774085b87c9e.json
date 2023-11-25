@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:prestahero:ybc_blog:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:prestahero:ybc_blog:-:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "4.4.0"
 	}
 ]

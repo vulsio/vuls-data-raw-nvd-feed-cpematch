@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:smartmodules:facebookconversiontrackingplus:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:smartmodules:facebookconversiontrackingplus:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smartmodules:facebookconversiontrackingplus:2.4.8:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.4.9"
 	}
 ]

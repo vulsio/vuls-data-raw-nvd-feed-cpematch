@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:shoprunners:aftermail:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:shoprunners:aftermail:-:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.2.1"
 	}
 ]

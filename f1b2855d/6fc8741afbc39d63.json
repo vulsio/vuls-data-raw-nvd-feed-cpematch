@@ -1000,12 +1000,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:1.4.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:1.4.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.35"
+		"versionEndExcluding": "1.4.35"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:*:*:*:*:*:*:*:*",
@@ -1129,9 +1126,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:1.4.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:1.4.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.35"
+		"versionEndIncluding": "1.4.35"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lighttpd:lighttpd:*:*:*:*:*:*:*:*",

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:line:line:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:line:line:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:line:line:5.0.2:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.2"
 	}
 ]

@@ -248,41 +248,11 @@
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.1.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.1.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.1.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
 			},
@@ -308,7 +278,16 @@
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.1.1"
@@ -318,6 +297,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5:*:*:*:*:*:*:*"
@@ -348,24 +342,6 @@
 			}
 		],
 		"versionEndIncluding": "2.1.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
@@ -479,9 +455,6 @@
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -498,6 +471,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5.1:*:*:*:*:*:*:*"
@@ -539,52 +560,10 @@
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.0:*:*:*:*:*:*:*"
@@ -596,23 +575,14 @@
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.5:*:*:*:*:*:*:*"
 			},
@@ -626,16 +596,10 @@
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.1:*:*:*:*:*:*:*"
@@ -656,14 +620,86 @@
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.2:*:*:*:*:*:*:*"
 			},
@@ -686,34 +722,40 @@
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",

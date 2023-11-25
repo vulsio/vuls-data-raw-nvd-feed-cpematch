@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:shawfactor:lh-password-changer:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:shawfactor:lh-password-changer:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:shawfactor:lh-password-changer:1.55:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.55"
 	}
 ]

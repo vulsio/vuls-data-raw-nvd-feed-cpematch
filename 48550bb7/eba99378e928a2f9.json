@@ -49,6 +49,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2022.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2301.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2301.0003:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2306.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2306.0001:*:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -238,13 +250,21 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2301.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2301.0003",
 		"versionStartIncluding": "2301.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simcenter_femap:2306.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2306.0001",
 		"versionStartIncluding": "2306.0"
 	}

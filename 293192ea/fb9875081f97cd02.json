@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5500h_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5500h_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "cezannepi-fp6_1.0.0.c"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5500h_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5500h_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5500h_firmware:cezannepi-fp6_1.0.0.c:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "cezannepi-fp6_1.0.0.fa"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:palantir:tiles:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:palantir:tiles:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.326.0"
 	}
 ]

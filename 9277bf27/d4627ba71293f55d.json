@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:pingidentity:pingid_radius_pcv:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:pingidentity:pingid_radius_pcv:3.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.0.3",
 		"versionStartIncluding": "3.0.0"
 	}

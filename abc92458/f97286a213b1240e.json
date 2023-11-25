@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:hawk_distribution_for_tibco_silver_fabric:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:hawk_distribution_for_tibco_silver_fabric:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:hawk_distribution_for_tibco_silver_fabric:6.2.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.2.3"
 	}
 ]

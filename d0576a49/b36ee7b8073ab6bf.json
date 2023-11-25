@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ttsplanning:ttsplanning:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ttsplanning:ttsplanning:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ttsplanning:ttsplanning:20230925:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20230925"
 	}
 ]

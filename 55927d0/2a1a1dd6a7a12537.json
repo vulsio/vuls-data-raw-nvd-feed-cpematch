@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webshopworks:creativepopup:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webshopworks:creativepopup:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webshopworks:creativepopup:1.6.9:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.10"
 	}
 ]

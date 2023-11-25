@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:web-x:be_popia_compliant:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:web-x:be_popia_compliant:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:web-x:be_popia_compliant:1.1.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.5"
 	}
 ]

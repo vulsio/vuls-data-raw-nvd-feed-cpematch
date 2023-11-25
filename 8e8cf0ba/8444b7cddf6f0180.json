@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:pajip:lte-pic32-writer:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:pajip:lte-pic32-writer:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pajip:lte-pic32-writer:0.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pajip:lte-pic32-writer:0.0.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.0.3"
 	}
 ]

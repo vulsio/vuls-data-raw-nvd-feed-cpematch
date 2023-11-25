@@ -6,12 +6,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:unison_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:unison_software:20.14.2.3053:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "20.14.4244"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:unison_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:unison_software:20.14.2.3053:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:unison_software:20.14.4244:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "20.14.5683.0"
 	}
 ]

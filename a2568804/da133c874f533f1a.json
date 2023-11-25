@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tsplus:tsplus_remote_work:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tsplus:tsplus_remote_work:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tsplus:tsplus_remote_work:16.0.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "16.0.0.0"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:idnovate:superuser:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:idnovate:superuser:2.3.5:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.4.2",
 		"versionStartIncluding": "2.3.5"
 	}

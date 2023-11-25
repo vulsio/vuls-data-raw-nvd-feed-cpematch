@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpinventory:wp_inventory_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpinventory:wp_inventory_manager:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpinventory:wp_inventory_manager:2.1.0.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.1.0.12"
 	}
 ]

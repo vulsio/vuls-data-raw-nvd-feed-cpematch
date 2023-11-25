@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:9.0.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.2.881"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:realnetworks:helix_universal_server:9.0.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.4.958"
 	}
 ]

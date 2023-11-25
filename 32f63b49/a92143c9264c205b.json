@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:yettiesoft:vestcert:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yettiesoft:vestcert:2.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yettiesoft:vestcert:2.5.29:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.5.30",
 		"versionStartIncluding": "2.3.6"
 	}

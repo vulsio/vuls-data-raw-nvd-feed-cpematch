@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:snegurka:referralbyphone:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:snegurka:referralbyphone:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snegurka:referralbyphone:3.5.1:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndIncluding": "3.5.1"
 	}
 ]

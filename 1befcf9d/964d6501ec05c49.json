@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:line:line:*:*:*:*:*:iphone_os:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:line:line:5.0.0:*:*:*:*:iphone_os:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.0"
 	}
 ]

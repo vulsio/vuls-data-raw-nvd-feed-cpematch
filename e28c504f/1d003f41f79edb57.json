@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:x.org:xwayland:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:x.org:xwayland:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.2.2"
 	}
 ]

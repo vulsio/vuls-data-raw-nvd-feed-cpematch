@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:prointegra:uptimedc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:prointegra:uptimedc:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.0.33940"
 	}
 ]

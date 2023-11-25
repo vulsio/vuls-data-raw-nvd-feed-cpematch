@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ydb:ydb-go-sdk:*:*:*:*:*:go:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ydb:ydb-go-sdk:3.48.6:*:*:*:*:go:*:*"
+			}
+		],
 		"versionEndExcluding": "3.53.2",
 		"versionStartIncluding": "3.48.6"
 	}

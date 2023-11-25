@@ -146,7 +146,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xsoar:6.10.0:-:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.10.0.185964",
 		"versionStartIncluding": "6.10.0"
 	}

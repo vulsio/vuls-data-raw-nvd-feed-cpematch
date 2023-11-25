@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_patch_management:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_patch_management:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_patch_management:1054:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1055"
 	}
 ]
