@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:dell:command_\\|_monitor:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:command_\\|_monitor:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:command_\\|_monitor:10.9:*:*:*:*:*:*:*"
 			}
 		],
@@ -19,5 +16,14 @@
 			}
 		],
 		"versionEndExcluding": "10.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:command_\\|_monitor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:command_\\|_monitor:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.9"
 	}
 ]

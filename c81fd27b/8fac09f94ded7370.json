@@ -889,12 +889,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.6:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0.6"
+		"versionEndExcluding": "6.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -1063,9 +1060,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.6:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.6"
+		"versionEndIncluding": "6.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -2881,25 +2881,14 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.2:*:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndIncluding": "7.0.3",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.0:*:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndExcluding": "7.0.3",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.2:*:*:*:*:windows:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.3:*:*:*:*:windows:*:*"
 			}
@@ -2911,6 +2900,9 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.0:*:*:*:*:windows:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.1:*:*:*:*:windows:*:*"
 			},
 			{
@@ -2918,19 +2910,6 @@
 			}
 		],
 		"versionEndExcluding": "7.0.3",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.0:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.1:*:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndIncluding": "7.0.3",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
