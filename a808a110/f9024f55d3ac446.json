@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lenovo:hardwarescan_addin:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lenovo:hardwarescan_addin:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.4.1.1"
 	}
 ]

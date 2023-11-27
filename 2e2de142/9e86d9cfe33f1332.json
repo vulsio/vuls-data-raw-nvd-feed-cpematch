@@ -892,9 +892,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:20.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:20.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "20.1.2"
+		"versionEndIncluding": "20.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
@@ -1081,12 +1084,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:20.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:20.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "20.1.2"
+		"versionEndExcluding": "20.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",

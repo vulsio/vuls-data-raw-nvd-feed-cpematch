@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acurax:under_construction_\\/_maintenance_mode:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acurax:under_construction_\\/_maintenance_mode:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acurax:under_construction_\\/_maintenance_mode:2.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.6"
 	}
 ]

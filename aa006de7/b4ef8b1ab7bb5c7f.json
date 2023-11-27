@@ -6,14 +6,20 @@
 				"cpe23Uri": "cpe:2.3:o:hp:probook_655_g3_firmware:1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.42"
+		"versionEndIncluding": "1.42"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:probook_655_g3_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_655_g3_firmware:1.4:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.42"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:probook_655_g3_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_655_g3_firmware:1.42:*:*:*:*:*:*:*"
 			}

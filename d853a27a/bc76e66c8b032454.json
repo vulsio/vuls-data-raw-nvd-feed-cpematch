@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:atera:agent_package_availability:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atera:agent_package_availability:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atera:agent_package_availability:0.14.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.15.0.0"
 	}
 ]

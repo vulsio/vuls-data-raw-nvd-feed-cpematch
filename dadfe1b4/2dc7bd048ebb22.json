@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:server_configuration_utility:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:server_configuration_utility:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:server_configuration_utility:16.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:server_configuration_utility:16.0.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "16.0.9"
 	}
 ]
