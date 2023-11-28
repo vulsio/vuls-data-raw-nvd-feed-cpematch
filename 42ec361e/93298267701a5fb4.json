@@ -81,12 +81,6 @@
 		"cpe23Uri": "cpe:2.3:a:wibu:codemeter:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:6.50a:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:6.81:*:*:*:*:*:*:*"
 			},
 			{
@@ -94,9 +88,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:7.00:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:7.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.21a"
@@ -109,7 +100,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:6.50a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.21a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wibu:codemeter:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:-:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:6.50a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:7.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.21a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wibu:codemeter:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:wibu:codemeter:6.81:*:*:*:*:*:*:*"
 			},

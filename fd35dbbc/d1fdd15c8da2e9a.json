@@ -3,25 +3,10 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:-:*:*:*:*:7-mode:*:*"
-			}
-		],
-		"versionEndIncluding": "8.2.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:7.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:8.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.2.4"
@@ -29,6 +14,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:6.5.2:*:*:*:*:*:*:*"
 			}
@@ -39,6 +27,18 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:-:*:*:*:*:7-mode:*:*"
+			}
+		],
+		"versionEndIncluding": "8.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:8.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:8.2.4:*:*:*:*:*:*:*"
 			}
 		],
@@ -48,7 +48,7 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:netapp:data_ontap:8.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.2.4"

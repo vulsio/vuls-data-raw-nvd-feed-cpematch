@@ -1,12 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:idattend:idweb:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:3.1.013:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:3.1.052:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1.052"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:idattend:idweb:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:3.1.013:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:idattend:idweb:3.1.052:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.1.053"
 	}
 ]

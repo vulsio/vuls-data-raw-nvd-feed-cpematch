@@ -676,5 +676,37 @@
 		],
 		"versionEndExcluding": "2.11.0",
 		"versionStartIncluding": "2.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.11.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.11.3",
+		"versionStartIncluding": "2.11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openvpn:openvpn_access_server:2.12.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.12.2",
+		"versionStartIncluding": "2.12.0"
 	}
 ]
