@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:submarine:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:submarine:0.7.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:submarine:0.7.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:submarine:0.7.0:rc1:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.8.0",
 		"versionStartIncluding": "0.7.0"
 	}

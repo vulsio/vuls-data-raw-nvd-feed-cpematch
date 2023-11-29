@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:4.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ip_dect_210_firmware:5.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1.2sr1"
 	}
 ]

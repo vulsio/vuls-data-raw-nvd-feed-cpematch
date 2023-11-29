@@ -16,12 +16,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:goldplugins:locations:3.2.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:goldplugins:locations:4.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0"
+		"versionEndExcluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:goldplugins:locations:*:*:*:*:*:wordpress:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:goldplugins:locations:3.2.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:goldplugins:locations:4.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0"
+		"versionEndIncluding": "4.0"
 	}
 ]

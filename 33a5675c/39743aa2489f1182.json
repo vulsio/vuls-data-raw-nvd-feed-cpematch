@@ -30,6 +30,9 @@
 				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:1.1.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:21.4.5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:21.4.14:*:*:*:*:*:*:*"
 			},
 			{
@@ -85,12 +88,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:32.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:32.5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "32.5.1"
+		"versionEndExcluding": "32.5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:*:*:*:*:*:*:*:*",
@@ -181,15 +181,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:32.5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "32.5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:21.4.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:nexb:scancode.io:32.5.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "32.5.1"

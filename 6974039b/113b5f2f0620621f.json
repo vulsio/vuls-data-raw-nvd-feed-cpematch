@@ -4,21 +4,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:1.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:1.12.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.12.0"
+		"versionEndExcluding": "1.12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:1.12.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.12.0"
+		"versionEndIncluding": "1.12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:accel-ppp:accel-ppp:*:*:*:*:*:*:*:*",

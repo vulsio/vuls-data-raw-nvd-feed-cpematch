@@ -4,6 +4,15 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*"
@@ -13,14 +22,5 @@
 			}
 		],
 		"versionEndIncluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.1"
 	}
 ]
