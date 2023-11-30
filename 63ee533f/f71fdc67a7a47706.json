@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:himanshuparashar:google_site_verification_plugin_using_meta_tag:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:himanshuparashar:google_site_verification_plugin_using_meta_tag:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:himanshuparashar:google_site_verification_plugin_using_meta_tag:1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2"
 	}
 ]

@@ -22,6 +22,27 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2019:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2020:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2021:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2022:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2023:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2023.1.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:2019:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2019.1.4",
@@ -112,5 +133,11 @@
 		"cpe_name": [],
 		"versionEndExcluding": "2023.1.1",
 		"versionStartIncluding": "2023.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_advance_steel:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "2024.1.1",
+		"versionStartIncluding": "2024.0.0"
 	}
 ]

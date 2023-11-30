@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ciphercoin:easy_hide_login:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ciphercoin:easy_hide_login:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ciphercoin:easy_hide_login:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ciphercoin:easy_hide_login:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ciphercoin:easy_hide_login:1.0.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.8"
 	}
 ]

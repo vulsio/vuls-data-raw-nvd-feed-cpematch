@@ -3,14 +3,31 @@
 		"cpe23Uri": "cpe:2.3:a:autodesk:autocad:*:*:*:*:*:macos:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2019.2.1:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2020:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2020.2.1:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2021:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2021.1.2:*:*:*:*:macos:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2022:*:*:*:*:macos:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2022.1:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2022.2.2:*:*:*:*:macos:*:*"
 			}
 		],
-		"versionEndExcluding": "2022.2",
-		"versionStartIncluding": "2022"
+		"versionEndExcluding": "2024.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:autodesk:autocad:*:*:*:*:*:macos:*:*",
@@ -21,6 +38,19 @@
 		],
 		"versionEndExcluding": "2022.2",
 		"versionStartExcluding": "2022"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:autodesk:autocad:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2022:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad:2022.1:*:*:*:*:macos:*:*"
+			}
+		],
+		"versionEndExcluding": "2022.2",
+		"versionStartIncluding": "2022"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:autodesk:autocad:*:*:*:*:*:macos:*:*",

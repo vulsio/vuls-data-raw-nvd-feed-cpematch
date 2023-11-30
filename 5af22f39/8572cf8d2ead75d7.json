@@ -2412,9 +2412,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:3.9.1:update_03:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:3.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.10"
+		"versionEndIncluding": "3.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:*:*:*:*:*:*:*:*",
@@ -2664,12 +2667,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:3.9.1:update_03:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:3.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.10"
+		"versionEndExcluding": "3.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:prime_infrastructure:*:*:*:*:*:*:*:*",

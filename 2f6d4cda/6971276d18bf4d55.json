@@ -439,12 +439,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.47:*:*:*:premium:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.53:*:*:*:premium:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.53"
+		"versionEndExcluding": "1.53"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:*:*:*:*:premium:*:*:*",
@@ -538,9 +535,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.47:*:*:*:premium:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.53:*:*:*:premium:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.53"
+		"versionEndIncluding": "1.53"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:*:*:*:*:premium:*:*:*",

@@ -30,6 +30,36 @@
 		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2005:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2006:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2019:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2020:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2021:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2022:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2023:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2023.1.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:2019:*:*:*:*:*:*:*"
 			}
 		],
@@ -121,5 +151,11 @@
 		"cpe_name": [],
 		"versionEndExcluding": "2023.1.1",
 		"versionStartIncluding": "2023.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_civil_3d:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "2024.1.1",
+		"versionStartIncluding": "2024.0.0"
 	}
 ]
