@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:radeon_software:*:*:*:*:adrenalin:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:radeon_software:23.7.1:*:*:*:adrenalin:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.9.2"
 	}
 ]

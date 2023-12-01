@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:radeon_software:*:*:*:*:pro:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:radeon_software:23.q3:*:*:*:pro:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.q4"
 	}
 ]

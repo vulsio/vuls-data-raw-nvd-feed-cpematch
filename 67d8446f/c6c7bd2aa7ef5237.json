@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:o:dell:inspiron_3020_small_desktop_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:dell:inspiron_3020_small_desktop_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:dell:inspiron_3020_small_desktop_firmware:1.6.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -19,5 +16,14 @@
 			}
 		],
 		"versionEndExcluding": "1.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:inspiron_3020_small_desktop_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_3020_small_desktop_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.6.0"
 	}
 ]
