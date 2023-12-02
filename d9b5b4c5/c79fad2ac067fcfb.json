@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:twig:2.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.4.51",
 		"versionStartIncluding": "2.0.0"
 	},

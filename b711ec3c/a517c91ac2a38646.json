@@ -636,7 +636,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nvidia:virtual_gpu:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:virtual_gpu:16.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "16.2",
 		"versionStartIncluding": "16.0"
 	}

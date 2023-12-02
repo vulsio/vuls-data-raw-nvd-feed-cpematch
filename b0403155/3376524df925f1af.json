@@ -1547,6 +1547,12 @@
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -1583,12 +1589,6 @@
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.10.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.12:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.12.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1611,12 +1611,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.16.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.16.1",
+		"versionEndExcluding": "1.7.16.1",
 		"versionStartIncluding": "1.7.0"
 	},
 	{
@@ -1687,22 +1684,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.16.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.16.1",
+		"versionEndIncluding": "1.7.16.1",
 		"versionStartIncluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.16.1",
+		"versionEndExcluding": "1.7.16.1",
 		"versionStartIncluding": "1.7.0"
 	},
 	{
@@ -1716,6 +1713,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.12.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.7.16.1",
+		"versionStartIncluding": "1.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.10.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.7.16.1",

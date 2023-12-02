@@ -2257,7 +2257,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:logstash:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:logstash:8.10.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.11.1",
 		"versionStartIncluding": "8.10.0"
 	}

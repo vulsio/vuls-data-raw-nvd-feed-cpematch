@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:php_to_page_project:php_to_page:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:php_to_page_project:php_to_page:0.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.3"
 	}
 ]

@@ -989,13 +989,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:teamcenter_visualization:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:teamcenter_visualization:14.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "14.3.0.1",
 		"versionStartIncluding": "14.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:teamcenter_visualization:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:teamcenter_visualization:14.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:teamcenter_visualization:14.3.0.1:*:*:*:*:*:*:*"
 			}

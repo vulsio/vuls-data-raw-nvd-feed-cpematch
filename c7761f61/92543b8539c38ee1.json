@@ -184,7 +184,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:quic-go_project:quic-go:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:quic-go_project:quic-go:0.37.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.37.3",
 		"versionStartIncluding": "0.37.0"
 	}

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:intel:quickassist_technology_driver_firmware:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:quickassist_technology_driver_firmware:1.10:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "2.04"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dangngocbinh:easy_call_now_by_thikshare:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dangngocbinh:easy_call_now_by_thikshare:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dangngocbinh:easy_call_now_by_thikshare:1.1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.0"
 	}
 ]

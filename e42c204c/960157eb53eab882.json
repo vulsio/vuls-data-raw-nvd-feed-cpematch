@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:easysetup:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:easysetup:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "11.1.13"
 	}
 ]

@@ -315,25 +315,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.0.3",
-		"versionStartIncluding": "1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.0.3",
@@ -353,9 +334,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "1.0.3",
+		"versionStartIncluding": "1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3_build_54075:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.4:*:*:*:*:*:*:*"
@@ -368,9 +356,6 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -378,9 +363,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3_build_54075:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.4:*:*:*:*:*:*:*"
@@ -399,13 +381,61 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3_build_54075:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "1.0.5",
+		"versionStartIncluding": "1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3_build_54075:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.5",
+		"versionStartIncluding": "1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.7:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.7",
+		"versionStartIncluding": "1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.0.7",
 		"versionStartIncluding": "1.0"
 	},
 	{
@@ -428,20 +458,17 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.7",
+		"versionEndIncluding": "1.0.7",
 		"versionStartIncluding": "1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.1:*:*:*:*:*:*:*"
 			},
@@ -449,19 +476,13 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:1.0.3_build_54075:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.7",
+		"versionEndExcluding": "1.0.7",
 		"versionStartIncluding": "1.0"
 	},
 	{
@@ -525,7 +546,7 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.0.5",
@@ -551,29 +572,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.0.5",
-		"versionStartIncluding": "2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.5",
-		"versionStartIncluding": "2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.0.5",
+		"versionStartIncluding": "2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:ace:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:ace:2.0.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.5",
 		"versionStartIncluding": "2.0"
 	},
 	{

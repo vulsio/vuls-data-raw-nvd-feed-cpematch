@@ -994,5 +994,15 @@
 			}
 		],
 		"versionEndExcluding": "1.18.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:libnbd:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:libnbd:1.18.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.18.2",
+		"versionStartIncluding": "1.17.4"
 	}
 ]
