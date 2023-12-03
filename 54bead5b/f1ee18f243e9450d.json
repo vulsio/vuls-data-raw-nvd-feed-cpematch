@@ -3,6 +3,30 @@
 		"cpe23Uri": "cpe:2.3:a:junit:junit4:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.9:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.9:beta1:*:*:*:*:*:*"
 			},
 			{
@@ -98,42 +122,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.11:beta1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.13.1",
-		"versionStartIncluding": "4.7"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:junit:junit4:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:-:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.9:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.13.1",
-		"versionStartIncluding": "4.7"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:junit:junit4:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.12:-:*:*:*:*:*:*"
 			},
@@ -169,16 +158,6 @@
 			}
 		],
 		"versionEndIncluding": "4.13.1",
-		"versionStartIncluding": "4.7"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:junit:junit4:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.13.1",
 		"versionStartIncluding": "4.7"
 	}
 ]
