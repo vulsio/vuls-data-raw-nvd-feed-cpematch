@@ -44,31 +44,54 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.6.6",
 		"versionStartIncluding": "17.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.9.4",
 		"versionStartIncluding": "17.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.11.1a",
 		"versionStartIncluding": "17.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.12:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.12.1a",
 		"versionStartIncluding": "17.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_threat_defense:17.12.1a:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.12.2",
 		"versionStartIncluding": "17.12"
 	},

@@ -8390,15 +8390,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.4:ga5:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.5:ga6:*:*:community:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.3.5",
+		"versionEndExcluding": "7.3.5",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -8757,9 +8751,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.4:ga5:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.5:ga6:*:*:community:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.3.5",
+		"versionEndIncluding": "7.3.5",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -10194,6 +10194,12 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "7.3.2",
+		"versionStartIncluding": "7.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.1.0:*:*:*:community:*:*:*"
@@ -10715,15 +10721,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:ga3:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:ga4:*:*:community:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.3.3",
+		"versionEndExcluding": "7.3.3",
 		"versionStartIncluding": "7.1.0"
 	},
 	{
@@ -10899,9 +10899,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:ga3:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:ga4:*:*:community:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.3.3",
+		"versionEndIncluding": "7.3.3",
 		"versionStartIncluding": "7.1.0"
 	},
 	{
@@ -13253,27 +13259,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.0:ga1:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.1:ga2:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:ga3:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:ga4:*:*:community:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.3.4",
@@ -13314,6 +13299,34 @@
 			}
 		],
 		"versionEndIncluding": "7.3.4",
+		"versionStartIncluding": "7.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.0:ga1:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.1:ga2:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.2:ga3:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:liferay_portal:7.3.3:ga4:*:*:community:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.3.4",
 		"versionStartIncluding": "7.3.0"
 	},
 	{
