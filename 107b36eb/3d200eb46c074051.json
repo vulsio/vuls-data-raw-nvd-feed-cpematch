@@ -149245,15 +149245,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.11.5",
+		"versionEndExcluding": "13.11.5",
 		"versionStartIncluding": "13.11"
 	},
 	{
@@ -149288,9 +149282,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.11.5",
+		"versionEndIncluding": "13.11.5",
 		"versionStartIncluding": "13.11"
 	},
 	{

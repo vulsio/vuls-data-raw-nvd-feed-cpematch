@@ -16,7 +16,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:really-simple-plugins:complianz:*:*:*:*:premium:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:really-simple-plugins:complianz:6.4.7:*:*:*:premium:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "6.4.8"
 	}
 ]
