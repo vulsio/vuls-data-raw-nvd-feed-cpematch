@@ -116,7 +116,7 @@
 				"cpe23Uri": "cpe:2.3:a:apache:sling:1.1.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.14.0"
+		"versionEndExcluding": "2.14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:sling:*:*:*:*:*:*:*:*",
@@ -149,6 +149,6 @@
 				"cpe23Uri": "cpe:2.3:a:apache:sling:1.1.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.14.0"
+		"versionEndIncluding": "2.14.0"
 	}
 ]
