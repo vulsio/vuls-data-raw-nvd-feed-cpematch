@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:alphabpo:easy_newsletter_signups:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:alphabpo:easy_newsletter_signups:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:alphabpo:easy_newsletter_signups:1.0.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.4"
 	}
 ]

@@ -622,12 +622,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:puma:puma:4.3.7:*:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:puma:puma:4.3.8:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3.8"
+		"versionEndExcluding": "4.3.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:puma:puma:*:*:*:*:*:ruby:*:*",
@@ -964,9 +961,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:puma:puma:4.3.7:*:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:puma:puma:4.3.8:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndExcluding": "4.3.8"
+		"versionEndIncluding": "4.3.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:puma:puma:*:*:*:*:*:ruby:*:*",

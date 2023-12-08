@@ -403,12 +403,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:4.0.0.1390:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:4.0.0.1628:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.0.1628"
+		"versionEndExcluding": "4.0.0.1628"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:*:*:*:*:*:*:*:*",
@@ -481,9 +478,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:4.0.0.1390:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:4.0.0.1628:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0.0.1628"
+		"versionEndIncluding": "4.0.0.1628"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:adobe_air_sdk:*:*:*:*:*:*:*:*",

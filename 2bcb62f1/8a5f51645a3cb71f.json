@@ -3286,12 +3286,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ceph:13.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ceph:13.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.2.4"
+		"versionEndExcluding": "13.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:ceph:*:*:*:*:*:*:*:*",
@@ -4087,9 +4084,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ceph:13.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ceph:13.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.2.4"
+		"versionEndIncluding": "13.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:ceph:*:*:*:*:*:*:*:*",

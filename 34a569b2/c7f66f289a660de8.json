@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:nokia:netact:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:nokia:netact:18a:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nokia:netact:20.1:*:*:*:*:*:*:*"
 			}
 		],
@@ -19,5 +16,14 @@
 			}
 		],
 		"versionEndExcluding": "20.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nokia:netact:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nokia:netact:18a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.1"
 	}
 ]

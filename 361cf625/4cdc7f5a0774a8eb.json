@@ -18,6 +18,9 @@
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.21.10:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.25.12:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.25.15:*:*:*:*:*:*:*"
 			},
 			{
@@ -31,6 +34,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.29.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.29.22-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.31.23:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.31.25:*:*:*:*:*:*:*"
@@ -88,22 +97,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.29.22:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.43.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.29.22-1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.43.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.29.22-1:*:*:*:*:*:*:*"
 			},
@@ -127,18 +121,6 @@
 			}
 		],
 		"versionEndExcluding": "3.43.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.25.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:2.31.23:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.43.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:eq-3:ccu3_firmware:*:*:*:*:*:*:*:*",

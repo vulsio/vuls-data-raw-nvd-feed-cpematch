@@ -4462,9 +4462,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.25"
+		"versionEndIncluding": "9.25"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -5212,12 +5215,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.25"
+		"versionEndExcluding": "9.25"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
