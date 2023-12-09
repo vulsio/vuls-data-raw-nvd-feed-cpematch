@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:neshan:neshan_maps:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:neshan:neshan_maps:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:neshan:neshan_maps:1.1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.4"
 	}
 ]

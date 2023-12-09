@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:nexryai:nexkey:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nexryai:nexkey:-:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "12.121.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nexryai:nexkey:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nexryai:nexkey:-:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nexryai:nexkey:12.121.9:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "12.122.2"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:nxsn:wp_hide_pages:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nxsn:wp_hide_pages:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nxsn:wp_hide_pages:1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0"
 	}
 ]

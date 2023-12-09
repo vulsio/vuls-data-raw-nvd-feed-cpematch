@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bamboo_mcr:bamboo_columns:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bamboo_mcr:bamboo_columns:1.6.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.6.1"
 	}
 ]

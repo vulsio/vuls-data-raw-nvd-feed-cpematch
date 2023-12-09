@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:storage_integration_tools_for_vmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:storage_integration_tools_for_vmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.1"
 	}
 ]

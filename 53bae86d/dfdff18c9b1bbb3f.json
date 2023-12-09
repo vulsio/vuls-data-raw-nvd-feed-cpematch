@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:chef:inspec:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:chef:inspec:5.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.22.29",
 		"versionStartIncluding": "5.0.0"
 	}

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:command\\|monitor:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:command\\|monitor:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.10.0"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:kyocera:d-copia253mf_plus_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:kyocera:d-copia253mf_plus_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:kyocera:d-copia253mf_plus_firmware:2vg_s000.002.561:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2vg_s000.002.561"
 	}
 ]

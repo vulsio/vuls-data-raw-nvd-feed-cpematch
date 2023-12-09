@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lenovo:diagnostics:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lenovo:diagnostics:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.35.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lenovo:diagnostics:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lenovo:diagnostics:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lenovo:diagnostics:4.35.4:*:*:*:*:*:*:*"
 			}

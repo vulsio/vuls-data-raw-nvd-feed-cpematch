@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:imoulife:life:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:imoulife:life:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:imoulife:life:6.8.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "6.8.0"
 	}
 ]

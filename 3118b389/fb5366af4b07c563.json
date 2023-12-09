@@ -682,6 +682,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qos:logback:1.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qos:logback:1.2.12:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.2.13",
@@ -729,7 +732,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qos:logback:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qos:logback:1.4.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.12",
 		"versionStartIncluding": "1.4.0"
 	}

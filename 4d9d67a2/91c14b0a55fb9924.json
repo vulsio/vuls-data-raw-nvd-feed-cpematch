@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:opendatahub:open_data_hub_dashboard:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opendatahub:open_data_hub_dashboard:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.28.1"
 	}
 ]

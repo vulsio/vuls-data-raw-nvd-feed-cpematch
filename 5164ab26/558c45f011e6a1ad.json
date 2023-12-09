@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:communitydeveloper:amazzing_filter:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:communitydeveloper:amazzing_filter:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:communitydeveloper:amazzing_filter:3.2.5:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndIncluding": "3.2.5"
 	}
 ]

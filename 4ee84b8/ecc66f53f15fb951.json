@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:clickbar:dot-diver:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickbar:dot-diver:-:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.2"
 	}
 ]

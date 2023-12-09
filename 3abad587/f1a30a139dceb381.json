@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:http\\:\\:tiny_project:http\\:\\:tiny:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:http\\:\\:tiny_project:http\\:\\:tiny:0.082:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.083"
 	}
 ]

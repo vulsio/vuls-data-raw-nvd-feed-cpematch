@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:4.1.1:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "5.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:4.1.1:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:exportproducts:5.0.0:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "5.1.0"
 	}
 ]

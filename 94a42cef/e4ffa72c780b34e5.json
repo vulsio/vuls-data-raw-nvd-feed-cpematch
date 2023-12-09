@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mlsoft:tco\\!stream:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mlsoft:tco\\!stream:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlsoft:tco\\!stream:8.0.22.1115:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.0.23.215"
 	}
 ]

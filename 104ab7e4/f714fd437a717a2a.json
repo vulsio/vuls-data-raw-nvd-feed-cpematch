@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cashit:cashit\\!:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cashit:cashit\\!:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cashit:cashit\\!:03.a06rks_2023.02.37:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "03.a06rks_2023.02.37"
 	}
 ]

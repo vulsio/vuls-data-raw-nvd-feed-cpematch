@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:simics_simulator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:simics_simulator:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.2"
 	}
 ]

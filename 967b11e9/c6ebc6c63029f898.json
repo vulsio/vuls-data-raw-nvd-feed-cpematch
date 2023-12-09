@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:maurice:vrm360:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:maurice:vrm360:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:maurice:vrm360:1.2.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.1"
 	}
 ]

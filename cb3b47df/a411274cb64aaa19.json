@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:horizon_project:horizon:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:horizon_project:horizon:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2014-07-08"
 	}
 ]

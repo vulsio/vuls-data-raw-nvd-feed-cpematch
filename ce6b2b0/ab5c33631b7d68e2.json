@@ -4240,12 +4240,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.20",
+		"versionEndExcluding": "7.6.20",
 		"versionStartIncluding": "7.6.0"
 	},
 	{
@@ -4259,9 +4256,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.20",
+		"versionEndIncluding": "7.6.20",
 		"versionStartIncluding": "7.6.0"
 	},
 	{
@@ -4385,22 +4385,33 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.21:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.23:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.25:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.26:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "8.0.27",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.27:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0.27",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.25:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.27",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -4420,6 +4431,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.26:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.27",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.21:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0.27",

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fast-search-powered-by-solr_project:fast-search-powered-by-solr:1.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.2"
 	}
 ]
