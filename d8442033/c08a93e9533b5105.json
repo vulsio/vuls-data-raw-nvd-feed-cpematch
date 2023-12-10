@@ -2212,12 +2212,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:advantech:webaccess:8.2_20161121:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:advantech:webaccess:8.2_20170817:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2_20170817"
+		"versionEndExcluding": "8.2_20170817"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:advantech:webaccess:*:*:*:*:*:*:*:*",
@@ -2686,9 +2683,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:advantech:webaccess:8.2_20161121:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:advantech:webaccess:8.2_20170817:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2_20170817"
+		"versionEndIncluding": "8.2_20170817"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:advantech:webaccess:*:*:*:*:*:*:*:*",

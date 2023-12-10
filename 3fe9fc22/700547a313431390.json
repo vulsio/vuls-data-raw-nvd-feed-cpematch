@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:search_widget:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:search_widget:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.4"
 	}
 ]

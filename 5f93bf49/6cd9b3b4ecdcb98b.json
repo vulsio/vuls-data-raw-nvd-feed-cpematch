@@ -1383,9 +1383,6 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:1.2.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -1509,9 +1506,6 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.0:*:*:*:scm_repositories:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1584,9 +1578,6 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.1.7:*:*:*:scm_repositories:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.1.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.1.8:*:*:*:scm_repositories:*:*:*"
 			},
 			{
@@ -1632,37 +1623,7 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.6:*:*:*:scm_repositories:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.7:*:*:*:-:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.7:*:*:*:scm_repositories:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.8:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.8:*:*:*:scm_repositories:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.0:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.0:*:*:*:scm_repositories:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.3.5"
@@ -1957,6 +1918,51 @@
 			}
 		],
 		"versionEndIncluding": "3.3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.7:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.8:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.2.8:*:*:*:scm_repositories:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.0:*:*:*:scm_repositories:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.3.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",

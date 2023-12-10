@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:m-privacy:tightgatevnc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:m-privacy:tightgatevnc:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.1.2-1"
 	}
 ]

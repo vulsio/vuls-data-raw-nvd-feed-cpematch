@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:myprestamodules:updateproducts:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:updateproducts:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:updateproducts:3.7.6:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "3.8.5"
 	}
 ]

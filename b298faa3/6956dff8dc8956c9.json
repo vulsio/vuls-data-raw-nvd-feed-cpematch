@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:veom:service_tracking:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veom:service_tracking:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veom:service_tracking:20231122:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20231122"
 	}
 ]

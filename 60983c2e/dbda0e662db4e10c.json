@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:netwrix:usercube:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netwrix:usercube:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.215"
 	}
 ]

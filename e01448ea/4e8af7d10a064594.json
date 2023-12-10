@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trellix:application_and_change_control:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trellix:application_and_change_control:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.4.0"
 	}
 ]

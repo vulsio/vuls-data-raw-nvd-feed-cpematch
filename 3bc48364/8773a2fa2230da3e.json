@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kotchasan:online_accounting_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kotchasan:online_accounting_system:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kotchasan:online_accounting_system:1.4.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.0"
 	}
 ]

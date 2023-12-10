@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:smpn1smg:absis:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:smpn1smg:absis:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smpn1smg:absis:2017-10-19:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2017-10-19"
 	}
 ]

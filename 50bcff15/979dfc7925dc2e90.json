@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:myprestamodules:cross_selling_in_modal_cart:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myprestamodules:cross_selling_in_modal_cart:-:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "3.5.0"
 	}
 ]

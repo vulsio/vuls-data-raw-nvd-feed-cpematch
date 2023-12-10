@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:m-privacy:mprivacy-tools:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:m-privacy:mprivacy-tools:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.406g"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:m-privacy:mprivacy-tools:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:m-privacy:mprivacy-tools:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:m-privacy:mprivacy-tools:2.0.406g:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.0.406g"
 	}
 ]

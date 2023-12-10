@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:networkoptix:nxcloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:networkoptix:nxcloud:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.1.0.40440"
 	}
 ]
