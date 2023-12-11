@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gara:amazonify:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gara:amazonify:0.8.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.8.1"
 	}
 ]

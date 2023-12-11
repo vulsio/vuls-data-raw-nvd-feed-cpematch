@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:codemshop:mshop_my_site:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codemshop:mshop_my_site:1.1.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.6"
 	}
 ]

@@ -5365,12 +5365,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:8.26.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:8.27.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.27.0"
+		"versionEndExcluding": "8.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:*:*:*:*:*:*:*:*",
@@ -6640,9 +6637,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:8.26.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:8.27.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.27.0"
+		"versionEndIncluding": "8.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rsyslog:rsyslog:*:*:*:*:*:*:*:*",

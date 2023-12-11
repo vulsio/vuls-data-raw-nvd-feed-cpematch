@@ -12915,9 +12915,6 @@
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:45.5.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:45.5.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:45.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -12970,12 +12967,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.3:*:*:*:*:*:*:*"
@@ -13197,9 +13188,6 @@
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.0.1:*:*:*:*:*:x64:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.0.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -13209,19 +13197,7 @@
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.0:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.1:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:x64:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.2.1:*:*:*:*:*:*:*"
@@ -13399,6 +13375,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:60.5.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "60.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:45.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "60.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.0.1:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.0:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndExcluding": "60.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:52.7.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "60.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox_esr:38.2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "60.6"

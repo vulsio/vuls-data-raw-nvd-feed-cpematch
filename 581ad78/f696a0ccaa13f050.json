@@ -21,9 +21,6 @@
 		"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:01.20.00:*:*:*:*:*:*:*"
 			},
 			{
@@ -43,6 +40,15 @@
 			}
 		],
 		"versionEndExcluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:probook_640_g4_firmware:*:*:*:*:*:*:*:*",

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:daext:autolinks_manager:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:daext:autolinks_manager:1.10.04:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.10.04"
 	}
 ]
