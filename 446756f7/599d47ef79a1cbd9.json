@@ -43,9 +43,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.1"
+		"versionEndIncluding": "6.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",
@@ -61,12 +64,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0.1"
+		"versionEndExcluding": "6.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",

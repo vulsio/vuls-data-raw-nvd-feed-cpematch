@@ -960,5 +960,18 @@
 		],
 		"versionEndExcluding": "8.8.15",
 		"versionStartExcluding": "8.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration:10.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration:10.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.3",
+		"versionStartIncluding": "10.0.0"
 	}
 ]

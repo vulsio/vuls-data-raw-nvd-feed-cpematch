@@ -1197,30 +1197,6 @@
 		"cpe23Uri": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:1.7.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -1269,9 +1245,6 @@
 				"cpe23Uri": "cpe:2.3:a:python:pillow:1.7.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:1.7.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1282,6 +1255,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:6.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:1.7.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:2.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:3.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:python:pillow:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:python:pillow:1.7.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.2.2:*:*:*:*:*:*:*"
@@ -1405,9 +1426,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:6.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:6.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.0.0"
@@ -1476,12 +1494,6 @@
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.5.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -1492,9 +1504,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:2.6.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:2.7.0:*:*:*:*:*:*:*"
@@ -1525,9 +1534,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:3.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:pillow:3.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:pillow:3.3.1:*:*:*:*:*:*:*"
