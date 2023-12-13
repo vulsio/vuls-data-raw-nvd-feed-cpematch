@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:enbw:senec_storage_box_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:enbw:senec_storage_box_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:enbw:senec_storage_box_firmware:2023-06-19:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2023-06-19"
 	}
 ]

@@ -56167,16 +56167,10 @@
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.32.4",
+		"versionEndExcluding": "2.32.4",
 		"versionStartIncluding": "2.32.0"
 	},
 	{
@@ -56205,6 +56199,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.32.4",
+		"versionStartIncluding": "2.32.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.32.4",
@@ -56481,12 +56488,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.34.5",
+		"versionEndExcluding": "2.34.5",
 		"versionStartIncluding": "2.34.0"
 	},
 	{
@@ -56515,9 +56519,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.34.5",
+		"versionEndIncluding": "2.34.5",
 		"versionStartIncluding": "2.34.0"
 	},
 	{
@@ -56636,12 +56643,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.35.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.35.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.35.5",
+		"versionEndExcluding": "2.35.5",
 		"versionStartIncluding": "2.35.0"
 	},
 	{
@@ -56670,9 +56674,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.35.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.35.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.35.5",
+		"versionEndIncluding": "2.35.5",
 		"versionStartIncluding": "2.35.0"
 	},
 	{

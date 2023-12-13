@@ -9638,18 +9638,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.43:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:hypervisor:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.0.45",
+		"versionEndExcluding": "7.0.0.45",
 		"versionStartIncluding": "7.0.0.0"
 	},
 	{
@@ -9840,9 +9831,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:7.0.0.45:*:*:*:hypervisor:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.0.45",
+		"versionEndIncluding": "7.0.0.45",
 		"versionStartIncluding": "7.0.0.0"
 	},
 	{
@@ -10033,18 +10033,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:hypervisor:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.0.15",
+		"versionEndExcluding": "8.0.0.15",
 		"versionStartIncluding": "8.0.0.0"
 	},
 	{
@@ -10100,9 +10091,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.0.0.15:*:*:*:hypervisor:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.0.15",
+		"versionEndIncluding": "8.0.0.15",
 		"versionStartIncluding": "8.0.0.0"
 	},
 	{
@@ -13176,6 +13176,19 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.5.4",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:-:*:*:*"
 			},
 			{
@@ -13246,16 +13259,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:hypervisor:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.2:*:*:*:*:*:*:*"
@@ -13380,24 +13387,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.2:*:*:*:hypervisor:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:hypervisor:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:hypervisor:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.5.5",
+		"versionEndExcluding": "9.0.5.5",
 		"versionStartIncluding": "9.0.0.0"
 	},
 	{
@@ -13462,7 +13454,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.2:*:*:*:hypervisor:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "9.0.5.5",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:*:*:*:*"
 			},
@@ -13474,6 +13473,28 @@
 			}
 		],
 		"versionEndExcluding": "9.0.5.5",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:hypervisor:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:hypervisor:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.5.5",
 		"versionStartIncluding": "9.0.0.0"
 	},
 	{
@@ -13647,16 +13668,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:hypervisor:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.2:*:*:*:*:*:*:*"
@@ -13723,12 +13738,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.5.7",
+		"versionEndExcluding": "9.0.5.7",
 		"versionStartIncluding": "9.0.0.0"
 	},
 	{
@@ -13801,10 +13813,33 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.3:*:*:*:hypervisor:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.5.7",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.5.7",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.5:*:*:*:hypervisor:*:*:*"
@@ -13813,7 +13848,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:9.0.5.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.5.7",
+		"versionEndIncluding": "9.0.5.7",
 		"versionStartIncluding": "9.0.0.0"
 	},
 	{

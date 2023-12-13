@@ -66,6 +66,48 @@
 		"cpe23Uri": "cpe:2.3:a:gnu:patch:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:patch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:patch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:patch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -73,9 +115,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.7.6"
@@ -94,24 +133,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.5:*:*:*:*:*:*:*"
@@ -135,18 +156,21 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:patch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:patch:2.7.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.7.6"
 	}
 ]

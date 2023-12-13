@@ -1171,12 +1171,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.6"
+		"versionEndExcluding": "2.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*",
@@ -1303,9 +1300,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.6"
+		"versionEndIncluding": "2.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*",
@@ -1593,6 +1593,12 @@
 		"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -1617,6 +1623,9 @@
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.9:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.10:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.11:*:*:*:*:*:*:*"
 			},
 			{
@@ -1624,6 +1633,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.15:*:*:*:*:*:*:*"
@@ -1653,6 +1665,9 @@
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.23:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.24:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.25:*:*:*:*:*:*:*"
 			},
 			{
@@ -1674,43 +1689,10 @@
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.31:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.0.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:1.900.24:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.0:beta1:*:*:*:*:*:*"
@@ -1732,6 +1714,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.7:*:*:*:*:*:*:*"
@@ -1882,6 +1867,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jasper_project:jasper:2.0.8:*:*:*:*:*:*:*"

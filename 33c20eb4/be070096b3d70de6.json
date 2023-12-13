@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:supermicro:x11sae-f_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:supermicro:x11sae-f_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:supermicro:x11sae-f_firmware:3.17.02:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.17.02"
 	}
 ]

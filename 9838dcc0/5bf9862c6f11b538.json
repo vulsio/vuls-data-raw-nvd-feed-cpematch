@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:supermicro:b13dee_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:supermicro:b13dee_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:supermicro:b13dee_firmware:3.17.02:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.17.02"
 	}
 ]

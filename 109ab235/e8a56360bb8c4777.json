@@ -505,12 +505,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0"
+		"versionEndExcluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:*:*:*:*:*:*:*:*",
@@ -682,9 +679,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0"
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pi-hole:pi-hole:*:*:*:*:*:*:*:*",
