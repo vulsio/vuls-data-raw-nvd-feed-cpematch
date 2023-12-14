@@ -27,15 +27,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:*:*:*:*:*:*:*"
@@ -51,16 +42,31 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:-:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.7:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.7:-:*:*:*:*:*:*"
 			}
@@ -72,7 +78,31 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:*:*:*:*:*:*:*"
 			},
@@ -80,7 +110,7 @@
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:4.5:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.7"
+		"versionEndIncluding": "4.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_840d_sl_firmware:*:*:*:*:*:*:*:*",
