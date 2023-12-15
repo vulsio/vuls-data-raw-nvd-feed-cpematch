@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:evona:per_page_add_to_head:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:evona:per_page_add_to_head:-:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:evona:per_page_add_to_head:1.4.4:*:*:*:*:wordpress:*:*"
 			}
 		],
@@ -19,5 +16,14 @@
 			}
 		],
 		"versionEndExcluding": "1.4.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:evona:per_page_add_to_head:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:evona:per_page_add_to_head:-:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.4.4"
 	}
 ]
