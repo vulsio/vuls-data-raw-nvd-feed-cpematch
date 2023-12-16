@@ -1,12 +1,25 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trueconf:server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trueconf:server:4.3.7.12219:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trueconf:server:4.3.7.12255:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:trueconf:server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trueconf:server:4.3.7.12219:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trueconf:server:4.3.7.12255:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trueconf:server:5.2.0.10225:*:*:*:*:*:*:*"
 			}

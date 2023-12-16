@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:starface:starface:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:starface:starface:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:starface:starface:7.3.0.10:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.3.0.10"
 	}
 ]

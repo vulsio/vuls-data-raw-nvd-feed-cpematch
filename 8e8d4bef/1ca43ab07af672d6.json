@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:planned_popup_project:planned_popup:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:planned_popup_project:planned_popup:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:planned_popup_project:planned_popup:1.4.11:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.12"
 	}
 ]

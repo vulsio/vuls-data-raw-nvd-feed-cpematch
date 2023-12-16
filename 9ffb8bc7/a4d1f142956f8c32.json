@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wp_post_columns_project:wp_post_columns:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wp_post_columns_project:wp_post_columns:2.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2"
 	}
 ]

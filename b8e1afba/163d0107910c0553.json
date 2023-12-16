@@ -848,7 +848,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:enalean:tuleap:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:enalean:tuleap:15.2:*:*:*:enterprise:*:*:*"
+			}
+		],
 		"versionEndExcluding": "15.2-4",
 		"versionStartIncluding": "15.2"
 	}

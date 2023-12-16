@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lava-code:lava_directory_manager:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lava-code:lava_directory_manager:1.1.34:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.34"
 	}
 ]

@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:milboj:flash_tool:*:*:*:*:*:ruby:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:milboj:flash_tool:-:*:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:milboj:flash_tool:0.5.0:*:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:milboj:flash_tool:0.6.0:*:*:*:*:ruby:*:*"
+			}
+		],
 		"versionEndIncluding": "0.6.0"
 	}
 ]

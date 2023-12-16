@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:userver:userver:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:userver:userver:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2022-11-18"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:symcon:ip_symcon:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:symcon:ip_symcon:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symcon:ip_symcon:5.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.3"
 	}
 ]

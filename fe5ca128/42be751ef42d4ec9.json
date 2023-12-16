@@ -1696,9 +1696,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.25.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.27.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.27.0"
+		"versionEndIncluding": "1.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",
@@ -1980,7 +1983,7 @@
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.25.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.27.0"
+		"versionEndExcluding": "1.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",

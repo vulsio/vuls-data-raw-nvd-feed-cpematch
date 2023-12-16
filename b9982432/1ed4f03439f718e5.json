@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:proofpoint:insider_threat_management:*:*:*:*:*:macos:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:proofpoint:insider_threat_management:-:*:*:*:*:macos:*:*"
+			}
+		],
 		"versionEndExcluding": "7.14.3.69"
 	},
 	{

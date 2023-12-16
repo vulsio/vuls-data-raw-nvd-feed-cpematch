@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wago:wagoapprtu:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wago:wagoapprtu:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.6.0"
 	}
 ]

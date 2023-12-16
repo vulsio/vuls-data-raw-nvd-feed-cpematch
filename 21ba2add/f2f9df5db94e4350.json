@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ziteboard:ziteboard:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ziteboard:ziteboard:2.9.9:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.9.9"
 	}
 ]

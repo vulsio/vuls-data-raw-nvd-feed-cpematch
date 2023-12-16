@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hyland:alfresco_content_services:*:*:*:*:community:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hyland:alfresco_content_services:-:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyland:alfresco_content_services:7.2.0:*:*:*:community:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.2.0"
 	}
 ]

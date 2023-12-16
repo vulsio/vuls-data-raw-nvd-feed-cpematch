@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:goldbroker:live_gold_price_\\&_silver_price_charts_widgets:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:goldbroker:live_gold_price_\\&_silver_price_charts_widgets:2.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.4"
 	}
 ]

@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:0.9.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:poeditor:poeditor:0.9.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "0.9.8"
 	}
 ]

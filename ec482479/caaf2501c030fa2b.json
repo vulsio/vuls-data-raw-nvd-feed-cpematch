@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:techtime:user_management:*:*:*:*:*:jira:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:techtime:user_management:2.0.0:*:*:*:*:jira:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:techtime:user_management:2.17.1:*:*:*:*:jira:*:*"
+			}
+		],
 		"versionEndIncluding": "2.17.1",
 		"versionStartIncluding": "2.0.0"
 	}

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:realtek:rtsupx_usb_utility_driver:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:realtek:rtsupx_usb_utility_driver:1.14.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.14.0.0"
 	}
 ]

@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:*:*:*:*:*:nextcloud:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:-:*:*:*:*:nextcloud:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.5:*:*:*:*:nextcloud:*:*"
+			}
+		],
 		"versionEndExcluding": "23.5.601"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:*:*:*:*:*:nextcloud:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:-:*:*:*:*:nextcloud:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.5:*:*:*:*:nextcloud:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.601:*:*:*:*:nextcloud:*:*"
+			}
+		],
 		"versionEndExcluding": "23.5.602"
 	}
 ]

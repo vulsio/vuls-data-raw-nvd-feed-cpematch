@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:glidernet:ogn-live:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:glidernet:ogn-live:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2015-02-07"
 	}
 ]

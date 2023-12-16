@@ -1,7 +1,35 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jruby:jruby-openssl:0.5.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.6"
 	}
 ]

@@ -6,6 +6,18 @@
 				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c-1_pn_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c-1_pn_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c-1_pn_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1511c-1_pn_firmware:3.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "30.0.0"
 	}
 ]

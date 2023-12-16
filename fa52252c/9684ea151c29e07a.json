@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:supcon:inplant_scada:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:supcon:inplant_scada:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:supcon:inplant_scada:20230901:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20230901"
 	}
 ]

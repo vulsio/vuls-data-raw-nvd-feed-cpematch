@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:machine:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:-:*:*:*:machine:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:13.0:*:*:*:machine:*:*:*"
+			}
+		],
 		"versionEndIncluding": "13.0"
 	}
 ]

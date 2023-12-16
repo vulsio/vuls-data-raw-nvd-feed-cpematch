@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:touki-kyoutaku-online:shinseiyo_sogo_soft:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:touki-kyoutaku-online:shinseiyo_sogo_soft:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:touki-kyoutaku-online:shinseiyo_sogo_soft:7.9a:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.9a"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:neutron:smart_vms:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:neutron:smart_vms:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "b1130.1.0.1"
 	}
 ]

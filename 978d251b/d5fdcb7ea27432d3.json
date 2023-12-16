@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:motorola:moto_e20_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:motorola:moto_e20_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "rons31.267-38-8"
 	}
 ]

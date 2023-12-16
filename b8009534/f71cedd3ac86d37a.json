@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trendmicro:trend_micro_endpoint_encryption:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:trend_micro_endpoint_encryption:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:trend_micro_endpoint_encryption:6.0.0.3204:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "6.0.0.3204"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:frappe:frappe_lms:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:frappe:frappe_lms:1.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.0"
 	}
 ]

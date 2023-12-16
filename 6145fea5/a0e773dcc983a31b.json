@@ -4,9 +4,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jacic:electronic_bidding_core_system:6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jacic:electronic_bidding_core_system:6:r4:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6"
@@ -15,5 +12,14 @@
 		"cpe23Uri": "cpe:2.3:a:jacic:electronic_bidding_core_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jacic:electronic_bidding_core_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jacic:electronic_bidding_core_system:6:r4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6"
 	}
 ]

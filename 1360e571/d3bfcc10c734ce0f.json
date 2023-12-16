@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tar-utils_project:tar-utils:*:*:*:*:*:go:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tar-utils_project:tar-utils:-:*:*:*:*:go:*:*"
+			}
+		],
 		"versionEndExcluding": "0.0.0-20201201191210-20a61371de5b"
 	}
 ]

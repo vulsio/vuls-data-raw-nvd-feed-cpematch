@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt_f-2_pn_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt_f-2_pn_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.9.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt_f-2_pn_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1500_cpu_1514spt_f-2_pn_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.0"
 	}
 ]

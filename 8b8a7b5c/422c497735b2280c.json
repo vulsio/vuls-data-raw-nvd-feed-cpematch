@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:syracom:secure_login:*:*:*:*:*:jira:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:syracom:secure_login:-:*:*:*:*:jira:*:*"
+			}
+		],
 		"versionEndExcluding": "3.1.1.0"
 	}
 ]

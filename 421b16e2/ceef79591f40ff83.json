@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:slimndap:theater_for_wordpress:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:slimndap:theater_for_wordpress:0.18.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.18.3"
 	}
 ]

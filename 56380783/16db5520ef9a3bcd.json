@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:elastic_agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elastic_agent:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elastic_agent:8.9.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.9.2",
 		"versionStartIncluding": "8.0.0"
 	}

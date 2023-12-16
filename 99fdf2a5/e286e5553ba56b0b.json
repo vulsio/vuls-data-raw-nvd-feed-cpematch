@@ -19368,7 +19368,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libreoffice:libreoffice:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libreoffice:libreoffice:7.6.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.6.4",
 		"versionStartIncluding": "7.6.0"
 	}

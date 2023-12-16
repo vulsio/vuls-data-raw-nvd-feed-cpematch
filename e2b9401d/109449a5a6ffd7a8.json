@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:q2w3:q2w3_post_order:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:q2w3:q2w3_post_order:1.2.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.8"
 	}
 ]

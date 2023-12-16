@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:systematica:http_adapter:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:systematica:http_adapter:1.8.0.15:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.0.15"
 	}
 ]

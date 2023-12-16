@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:userlocal:userheat_plugin:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:userlocal:userheat_plugin:1.1.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.6"
 	}
 ]

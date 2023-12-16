@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:themepunch:essential_grid:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:themepunch:essential_grid:3.1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1.0"
 	}
 ]

@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:edocintelligence:employee_job_application:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:edocintelligence:employee_job_application:1.10:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:edocintelligence:employee_job_application:1.11:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:edocintelligence:employee_job_application:1.12:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:edocintelligence:employee_job_application:1.13:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.13"
 	}
 ]

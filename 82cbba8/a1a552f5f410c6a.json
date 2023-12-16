@@ -283,6 +283,9 @@
 		"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:12.1.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -381,6 +384,9 @@
 		"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:13.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:13.1.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -412,6 +418,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:13.10.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:13.12.16:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.12.17",
@@ -454,6 +463,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:14.0.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:14.1.0:*:*:*:*:*:*:*"
 			},
@@ -503,7 +515,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:enterprisedb:postgres_advanced_server:15.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "15.4.0",
 		"versionStartIncluding": "15.0.0"
 	}

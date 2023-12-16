@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:memory_card_\\&_ufd_authentication:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:memory_card_\\&_ufd_authentication:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.1"
 	}
 ]

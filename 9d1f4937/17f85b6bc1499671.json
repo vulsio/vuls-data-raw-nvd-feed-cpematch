@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:swig_project:swig:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:swig_project:swig:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:swig_project:swig:1.4.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4.2"
 	}
 ]

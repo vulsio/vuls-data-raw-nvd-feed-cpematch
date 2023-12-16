@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:systematica:mssql_messagebus_proxy:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:systematica:mssql_messagebus_proxy:1.1.06:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.06"
 	}
 ]

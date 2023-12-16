@@ -1,7 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:documentlocator:document_locator:7.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.2"
 	}
 ]

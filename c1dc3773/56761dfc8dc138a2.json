@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:opartfaq_project:opartfaq:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opartfaq_project:opartfaq:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opartfaq_project:opartfaq:1.0.3:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.4"
 	}
 ]
