@@ -7,9 +7,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.9"
+		"versionEndIncluding": "10.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:*:*:*:*:*:*:*:*",
@@ -19,11 +22,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.9"
+		"versionEndExcluding": "10.9"
 	}
 ]

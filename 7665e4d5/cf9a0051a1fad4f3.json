@@ -72673,9 +72673,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.44:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.44"
+		"versionEndIncluding": "2.44"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*",
@@ -77206,15 +77212,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.43:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.44:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.44:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.44"
+		"versionEndExcluding": "2.44"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:*:*:*:*",

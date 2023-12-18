@@ -22,9 +22,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-300hp_firmware:1.99:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-300hp_firmware:2.00:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.00"
+		"versionEndIncluding": "2.00"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:buffalo:wzr-300hp_firmware:*:*:*:*:*:*:*:*",
@@ -37,11 +40,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-300hp_firmware:1.99:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-300hp_firmware:2.00:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.00"
+		"versionEndExcluding": "2.00"
 	}
 ]

@@ -16,12 +16,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:lw70.sb4.p205:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:lw71.sb4.p216:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "lw71.sb4.p216"
+		"versionEndExcluding": "lw71.sb4.p216"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:*:*:*:*:*:*:*:*",
@@ -31,9 +28,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:lw70.sb4.p205:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:lw71.sb4.p216:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "lw71.sb4.p216"
+		"versionEndIncluding": "lw71.sb4.p216"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:lexmark:xm1145_firmware:*:*:*:*:*:*:*:*",
