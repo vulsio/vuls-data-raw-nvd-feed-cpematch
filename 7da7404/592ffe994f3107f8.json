@@ -18,15 +18,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "r8.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:r8.2:-:*:*:*:*:*:*"
@@ -36,5 +27,14 @@
 			}
 		],
 		"versionEndIncluding": "r8.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sppa-t3000_application_server:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r8.2"
 	}
 ]

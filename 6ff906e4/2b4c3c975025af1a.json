@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-hp-ag300h_firmware:1.75:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-hp-ag300h_firmware:1.76:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.76"
+		"versionEndExcluding": "1.76"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:buffalo:wzr-hp-ag300h_firmware:*:*:*:*:*:*:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-hp-ag300h_firmware:1.75:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:buffalo:wzr-hp-ag300h_firmware:1.76:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.76"
+		"versionEndIncluding": "1.76"
 	}
 ]
