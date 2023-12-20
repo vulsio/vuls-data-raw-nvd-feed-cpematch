@@ -99,12 +99,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:1.0.0.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:1.0.0.63:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.0.63"
+		"versionEndExcluding": "1.0.0.63"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:*:*:*:*:*:*:*:*",
@@ -126,9 +123,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:1.0.0.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:1.0.0.63:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.0.63"
+		"versionEndIncluding": "1.0.0.63"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:d6100_firmware:*:*:*:*:*:*:*:*",

@@ -65,18 +65,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.0:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.1",
+		"versionEndExcluding": "2.3.1",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -132,9 +123,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.0:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:threat_intelligence_exchange_server:2.3.1:hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.1",
+		"versionEndIncluding": "2.3.1",
 		"versionStartIncluding": "2.0.0"
 	},
 	{

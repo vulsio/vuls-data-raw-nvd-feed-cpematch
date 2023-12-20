@@ -1,6 +1,12 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "7.17.16",
+		"versionStartIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:8.0.0:*:*:*:*:*:*:*"
@@ -10,6 +16,19 @@
 			}
 		],
 		"versionEndIncluding": "8.9.2",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elastic_beats:8.9.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.11.3",
 		"versionStartIncluding": "8.0.0"
 	}
 ]

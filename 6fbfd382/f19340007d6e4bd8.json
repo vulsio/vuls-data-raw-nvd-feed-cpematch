@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:matlab:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:matlab:2.11.0:*:*:*:*:jenkins:*:*"
+			}
+		],
 		"versionEndExcluding": "2.11.1"
 	}
 ]

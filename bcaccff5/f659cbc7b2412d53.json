@@ -217,12 +217,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.4"
+		"versionEndExcluding": "3.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",
@@ -331,9 +328,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:3.9.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.4"
+		"versionEndIncluding": "3.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rconfig:rconfig:*:*:*:*:*:*:*:*",

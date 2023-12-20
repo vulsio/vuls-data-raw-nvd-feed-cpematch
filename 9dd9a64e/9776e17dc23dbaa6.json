@@ -8349,25 +8349,6 @@
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.2",
-		"versionStartIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -8407,6 +8388,18 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:11.2:*:*:*:*:*:*:*"
 			},
@@ -9299,6 +9292,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.0",
+		"versionStartIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1:*:*:*:*:*:*:*"
@@ -9433,12 +9439,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:11.0.1:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:11.1:*:*:*:*:*:*:*"
 			},
@@ -10249,7 +10249,7 @@
 			}
 		],
 		"versionEndExcluding": "12.1",
-		"versionStartExcluding": "12.0"
+		"versionStartIncluding": "12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -10262,7 +10262,7 @@
 			}
 		],
 		"versionEndExcluding": "12.1",
-		"versionStartIncluding": "12.0"
+		"versionStartExcluding": "12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -10278,6 +10278,19 @@
 			}
 		],
 		"versionEndExcluding": "12.2",
+		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.3",
 		"versionStartIncluding": "12.0"
 	},
 	{
@@ -10316,15 +10329,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.3",
+		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.3",
+		"versionEndIncluding": "12.4",
 		"versionStartIncluding": "12.0"
 	},
 	{
@@ -10362,19 +10388,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "12.4",
@@ -10957,12 +10971,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1",
+		"versionEndExcluding": "12.1",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
@@ -10973,9 +10984,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1",
+		"versionEndIncluding": "12.1",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
@@ -11017,25 +11031,6 @@
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.3",
-		"versionStartExcluding": "12.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -11053,6 +11048,25 @@
 		],
 		"versionEndExcluding": "12.3",
 		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.3",
+		"versionStartExcluding": "12.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
