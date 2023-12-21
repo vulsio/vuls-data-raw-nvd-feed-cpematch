@@ -628,6 +628,9 @@
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -677,6 +680,15 @@
 		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -705,32 +717,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.12:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.3.18",
-		"versionStartIncluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.3.18",
-		"versionStartIncluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.3.13:*:*:*:*:*:*:*"
@@ -758,30 +744,6 @@
 		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.8:*:*:*:*:*:*:*"
 			},
 			{
@@ -798,9 +760,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.14",
+		"versionEndIncluding": "2.4.14",
 		"versionStartIncluding": "2.4.0"
 	},
 	{
@@ -835,7 +800,45 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.4.14",
+		"versionStartIncluding": "2.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.4.14",
+		"versionStartIncluding": "2.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.10:*:*:*:*:*:*:*"
 			},
@@ -847,12 +850,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.4.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.14",
+		"versionEndExcluding": "2.4.14",
 		"versionStartIncluding": "2.4.0"
 	},
 	{
@@ -915,6 +915,12 @@
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -932,27 +938,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.6.5",
-		"versionStartIncluding": "2.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.2:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.6.5",
-		"versionStartIncluding": "2.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.2:*:*:*:*:*:*:*"
 			},

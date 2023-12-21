@@ -982,12 +982,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:1.4.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:1.4.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.19"
+		"versionEndExcluding": "1.4.19"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:*:*:*:*:*:*:*:*",
@@ -1111,9 +1108,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:1.4.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:1.4.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.19"
+		"versionEndIncluding": "1.4.19"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xstream_project:xstream:*:*:*:*:*:*:*:*",

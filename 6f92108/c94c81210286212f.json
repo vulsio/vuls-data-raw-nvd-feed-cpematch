@@ -3,5 +3,29 @@
 		"cpe23Uri": "cpe:2.3:a:primx:zonecentral:*:*:*:*:*:windows:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "6.1.2240"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:primx:zonecentral:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zonecentral:6.1.2240:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndIncluding": "2023.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:primx:zonecentral:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zonecentral:6.1.2240:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "q.2021.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:primx:zonecentral:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "2023.5",
+		"versionStartIncluding": "2023.0"
 	}
 ]
