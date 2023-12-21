@@ -556,16 +556,10 @@
 		"cpe23Uri": "cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.4.4",
@@ -576,6 +570,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.4.4",
@@ -585,18 +594,8 @@
 		"cpe23Uri": "cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:-:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.4.4",
-		"versionStartIncluding": "5.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.0:alpha:*:*:*:*:*:*"
 			},
@@ -605,13 +604,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.4.4",
+		"versionStartIncluding": "5.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:lua:lua:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.4:*:*:*:*:*:*:*"
 			}

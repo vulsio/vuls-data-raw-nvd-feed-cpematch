@@ -3,6 +3,15 @@
 		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.42.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -132,12 +141,6 @@
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.31.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.31.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.32:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.32.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -208,9 +211,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.42.1"
+		"versionEndIncluding": "0.42.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
@@ -367,7 +373,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.33.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.42.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.31.5:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.32:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.42.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.34:*:*:*:*:*:*:*"
 			},
@@ -418,14 +442,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.42.1"
+		"versionEndExcluding": "0.42.1"
 	}
 ]

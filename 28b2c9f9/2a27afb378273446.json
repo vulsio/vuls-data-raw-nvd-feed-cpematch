@@ -1,6 +1,406 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:h:amd:*:*:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:4700s:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:athlon_3015ce:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:athlon_3015e:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7203:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7203p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7303:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7303p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7643p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_7663p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8024p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8024pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8124p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8124pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8224p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8224pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8324p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8324pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8434p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8434pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8534p:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:epyc_8534pn:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:genoapi:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_vega_56:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_vega_64:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_w6300:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_w7500:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_w7600:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_w7800:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_pro_w7900:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_6450m:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_6550m:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_6550s:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_6750_gre_10gb:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_6750_gre_12gb:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7600:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7600m:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7600m_xt:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7600s:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7700_xt:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7700s:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7800_xt:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7900_gre:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7900_xt:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7900_xtx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:radeon_rx_7900m:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen3_5300u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_3015ce:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_3015e:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_3300:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_4100:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_5100:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_7320u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_7335u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_7440u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_pro_7330u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_3_pro_7440u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_4700s:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_4500:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_4600hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_4680u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_5500h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_5600x3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7500f:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7535hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7535u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7540u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7545u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7600:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7600x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7640h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7640u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_7645hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_3200g:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_3200ge:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_5645:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7530u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7540u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7545u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7640h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7640hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7640u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_5_pro_7645:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_3700:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_4800hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_4980u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_5700:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7645hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7700:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7700x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7735hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7735u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7736u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7745hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7800x3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7840h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7840hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_7840u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_5845:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_7730u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_7745:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_7840h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_7840hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_7_pro_7840u:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_3800x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_3850x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7645hx3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7845hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7900:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7900x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7900x3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7940h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7940hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7940hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7945hx:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7945hx3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7950x:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_7950x3d:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_pro_5945:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_pro_7640hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_pro_7940h:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_pro_7940hs:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_9_pro_7945:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_pro_7645:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_pro_7745:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_pro_7945:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_z1:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:ryzen_z1_extreme:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:v314:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:v3c16:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:v3c18:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:v3c44:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:v3c48:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:h:amd:van_gogh_0405:-:*:*:*:*:*:*:*"
+			}
+		]
 	}
 ]

@@ -1200,9 +1200,6 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:connect:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:connect:1.0.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:connect:6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1351,9 +1348,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:connect:11.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:connect:11.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.2.2"
+		"versionEndIncluding": "11.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:connect:*:*:*:*:*:*:*:*",
@@ -1513,9 +1513,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:connect:11.2.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "11.2.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:connect:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:connect:11.2.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:connect:1.0.0.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.2.2"

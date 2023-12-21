@@ -2689,12 +2689,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:eva-l09c636b380:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:eva-l09c636b388:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "eva-l09c636b388"
+		"versionEndExcluding": "eva-l09c636b388"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:*:*:*:*:*:*:*:*",
@@ -2845,9 +2842,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:eva-l09c636b380:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:eva-l09c636b388:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "eva-l09c636b388"
+		"versionEndIncluding": "eva-l09c636b388"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:p9_firmware:*:*:*:*:*:*:*:*",
