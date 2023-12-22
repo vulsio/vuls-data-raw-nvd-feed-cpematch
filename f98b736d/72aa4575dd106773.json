@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:primx:zed\\!:*:*:*:*:enterprise:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zed\\!:2023.5:*:*:*:enterprise:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zed\\!:q.2020.1:*:*:*:enterprise:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zed\\!:q.2020.2:*:*:*:enterprise:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "q.2020.3"
 	},
 	{
@@ -12,7 +22,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:primx:zed\\!:*:*:*:*:enterprise:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:primx:zed\\!:q.2021.1:*:*:*:enterprise:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "q.2021.2",
 		"versionStartIncluding": "q.2021.0"
 	}

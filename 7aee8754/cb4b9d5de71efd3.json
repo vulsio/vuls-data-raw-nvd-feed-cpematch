@@ -1,13 +1,30 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:*:*:*:*:*:odoo:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.0:*:*:*:*:odoo:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.1:*:*:*:*:odoo:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.0.1.2:*:*:*:*:odoo:*:*"
+			}
+		],
 		"versionEndIncluding": "11.0.2",
 		"versionStartIncluding": "11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:*:*:*:*:*:odoo:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.1:*:*:*:*:odoo:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:12.0.1.2:*:*:*:*:odoo:*:*"
+			}
+		],
 		"versionEndIncluding": "12.0.2",
 		"versionStartIncluding": "12.0"
 	},

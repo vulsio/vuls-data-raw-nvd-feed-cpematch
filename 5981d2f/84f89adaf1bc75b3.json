@@ -55997,9 +55997,6 @@
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.31.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.31.0:rc0:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.31.0:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -56053,6 +56050,16 @@
 			}
 		],
 		"versionEndIncluding": "2.31.5",
+		"versionStartIncluding": "2.31.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.31.0:rc0:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.31.5",
 		"versionStartIncluding": "2.31.0"
 	},
 	{
@@ -56316,9 +56323,6 @@
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.0:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -56326,9 +56330,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.33.5",
+		"versionEndIncluding": "2.33.5",
 		"versionStartIncluding": "2.33.0"
 	},
 	{
@@ -56347,9 +56354,6 @@
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.0:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -56357,12 +56361,29 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.4:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.33.5",
+		"versionStartIncluding": "2.33.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.33.5",
+		"versionStartIncluding": "2.33.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.33.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.33.5",
 		"versionStartIncluding": "2.33.0"
 	},
 	{
@@ -56465,9 +56486,6 @@
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.0:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.0:rc2:*:*:*:*:*:*"
 			},
 			{
@@ -56518,6 +56536,16 @@
 			}
 		],
 		"versionEndIncluding": "2.34.5",
+		"versionStartIncluding": "2.34.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:git-scm:git:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.34.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.34.5",
 		"versionStartIncluding": "2.34.0"
 	},
 	{

@@ -474,39 +474,6 @@
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.7:*:*:*:*:node.js:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.8:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.9:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.10:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.11:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.12:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.13:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.14:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.15:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.1.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:6.0.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:6.0.1:*:*:*:*:node.js:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:6.1.0:*:*:*:*:node.js:*:*"
 			},
 			{
@@ -610,9 +577,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.17:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.18:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.18"
+		"versionEndIncluding": "8.0.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",
@@ -640,7 +610,52 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:3.0.2:*:*:*:*:node.js:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.8:*:*:*:*:node.js:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.9:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.10:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.11:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.12:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.13:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.14:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.0.15:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:5.1.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:6.0.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:6.0.1:*:*:*:*:node.js:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:3.0.3:*:*:*:*:node.js:*:*"
 			},
@@ -919,12 +934,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.17:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.18:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.18"
+		"versionEndExcluding": "8.0.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",

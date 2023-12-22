@@ -4,6 +4,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:blockchain_platform:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:blockchain_platform:21.1.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "21.1.2"
@@ -16,14 +19,5 @@
 			}
 		],
 		"versionEndExcluding": "21.1.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:blockchain_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:blockchain_platform:21.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "21.1.2"
 	}
 ]
