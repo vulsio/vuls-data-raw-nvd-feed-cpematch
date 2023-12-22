@@ -1347,6 +1347,9 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.2.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1422,6 +1425,9 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.2.26:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.2.27:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.1:m2:*:*:*:*:*:*"
 			},
 			{
@@ -1449,13 +1455,82 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.9:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.13:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.1:m1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.2:m2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.3:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.11:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.12:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.13:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.29:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.34:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.4.34"
@@ -1648,87 +1723,6 @@
 			}
 		],
 		"versionEndExcluding": "7.4.34"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.2.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.3.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.1:m1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.2:m2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.3:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.29:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.34:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.4.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
@@ -4040,27 +4034,6 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.0:m1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.1:m2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.2:m3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.19:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.23:*:*:*:*:*:*:*"
 			},
 			{
@@ -4068,6 +4041,45 @@
 			}
 		],
 		"versionEndIncluding": "7.5.24",
+		"versionStartIncluding": "7.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.5.24",
+		"versionStartIncluding": "7.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.19:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.5.24",
+		"versionStartIncluding": "7.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.2:m3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.5.24",
 		"versionStartIncluding": "7.5.0"
 	},
 	{
@@ -4083,10 +4095,20 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.2:m3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.5.24",
+		"versionStartIncluding": "7.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.0:m1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.1:m2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.5.5:*:*:*:*:*:*:*"
@@ -4239,6 +4261,16 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.20",
+		"versionStartIncluding": "7.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -4262,9 +4294,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.6.20",
@@ -4388,6 +4417,16 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.21:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.27",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -4414,9 +4453,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.21:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:8.0.23:*:*:*:*:*:*:*"
