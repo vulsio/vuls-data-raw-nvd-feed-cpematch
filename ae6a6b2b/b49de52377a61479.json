@@ -345,7 +345,7 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:11.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.1.2"
+		"versionEndExcluding": "11.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
@@ -388,13 +388,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:11.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.1.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:11.1.2:*:*:*:*:*:*:*"
 			}

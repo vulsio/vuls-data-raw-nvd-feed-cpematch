@@ -31,7 +31,52 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.4.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.7.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.9.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.5.0:*:*:*:*:*:*:*"
 			},
@@ -55,25 +100,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.9.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.0:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.0:*:*:*:*:*:*:*"
 			},
@@ -91,9 +118,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.9.3"
+		"versionEndIncluding": "6.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",
@@ -136,39 +166,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.2:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:6.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.9.3"
+		"versionEndExcluding": "6.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oniguruma_project:oniguruma:*:*:*:*:*:*:*:*",

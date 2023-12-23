@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:1.01:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:1.02:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:1.03:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giannopouloskostas:wpsoononlinepage:1.9:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.9"
 	}
 ]

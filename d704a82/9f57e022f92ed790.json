@@ -182,8 +182,38 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.0.136:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2_base:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:-:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.1.1.27:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.1.103:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.0_base:*:*:*:*:*:*:*"
 			},
@@ -195,9 +225,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.1.1.27:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.1.1.33:*:*:*:*:*:*:*"
@@ -296,19 +323,10 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.0.136:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.1.103:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2.1.126:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.2_base:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_desktop:3.3:*:*:*:*:*:*:*"

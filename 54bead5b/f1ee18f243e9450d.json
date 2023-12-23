@@ -73,12 +73,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.13:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.13.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.13.1",
+		"versionEndExcluding": "4.13.1",
 		"versionStartIncluding": "4.7"
 	},
 	{
@@ -155,9 +152,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.13:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:junit:junit4:4.13.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.13.1",
+		"versionEndIncluding": "4.13.1",
 		"versionStartIncluding": "4.7"
 	}
 ]
