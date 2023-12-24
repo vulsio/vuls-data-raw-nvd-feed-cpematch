@@ -1035,9 +1035,6 @@
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:a1:*:*:*:*:*:*"
 			},
 			{
@@ -1045,6 +1042,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2a:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.1:*:*:*:*:*:*:*"
@@ -1195,24 +1216,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.12.7"
+		"versionEndIncluding": "1.12.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2a:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc3:*:*:*:*:*:*"
@@ -1501,12 +1516,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.12.7"
+		"versionEndExcluding": "1.12.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",

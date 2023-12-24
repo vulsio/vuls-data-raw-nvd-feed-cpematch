@@ -13,12 +13,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-table_reloaded_project:wp-table_reloaded:1.9.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-table_reloaded_project:wp-table_reloaded:1.9.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.4"
+		"versionEndExcluding": "1.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wp-table_reloaded_project:wp-table_reloaded:*:*:*:*:*:wordpress:*:*",
@@ -34,8 +31,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-table_reloaded_project:wp-table_reloaded:1.9.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-table_reloaded_project:wp-table_reloaded:1.9.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.4"
+		"versionEndIncluding": "1.9.4"
 	}
 ]

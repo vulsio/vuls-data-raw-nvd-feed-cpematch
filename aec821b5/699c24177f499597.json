@@ -105,7 +105,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:6.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.1.0",
+		"versionEndIncluding": "6.1.0",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
@@ -116,7 +116,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:6.0.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "6.1.0",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:6.1.0:*:*:*:*:*:*:*"
 			}
@@ -164,9 +171,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:7.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.1.0",
+		"versionEndIncluding": "7.1.0",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -174,12 +184,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-iq_centralized_management:7.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.1.0",
+		"versionEndExcluding": "7.1.0",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
