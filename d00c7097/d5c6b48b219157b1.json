@@ -72,6 +72,12 @@
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.33:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.35:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.44:*:*:*:*:*:*:*"
 			},
 			{
@@ -150,9 +156,6 @@
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.43:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.44:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.44:test1:*:*:*:*:*:*"
 			},
 			{
@@ -176,12 +179,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.35:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.36:*:*:*:*:*:*:*"
 			},
@@ -208,6 +205,15 @@
 			}
 		],
 		"versionEndIncluding": "0.47"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.44:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:*:*:*:*:*:*:*:*",

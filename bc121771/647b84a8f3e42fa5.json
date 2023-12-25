@@ -30,12 +30,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_quantum_firmware:2.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_quantum_firmware:3.60:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.60"
+		"versionEndExcluding": "3.60"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_quantum_firmware:*:*:*:*:*:*:*:*",
@@ -45,8 +42,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_quantum_firmware:2.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_quantum_firmware:3.60:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.60"
+		"versionEndIncluding": "3.60"
 	}
 ]
