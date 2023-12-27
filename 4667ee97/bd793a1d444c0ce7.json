@@ -1,19 +1,40 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:5.0.39:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.39",
 		"versionStartIncluding": "5.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:6.0.23:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "6.0.23",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:6.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix-agent:6.4.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "6.4.8",
 		"versionStartIncluding": "6.4.0"
 	}

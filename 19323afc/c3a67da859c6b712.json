@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:chrome:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:0.10.22:*:*:*:*:chrome:*:*"
+			}
+		],
 		"versionEndExcluding": "0.10.23"
 	}
 ]

@@ -286,13 +286,26 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:5.0.1:*:*:*:*:tvos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:8.4.0:*:*:*:*:tvos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:8.5.0:*:*:*:*:tvos:*:*"
 			}
 		],
 		"versionEndExcluding": "9.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:tvos:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:8.4.0:*:*:*:*:tvos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:8.5.0:*:*:*:*:tvos:*:*"
+			}
+		],
 		"versionEndIncluding": "8.5.0",
 		"versionStartIncluding": "8.4.0"
 	}

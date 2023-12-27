@@ -19,12 +19,69 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.50"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.30.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.40.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50.220303a:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.50.230201a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.30.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.40.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.50.230201a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.60:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.60"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
@@ -83,10 +140,39 @@
 		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.60.220303a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.60.230201b:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.60.231116a",
+		"versionStartIncluding": "8.60"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.70:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.70.230201a",
+		"versionStartIncluding": "8.70"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.70:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.70.230201a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.70.231204a",
 		"versionStartIncluding": "8.70"
 	},
 	{
@@ -98,5 +184,24 @@
 		],
 		"versionEndExcluding": "8.80.230201a",
 		"versionStartIncluding": "8.80"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.80:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:8.80.230201a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.80.231204a",
+		"versionStartIncluding": "8.80"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:gallagher:controller_6000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "8.90.231204a",
+		"versionStartIncluding": "8.90"
 	}
 ]

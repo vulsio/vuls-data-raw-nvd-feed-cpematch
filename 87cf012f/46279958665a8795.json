@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.13.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_switch:0.13.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.13.3",
 		"versionStartIncluding": "0.13"
 	}

@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:1.14.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.14.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:1.14.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_xbox:1.14.40:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.14.40",
 		"versionStartIncluding": "1.12.0"
 	}

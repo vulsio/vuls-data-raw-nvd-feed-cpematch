@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:10.10:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:11.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndExcluding": "12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:10.10:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight:11.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "11.0",
 		"versionStartIncluding": "10.10"
 	}

@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:1.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:1.5.27:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:1.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moonlight-stream:moonlight_tv:1.5.27:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.27",
 		"versionStartIncluding": "1.5.4"
 	}
