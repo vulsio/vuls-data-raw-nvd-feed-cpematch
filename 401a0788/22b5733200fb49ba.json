@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bosch:video_security_client:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bosch:video_security_client:3.3.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.5"
 	}
 ]

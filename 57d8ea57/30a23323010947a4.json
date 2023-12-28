@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:artio:joomdoc:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artio:joomdoc:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artio:joomdoc:4.0.5:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "4.0.5",
 		"versionStartIncluding": "1.0.0"
 	}

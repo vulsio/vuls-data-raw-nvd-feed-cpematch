@@ -94,6 +94,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bosch:video_streaming_gateway:6.45.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bosch:video_streaming_gateway:8.1.2.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.1.2.2"
@@ -152,7 +155,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bosch:video_streaming_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bosch:video_streaming_gateway:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bosch:video_streaming_gateway:9.0.0.178:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.0.178",
 		"versionStartIncluding": "9.0.0"
 	}

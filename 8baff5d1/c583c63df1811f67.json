@@ -195,9 +195,6 @@
 				"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:3.8.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:3.8.7a:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:3.8.7b:*:*:*:*:*:*:*"
 			},
 			{
@@ -292,6 +289,15 @@
 			}
 		],
 		"versionEndIncluding": "4.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:3.8.7a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:matrixssl:matrixssl:*:*:*:*:*:*:*:*",

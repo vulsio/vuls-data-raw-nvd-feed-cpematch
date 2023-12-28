@@ -1380,5 +1380,33 @@
 			}
 		],
 		"versionEndIncluding": "8.5.2.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:lotus_notes:7.0.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.3",
+		"versionStartIncluding": "7.0.0"
 	}
 ]

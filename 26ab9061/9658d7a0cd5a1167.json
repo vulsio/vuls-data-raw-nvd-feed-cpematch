@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:opentelemetry:opentelemetry:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opentelemetry:opentelemetry:-:*:*:*:*:go:*:*"
+			}
+		],
 		"versionEndExcluding": "0.41b0"
 	}
 ]
