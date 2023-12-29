@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpsolutions-hq:wpdbspringclean:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpsolutions-hq:wpdbspringclean:1.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.6"
 	}
 ]

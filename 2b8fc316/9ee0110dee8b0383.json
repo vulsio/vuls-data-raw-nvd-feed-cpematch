@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:guillemantdavid:full_auto_tags_manager:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:guillemantdavid:full_auto_tags_manager:2.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2"
 	}
 ]

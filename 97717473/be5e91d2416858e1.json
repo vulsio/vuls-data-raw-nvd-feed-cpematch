@@ -1,11 +1,31 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:*:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.750:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.760:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.760:rc3:*:*:*:*:*:*"
+			}
+		]
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.750:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.760:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postnuke:postnuke:0.760:rc3:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.764"
 	}
 ]

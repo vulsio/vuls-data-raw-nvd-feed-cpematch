@@ -511,9 +511,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:code42:code42:6.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:code42:code42:6.8.4:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.8.4"
+		"versionEndIncluding": "6.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:code42:code42:*:*:*:*:enterprise:*:*:*",
@@ -772,12 +775,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:code42:code42:6.8:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:code42:code42:6.8.4:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.8.4"
+		"versionEndExcluding": "6.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:code42:code42:*:*:*:*:enterprise:*:*:*",

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpsynchro:wp_synchro:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpsynchro:wp_synchro:1.9.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.9.1"
 	}
 ]

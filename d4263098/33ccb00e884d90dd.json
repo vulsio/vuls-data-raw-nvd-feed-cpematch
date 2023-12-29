@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wapnepal:delete_post_revisions:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wapnepal:delete_post_revisions:4.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "4.6"
 	}
 ]

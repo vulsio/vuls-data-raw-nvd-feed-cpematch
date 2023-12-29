@@ -52,5 +52,27 @@
 			}
 		],
 		"versionStartIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:3.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:archiver_project:archiver:3.2.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.2",
+		"versionStartIncluding": "3.0.0"
 	}
 ]

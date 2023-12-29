@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eupago:eupago_gateway_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eupago:eupago_gateway_woocommerce:3.1.9:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1.9"
 	}
 ]

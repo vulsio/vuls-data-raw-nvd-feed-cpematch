@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:supremo:bulk_comment_remove:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:supremo:bulk_comment_remove:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:supremo:bulk_comment_remove:2.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0"
 	}
 ]

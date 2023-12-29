@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:myaudiomerchant:audio_merchant:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myaudiomerchant:audio_merchant:5.0.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.4"
 	}
 ]
