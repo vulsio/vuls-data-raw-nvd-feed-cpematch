@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:casier:bbpress_toolkit:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:casier:bbpress_toolkit:1.0.12:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.12"
 	}
 ]

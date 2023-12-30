@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:qognify:nicevision:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qognify:nicevision:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qognify:nicevision:3.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1"
 	}
 ]

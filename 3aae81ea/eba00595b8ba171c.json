@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:myserverproject:myserver:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:myserverproject:myserver:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myserverproject:myserver:0.8.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.8.9"
 	}
 ]

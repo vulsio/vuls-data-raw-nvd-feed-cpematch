@@ -490,9 +490,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:6.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:6.6.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.9",
+		"versionEndExcluding": "6.6.9",
 		"versionStartIncluding": "6.6.0"
 	},
 	{
@@ -519,16 +522,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:6.6.7:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:6.6.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.6.9",
-		"versionStartIncluding": "6.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass:6.6.8:*:*:*:*:*:*:*"
 			},

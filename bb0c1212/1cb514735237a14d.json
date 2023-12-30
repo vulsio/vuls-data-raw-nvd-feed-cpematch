@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:suse:suse_linux:*:*:enterprise_server:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:suse:suse_linux:9.0:*:enterprise_server:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:suse:suse_linux:10:sp1:enterprise_server:*:*:*:*:*"
+			}
+		]
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:suse:suse_linux:*:*:enterprise_server:*:*:*:*:*",
@@ -10,12 +17,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:suse:suse_linux:*:*:enterprise_server:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:suse:suse_linux:9.0:*:enterprise_server:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9_sg_a.11.16.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:suse:suse_linux:*:*:enterprise_server:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:suse:suse_linux:9.0:*:enterprise_server:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:suse:suse_linux:10:sp1:enterprise_server:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "10_sg_a.11.16.9"
 	}
 ]

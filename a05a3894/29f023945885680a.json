@@ -169,6 +169,12 @@
 		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone1:*:*:*:*:*:*"
 			},
 			{
@@ -182,29 +188,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.0.11",
-		"versionStartIncluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.11",
-		"versionStartIncluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.3:*:*:*:*:*:*:*"
@@ -241,31 +230,8 @@
 		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.11",
-		"versionStartIncluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.0.11",
-		"versionStartIncluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
 			},
@@ -283,6 +249,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.3:*:*:*:*:*:*:*"
@@ -390,12 +362,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.2",
+		"versionEndExcluding": "2.1.2",
 		"versionStartIncluding": "2.1.0"
 	},
 	{
@@ -406,9 +375,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.2",
+		"versionEndIncluding": "2.1.2",
 		"versionStartIncluding": "2.1.0"
 	},
 	{

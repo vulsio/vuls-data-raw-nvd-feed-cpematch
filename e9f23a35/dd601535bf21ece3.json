@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:yapig:yapig:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yapig:yapig:0.92b:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yapig:yapig:0.93u:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yapig:yapig:0.94u:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.95b"
 	}
 ]

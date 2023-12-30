@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lockss:classic_lockss_daemon:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lockss:classic_lockss_daemon:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lockss:classic_lockss_daemon:1.75.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lockss:classic_lockss_daemon:1.76.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.77.3"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2021.11_1.162"
 	},
 	{

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gravityforms:gravity_forms:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gravityforms:gravity_forms:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gravityforms:gravity_forms:2.7.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.7.4"
 	}
 ]

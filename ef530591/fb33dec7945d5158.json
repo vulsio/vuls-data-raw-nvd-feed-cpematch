@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bcorp_shortcodes_project:bcorp_shortcodes:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bcorp_shortcodes_project:bcorp_shortcodes:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bcorp_shortcodes_project:bcorp_shortcodes:0.23:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.23"
 	}
 ]

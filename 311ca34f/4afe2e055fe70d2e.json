@@ -1,12 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:uxthemes:flatsome:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uxthemes:flatsome:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.16.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:uxthemes:flatsome:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:uxthemes:flatsome:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.17.6"
 	}
 ]

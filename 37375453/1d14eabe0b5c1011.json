@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:everybuddy:everybuddy:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:everybuddy:everybuddy:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:everybuddy:everybuddy:0.4.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.4.3"
 	}
 ]

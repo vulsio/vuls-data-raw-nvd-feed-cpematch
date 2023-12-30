@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hitachi:vantara_hitachi_network_attached_storage:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:vantara_hitachi_network_attached_storage:14.6.7520.04:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:vantara_hitachi_network_attached_storage:14.8.7825.01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "14.8.7825.01"
 	}
 ]

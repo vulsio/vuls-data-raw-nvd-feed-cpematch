@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:0.6.7:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:debian:nss-ldap:0.6.7:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.6.8"
 	}
 ]

@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:apex_protection_storage:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:apex_protection_storage:7.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.10.1.15",
 		"versionStartIncluding": "7.0"
 	}

@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:2.16ww:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.16ww"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-600_firmware:2.16ww:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.17b01"
 	}
 ]

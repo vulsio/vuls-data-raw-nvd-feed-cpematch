@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:averta:master_slider_pro:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:averta:master_slider_pro:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:averta:master_slider_pro:3.6.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.6.5"
 	}
 ]

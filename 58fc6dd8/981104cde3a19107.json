@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cybrosys:website_blog_search:*:*:*:*:*:odoo:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cybrosys:website_blog_search:13.0:*:*:*:*:odoo:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cybrosys:website_blog_search:13.0.1.0.1:*:*:*:*:odoo:*:*"
+			}
+		],
 		"versionEndIncluding": "13.0.1.0.1",
 		"versionStartIncluding": "13.0"
 	}

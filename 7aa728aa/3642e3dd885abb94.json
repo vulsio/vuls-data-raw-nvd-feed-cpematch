@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sentry:symbolicator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sentry:symbolicator:0.3.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.11.2",
 		"versionStartIncluding": "0.3.3"
 	}

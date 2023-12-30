@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dmry:sayfa_sayac:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dmry:sayfa_sayac:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dmry:sayfa_sayac:2.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.6"
 	}
 ]

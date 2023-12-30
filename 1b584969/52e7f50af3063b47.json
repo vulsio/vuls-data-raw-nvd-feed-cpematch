@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:tp-link:tapo_c100_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:tp-link:tapo_c100_firmware:1.1.15:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:tp-link:tapo_c100_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:tp-link:tapo_c100_firmware:1.1.15:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:tp-link:tapo_c100_firmware:2020-02-09:*:*:*:*:*:*:*"
 			}

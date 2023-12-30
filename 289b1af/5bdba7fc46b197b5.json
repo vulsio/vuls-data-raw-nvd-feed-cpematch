@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:docker:libcontainer:*:*:*:*:*:docker:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:docker:libcontainer:1.6.0:*:*:*:*:docker:*:*"
+			}
+		],
 		"versionEndIncluding": "1.6.0"
 	}
 ]

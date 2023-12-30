@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mbedthis:appweb_http_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mbedthis:appweb_http_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mbedthis:appweb_http_server:1.0.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.3"
 	}
 ]

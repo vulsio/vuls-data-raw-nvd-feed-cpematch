@@ -288,9 +288,6 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.1.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -298,21 +295,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.200:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.300:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.400:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.500:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.600:*:*:*:*:*:*:*"
@@ -526,6 +508,30 @@
 			}
 		],
 		"versionEndExcluding": "5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.200:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.300:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.400:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:1.2.500:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:*:*:*:*:*:*:*:*",

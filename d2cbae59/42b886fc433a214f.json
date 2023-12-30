@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:hpe:integrated_lights-out_6_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hpe:integrated_lights-out_6_firmware:1.05:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.53"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hpe:integrated_lights-out_6_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hpe:integrated_lights-out_6_firmware:1.05:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hpe:integrated_lights-out_6_firmware:1.55:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.55",
 		"versionStartIncluding": "1.05"
 	}

@@ -16,9 +16,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:floodlight:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:floodlight:1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2"
+		"versionEndIncluding": "1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:atlassian:floodlight:*:*:*:*:*:*:*:*",
@@ -37,11 +40,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:floodlight:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:floodlight:1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2"
+		"versionEndExcluding": "1.2"
 	}
 ]
