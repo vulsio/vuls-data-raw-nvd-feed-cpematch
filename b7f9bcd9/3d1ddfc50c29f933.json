@@ -3021,12 +3021,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tenable:nessus:8.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tenable:nessus:8.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2.5"
+		"versionEndExcluding": "8.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tenable:nessus:*:*:*:*:*:*:*:*",
@@ -3318,9 +3315,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tenable:nessus:8.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tenable:nessus:8.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2.5"
+		"versionEndIncluding": "8.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tenable:nessus:*:*:*:*:*:*:*:*",

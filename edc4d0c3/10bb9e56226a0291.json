@@ -3582,12 +3582,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:safari:4.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:safari:4.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.4"
+		"versionEndExcluding": "4.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:safari:*:*:*:*:*:*:*:*",
@@ -3846,9 +3843,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:safari:4.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:safari:4.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0.4"
+		"versionEndIncluding": "4.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:safari:*:*:*:*:*:*:*:*",
