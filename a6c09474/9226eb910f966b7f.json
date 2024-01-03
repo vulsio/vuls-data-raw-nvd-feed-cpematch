@@ -39,6 +39,9 @@
 				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:*:*:*:*:windows:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:-:*:*:*:windows:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:april_2020:*:*:*:windows:*:*"
 			},
 			{
@@ -100,22 +103,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.5.2:hotfix1:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.6.1:-:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:endpoint_security:10.5.2:hotfix2:*:*:*:windows:*:*"
 			},

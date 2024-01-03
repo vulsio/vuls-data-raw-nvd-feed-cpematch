@@ -265,15 +265,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:dev:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.1"
+		"versionEndExcluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
@@ -376,9 +370,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:dev:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.1"
+		"versionEndIncluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
