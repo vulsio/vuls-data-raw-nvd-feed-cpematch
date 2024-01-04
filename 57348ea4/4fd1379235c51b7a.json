@@ -36,39 +36,6 @@
 		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.1:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.2:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.3:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.4:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.5:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.6:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.7:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndIncluding": "0.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.6:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.7:*:*:*:*:jenkins:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.8:*:*:*:*:jenkins:*:*"
 			},
 			{
@@ -90,15 +57,6 @@
 		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.8:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndIncluding": "0.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.1:*:*:*:*:jenkins:*:*"
 			},
 			{
@@ -112,13 +70,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.5:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "0.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.6:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.7:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.8:*:*:*:*:jenkins:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.9:*:*:*:*:jenkins:*:*"
 			},
@@ -136,5 +97,32 @@
 			}
 		],
 		"versionEndIncluding": "0.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:*:*:*:*:*:jenkins:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.1:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.2:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.3:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.4:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.5:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.6:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:bitbucket_oauth:0.7:*:*:*:*:jenkins:*:*"
+			}
+		],
+		"versionEndExcluding": "0.13"
 	}
 ]

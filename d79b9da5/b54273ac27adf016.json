@@ -1,13 +1,21 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse:23.3:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.3.16.7",
 		"versionStartIncluding": "23.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse:23.8:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.8.6.16",
 		"versionStartIncluding": "23.8"
 	}

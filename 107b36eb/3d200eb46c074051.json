@@ -149283,13 +149283,40 @@
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.0:*:*:*:community:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.0:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.1:*:*:*:community:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.1:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.2:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.11.5",
+		"versionEndIncluding": "13.11.5",
 		"versionStartIncluding": "13.11"
 	},
 	{
@@ -149314,64 +149341,16 @@
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.2:*:*:*:enterprise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.11.5",
-		"versionStartIncluding": "13.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.0:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.2:*:*:*:enterprise:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:community:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:enterprise:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:community:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.11.5",
-		"versionStartIncluding": "13.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.5:*:*:*:community:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.11.5",
-		"versionStartIncluding": "13.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.11.4:*:*:*:community:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.11.5",
@@ -150277,6 +150256,9 @@
 		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:community:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:enterprise:*:*:*"
 			},
 			{
@@ -150293,7 +150275,16 @@
 		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.1:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.1:*:*:*:enterprise:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.12.2",
@@ -150302,9 +150293,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:community:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.1:*:*:*:community:*:*:*"
 			},
@@ -150313,22 +150301,6 @@
 			}
 		],
 		"versionEndIncluding": "13.12.2",
-		"versionStartIncluding": "13.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.0:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:13.12.1:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.12.2",
 		"versionStartIncluding": "13.12"
 	},
 	{
@@ -150502,85 +150474,19 @@
 		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:community:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.6.4",
-		"versionStartIncluding": "14.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.6.4",
-		"versionStartIncluding": "14.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:community:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:enterprise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:enterprise:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:community:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.6.4",
-		"versionStartIncluding": "14.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:community:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:enterprise:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.6.4",
@@ -150600,13 +150506,65 @@
 		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:community:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:enterprise:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.6.4",
+		"versionStartIncluding": "14.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitlab:gitlab:14.6.3:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.6.4",
 		"versionStartIncluding": "14.6"
 	},
 	{

@@ -1,17 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.9.2.47475"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9.2.47475:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.9.2.47551"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9.2.47475:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "23.9.2.47475",
 		"versionStartIncluding": "23.9"
 	}

@@ -37,12 +37,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:peppermint:peppermint:0.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:peppermint:peppermint:0.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.2.4"
+		"versionEndExcluding": "0.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:peppermint:peppermint:*:*:*:*:*:*:*:*",
@@ -82,8 +79,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:peppermint:peppermint:0.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:peppermint:peppermint:0.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.2.4"
+		"versionEndIncluding": "0.2.4"
 	}
 ]

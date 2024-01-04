@@ -43,12 +43,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:color-string_project:color-string:1.5.4:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:color-string_project:color-string:1.5.5:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.5"
+		"versionEndExcluding": "1.5.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:color-string_project:color-string:*:*:*:*:*:node.js:*:*",
@@ -94,8 +91,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:color-string_project:color-string:1.5.4:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:color-string_project:color-string:1.5.5:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.5"
+		"versionEndIncluding": "1.5.5"
 	}
 ]
