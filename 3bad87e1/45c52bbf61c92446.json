@@ -66,12 +66,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:0.2.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:0.2.1:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "0.2.1"
+		"versionEndExcluding": "0.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:*:*:*:*:*:node.js:*:*",
@@ -102,8 +99,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:0.2.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplehttpserver_project:simplehttpserver:0.2.1:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "0.2.1"
+		"versionEndIncluding": "0.2.1"
 	}
 ]

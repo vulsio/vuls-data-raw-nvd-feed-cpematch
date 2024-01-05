@@ -433,9 +433,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.5.0:-:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.6.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.6.0:-:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "0.6.0"
+		"versionEndIncluding": "0.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:node.js:*:*",
@@ -655,15 +661,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.5.0:-:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.6.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:0.6.0:-:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "0.6.0"
+		"versionEndExcluding": "0.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmldom_project:xmldom:*:*:*:*:*:node.js:*:*",
