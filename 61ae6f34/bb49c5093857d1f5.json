@@ -565,12 +565,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:2.5.20:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:2.5.21:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.5.21"
+		"versionEndExcluding": "2.5.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:*:*:*:*:*:wordpress:*:*",
@@ -853,8 +850,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:2.5.20:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kanbanwp:kanban_boards_for_wordpress:2.5.21:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.5.21"
+		"versionEndIncluding": "2.5.21"
 	}
 ]
