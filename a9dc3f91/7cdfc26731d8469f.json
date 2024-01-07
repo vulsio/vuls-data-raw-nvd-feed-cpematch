@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:fahuo100:fahuo100:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fahuo100:fahuo100:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fahuo100:fahuo100:1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1"
 	}
 ]

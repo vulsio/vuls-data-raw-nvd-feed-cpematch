@@ -1027,6 +1027,15 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.4:hotfix4:*:*:*:*:*:*"
 			},
 			{
@@ -1034,6 +1043,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.4.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.6:*:*:*:*:*:*:*"
@@ -1056,33 +1068,7 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.5.9",
-		"versionStartIncluding": "11.5.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.2:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.5.9",
-		"versionStartIncluding": "11.5.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.5.3:*:*:*:*:*:*:*"
 			},
@@ -1610,7 +1596,16 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
@@ -1620,62 +1615,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
@@ -1691,39 +1630,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1739,10 +1645,23 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.6.4",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.6.5",
@@ -1752,7 +1671,28 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.6.5",
@@ -1762,7 +1702,16 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
@@ -1775,34 +1724,29 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.6.5",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.6.5",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -1855,9 +1799,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -1874,6 +1815,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.6.5.2",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.5:*:*:*:*:*:*:*"
@@ -1889,31 +1846,7 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.5:*:*:*:*:*:*:*"
@@ -1926,6 +1859,31 @@
 			}
 		],
 		"versionEndIncluding": "11.6.5.2",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:11.6.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.6.5.2",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -2239,21 +2197,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:hotfix1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.1.3",
@@ -2285,6 +2228,28 @@
 			}
 		],
 		"versionEndIncluding": "12.1.3",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:hotfix1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.3",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -2623,9 +2588,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.4.1",
+		"versionEndIncluding": "12.1.4.1",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -2675,12 +2643,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.4.1",
+		"versionEndExcluding": "12.1.4.1",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -2873,11 +2838,92 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1.5.1",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.5.1",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1.0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1.5.1",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
 			},
@@ -2928,12 +2974,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.5.1",
+		"versionEndExcluding": "12.1.5.1",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -2995,9 +3038,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.5.1",
+		"versionEndIncluding": "12.1.5.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -3134,7 +3183,20 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.5.2",
+		"versionEndExcluding": "12.1.5.3",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.6",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -3202,64 +3264,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.1.5.3",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.2:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.5.3:*:*:*:*:*:*:*"
@@ -3274,12 +3278,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.1:hotfix2:*:*:*:*:*:*"
 			},
@@ -3342,25 +3340,6 @@
 			}
 		],
 		"versionEndExcluding": "12.1.6",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:12.1.4.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "12.1.6",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -4093,6 +4072,79 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.4",
+		"versionStartIncluding": "13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
@@ -4108,6 +4160,16 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.1.5",
+		"versionStartIncluding": "13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -4126,7 +4188,32 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
@@ -4153,12 +4240,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -4166,128 +4247,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.1.5",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.5",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.1.5",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.5",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hotfix2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
@@ -4300,21 +4265,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:hf2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -4340,6 +4290,35 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.1.5",
+		"versionStartIncluding": "13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
@@ -5270,49 +5249,10 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.1.1.5",
@@ -5377,66 +5317,34 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
@@ -5446,54 +5354,38 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.3",
+		"versionEndExcluding": "13.1.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
 			}
@@ -5511,7 +5403,87 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
@@ -5783,9 +5755,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.3.4",
+		"versionEndIncluding": "13.1.3.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -5853,12 +5828,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.3.4",
+		"versionEndExcluding": "13.1.3.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -6014,16 +5986,132 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.4",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.4",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.6:*:*:*:*:*:*:*"
@@ -6036,10 +6124,10 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.4:*:*:*:*:*:*:*"
@@ -6052,12 +6140,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -6068,45 +6150,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.1.4",
@@ -6116,67 +6159,10 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.3.6:*:*:*:*:*:*:*"
@@ -6344,12 +6330,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.5",
+		"versionEndExcluding": "13.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -6429,9 +6412,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:13.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.5",
+		"versionEndIncluding": "13.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -7332,25 +7318,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.0.0.4",
-		"versionStartIncluding": "14.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.4:*:*:*:*:*:*:*"
@@ -7373,12 +7340,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.0.0.5",
+		"versionEndExcluding": "14.0.0.4",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -7404,6 +7368,28 @@
 			}
 		],
 		"versionEndIncluding": "14.0.0.5",
+		"versionStartIncluding": "14.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.0.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.0.0.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -7654,9 +7640,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.0.5",
+		"versionEndIncluding": "14.1.0.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -7712,12 +7701,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.0.5",
+		"versionEndExcluding": "14.1.0.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -8828,9 +8814,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.0.6",
+		"versionEndIncluding": "14.1.0.6",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -8874,12 +8863,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.0.6",
+		"versionEndExcluding": "14.1.0.6",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -9157,10 +9143,7 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
@@ -9172,25 +9155,10 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
@@ -9208,118 +9176,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -9330,115 +9186,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.3",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
 			}
@@ -9450,6 +9198,110 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.2.3",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.2.3",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -9457,6 +9309,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
@@ -9498,21 +9356,66 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.2.4",
+		"versionEndExcluding": "14.1.2.3",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
 			},
@@ -9523,6 +9426,18 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -9530,6 +9445,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
@@ -9542,6 +9460,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
@@ -9557,6 +9478,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
@@ -9595,97 +9519,16 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.2.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.2.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.4:*:*:*:*:*:*:*"
@@ -9704,7 +9547,121 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.1.2.4",
@@ -9729,19 +9686,58 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.2.4",
+		"versionEndIncluding": "14.1.2.5",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -9890,15 +9886,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
 			},
 			{
@@ -9938,76 +9925,19 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "14.1.2.5",
@@ -10914,9 +10844,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.4",
+		"versionEndIncluding": "14.1.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11074,12 +11007,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.4",
+		"versionEndExcluding": "14.1.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11412,220 +11342,12 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.4.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5-0.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.6-0.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.7-0.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.4.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "14.1.4.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.1.4.4",
-		"versionStartIncluding": "14.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -11635,16 +11357,25 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
@@ -11747,6 +11478,12 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -11757,6 +11494,199 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.4.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.79.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3.0.99.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.15.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.36.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.4.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.4.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.14.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.68.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.6.0.70.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.11.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.18.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.0.32.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.16.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.4.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.0.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2-0.89.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.46.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.97.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.99.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.105.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.111.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.115.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.1.0.122.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.5-0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.6-0.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.7-0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:14.1.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.1.4.4",
@@ -13814,6 +13744,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.48.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.0.1.1",
+		"versionStartIncluding": "15.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.33.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.48.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "15.0.1.1",
@@ -13836,9 +13788,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.0.1.1",
+		"versionEndIncluding": "15.0.1.2",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -13885,16 +13840,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.0.1.2",
-		"versionStartIncluding": "15.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.48.11:*:*:*:*:*:*:*"
-			}
-		],
 		"versionEndExcluding": "15.0.1.3",
 		"versionStartIncluding": "15.0.0"
 	},
@@ -13911,42 +13856,13 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.33.11:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "15.0.1.3",
-		"versionStartIncluding": "15.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.33.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.0.1.3",
-		"versionStartIncluding": "15.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.0.48.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.3:*:*:*:*:*:*:*"
@@ -14009,9 +13925,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.0",
+		"versionEndIncluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -14040,12 +13959,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.0.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.0",
+		"versionEndExcluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -14508,14 +14424,18 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2.1:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.1.3",
+		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.3:*:*:*:*:*:*:*"
 			}
@@ -14526,12 +14446,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0.1:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0.2:*:*:*:*:*:*:*"
 			},
@@ -14546,7 +14460,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "15.1.3",
+		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.1.3",
+		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2:*:*:*:*:*:*:*"
 			},
@@ -14577,6 +14508,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "15.1.3",
@@ -14936,9 +14873,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.8",
+		"versionEndIncluding": "15.1.8",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -14991,12 +14931,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:15.1.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.8",
+		"versionEndExcluding": "15.1.8",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -15482,9 +15419,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.0.1.1",
+		"versionEndIncluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -15495,12 +15435,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.0.1.1",
+		"versionEndExcluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -15795,24 +15732,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "16.1.4",
@@ -15853,6 +15772,31 @@
 			}
 		],
 		"versionEndIncluding": "16.1.4",
+		"versionStartIncluding": "16.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_domain_name_system:16.1.3.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

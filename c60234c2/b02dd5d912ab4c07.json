@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tencent:tencent_distributed_sql:*:*:*:*:*:tencent_cloud:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tencent:tencent_distributed_sql:-:*:*:*:*:tencent_cloud:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tencent:tencent_distributed_sql:1.8.5:*:*:*:*:tencent_cloud:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.5"
 	}
 ]
