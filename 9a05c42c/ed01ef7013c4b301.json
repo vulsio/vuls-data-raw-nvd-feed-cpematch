@@ -82,12 +82,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pixelgrade:pixtypes:1.4.14:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pixelgrade:pixtypes:1.4.15:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.15"
+		"versionEndExcluding": "1.4.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pixelgrade:pixtypes:*:*:*:*:*:wordpress:*:*",
@@ -172,8 +169,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pixelgrade:pixtypes:1.4.14:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pixelgrade:pixtypes:1.4.15:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.15"
+		"versionEndIncluding": "1.4.15"
 	}
 ]

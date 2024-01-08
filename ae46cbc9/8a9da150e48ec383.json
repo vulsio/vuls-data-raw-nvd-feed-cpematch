@@ -505,9 +505,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8"
+		"versionEndIncluding": "5.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:*:*:*:*:*:*:*:*",
@@ -580,12 +583,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:5.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.8"
+		"versionEndExcluding": "5.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:net-snmp:net-snmp:*:*:*:*:*:*:*:*",

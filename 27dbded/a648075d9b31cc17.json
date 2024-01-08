@@ -248,31 +248,52 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:advanced:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:express:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:express:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf01:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf02:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:express:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:standard:*:*:*"
@@ -284,31 +305,17 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:express:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201606:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201609:*:*:advanced:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.7.0",
+		"versionStartIncluding": "8.5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201612:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201706:*:*:express:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.5.7.0",
@@ -318,7 +325,7 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:-:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:advanced:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.5.7.0",
@@ -327,6 +334,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:standard:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201703:*:*:advanced:*:*:*"
 			},
@@ -341,16 +351,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:express:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.5.7.0",
@@ -387,6 +391,15 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:standard:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:express:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:standard:*:*:*"
 			},
 			{
@@ -402,6 +415,21 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:standard:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf02:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf1:*:*:*:*:*:*"
 			},
 			{
@@ -414,10 +442,34 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:express:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:express:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:advanced:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:express:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf2016.06:*:*:*:*:*:*"
@@ -429,10 +481,16 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf2016.12:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201606:*:*:advanced:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201606:*:*:express:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201606:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201609:*:*:advanced:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201609:*:*:express:*:*:*"
@@ -462,6 +520,9 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201706:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201706:*:*:express:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.7.0:cf201706:*:*:standard:*:*:*"
 			}
 		],
@@ -472,55 +533,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.1:*:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.0:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.0.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.5.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:express:*:*:*"
@@ -529,28 +545,19 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:-:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf01:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf02:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:advanced:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:express:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:express:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:advanced:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:express:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.2:*:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:business_process_manager:8.5.6.0:cf2:*:*:standard:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.5.7.0",
