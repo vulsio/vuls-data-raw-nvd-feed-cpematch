@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:linotp:virtual_appliance:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linotp:virtual_appliance:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linotp:virtual_appliance:3.2.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.2.4",
 		"versionStartIncluding": "3.0.0"
 	}

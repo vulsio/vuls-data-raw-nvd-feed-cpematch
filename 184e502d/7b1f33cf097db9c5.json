@@ -31760,26 +31760,39 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(1\\):*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(1.77\\):*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(2\\):*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(2\\)1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.14:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(28\\):*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.18:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.25:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.40:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0.0:*:*:*:*:*:*:*"
 			},
@@ -31809,6 +31822,49 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.47:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1\\(1\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.32:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.36:*:*:*:*:*:*:*"
@@ -31827,8 +31883,60 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(2\\)1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(28\\):*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.25:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(1\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(1.77\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(2\\):*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(1\\):*:*:*:*:*:*:*"
 			},
@@ -31842,106 +31950,33 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(2\\)1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.40:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.9.2.50",
+		"versionStartIncluding": "9.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9\\(28\\):*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1\\(1\\):*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.36:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.47:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.9.2.50",
-		"versionStartIncluding": "9.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.40:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.9.2.50",
-		"versionStartIncluding": "9.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.40:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.9.2.50",
-		"versionStartIncluding": "9.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.9.2.32:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.9.2.50",
 		"versionStartIncluding": "9.9"
 	},
 	{
@@ -34625,22 +34660,7 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.10.1.17",
@@ -34660,6 +34680,28 @@
 			}
 		],
 		"versionEndIncluding": "9.10.1.17",
+		"versionStartIncluding": "9.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.10.1.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.10.1.17",
 		"versionStartIncluding": "9.10"
 	},
 	{

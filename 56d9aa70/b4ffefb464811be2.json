@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:odoo:biometric_attendance:16.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "16.0.1",
 		"versionStartIncluding": "13.0"
 	}

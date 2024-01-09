@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ewen-lbh:firefox_css:*:*:*:*:*:go:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.0:*:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.1:*:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ewen-lbh:firefox_css:0.1.2:*:*:*:*:go:*:*"
+			}
+		],
 		"versionEndExcluding": "0.2.0"
 	}
 ]
