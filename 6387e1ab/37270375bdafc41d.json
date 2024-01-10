@@ -1,7 +1,48 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:0.9.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:0.9.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.33.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.38:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.0.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.1.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qcalagent:1.1.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.1.8",
+		"versionStartIncluding": "1.1.0"
 	}
 ]

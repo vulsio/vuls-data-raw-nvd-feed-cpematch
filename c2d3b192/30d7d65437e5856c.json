@@ -27,14 +27,26 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0"
+		"versionEndExcluding": "9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.0.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.0:*:*:*:*:*:*:*"
 			},
@@ -48,7 +60,10 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0"
@@ -57,19 +72,22 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:-:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.0.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.2.1:*:*:*:*:*:*:*"
@@ -79,18 +97,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_session_report_manager:8.2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0"
