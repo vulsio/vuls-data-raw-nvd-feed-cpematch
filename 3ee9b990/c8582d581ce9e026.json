@@ -327,6 +327,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:domino:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:*:*:*:*:*:*:*"
@@ -338,29 +348,6 @@
 				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fix_pack_1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0.1",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hcltech:domino:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.1",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hcltech:domino:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_1:*:*:*:*:*:*"
 			},
 			{
@@ -368,6 +355,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:domino:11.0.1:fixpack_5:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0.1",

@@ -11765,6 +11765,12 @@
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.3:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -11813,6 +11819,12 @@
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.1:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.2:-:*:*:*:*:*:*"
 			},
 			{
@@ -11820,6 +11832,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.3:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.21.0:*:*:*:*:*:*:*"
@@ -13323,30 +13341,6 @@
 			}
 		],
 		"versionEndIncluding": "5.26.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.18.3:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.20.3:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.26.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*",
