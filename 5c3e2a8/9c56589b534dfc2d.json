@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microchip:maxview_storage_manager:*:*:*:*:*:-:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microchip:maxview_storage_manager:3.00.23484:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microchip:maxview_storage_manager:3.07.23980:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microchip:maxview_storage_manager:4.14.00.26064:*:*:*:*:-:*:*"
+			}
+		],
 		"versionEndIncluding": "4.14.00.26064",
 		"versionStartIncluding": "3.00.23484"
 	}

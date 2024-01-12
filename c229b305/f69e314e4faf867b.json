@@ -61,12 +61,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stanford:corenlp:4.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:stanford:corenlp:4.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3.0"
+		"versionEndExcluding": "4.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:stanford:corenlp:*:*:*:*:*:*:*:*",
@@ -130,9 +127,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stanford:corenlp:4.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stanford:corenlp:4.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.3.0"
+		"versionEndIncluding": "4.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:stanford:corenlp:*:*:*:*:*:*:*:*",

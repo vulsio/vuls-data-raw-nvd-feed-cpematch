@@ -414,6 +414,9 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:7:update321:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:7:update331:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:7:update351:*:*:*:*:*:*"
 			},
 			{
@@ -670,6 +673,58 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.14:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndIncluding": "11.0.14",
+		"versionStartIncluding": "11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:11.0.14:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "11.0.15",
 		"versionStartIncluding": "11"
 	},
@@ -845,6 +900,46 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.0.10",
+		"versionStartIncluding": "13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:13.0.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "13.0.11",
@@ -905,10 +1000,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.0.6",
+		"versionStartIncluding": "15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:15.0.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "15.0.7",
 		"versionStartIncluding": "15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:17.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:openjdk:17.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "17.0.2",
+		"versionStartIncluding": "17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:openjdk:*:*:*:*:*:*:*:*",

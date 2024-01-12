@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:byzoro:smart_s150_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:byzoro:smart_s150_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:byzoro:smart_s150_firmware:2024-01-01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2024-01-01"
 	}
 ]

@@ -5692,7 +5692,10 @@
 		"cpe23Uri": "cpe:2.3:a:opennms:meridian:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.1-1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.2:*:*:*:*:*:*:*"
@@ -5713,10 +5716,16 @@
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.4-1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.5-1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2020.1.7",
@@ -5727,7 +5736,24 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.0:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2020.1.7",
+		"versionStartIncluding": "2020.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:opennms:meridian:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2020.1.7",
+		"versionStartIncluding": "2020.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:opennms:meridian:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.1:*:*:*:*:*:*:*"
 			},
@@ -5763,25 +5789,6 @@
 			}
 		],
 		"versionEndExcluding": "2020.1.7",
-		"versionStartIncluding": "2020.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:opennms:meridian:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.1-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2020.1.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2020.1.7",
 		"versionStartIncluding": "2020.1.0"
 	},
 	{
@@ -6579,9 +6586,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2023.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2023.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2023.1.5",
+		"versionEndIncluding": "2023.1.5",
 		"versionStartIncluding": "2023.0.0"
 	},
 	{
@@ -6601,12 +6611,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2023.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opennms:meridian:2023.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2023.1.5",
+		"versionEndExcluding": "2023.1.5",
 		"versionStartIncluding": "2023.0.0"
 	},
 	{

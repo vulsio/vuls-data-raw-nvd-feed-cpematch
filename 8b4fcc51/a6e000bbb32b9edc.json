@@ -163,7 +163,26 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:*:*:*:*:*:.net:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.0.25:*:*:*:*:.net:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.1.0:*:*:*:*:.net:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.1.1:*:*:*:*:.net:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.1.2:*:*:*:*:.net:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.1.3:*:*:*:*:.net:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:snowflake:snowflake_connector:2.1.4:*:*:*:*:.net:*:*"
+			}
+		],
 		"versionEndExcluding": "2.1.5",
 		"versionStartIncluding": "2.0.25"
 	}

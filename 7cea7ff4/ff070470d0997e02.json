@@ -12,6 +12,9 @@
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.5.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.7:*:*:*:*:*:*:*"
 			},
 			{
@@ -118,6 +121,9 @@
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.5.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.7:*:*:*:*:*:*:*"
 			},
 			{
@@ -147,6 +153,9 @@
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.5.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.7:*:*:*:*:*:*:*"
 			}
 		],
@@ -158,6 +167,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.7:*:*:*:*:*:*:*"
@@ -172,6 +184,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:2.7.7:*:*:*:*:*:*:*"
 			},
@@ -321,6 +336,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.13:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.15:*:*:*:*:*:*:*"
@@ -484,16 +502,7 @@
 		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.8.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.11.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.11.5",
@@ -513,6 +522,22 @@
 			}
 		],
 		"versionEndExcluding": "3.11.5",
+		"versionStartIncluding": "3.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:3.11.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.11.5",
 		"versionStartIncluding": "3.8.0"
 	},
 	{
@@ -798,10 +823,16 @@
 		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.13:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.15:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.16:*:*:*:ltsb:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:ltsb:*:*:*"
@@ -811,6 +842,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.19:*:*:*:ltsb:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.3.22:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.3.23",
@@ -819,6 +853,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.4.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.4.1:*:*:*:*:*:*:*"
 			},
@@ -889,6 +926,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.6.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.6.10",
@@ -896,7 +936,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:stormshield:network_security:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stormshield:network_security:4.7.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.7.2",
 		"versionStartIncluding": "4.7.0"
 	}

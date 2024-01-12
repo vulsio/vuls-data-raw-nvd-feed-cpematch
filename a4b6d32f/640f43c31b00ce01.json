@@ -535,6 +535,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.58:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.87:*:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -8364,6 +8370,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.58:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.81"
@@ -8505,5 +8514,15 @@
 		],
 		"versionEndExcluding": "3.41.1",
 		"versionStartIncluding": "3.41"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:network_security_services:3.77:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.87",
+		"versionStartIncluding": "3.77"
 	}
 ]
