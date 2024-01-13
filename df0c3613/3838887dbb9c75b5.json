@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:priva:top_control_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:priva:top_control_suite:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:priva:top_control_suite:8.7.8.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.7.8.0"
 	}
 ]

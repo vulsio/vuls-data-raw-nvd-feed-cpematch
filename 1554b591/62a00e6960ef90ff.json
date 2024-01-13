@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:revanced:revanced:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:revanced:revanced:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:revanced:revanced:2023-11-25:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2023-11-25"
 	}
 ]

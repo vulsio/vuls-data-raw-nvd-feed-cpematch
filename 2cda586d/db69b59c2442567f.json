@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:10.0:*:*:*:*:linux:*:*"
+			}
+		],
 		"versionStartIncluding": "10.0"
 	}
 ]

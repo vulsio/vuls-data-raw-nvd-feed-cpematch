@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:prestashow:google_integrator:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashow:google_integrator:-:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.1.4"
 	}
 ]

@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.6.1.29:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.8.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.8.0.12-0k0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.8.0.12-0k0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.8.0.12-0k0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kylinos:hedron-domain-hook:3.8.0.12-0k0.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.8.0.12-0k0.5"
 	}
 ]

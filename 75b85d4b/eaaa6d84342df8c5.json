@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ncast_project:ncast:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ncast_project:ncast:2007:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ncast_project:ncast:2017:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2017",
 		"versionStartIncluding": "2007"
 	}

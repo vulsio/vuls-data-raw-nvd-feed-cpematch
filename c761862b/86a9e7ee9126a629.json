@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:nearby_device_scanning:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:nearby_device_scanning:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "11.1.14.7"
 	}
 ]

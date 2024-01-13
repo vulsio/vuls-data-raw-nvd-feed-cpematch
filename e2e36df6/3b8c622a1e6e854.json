@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:follettlearning:solutions_destiny:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:follettlearning:solutions_destiny:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:follettlearning:solutions_destiny:20.0_1u:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20.0_1u"
 	}
 ]

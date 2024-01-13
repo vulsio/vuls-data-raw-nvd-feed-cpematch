@@ -20363,9 +20363,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.5.23",
+		"versionEndIncluding": "5.5.23",
 		"versionStartIncluding": "5.5.0"
 	},
 	{
@@ -20382,12 +20385,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.5.23",
+		"versionEndExcluding": "5.5.23",
 		"versionStartIncluding": "5.5.0"
 	},
 	{

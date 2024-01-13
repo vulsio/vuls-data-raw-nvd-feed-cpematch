@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:floorsightsoftware:customer_portal:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:floorsightsoftware:customer_portal:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:floorsightsoftware:customer_portal:q3_2023:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "q3_2023"
 	}
 ]

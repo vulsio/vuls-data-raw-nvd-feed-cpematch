@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lightxun:iptv_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lightxun:iptv_gateway:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lightxun:iptv_gateway:20231208:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20231208"
 	}
 ]

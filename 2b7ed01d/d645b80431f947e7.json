@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:petrk94:ownhealthrecord:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:petrk94:ownhealthrecord:0.1:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:petrk94:ownhealthrecord:0.2:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:petrk94:ownhealthrecord:0.3:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:petrk94:ownhealthrecord:0.3.1:alpha:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.4"
 	}
 ]

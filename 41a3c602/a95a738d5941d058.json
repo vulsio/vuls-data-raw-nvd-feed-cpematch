@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:dex:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:dex:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "smr_jan-2024_release_1"
 	}
 ]

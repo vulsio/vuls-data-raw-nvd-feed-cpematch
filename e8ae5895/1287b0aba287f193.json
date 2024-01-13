@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:micropython:micropython:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:micropython:micropython:1.21.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.22.0"
 	}
 ]

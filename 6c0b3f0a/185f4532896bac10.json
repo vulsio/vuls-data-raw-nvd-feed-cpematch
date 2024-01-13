@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:server_security:*:*:*:*:*:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.1:*:*:*:*:linux:*:*"
+			}
+		],
 		"versionStartIncluding": "10.1"
 	}
 ]

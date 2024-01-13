@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:geniecompany:aladdin_connect:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:geniecompany:aladdin_connect:5.65:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:geniecompany:aladdin_connect:5.65:build_2075:*:*:*:android:*:*"
+			}
+		],
 		"versionEndExcluding": "5.73"
 	}
 ]

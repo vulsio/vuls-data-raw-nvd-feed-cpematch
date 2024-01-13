@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mdaemon:securitygateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mdaemon:securitygateway:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mdaemon:securitygateway:9.0.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.3"
 	}
 ]

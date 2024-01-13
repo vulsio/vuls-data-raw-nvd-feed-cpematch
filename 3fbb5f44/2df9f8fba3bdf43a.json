@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mehah:otclient:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mehah:otclient:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2023-12-30"
 	}
 ]

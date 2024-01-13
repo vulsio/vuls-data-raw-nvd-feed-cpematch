@@ -12,10 +12,36 @@
 		"cpe23Uri": "cpe:2.3:a:wallix:bastion:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:wallix:bastion:9.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.10",
+		"versionStartIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wallix:bastion:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:wallix:bastion:10.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.0.5",
 		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wallix:bastion:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wallix:bastion:10.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.6",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wallix:bastion:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "10.4.2",
+		"versionStartIncluding": "10.4.0"
 	}
 ]

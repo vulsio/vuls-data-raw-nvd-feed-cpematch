@@ -541,12 +541,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.3"
+		"versionEndExcluding": "2.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
@@ -706,9 +703,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.3"
+		"versionEndIncluding": "2.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",

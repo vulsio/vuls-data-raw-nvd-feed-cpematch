@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:brother:iprint\\&scan:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:brother:iprint\\&scan:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:brother:iprint\\&scan:11.0.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndIncluding": "11.0.0"
 	}
 ]

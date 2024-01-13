@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:storage_fusion_hci:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:storage_fusion_hci:2.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:storage_fusion_hci:2.6.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.7.1",
 		"versionStartIncluding": "2.1.0"
 	}
