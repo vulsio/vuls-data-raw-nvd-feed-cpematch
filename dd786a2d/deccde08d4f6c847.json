@@ -146,12 +146,6 @@
 				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:7.9.1.285:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2016.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2017.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2017.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -165,9 +159,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2020.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2020.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2021.1:su1:*:*:*:*:*:*"
@@ -249,6 +240,21 @@
 			}
 		],
 		"versionEndIncluding": "2022"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2016.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2017.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:2020.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2022"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:endpoint_manager:*:*:*:*:*:*:*:*",
