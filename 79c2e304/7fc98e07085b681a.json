@@ -147,13 +147,43 @@
 		"cpe23Uri": "cpe:2.3:a:apache:batik:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:batik:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:batik:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:batik:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:batik:1.1:rc1:*:*:*:*:*:*"
@@ -214,21 +244,45 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:batik:1.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:batik:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.5.1:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.7:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:batik:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.13:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:batik:1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.13"
@@ -285,37 +339,7 @@
 				"cpe23Uri": "cpe:2.3:a:apache:batik:1.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.5.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.6.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:batik:1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.7:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:batik:1.12:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.13"
