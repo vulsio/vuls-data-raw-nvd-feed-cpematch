@@ -30,6 +30,9 @@
 		"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.6:*:*:*:*:*:*:*"
 			},
 			{
@@ -40,6 +43,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.8.1:*:*:*:*:*:x64:*"
 			}
 		],
 		"versionEndExcluding": "10.9"
@@ -73,21 +82,6 @@
 			}
 		],
 		"versionEndIncluding": "10.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:10.8.1:*:*:*:*:*:x64:*"
-			}
-		],
-		"versionEndExcluding": "10.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:esri:portal_for_arcgis:*:*:*:*:*:*:*:*",

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:*:*:*:*:*:fecru:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:4.4.2:*:*:*:*:fecru:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:4.14.8:*:*:*:*:fecru:*:*"
+			}
+		],
 		"versionEndExcluding": "4.14.9",
 		"versionStartIncluding": "4.4.2"
 	}
