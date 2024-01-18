@@ -1407,5 +1407,33 @@
 			}
 		],
 		"versionEndIncluding": "current"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.6:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netbsd:netbsd:1.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.6.1",
+		"versionStartIncluding": "1.5"
 	}
 ]

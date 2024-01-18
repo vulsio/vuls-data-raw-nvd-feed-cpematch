@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortanix:confidential_computing_manager:*:*:*:*:*:intel_software_guard_extensions:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortanix:confidential_computing_manager:3.29:*:*:*:*:intel_software_guard_extensions:*:*"
+			}
+		],
 		"versionEndExcluding": "3.32"
 	}
 ]

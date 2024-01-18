@@ -265,15 +265,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:dev:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.1"
+		"versionEndExcluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
@@ -376,9 +370,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1:dev:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.1"
+		"versionEndIncluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
@@ -1059,13 +1059,7 @@
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:3.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.1.2:*:*:*:*:*:*:*"
@@ -1132,9 +1126,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.2"
+		"versionEndIncluding": "5.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
@@ -1267,9 +1264,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.1.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:open-emr:openemr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:5.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:open-emr:openemr:4.1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.0.2"
