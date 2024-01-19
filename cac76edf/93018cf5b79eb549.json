@@ -281,5 +281,21 @@
 		],
 		"versionEndIncluding": "2.20",
 		"versionStartIncluding": "1.95"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:acme:thttpd:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acme:thttpd:2.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acme:thttpd:2.21:b:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acme:thttpd:2.22:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.23",
+		"versionStartIncluding": "2.21"
 	}
 ]

@@ -7,5 +7,17 @@
 			}
 		],
 		"versionEndExcluding": "00.19.07"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:nvidia:dgx_a100_firmware:*:*:*:*:bmc:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:dgx_a100_firmware:-:*:*:*:bmc:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:dgx_a100_firmware:00.19.07:*:*:*:bmc:*:*:*"
+			}
+		],
+		"versionEndExcluding": "00.22.05"
 	}
 ]

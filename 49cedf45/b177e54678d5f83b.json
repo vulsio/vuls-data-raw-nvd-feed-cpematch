@@ -3145,9 +3145,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:1.16.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.16.2"
+		"versionEndIncluding": "1.16.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:*:*:*:*:*:*:*:*",
@@ -3625,12 +3628,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:1.16.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:1.16.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.16.2"
+		"versionEndExcluding": "1.16.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nlnetlabs:unbound:*:*:*:*:*:*:*:*",

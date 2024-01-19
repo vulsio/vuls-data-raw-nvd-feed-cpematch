@@ -1874,6 +1874,12 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:7.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:7.3.7:-:*:*:*:*:*:*"
 			},
 			{
@@ -1935,18 +1941,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:8.1.4:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:7.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:8.1.4:p4:*:*:*:*:*:*"
@@ -3709,25 +3703,6 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.5",
-		"versionStartIncluding": "9.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p2:*:*:*:*:*:*"
 			},
 			{
@@ -3738,19 +3713,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.5",
-		"versionStartIncluding": "9.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10d1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10d2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12d1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12d4:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p13:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p13d1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p14:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p1d1:*:*:*:*:*:*"
@@ -3820,6 +3830,12 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p5:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
 			}
 		],
@@ -3830,61 +3846,32 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.5",
+		"versionStartIncluding": "9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10d1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p10d2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p11d4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12d1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p12d4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:p14:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.5",
+		"versionEndExcluding": "9.5",
 		"versionStartIncluding": "9.4"
 	}
 ]

@@ -15,9 +15,6 @@
 		"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:8.0.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -43,6 +40,15 @@
 			}
 		],
 		"versionEndIncluding": "9.0.0.10-28sv"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.0.10-28sv"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:sonicwall:sma_210_firmware:*:*:*:*:*:*:*:*",
