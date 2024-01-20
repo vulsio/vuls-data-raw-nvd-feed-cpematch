@@ -4,12 +4,25 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:8.5:*:*:*:*:*:*:*"
 			}
 		]
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ptc:thingworx_industrial_connectivity:8.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.5",
 		"versionStartIncluding": "8.0"
 	}

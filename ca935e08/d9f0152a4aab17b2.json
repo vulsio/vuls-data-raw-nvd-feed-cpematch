@@ -17059,6 +17059,35 @@
 		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.19.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.19.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.19.17",
+		"versionStartIncluding": "7.19.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.19.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.19.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.19.17:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.19.18",
+		"versionStartIncluding": "7.19.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:7.20.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -17439,6 +17468,28 @@
 		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.5.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.5",
+		"versionStartIncluding": "8.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -17447,5 +17498,15 @@
 		],
 		"versionEndExcluding": "8.6.2",
 		"versionStartIncluding": "8.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_data_center:8.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.7.2",
+		"versionStartIncluding": "8.7.0"
 	}
 ]

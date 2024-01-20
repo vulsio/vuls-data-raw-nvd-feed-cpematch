@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ncftp:ncftpd_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ncftp:ncftpd_server:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.4.1"
 	}
 ]

@@ -1,6 +1,13 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:office_sharepoint_server:*:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:office_sharepoint_server:2007:sp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:office_sharepoint_server:2007:sp2:*:*:*:*:*:*"
+			}
+		]
 	}
 ]

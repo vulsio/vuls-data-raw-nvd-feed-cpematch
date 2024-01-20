@@ -16,5 +16,23 @@
 			}
 		],
 		"versionEndIncluding": "1.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:symantec:liveupdate:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:liveupdate:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:liveupdate:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:liveupdate:1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:liveupdate:1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.6"
 	}
 ]

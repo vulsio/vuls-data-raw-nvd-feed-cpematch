@@ -303,31 +303,7 @@
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.11.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.12.0:*:*:*:*:*:*:*"
@@ -357,9 +333,6 @@
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.12.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -369,22 +342,16 @@
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.14.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.14.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.15.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.15.0"
+		"versionEndIncluding": "1.15.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:geode:*:*:*:*:*:*:*:*",
@@ -490,9 +457,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:geode:1.14.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:geode:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.5.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:geode:1.15.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:geode:1.14.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.15.0"

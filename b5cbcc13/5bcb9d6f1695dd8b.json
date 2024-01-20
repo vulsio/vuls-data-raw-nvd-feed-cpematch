@@ -49,25 +49,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.0.1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.20:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.0.1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.18:*:*:*:*:*:*:*"
 			}
@@ -84,7 +66,13 @@
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.12:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.0.1.20"
@@ -696,16 +684,34 @@
 		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.68:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.74:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.78:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.2.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.12:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.0.2.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.18:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.20:*:*:*:*:*:*:*"
@@ -744,10 +750,22 @@
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.70:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.2.18:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.76:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.0.2.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.24:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.0.2.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
@@ -759,16 +777,22 @@
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.12:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.18:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.20:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.2.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.2.18"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.14:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.24:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.20:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.32:*:*:*:*:*:*:*"
@@ -814,24 +838,6 @@
 			}
 		],
 		"versionEndExcluding": "1.0.2.18"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.68:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.74:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.76:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:1.0.1.78:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.0.2.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r6400_firmware:*:*:*:*:*:*:*:*",

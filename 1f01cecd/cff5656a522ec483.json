@@ -19837,6 +19837,41 @@
 		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.19.17",
+		"versionStartIncluding": "7.19"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.19.17:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.19.18",
+		"versionStartIncluding": "7.19"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:7.20.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -20267,5 +20302,33 @@
 		],
 		"versionEndExcluding": "8.5.4",
 		"versionStartIncluding": "8.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:8.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:8.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:8.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:8.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:8.5.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.5",
+		"versionStartIncluding": "8.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "8.7.2",
+		"versionStartIncluding": "8.7.0"
 	}
 ]

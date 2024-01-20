@@ -2443,6 +2443,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "17.8.4",
@@ -2450,7 +2453,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.8.4",
 		"versionStartIncluding": "17.8.0"
 	}

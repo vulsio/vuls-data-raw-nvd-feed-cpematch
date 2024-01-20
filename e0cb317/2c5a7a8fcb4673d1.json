@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:redshift:atphttpd:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redshift:atphttpd:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redshift:atphttpd:0.4b:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.4b"
 	}
 ]

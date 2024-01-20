@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:soxft:timemail:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:soxft:timemail:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:soxft:timemail:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:soxft:timemail:1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1"
 	}
 ]
