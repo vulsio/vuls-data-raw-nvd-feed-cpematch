@@ -69,15 +69,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.01:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3"
+		"versionEndExcluding": "4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:*:*:*:*:*:*:*:*",
@@ -87,9 +81,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:4.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.3"
+		"versionEndIncluding": "4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_firmware:*:*:*:*:*:*:*:*",
