@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:0.9:*:*:*:*:*:*:*"
 			},
 			{
@@ -46,12 +43,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0:technology_preview1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0:technology_preview2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0.1:*:*:*:*:*:*:*"
@@ -118,9 +109,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:rc1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.0.4"
@@ -244,6 +232,24 @@
 			}
 		],
 		"versionEndExcluding": "3.0.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0:technology_preview1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:2.0:technology_preview2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
@@ -541,6 +547,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.1",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.1.1:*:*:*:*:*:*:*"
@@ -567,15 +589,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.1.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.1.1:*:*:*:*:*:*:*"
 			},
