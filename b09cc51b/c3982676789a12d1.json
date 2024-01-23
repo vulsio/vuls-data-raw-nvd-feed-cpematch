@@ -11467,12 +11467,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9.0.1"
+		"versionEndExcluding": "4.9.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
@@ -12562,9 +12559,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.9.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9.0.1"
+		"versionEndIncluding": "4.9.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
@@ -19518,52 +19518,40 @@
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.6.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.10:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.2:*:*:*:*:*:*:*"
@@ -19581,43 +19569,16 @@
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.6:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.4.15.10",
@@ -19651,50 +19612,50 @@
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.6:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.14.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.4:*:*:*:*:*:*:*"
 			},
@@ -19705,68 +19666,16 @@
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.6:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.11:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.15.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.4.15.10",
-		"versionStartIncluding": "4.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmyadmin:phpmyadmin:4.4.13.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.4.15.10",
 		"versionStartIncluding": "4.4.0"
 	},
 	{

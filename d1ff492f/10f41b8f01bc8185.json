@@ -4118,5 +4118,27 @@
 		],
 		"versionEndIncluding": "8.6.2",
 		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:solr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:solr:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:solr:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:solr:9.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:solr:9.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:solr:9.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.3.0",
+		"versionStartIncluding": "9.0.0"
 	}
 ]

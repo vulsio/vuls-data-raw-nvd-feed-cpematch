@@ -27,9 +27,6 @@
 				"cpe23Uri": "cpe:2.3:a:webtareas_project:webtareas:2.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:webtareas_project:webtareas:2.0:p8:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:webtareas_project:webtareas:2.1:-:*:*:*:*:*:*"
 			},
 			{
@@ -85,5 +82,14 @@
 			}
 		],
 		"versionEndExcluding": "2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:webtareas_project:webtareas:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webtareas_project:webtareas:2.0:p8:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.4"
 	}
 ]
