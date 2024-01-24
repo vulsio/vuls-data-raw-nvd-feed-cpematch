@@ -2636,32 +2636,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.14:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.12.14",
-		"versionStartIncluding": "3.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.13:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.12.14",
-		"versionStartIncluding": "3.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.12.14",
 		"versionStartIncluding": "3.12"
 	},
 	{
@@ -2693,7 +2670,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.6:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "3.12.14",
+		"versionStartIncluding": "3.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.12.14",
+		"versionStartIncluding": "3.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.7:*:*:*:*:*:*:*"
 			},
@@ -2711,9 +2705,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.12.14",
+		"versionEndIncluding": "3.12.14",
 		"versionStartIncluding": "3.12"
 	},
 	{
@@ -2840,7 +2840,25 @@
 		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.1.4",
@@ -2869,31 +2887,6 @@
 			}
 		],
 		"versionEndExcluding": "4.1.4",
-		"versionStartIncluding": "4.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.1.4",
 		"versionStartIncluding": "4.1"
 	},
 	{
@@ -2937,25 +2930,50 @@
 		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.1.4",
@@ -2972,18 +2990,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.4",
 		"versionStartIncluding": "4.1.0"
 	},
 	{

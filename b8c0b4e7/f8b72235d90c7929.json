@@ -3,45 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.53:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.13:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.13:rc7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc7:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.15.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -163,6 +124,45 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.52:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.15.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.53:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.13:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.13:rc7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc7:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.15.3"
@@ -409,13 +409,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.37:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.17.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.38:*:*:*:*:*:*:*"
 			},
@@ -500,15 +494,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.191:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.192:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.193:*:*:*:*:*:*:*"
 			},
@@ -655,6 +640,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.15:rc7:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.17.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.191:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.192:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.17.5"

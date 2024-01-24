@@ -64,12 +64,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:crowcpp:crow:1.0\\+3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:crowcpp:crow:1.0\\+4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0\\+4"
+		"versionEndExcluding": "1.0\\+4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:crowcpp:crow:*:*:*:*:*:*:*:*",
@@ -109,8 +106,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:crowcpp:crow:1.0\\+3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:crowcpp:crow:1.0\\+4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0\\+4"
+		"versionEndIncluding": "1.0\\+4"
 	}
 ]

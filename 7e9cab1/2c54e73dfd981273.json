@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:chromiumembedded:chromium_embedded_framework:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:chromiumembedded:chromium_embedded_framework:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2024-01-05"
 	}
 ]
