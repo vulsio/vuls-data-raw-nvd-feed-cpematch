@@ -13,10 +13,33 @@
 		"cpe23Uri": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:progress:openedge:11.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:progress:openedge:11.7.16:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.7.18",
+		"versionStartIncluding": "11.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:progress:openedge:12.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.2.9",
 		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:progress:openedge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:progress:openedge:12.2.12:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.2.13",
+		"versionStartIncluding": "12.2"
 	}
 ]

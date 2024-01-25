@@ -26,6 +26,22 @@
 		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:-:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.0-91.13:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.0-92.19:*:*:*:-:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.0-92.21",
+		"versionStartIncluding": "13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:-:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1:*:*:*:-:*:*:*"
 			}
 		],
@@ -49,10 +65,39 @@
 		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:-:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-49.13:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-49.15:*:*:*:-:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1-51.15",
+		"versionStartIncluding": "13.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:-:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:14.1:*:*:*:-:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.1-8.50",
+		"versionStartIncluding": "14.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:-:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:14.1:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:14.1-8.50:*:*:*:-:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1-12.35",
 		"versionStartIncluding": "14.1"
 	}
 ]
