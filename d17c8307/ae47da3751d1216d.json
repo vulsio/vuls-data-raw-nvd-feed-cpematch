@@ -333,7 +333,31 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):es6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):es7:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(2\\)_base:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(3\\)_base:*:*:*:*:*:*:*"
@@ -349,6 +373,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(2\\)_base:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_base:*:*:*:*:*:*:*"
@@ -372,6 +399,12 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -381,10 +414,25 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_su1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_su2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):-:*:*:*:*:*:*"
@@ -396,11 +444,23 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):es5:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):es6:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(3\\):*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\):es7:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_base:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(1\\):-:*:*:*:*:*:*"
 			},
@@ -418,9 +478,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(1\\):es6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(3\\):*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.6\\(1\\):-:*:*:*:*:*:*"
@@ -463,7 +520,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:12.5\\(1\\):-:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_base:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:12.5\\(1\\):es1:*:*:*:*:*:*"
 			},
@@ -489,88 +561,16 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(2\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(3\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(4\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(5\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.6\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(2\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_base:*:*:*:*:*:*:*"
@@ -609,63 +609,6 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(1\\):es3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(3\\):*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "12.6\\(1\\)"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(2\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(2\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_base:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_su1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_su2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\)_base:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.6\\(1\\)"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(1\\):es4:*:*:*:*:*:*"
 			},
 			{
@@ -673,6 +616,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(1\\):es6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.5\\(3\\):*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.6\\(1\\):-:*:*:*:*:*:*"
@@ -736,6 +682,96 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:12.6\\(1\\):*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.6\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:11.0\\(1\\)_base:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.6\\(1\\)"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:finesse:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(2\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(3\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(4\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.5\\(5\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:8.6\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.0\\(2\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_base:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_es5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:9.1\\(1\\)_su1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.0\\(1\\)_su1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_es4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:finesse:10.5\\(1\\)_su1.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:finesse:12.6\\(1\\):-:*:*:*:*:*:*"

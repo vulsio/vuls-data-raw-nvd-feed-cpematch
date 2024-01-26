@@ -7256,6 +7256,15 @@
 		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -7306,22 +7315,6 @@
 			}
 		],
 		"versionEndExcluding": "3.0.8",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.0.8",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -7651,9 +7644,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.1",
+		"versionEndIncluding": "3.2.1",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -7661,12 +7657,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.1",
+		"versionEndExcluding": "3.2.1",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -7730,6 +7723,34 @@
 		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.2.6",
+		"versionStartIncluding": "3.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -7749,48 +7770,6 @@
 			}
 		],
 		"versionEndIncluding": "3.2.6",
-		"versionStartIncluding": "3.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.2.6",
-		"versionStartIncluding": "3.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.2.6",
-		"versionStartIncluding": "3.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.2.6",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -8167,9 +8146,6 @@
 		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -8196,6 +8172,16 @@
 			}
 		],
 		"versionEndIncluding": "3.4.3",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.3",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -8336,7 +8322,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.7:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "3.4.10",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.8:*:*:*:*:*:*:*"
 			},
@@ -8348,6 +8341,19 @@
 			}
 		],
 		"versionEndIncluding": "3.4.10",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.10",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -8376,15 +8382,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.4.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.10",
+		"versionEndIncluding": "3.4.10",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -8798,9 +8798,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.6.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.6.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.14",
+		"versionEndIncluding": "3.6.14",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -8844,12 +8847,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.6.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wireshark:wireshark:3.6.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.14",
+		"versionEndExcluding": "3.6.14",
 		"versionStartIncluding": "3.6.0"
 	},
 	{

@@ -1,12 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.06"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dir-300_firmware:2.14b01:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2024-01-12"
 	}
 ]

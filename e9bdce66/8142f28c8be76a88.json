@@ -897,74 +897,59 @@
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2a:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:pl1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:a1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:b1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:pl:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:pr:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.1:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.2:*:*:*:*:*:*:*"
 			},
@@ -1024,16 +1009,55 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:pl:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:pl1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.3:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:*:*:*:*:*:*:*"
 			},
@@ -1066,6 +1090,141 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.3:pl1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.7:*:*:*:*:*:*:*"
@@ -1203,6 +1362,60 @@
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc2a:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:rc3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1254,13 +1467,7 @@
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc2:*:*:*:*:*:*"
@@ -1290,17 +1497,101 @@
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.3:pl1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.2:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:pr:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:pl1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.6.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.6:*:*:*:*:*:*:*"
 			},
@@ -1309,6 +1600,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.5.0:rc3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.7.9:*:*:*:*:*:*:*"
@@ -1330,180 +1642,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.4:pl1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:a1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.3:pl1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.9.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.10.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.11.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.12.7"

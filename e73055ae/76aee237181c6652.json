@@ -90,12 +90,6 @@
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.2.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.2.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -165,9 +159,6 @@
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:3.20.13:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:3.20.19:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -198,13 +189,31 @@
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.4.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.4.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.4.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.5.17"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.2.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.5.17"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:3.20.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.4.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.5.0:*:*:*:*:*:*:*"
@@ -238,6 +247,15 @@
 			}
 		],
 		"versionEndIncluding": "4.5.17"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:4.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.5.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:ebx_add-ons:*:*:*:*:*:*:*:*",

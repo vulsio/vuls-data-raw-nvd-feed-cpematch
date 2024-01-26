@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gruen:evewa3:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gruen:evewa3:31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gruen:evewa3:53:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "53",
 		"versionStartIncluding": "31"
 	}
