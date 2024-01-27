@@ -37827,10 +37827,36 @@
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:b1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.10.8",
+		"versionStartIncluding": "9.10.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.10.8",
+		"versionStartIncluding": "9.10.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:rc1:*:*:*:*:*:*"
@@ -37867,19 +37893,7 @@
 		"cpe23Uri": "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.10.7:s1:*:*:*:*:*:*"
@@ -41431,18 +41445,6 @@
 		"cpe23Uri": "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -41490,6 +41492,25 @@
 			}
 		],
 		"versionEndIncluding": "9.13.6",
+		"versionStartIncluding": "9.13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:isc:bind:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:bind:9.13.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.13.6",
 		"versionStartIncluding": "9.13.0"
 	},
 	{

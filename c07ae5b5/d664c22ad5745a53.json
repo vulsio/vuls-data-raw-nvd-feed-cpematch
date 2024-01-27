@@ -443,7 +443,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.6.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "4.7.9",
+		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adminer:adminer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.7.9",
+		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adminer:adminer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.7.0:*:*:*:*:*:*:*"
 			},
@@ -470,17 +487,17 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.7.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.7.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.7.9",
+		"versionEndIncluding": "4.7.9",
 		"versionStartIncluding": "4.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adminer:adminer:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.0.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.0.1:*:*:*:*:*:*:*"
 			},
@@ -561,12 +578,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.7.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adminer:adminer:4.7.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.7.9",
+		"versionEndExcluding": "4.7.9",
 		"versionStartIncluding": "4.0.0"
 	},
 	{

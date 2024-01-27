@@ -49,9 +49,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.6.5.2",
+		"versionEndIncluding": "11.6.5.2",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -65,12 +68,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:11.6.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.6.5.2",
+		"versionEndExcluding": "11.6.5.2",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -128,12 +128,6 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:hotfix1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.5:*:*:*:*:*:*:*"
 			}
 		],
@@ -166,6 +160,19 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:hotfix1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.5.2",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -188,19 +195,7 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.5.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.1.6",
@@ -230,9 +225,38 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:12.1.5.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.6",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndIncluding": "12.1.6",
 		"versionStartIncluding": "12.1.5.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:13.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
@@ -245,16 +269,6 @@
 			}
 		],
 		"versionEndIncluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:13.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.3",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -1119,18 +1133,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2-0.0.37:*:*:*:*:*:*:*"
 			},
 			{
@@ -1150,33 +1152,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "14.1.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5-0.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6-0.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.7-0.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.3.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "14.1.4",
@@ -1186,49 +1171,13 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2-0.0.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2-0.89.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5-0.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6-0.0.2:*:*:*:*:*:*:*"
@@ -1250,6 +1199,99 @@
 			}
 		],
 		"versionEndIncluding": "14.1.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2-0.0.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2-0.89.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.1-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.2-0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.3-0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5-0.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6-0.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.4",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.7-0.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:14.1.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -2157,16 +2199,31 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.3",
+		"versionEndIncluding": "15.1.3",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.1:*:*:*:*:*:*:*"
@@ -2178,36 +2235,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.3",
-		"versionStartIncluding": "15.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.2.1:*:*:*:*:*:*:*"
-			}
-		],
 		"versionEndExcluding": "15.1.3",
-		"versionStartIncluding": "15.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:15.1.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "15.1.3",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -2907,9 +2935,33 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.1.4",
+		"versionEndIncluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{
@@ -2940,45 +2992,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.1.4",
-		"versionStartIncluding": "16.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.3.5:*:*:*:*:*:*:*"
-			}
-		],
 		"versionEndExcluding": "16.1.4",
-		"versionStartIncluding": "16.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ddos_hybrid_defender:16.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

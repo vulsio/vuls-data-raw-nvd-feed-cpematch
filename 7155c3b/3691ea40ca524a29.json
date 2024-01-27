@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:zipper:1.2.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2.1"
 	}
 ]
