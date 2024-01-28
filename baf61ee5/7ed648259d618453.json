@@ -27789,7 +27789,10 @@
 		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha3:*:*:*:*:*:*"
@@ -27805,6 +27808,32 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.1",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.1",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:-:*:*:*:*:*:*"
@@ -27829,15 +27858,6 @@
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha3:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:beta1:*:*:*:*:*:*"
 			},
 			{
@@ -27851,19 +27871,6 @@
 			}
 		],
 		"versionEndExcluding": "5.2.1",
-		"versionStartIncluding": "5.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:alpha2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.2.1",
 		"versionStartIncluding": "5.2.0"
 	},
 	{

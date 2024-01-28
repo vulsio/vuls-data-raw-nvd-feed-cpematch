@@ -459,9 +459,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.0"
+		"versionEndIncluding": "2.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -519,12 +522,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.0"
+		"versionEndExcluding": "2.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -1010,6 +1010,9 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
 			},
 			{
@@ -1056,27 +1059,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.2.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -1172,7 +1160,7 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.1"
+		"versionEndExcluding": "2.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
