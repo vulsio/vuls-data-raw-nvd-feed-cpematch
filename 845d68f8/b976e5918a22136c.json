@@ -4,6 +4,18 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:omron:cj2m-cpu34_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:omron:cj2m-cpu34_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:omron:cj2m-cpu34_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:omron:cj2m-cpu34_firmware:2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:omron:cj2m-cpu34_firmware:2.18:*:*:*:*:*:*:*"
