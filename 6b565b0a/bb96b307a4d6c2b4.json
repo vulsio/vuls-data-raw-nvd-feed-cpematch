@@ -164,6 +164,9 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.9:*:*:*:*:*:*:*"
 			},
 			{
@@ -174,9 +177,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.13"
+		"versionEndIncluding": "2.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:cpio:*:*:*:*:*:*:*:*",
@@ -225,18 +231,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.13:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gnu:cpio:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:cpio:2.8:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.13"
