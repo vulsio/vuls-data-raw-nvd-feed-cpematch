@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:agence-press:css_adder:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:agence-press:css_adder:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agence-press:css_adder:1.5.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.0"
 	}
 ]

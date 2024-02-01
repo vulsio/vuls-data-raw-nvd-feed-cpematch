@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:frumph:phpfreechat:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:frumph:phpfreechat:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:frumph:phpfreechat:0.2.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.2.8"
 	}
 ]

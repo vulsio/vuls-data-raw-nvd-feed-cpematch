@@ -10553,5 +10553,42 @@
 		],
 		"versionEndExcluding": "14su2",
 		"versionStartIncluding": "14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14.0:*:*:*:session_management:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14.0\\(1.10000.20\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14.0\\(1.10000.20\\):*:*:*:session_management:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14su1:*:*:*:session_management:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:session_management:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14su3",
+		"versionStartIncluding": "14.0"
 	}
 ]

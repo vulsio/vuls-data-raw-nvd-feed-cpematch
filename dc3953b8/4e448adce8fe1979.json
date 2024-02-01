@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:spooncast:spoon:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:spooncast:spoon:7.11.1:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:spooncast:spoon:8.6.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "8.6.0",
 		"versionStartIncluding": "7.11.1"
 	}

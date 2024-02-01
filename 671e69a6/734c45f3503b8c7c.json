@@ -6,14 +6,20 @@
 				"cpe23Uri": "cpe:2.3:a:qsan:xevo:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.0"
+		"versionEndIncluding": "1.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qsan:xevo:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:qsan:xevo:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:qsan:xevo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:qsan:xevo:1.2.0:*:*:*:*:*:*:*"
 			}

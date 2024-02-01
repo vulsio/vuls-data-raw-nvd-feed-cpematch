@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:1.5.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:1.5.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:1.5.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:1.5.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpopal:wpopal_core_features:1.5.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.8"
 	}
 ]
