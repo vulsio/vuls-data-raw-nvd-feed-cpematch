@@ -10,5 +10,17 @@
 			}
 		],
 		"versionEndIncluding": "2.6.16"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lksctp:stream_control_transmission_protocol:2.6.16:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.6.17"
 	}
 ]

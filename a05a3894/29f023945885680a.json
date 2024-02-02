@@ -172,6 +172,9 @@
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -209,7 +212,10 @@
 		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.0.11",
@@ -219,10 +225,13 @@
 		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone3:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.0.11",
@@ -241,12 +250,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:syncope:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone3:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone4:*:*:*:*:*:*"
 			},
@@ -262,12 +265,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.0:milestone3:*:*:*:*:*:*"
@@ -295,6 +292,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.8:*:*:*:*:*:*:*"

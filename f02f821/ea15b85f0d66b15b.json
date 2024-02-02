@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:azure_active_directory:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_active_directory:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2021-10-30"
 	}
 ]
