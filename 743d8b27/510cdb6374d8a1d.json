@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:littlebigfresh:bunkum:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:littlebigfresh:bunkum:4.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.2.1",
 		"versionStartIncluding": "4.0"
 	}

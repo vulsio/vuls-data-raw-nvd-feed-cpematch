@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:imaginationtech:ddk:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:imaginationtech:ddk:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:imaginationtech:ddk:23.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "23.2"
 	}
 ]

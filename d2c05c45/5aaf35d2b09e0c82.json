@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:deconf:clicky_analytics_dashboard:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:deconf:clicky_analytics_dashboard:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:deconf:clicky_analytics_dashboard:1.3.1:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "1.3.1",
 		"versionStartIncluding": "1.0.0"
 	}

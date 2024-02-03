@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:freesshd:freesshd:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:freesshd:freesshd:1.0.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:freesshd:freesshd:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:freesshd:freesshd:1.0.9:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:freesshd:freesshd:1.2.1:*:*:*:*:*:*:*"
 			},

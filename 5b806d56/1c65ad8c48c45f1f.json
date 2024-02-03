@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:joomcode:jcdashboard:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:joomcode:jcdashboard:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:joomcode:jcdashboard:1.1.30:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.30",
 		"versionStartIncluding": "1.0.0"
 	}

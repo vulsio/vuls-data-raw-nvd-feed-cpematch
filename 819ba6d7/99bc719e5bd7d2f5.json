@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sophos:email_appliance:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sophos:email_appliance:4.5.3.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.5.3.4"
 	}
 ]

@@ -1,12 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:omron:sysmac_studio:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:omron:sysmac_studio:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.49"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:omron:sysmac_studio:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:omron:sysmac_studio:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.54.0"
 	}
 ]

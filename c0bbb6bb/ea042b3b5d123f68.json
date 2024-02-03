@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:loom:loom:*:*:*:*:*:macos:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:loom:loom:-:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:loom:loom:0.196.1:*:*:*:*:macos:*:*"
+			}
+		],
 		"versionEndIncluding": "0.196.1"
 	}
 ]

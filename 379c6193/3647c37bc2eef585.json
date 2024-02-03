@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sourcegraph:cody:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sourcegraph:cody:0.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sourcegraph:cody:0.14.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.14.0",
 		"versionStartIncluding": "0.10.0"
 	}

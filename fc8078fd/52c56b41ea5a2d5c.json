@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:maven:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.0:*:*:*:*:maven:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.1:*:*:*:*:maven:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.2:*:*:*:*:maven:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.3:*:*:*:*:maven:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:maven:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:maven:*:*"
+			}
+		],
 		"versionEndExcluding": "9.0.6",
 		"versionStartIncluding": "9.0.0"
 	}

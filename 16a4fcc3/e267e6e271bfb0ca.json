@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samperrow:pre_party_resource_hints:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samperrow:pre_party_resource_hints:1.8.18:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.18"
 	}
 ]

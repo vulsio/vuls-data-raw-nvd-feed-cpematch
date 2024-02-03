@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:time-travellers:oftpd:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:time-travellers:oftpd:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.3.7"
 	}
 ]

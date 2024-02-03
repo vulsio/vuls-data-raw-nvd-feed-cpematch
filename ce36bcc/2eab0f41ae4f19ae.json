@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:csdeshang:dso2o:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:csdeshang:dso2o:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:csdeshang:dso2o:4.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.1.0"
 	}
 ]

@@ -385,13 +385,27 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:strangebee:thehive:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:strangebee:thehive:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:strangebee:thehive:5.1.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.1.9",
 		"versionStartIncluding": "5.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:strangebee:thehive:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:strangebee:thehive:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:strangebee:thehive:5.2.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.2.8",
 		"versionStartIncluding": "5.2.0"
 	}

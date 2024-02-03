@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:openeuler:*:*:*:*:-:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:openeuler:4.19.90:*:*:*:-:linux:*:*"
+			}
+		],
 		"versionEndExcluding": "4.19.90-2401.3",
 		"versionStartIncluding": "4.19.90"
 	}

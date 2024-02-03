@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sunnytoo:stblogsearch:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sunnytoo:stblogsearch:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sunnytoo:stblogsearch:1.0.0:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.0"
 	}
 ]

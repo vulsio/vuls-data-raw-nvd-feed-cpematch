@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:contiki-ng:tinydtls:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:contiki-ng:tinydtls:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:contiki-ng:tinydtls:2018-08-30:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2018-08-30"
 	}
 ]

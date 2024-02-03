@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trendmicro:apex_one:*:*:*:*:saas:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:apex_one:-:*:*:*:saas:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "14.0.12737"
 	}
 ]

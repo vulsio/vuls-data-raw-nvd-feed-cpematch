@@ -378,6 +378,15 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:23.0.2023.08:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:23.0.2024.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:24.0.2023.10:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:2023.05:*:*:*:release_independent:*:*:*"
 			},
 			{
@@ -401,7 +410,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_xtended_services_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "24.0.2023.10",
 		"versionStartIncluding": "24.0.2023.01"
 	},

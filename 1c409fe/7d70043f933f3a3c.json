@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:khronos:vulkan:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:khronos:vulkan:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:khronos:vulkan:1.3.224:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.3.224"
 	}
 ]

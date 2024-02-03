@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:extplorer:extplorer:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:extplorer:extplorer:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:extplorer:extplorer:2.1.5:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "2.1.5",
 		"versionStartIncluding": "1.0.0"
 	}

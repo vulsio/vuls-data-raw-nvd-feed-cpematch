@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:merge_efilm_workstation:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:merge_efilm_workstation:4.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.2"
 	}
 ]

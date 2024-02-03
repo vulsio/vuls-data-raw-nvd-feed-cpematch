@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:magneticone:magento_to_woocommerce_migration:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magneticone:magento_to_woocommerce_migration:2.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0.0"
 	}
 ]

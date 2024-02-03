@@ -1,14 +1,24 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.5.6.16"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:1.5.6.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:splashtop:software_updater:1.5.6.21:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.5.6.21"

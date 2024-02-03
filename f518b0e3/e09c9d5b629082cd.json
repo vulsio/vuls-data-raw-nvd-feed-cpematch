@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:codecrafters:ability_ftp_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codecrafters:ability_ftp_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:codecrafters:ability_ftp_server:2.34:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.34"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:broadcom:symantec_server_management_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:broadcom:symantec_server_management_suite:7.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.9"
 	}
 ]

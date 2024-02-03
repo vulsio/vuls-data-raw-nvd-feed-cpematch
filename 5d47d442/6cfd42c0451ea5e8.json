@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:gentoo:ebuild_for_slurm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gentoo:ebuild_for_slurm:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gentoo:ebuild_for_slurm:22.05.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "22.05.3"
 	}
 ]

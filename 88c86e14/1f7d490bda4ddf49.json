@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpswings:coupon_referral_program:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpswings:coupon_referral_program:1.7.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.7.2"
 	}
 ]

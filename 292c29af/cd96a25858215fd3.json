@@ -1,13 +1,21 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:openeuler:*:*:*:*:-:-:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:openeuler:4.19.90:*:*:*:-:-:*:*"
+			}
+		],
 		"versionEndExcluding": "4.19.90-2401.3",
 		"versionStartIncluding": "4.19.90"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:openeuler:*:*:*:*:-:-:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:openeuler:5.10.0-60.18.0:*:*:*:-:-:*:*"
+			}
+		],
 		"versionEndExcluding": "5.10.0-183.0.0",
 		"versionStartIncluding": "5.10.0-60.18.0"
 	}

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:joomlart:s5_register:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:joomlart:s5_register:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:joomlart:s5_register:3.0.0:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.0",
 		"versionStartIncluding": "1.0.0"
 	}

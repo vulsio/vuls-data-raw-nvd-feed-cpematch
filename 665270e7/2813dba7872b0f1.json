@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kuerp_project:kuerp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kuerp_project:kuerp:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kuerp_project:kuerp:1.0.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.4"
 	}
 ]

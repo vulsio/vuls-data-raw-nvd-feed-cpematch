@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:renzojohnson:contact_form_7_extension_for_mailchimp:0.5.70:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.5.70"
 	}
 ]

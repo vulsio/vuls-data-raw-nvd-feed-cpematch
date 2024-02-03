@@ -16,7 +16,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:8.5\\(4\\):*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.6\\(2\\)"
 	}
 ]

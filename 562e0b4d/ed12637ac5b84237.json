@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mintplexlabs:vector_admin:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:vector_admin:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2024-01-23"
 	}
 ]

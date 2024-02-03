@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:king-products:lms_king_lite:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:king-products:lms_king_lite:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:king-products:lms_king_lite:3.3.01:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.01",
 		"versionStartIncluding": "1.0.0"
 	}

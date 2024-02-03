@@ -91,9 +91,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.0.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.5.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.5.5.47"
+		"versionEndIncluding": "2.5.5.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:*:*:*:*:*:*:*:*",
@@ -115,12 +118,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.0.92:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.5.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.5.5.47"
+		"versionEndExcluding": "2.5.5.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:*:*:*:*:*:*:*:*",
@@ -131,5 +131,21 @@
 		],
 		"versionEndExcluding": "1.4.9.4",
 		"versionStartIncluding": "1.4.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.0.78:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.0.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg350xg-24f_firmware:2.5.5.47:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.5.9.54",
+		"versionStartIncluding": "2.5"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:factominer:factoinvestigate:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:factominer:factoinvestigate:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:factominer:factoinvestigate:1.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.9"
 	}
 ]

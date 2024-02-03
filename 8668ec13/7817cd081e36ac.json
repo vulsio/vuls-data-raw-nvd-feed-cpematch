@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:elijahharry:hoolock:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elijahharry:hoolock:2.0.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elijahharry:hoolock:2.1.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elijahharry:hoolock:2.2.0:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "2.2.1",
 		"versionStartIncluding": "2.0.0"
 	}

@@ -1,7 +1,30 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:2.35.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.35.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jetico:bcwipe:2.35.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.35.1",
+		"versionStartIncluding": "2.0"
 	}
 ]

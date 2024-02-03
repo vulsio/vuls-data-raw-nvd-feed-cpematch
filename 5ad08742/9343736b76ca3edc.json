@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:xlightftpd:xlight_ftp_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xlightftpd:xlight_ftp_server:1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.2"
 	}
 ]

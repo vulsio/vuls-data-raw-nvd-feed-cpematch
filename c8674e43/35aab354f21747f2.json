@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:splicecom:ipcs:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splicecom:ipcs:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:splicecom:ipcs:1.8.5:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.5"
 	}
 ]

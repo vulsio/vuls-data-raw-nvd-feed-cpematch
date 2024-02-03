@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_item_inspection_support_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_item_inspection_support_system:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_item_inspection_support_system:4.0.31:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.0.31"
 	}
 ]

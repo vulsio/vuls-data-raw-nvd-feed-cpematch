@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:red_hat_dependency_analytics:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.0:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.1:*:*:*:*:jenkins:*:*"
+			}
+		],
 		"versionEndIncluding": "0.7.1"
 	}
 ]

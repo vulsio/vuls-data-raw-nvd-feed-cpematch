@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:*:*:*:*:doboku:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:-:*:*:*:doboku:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:18.1.0:*:*:*:doboku:*:*:*"
+			}
+		],
 		"versionEndExcluding": "19.0.0"
 	}
 ]

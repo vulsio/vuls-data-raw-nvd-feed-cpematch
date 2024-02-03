@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:*:*:*:*:dentsu:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:-:*:*:*:dentsu:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:12.1.0:*:*:*:dentsu:*:*:*"
+			}
+		],
 		"versionEndExcluding": "13.0.0"
 	}
 ]

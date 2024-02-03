@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:*:*:*:*:mechanical:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:-:*:*:*:mechanical:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cals-ed:electronic_delivery_check_system:10.1.0:*:*:*:mechanical:*:*:*"
+			}
+		],
 		"versionEndExcluding": "11.0.0"
 	}
 ]

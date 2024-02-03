@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:seosthemes:seos_contact_form:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:seosthemes:seos_contact_form:1.6.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seosthemes:seos_contact_form:1.8.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.0"
 	}
 ]

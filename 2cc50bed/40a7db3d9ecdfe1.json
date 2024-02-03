@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trillium:trillium:*:*:*:*:*:rust:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trillium:trillium:-:*:*:*:*:rust:*:*"
+			}
+		],
 		"versionEndExcluding": "0.5.4"
 	}
 ]

@@ -1,12 +1,31 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:23.0.2024.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.10:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "commpilot-24_2022.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:23.0.2024.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.10:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:ri.2020.07:*:*:*:*:*:*:*"
 			},
@@ -109,6 +128,15 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:23.0.2024.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.10:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:ri.2020.07:*:*:*:*:*:*:*"
 			},
@@ -213,7 +241,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:broadworks_application_delivery_platform:24.0.2023.01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "24.0.2023.10",
 		"versionStartIncluding": "24.0.2023.01"
 	},

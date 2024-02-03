@@ -6,12 +6,19 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.0.2208:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.2308"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.0.2208:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.1.2308:*:*:*:*:*:*:*"
 			}
@@ -22,7 +29,13 @@
 		"cpe23Uri": "cpe:2.3:a:splunk:cloud:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.0.2208:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.1.2308:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:cloud:9.1.2308.200:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.1.2312.100"

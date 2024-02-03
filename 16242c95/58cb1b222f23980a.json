@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:keap:official_opt-in_forms:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:keap:official_opt-in_forms:1.0.11:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.11"
 	}
 ]

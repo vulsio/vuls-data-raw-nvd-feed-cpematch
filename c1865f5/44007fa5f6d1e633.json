@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:discord:discord:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:discord:discord:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:discord:discord:0.0.291:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.0.291"
 	}
 ]

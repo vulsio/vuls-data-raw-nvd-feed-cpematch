@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hyper:hyper:*:*:*:*:*:macos:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hyper:hyper:-:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyper:hyper:3.4.1:*:*:*:*:macos:*:*"
+			}
+		],
 		"versionEndIncluding": "3.4.1"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:qodeinteractive:qode_essential_addons:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qodeinteractive:qode_essential_addons:1.5.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.2"
 	}
 ]

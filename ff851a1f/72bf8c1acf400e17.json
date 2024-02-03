@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kloudq:tor_loco_min:*:*:*:*:*:mqtt:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kloudq:tor_loco_min:1.0:*:*:*:*:mqtt:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kloudq:tor_loco_min:3.1:*:*:*:*:mqtt:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1",
 		"versionStartIncluding": "1.0"
 	}

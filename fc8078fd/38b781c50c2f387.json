@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:*:*:*:*:*:cli:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.0:*:*:*:*:cli:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.1:*:*:*:*:cli:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.2:*:*:*:*:cli:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.3:*:*:*:*:cli:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.4:*:*:*:*:cli:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:cli:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.5",
 		"versionStartIncluding": "9.0.0"
 	}

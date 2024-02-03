@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webfactoryltd:wp_login_lockdown:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webfactoryltd:wp_login_lockdown:2.06:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.06"
 	}
 ]

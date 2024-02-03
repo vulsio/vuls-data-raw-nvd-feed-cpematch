@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dcgws:hreflang_tags_lite:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dcgws:hreflang_tags_lite:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dcgws:hreflang_tags_lite:2.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0.0"
 	}
 ]
