@@ -402,14 +402,60 @@
 		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r37p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r41p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r42p0",
+		"versionStartIncluding": "r29p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r37p0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "r42p0",
+		"versionStartIncluding": "r29p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r42p0",
+		"versionStartIncluding": "r29p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "r42p0",
+		"versionStartIncluding": "r29p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*"
 			},
@@ -417,10 +463,23 @@
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r42p0",
+		"versionStartIncluding": "r29p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r37p0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r40p0:*:*:*:*:*:*:*"
@@ -439,31 +498,7 @@
 		"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r37p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r40p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r41p0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "r42p0",

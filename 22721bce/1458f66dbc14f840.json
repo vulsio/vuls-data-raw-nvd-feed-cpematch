@@ -20680,9 +20680,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.2",
+		"versionEndIncluding": "10.0.2",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -20708,12 +20711,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.2",
+		"versionEndExcluding": "10.0.2",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -20782,7 +20782,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.9",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha0:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0.9",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.6:*:*:*:*:*:*:*"
 			}
@@ -20795,9 +20818,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha0:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.0:alpha1:*:*:*:*:*:*"
@@ -20822,12 +20842,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:10.0.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.0.9",
@@ -21018,24 +21032,14 @@
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:alpha0:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:alpha1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta2:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.2",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta3:*:*:*:*:*:*"
 			},
@@ -21047,16 +21051,6 @@
 			}
 		],
 		"versionEndIncluding": "11.0.2",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:alpha1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -21076,9 +21070,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0.2",
+		"versionEndExcluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -21110,16 +21110,6 @@
 			}
 		],
 		"versionEndExcluding": "11.0.3",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:jetty:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.9",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -21191,6 +21181,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:jetty:11.0.4:*:*:*:*:*:*:*"

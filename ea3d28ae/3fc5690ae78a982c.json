@@ -261,22 +261,25 @@
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01.01:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.02:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.04:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.04"
+		"versionEndExcluding": "4.04"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
@@ -423,6 +426,9 @@
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:3.04-13:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.00:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -432,40 +438,22 @@
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01.01:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.02:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.04"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01.01:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.04"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.00:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.01:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.04:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.04"
+		"versionEndIncluding": "4.04"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
