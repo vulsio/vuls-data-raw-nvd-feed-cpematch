@@ -31926,6 +31926,9 @@
 		"cpe23Uri": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.9.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.9.8:*:*:*:*:*:*:*"
 			},
 			{
@@ -32165,7 +32168,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.13.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.14.1",
+		"versionStartIncluding": "1.9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.9.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.14.1",
+		"versionStartExcluding": "1.9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.13.3:*:*:*:*:*:*:*"
 			},
@@ -32192,27 +32212,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.13.11:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.14.1",
-		"versionStartIncluding": "1.9.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.9.6:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.9.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.14.1",
-		"versionStartExcluding": "1.9.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:nginx:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:nginx:1.13.12:*:*:*:*:*:*:*"
 			},
