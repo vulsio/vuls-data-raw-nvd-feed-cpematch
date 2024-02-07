@@ -4607,6 +4607,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.5.7",
+		"versionStartIncluding": "10.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.5.7:*:*:*:*:*:*:*"
@@ -4642,9 +4670,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.6.4",
+		"versionEndIncluding": "10.6.4",
 		"versionStartIncluding": "10.6.0"
 	},
 	{
@@ -4661,12 +4692,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:mac_os_x_server:10.6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.6.4",
+		"versionEndExcluding": "10.6.4",
 		"versionStartIncluding": "10.6.0"
 	},
 	{

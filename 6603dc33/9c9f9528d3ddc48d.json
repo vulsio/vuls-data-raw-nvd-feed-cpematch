@@ -12,5 +12,15 @@
 				"cpe23Uri": "cpe:2.3:a:avaya:messaging_storage_server:5.0:*:*:*:*:*:*:*"
 			}
 		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:avaya:messaging_storage_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:avaya:messaging_storage_server:3.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.0",
+		"versionStartIncluding": "3.0"
 	}
 ]

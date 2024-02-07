@@ -705,7 +705,7 @@
 				"cpe23Uri": "cpe:2.3:a:kunalnagar:custom_404_pro:3.8.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.8.1"
+		"versionEndIncluding": "3.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kunalnagar:custom_404_pro:*:*:*:*:*:wordpress:*:*",
@@ -865,7 +865,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kunalnagar:custom_404_pro:3.8.0:*:*:*:*:wordpress:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "3.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kunalnagar:custom_404_pro:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:kunalnagar:custom_404_pro:3.8.1:*:*:*:*:wordpress:*:*"
 			}

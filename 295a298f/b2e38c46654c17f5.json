@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_servicenow_data_flow:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_servicenow_data_flow:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_servicenow_data_flow:1.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3"
 	}
 ]
