@@ -1,18 +1,33 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:2.5.9.54:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:2.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.5.9.54",
 		"versionStartIncluding": "2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:cbs250-8t-d_firmware:3.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.4.0.17",
 		"versionStartIncluding": "3.4"
 	}

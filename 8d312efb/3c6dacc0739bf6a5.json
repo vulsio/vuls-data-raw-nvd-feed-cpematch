@@ -15,5 +15,21 @@
 				"cpe23Uri": "cpe:2.3:a:sun:java_web_start:1.2:*:*:*:*:*:*:*"
 			}
 		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sun:java_web_start:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sun:java_web_start:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sun:java_web_start:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sun:java_web_start:1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.2",
+		"versionStartIncluding": "1.0"
 	}
 ]

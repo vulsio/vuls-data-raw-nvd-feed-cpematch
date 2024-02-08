@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:egyplus:7ammel:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:egyplus:7ammel:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:egyplus:7ammel:1.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.1"
 	}
 ]

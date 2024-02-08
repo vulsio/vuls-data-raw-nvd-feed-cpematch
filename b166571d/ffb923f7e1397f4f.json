@@ -9241,5 +9241,18 @@
 		],
 		"versionEndExcluding": "3.5.0",
 		"versionStartIncluding": "3.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:mbed_tls:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:mbed_tls:3.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:mbed_tls:3.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.5.1",
+		"versionStartExcluding": "3.4.0"
 	}
 ]

@@ -4,20 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:pluginus:inpost_gallery:-:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pluginus:inpost_gallery:2.1.4.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.4.1"
+		"versionEndExcluding": "2.1.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pluginus:inpost_gallery:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:pluginus:inpost_gallery:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pluginus:inpost_gallery:2.1.4.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.4.1"
+		"versionEndIncluding": "2.1.4.1"
 	}
 ]

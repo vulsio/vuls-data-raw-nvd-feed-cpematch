@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:citrusdb:citrusdb:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrusdb:citrusdb:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrusdb:citrusdb:0.3.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.3.6"
 	}
 ]
