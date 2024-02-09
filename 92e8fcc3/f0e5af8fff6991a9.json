@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:trendmicro:officescan:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:officescan:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:officescan:7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:officescan:8.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.0",
 		"versionStartIncluding": "7.0"
 	}

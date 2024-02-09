@@ -780,6 +780,22 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:ibm:aix:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:aix:4.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:aix:5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:aix:5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.1",
+		"versionStartIncluding": "4.3.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:ibm:aix:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndIncluding": "7.1.5.32",
 		"versionStartIncluding": "7.1.5.0"

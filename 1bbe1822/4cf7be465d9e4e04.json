@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:rtfm:ssldump:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rtfm:ssldump:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rtfm:ssldump:0.9b2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.9b2"
 	}
 ]
