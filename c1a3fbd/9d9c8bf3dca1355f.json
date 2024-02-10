@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:nettica:intellipeer_email_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nettica:intellipeer_email_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nettica:intellipeer_email_server:1.01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.01"
 	}
 ]

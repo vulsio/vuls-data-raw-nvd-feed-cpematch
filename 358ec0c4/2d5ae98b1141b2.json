@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kimihia:tellme:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kimihia:tellme:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kimihia:tellme:1.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2"
 	}
 ]

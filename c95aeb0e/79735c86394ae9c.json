@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:phildev:ipfilter:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:phildev:ipfilter:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phildev:ipfilter:3.4.25:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.4.25"
 	}
 ]

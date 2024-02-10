@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cloudflare:miniflare:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudflare:miniflare:3.20230821.0:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "3.20231030.2",
 		"versionStartIncluding": "3.20230821.0"
 	}

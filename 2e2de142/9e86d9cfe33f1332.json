@@ -711,7 +711,10 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:18.4.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.14:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "20.1.2"
@@ -720,14 +723,74 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.5:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.2:*:*:*:*:*:*:*"
 			},
@@ -739,12 +802,39 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "20.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.8:*:*:*:*:*:*:*"
@@ -912,51 +1002,6 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.2.14:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:16.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1063,6 +1108,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:18.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:18.4.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:sd-wan:19.2.0:*:*:*:*:*:*:*"
