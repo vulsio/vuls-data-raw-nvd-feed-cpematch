@@ -284,58 +284,22 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.25:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.30:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.30.5r3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.3r2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.70.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.70.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.70.2",
@@ -397,6 +361,49 @@
 			}
 		],
 		"versionEndExcluding": "11.70.2",
+		"versionStartIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.70.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.70.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.70.2",
 		"versionStartIncluding": "11.0"
 	},
 	{
@@ -590,9 +597,6 @@
 		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.20:*:*:*:*:*:*:*"
 			},
 			{
@@ -611,25 +615,7 @@
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.3r2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.3:*:*:*:*:*:*:*"
@@ -643,7 +629,85 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.70.1",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.20:*:*:*:*:*:*:*"
 			},
@@ -663,22 +727,7 @@
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.3r2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.40.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.50.2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:e-series_santricity_os_controller:11.60.1:*:*:*:*:*:*:*"

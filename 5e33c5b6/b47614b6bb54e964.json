@@ -343,9 +343,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.1"
+		"versionEndIncluding": "2.7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
@@ -532,12 +535,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.1"
+		"versionEndExcluding": "2.7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
@@ -838,31 +838,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.11.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.0.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.11.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:1.4.5:*:*:*:*:*:*:*"
 			},
@@ -970,13 +946,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.11.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.11.1"
+		"versionEndIncluding": "2.11.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.4:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:0.5.5.1:*:*:*:*:*:*:*"
 			},
@@ -1165,12 +1156,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.11.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.11.1"
+		"versionEndExcluding": "2.11.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
@@ -2031,7 +2019,7 @@
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.12.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.13.1"
+		"versionEndIncluding": "2.13.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
@@ -2247,6 +2235,6 @@
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.12.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.13.1"
+		"versionEndExcluding": "2.13.1"
 	}
 ]

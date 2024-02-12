@@ -3602,26 +3602,7 @@
 		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:-:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.3:*:*:*:-:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.8.4",
-		"versionStartIncluding": "1.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:-:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc1:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc2:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.3:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.4:*:*:*:-:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.8.4",
@@ -3635,9 +3616,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc2:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.3:*:*:*:-:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.8.4",
+		"versionStartIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:-:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc2:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.3:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.4:*:*:*:-:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.4",
 		"versionStartIncluding": "1.8.0"
 	},
 	{
