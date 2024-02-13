@@ -568,12 +568,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:0.7.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:0.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.7.17"
+		"versionEndExcluding": "0.7.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:*:*:*:*:*:*:*:*",
@@ -733,9 +730,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:0.7.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:0.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.7.17"
+		"versionEndIncluding": "0.7.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opensuse:libsolv:*:*:*:*:*:*:*:*",

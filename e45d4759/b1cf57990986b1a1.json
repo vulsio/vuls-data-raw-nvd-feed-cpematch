@@ -46,6 +46,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.70:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.71:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "fw950.71",
+		"versionStartIncluding": "fw950"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.70:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "fw950.71",
@@ -67,7 +86,7 @@
 				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw950.71:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "fw950.71",
+		"versionEndIncluding": "fw950.90",
 		"versionStartIncluding": "fw950"
 	},
 	{
@@ -183,6 +202,22 @@
 		"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1020.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1020.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1020.31:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "fw1020.40",
+		"versionStartIncluding": "fw1020.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1030.00:*:*:*:*:*:*:*"
 			},
 			{
@@ -219,6 +254,22 @@
 			}
 		],
 		"versionEndExcluding": "fw1030.11",
+		"versionStartIncluding": "fw1030.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1030.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1030.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:powervm_hypervisor:fw1030.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "fw1030.30",
 		"versionStartIncluding": "fw1030.00"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:panterasoft:hdd_health:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:panterasoft:hdd_health:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:panterasoft:hdd_health:4.2.0.112:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.2.0.112"
 	}
 ]
