@@ -279,7 +279,7 @@
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.03:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.04"
+		"versionEndIncluding": "4.04"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
@@ -448,7 +448,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.03:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "4.04"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:xpdfreader:xpdf:4.04:*:*:*:*:*:*:*"
 			}

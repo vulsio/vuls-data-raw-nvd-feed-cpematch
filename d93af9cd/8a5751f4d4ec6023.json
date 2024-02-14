@@ -40555,9 +40555,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.19.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.20.1",
+		"versionEndIncluding": "16.20.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -40664,12 +40667,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.19.1:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.20.1",
+		"versionEndExcluding": "16.20.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{

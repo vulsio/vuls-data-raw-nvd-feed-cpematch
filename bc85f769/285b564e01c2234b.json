@@ -52,12 +52,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:7.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:7.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.3.0"
+		"versionEndExcluding": "7.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:*:*:*:*:*:*:*:*",
@@ -76,9 +73,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:7.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.3.0"
+		"versionEndIncluding": "7.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:*:*:*:*:*:*:*:*",
@@ -90,7 +90,7 @@
 				"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.3.0"
+		"versionEndExcluding": "7.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microfocus:arcsight_logger:*:*:*:*:*:*:*:*",
