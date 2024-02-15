@@ -15,13 +15,28 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.0.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.01.03:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.01.05"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.0.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.0.01.05"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.01.05:*:*:*:*:*:*:*"
@@ -34,9 +49,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.0.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv160_firmware:1.0.01.03:*:*:*:*:*:*:*"

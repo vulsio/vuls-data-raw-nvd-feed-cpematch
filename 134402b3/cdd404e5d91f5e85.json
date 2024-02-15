@@ -138,9 +138,6 @@
 		"cpe23Uri": "cpe:2.3:a:gnu:screen:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:screen:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:screen:3.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -175,9 +172,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:screen:3.9.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:screen:3.9.13:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:screen:3.9.15:*:*:*:*:*:*:*"
@@ -322,6 +316,18 @@
 			}
 		],
 		"versionEndIncluding": "4.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:screen:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:screen:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:screen:3.9.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:screen:*:*:*:*:*:*:*:*",
