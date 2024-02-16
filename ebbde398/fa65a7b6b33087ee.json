@@ -845,6 +845,18 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.0:general_availability:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.3:general_availability:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.5:cr2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.0.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -873,6 +885,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.1.0:cr2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.1:*:*:*:*:*:*:*"
@@ -929,70 +944,16 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.0:cr1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:cr1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:12.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:12.0.0:cr1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:beta2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.0:general_availability:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:9.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.0:cr1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:beta1:*:*:*:*:*:*"
@@ -1019,10 +980,19 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:14.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:-:*:*:*:*:*:*"
@@ -1031,46 +1001,13 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.5:cr2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:beta2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:18.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:alpha1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.0:general_availability:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.3:general_availability:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:18.0.1:*:*:*:*:*:*:*"
@@ -1097,6 +1034,18 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.0:general_availability:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.3:general_availability:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.5:cr2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.0.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -1127,6 +1076,9 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.1.0:cr2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1151,25 +1103,58 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:9.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:9.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:beta1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.0.0:cr5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.0:cr1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:cr1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:12.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:12.0.0:cr1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:13.0.0:-:*:*:*:*:*:*"
@@ -1178,7 +1163,25 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:13.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:14.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:14.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:-:*:*:*:*:*:*"
@@ -1187,31 +1190,10 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.3:general_availability:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:7.2.5:cr2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:8.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:17.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:18.0.0:*:*:*:*:*:*:*"
@@ -1233,30 +1215,6 @@
 			}
 		],
 		"versionEndExcluding": "21.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:14.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:14.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:15.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:wildfly:16.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "21.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:wildfly:*:*:*:*:*:*:*:*",

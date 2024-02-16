@@ -72,13 +72,7 @@
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.1.2:*:*:*:*:*:*:*"
@@ -90,31 +84,13 @@
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.1.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.2"
@@ -184,6 +160,36 @@
 			}
 		],
 		"versionEndIncluding": "6.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:*:*:*:*:*:*:*:*",
@@ -501,6 +507,73 @@
 		"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.5.1",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:6.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -545,5 +618,24 @@
 		],
 		"versionEndExcluding": "6.4",
 		"versionStartIncluding": "6.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:7.1.0.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:bsafe_ssl-j:7.1.0.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.1",
+		"versionStartIncluding": "7.0"
 	}
 ]
