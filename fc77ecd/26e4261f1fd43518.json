@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:boostmyshop:boostmyshop:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:boostmyshop:boostmyshop:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:boostmyshop:boostmyshop:1.1.9:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.10"
 	}
 ]

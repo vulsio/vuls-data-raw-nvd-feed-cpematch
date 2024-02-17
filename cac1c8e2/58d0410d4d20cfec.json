@@ -723,8 +723,50 @@
 		"cpe23Uri": "cpe:2.3:a:veritas:netbackup:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp4:netware_media_servers:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp5:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp6:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp7:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp8:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp1:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp2:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp3:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp4:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp5:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp1:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp2:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp3:netware_media_servers:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veritas:netbackup:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp1:netware_media_servers:*:*:*:*:*"
 			},
@@ -769,6 +811,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp2:netware_media_servers:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veritas:netbackup:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp1:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp2:netware_media_servers:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp3:netware_media_servers:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veritas:netbackup:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp3:netware_media_servers:*:*:*:*:*"
@@ -874,54 +940,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp1:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp2:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp3:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp4:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp5:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp6:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp7:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:4.5.0:mp8:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp1:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp2:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp3:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp4:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.0.0:mp5:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp1:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp2:netware_media_servers:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:5.1.0:mp3:netware_media_servers:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup:7.0:*:*:*:*:*:*:*"

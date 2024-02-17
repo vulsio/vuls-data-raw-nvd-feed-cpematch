@@ -8,22 +8,19 @@
 		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.11.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.11.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.12.0:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.0:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.1:*:*:*:*:wordpress:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.2:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.11.1:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "4.1.0"
@@ -36,6 +33,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.11.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.11.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.12.0:*:*:*:*:wordpress:*:*"
@@ -44,13 +50,37 @@
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.0:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:3.12.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.0.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpmudev:defender_security:4.1.0:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "4.1.0"

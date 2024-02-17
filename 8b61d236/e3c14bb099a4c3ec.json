@@ -55,18 +55,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.11"
+		"versionEndIncluding": "1.5.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
@@ -136,21 +127,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.5.11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.5.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",

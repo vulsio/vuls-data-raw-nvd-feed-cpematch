@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bookingcalendar_project:bookingcalendar:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bookingcalendar_project:bookingcalendar:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bookingcalendar_project:bookingcalendar:2.7.9:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndIncluding": "2.7.9"
 	}
 ]

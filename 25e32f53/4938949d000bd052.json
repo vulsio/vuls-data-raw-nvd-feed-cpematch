@@ -4,20 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mahadiscom:mahavitaran:-:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mahadiscom:mahavitaran:7.50:*:*:*:*:android:*:*"
 			}
 		],
-		"versionEndIncluding": "7.50"
+		"versionEndExcluding": "7.50"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mahadiscom:mahavitaran:*:*:*:*:*:android:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mahadiscom:mahavitaran:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mahadiscom:mahavitaran:7.50:*:*:*:*:android:*:*"
 			}
 		],
-		"versionEndExcluding": "7.50"
+		"versionEndIncluding": "7.50"
 	}
 ]

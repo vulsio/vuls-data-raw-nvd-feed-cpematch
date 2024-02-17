@@ -8583,7 +8583,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:djangoproject:django:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:djangoproject:django:5.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.0.2",
 		"versionStartIncluding": "5.0"
 	}
