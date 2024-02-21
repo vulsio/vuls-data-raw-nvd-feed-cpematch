@@ -3230,6 +3230,9 @@
 				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.26.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.26.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.27.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -3237,6 +3240,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.27.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.27.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.28.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.29.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.91.1",
@@ -3579,13 +3591,21 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.28.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.28.1",
 		"versionStartIncluding": "1.28.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:envoyproxy:envoy:1.29.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.29.1",
 		"versionStartIncluding": "1.29.0"
 	},

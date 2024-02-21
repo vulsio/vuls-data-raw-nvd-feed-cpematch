@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:network_drive_connector:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:network_drive_connector:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.12.1"
 	}
 ]

@@ -108,6 +108,12 @@
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:-:*:*:*:home:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:1.0:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.0:*:*:*:home:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -132,28 +138,13 @@
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.5:*:*:*:home:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.6:*:*:*:home:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.7:*:*:*:home:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.8:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.9:*:*:*:home:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:11.0:*:*:*:*:*:*:*"
@@ -217,6 +208,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:21.0:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:21.1:*:*:*:home:*:*:*"
 			}
 		],
 		"versionEndIncluding": "22.2"
@@ -234,6 +228,21 @@
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.1:*:*:*:home:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.2:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:3.0:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:3.2:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:4.0:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:4.2:*:*:*:home:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:21.1:*:*:*:home:*:*:*"
 			}
 		],
@@ -242,12 +251,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:1.0:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.0:*:*:*:home:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.1:*:*:*:home:*:*:*"
 			},
@@ -369,7 +372,19 @@
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.4:*:*:*:home:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:21.1:*:*:*:home:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.5:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.6:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.7:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.8:*:*:*:home:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:10.9:*:*:*:home:*:*:*"
 			}
 		],
 		"versionEndIncluding": "22.2"
@@ -382,21 +397,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:2.2:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:3.0:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:3.2:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:4.0:*:*:*:home:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:4.2:*:*:*:home:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mobatek:mobaxterm:4.4:*:*:*:home:*:*:*"
