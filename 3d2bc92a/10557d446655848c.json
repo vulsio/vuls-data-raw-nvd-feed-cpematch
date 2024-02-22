@@ -3184,9 +3184,6 @@
 				"cpe23Uri": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.7.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.7.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.7.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -3321,6 +3318,16 @@
 			}
 		],
 		"versionEndIncluding": "8.7.11",
+		"versionStartIncluding": "8.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:synacor:zimbra_collaboration_suite:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.7.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.7.11",
 		"versionStartIncluding": "8.7.0"
 	},
 	{

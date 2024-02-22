@@ -17303,9 +17303,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0h:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0i:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.0i",
+		"versionEndIncluding": "1.1.0i",
 		"versionStartIncluding": "1.1.0"
 	},
 	{
@@ -17358,12 +17361,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0h:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0i:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.0i",
+		"versionEndExcluding": "1.1.0i",
 		"versionStartIncluding": "1.1.0"
 	},
 	{
@@ -19699,9 +19699,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.7",
+		"versionEndIncluding": "3.0.7",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -19787,12 +19790,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.7",
+		"versionEndExcluding": "3.0.7",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -20374,7 +20374,7 @@
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.12",
+		"versionEndIncluding": "3.0.12",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -20477,7 +20477,7 @@
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.12",
+		"versionEndExcluding": "3.0.12",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -20693,7 +20693,7 @@
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.4",
+		"versionEndIncluding": "3.1.4",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -20721,7 +20721,7 @@
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.4",
+		"versionEndExcluding": "3.1.4",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
