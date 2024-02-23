@@ -1303,5 +1303,55 @@
 		],
 		"versionEndIncluding": "4.7.0",
 		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:opencv:opencv:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.7.0",
+		"versionStartIncluding": "4.5.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:opencv:opencv:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opencv:opencv:4.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.8.0",
+		"versionStartIncluding": "4.5.2"
 	}
 ]

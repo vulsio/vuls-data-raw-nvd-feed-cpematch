@@ -3,6 +3,18 @@
 		"cpe23Uri": "cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:luracast:restler:1.0.20:*:*:*:*:-:*:*"
+			}
+		],
+		"versionEndExcluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:luracast:restler:1.0.20:*:*:*:*:-:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:luracast:restler:2.2.0:*:*:*:*:-:*:*"
 			},
 			{
@@ -19,27 +31,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:luracast:restler:3.0.0:rc4:*:*:*:-:*:*"
-			}
-		],
-		"versionEndIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:luracast:restler:1.0.20:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:luracast:restler:2.2.0:*:*:*:*:-:*:*"
-			}
-		],
-		"versionEndExcluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:luracast:restler:1.0.20:*:*:*:*:-:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:luracast:restler:3.0.0:rc5:*:*:*:-:*:*"
@@ -49,5 +40,14 @@
 			}
 		],
 		"versionEndIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:luracast:restler:*:*:*:*:*:-:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:luracast:restler:2.2.0:*:*:*:*:-:*:*"
+			}
+		],
+		"versionEndExcluding": "3.0.0"
 	}
 ]

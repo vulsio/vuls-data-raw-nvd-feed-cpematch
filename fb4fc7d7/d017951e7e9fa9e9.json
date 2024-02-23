@@ -819,13 +819,35 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p2:*:*:*:*:*:*"
@@ -837,8 +859,47 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p4:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:-:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p3:*:*:*:*:*:*"
 			},
@@ -850,22 +911,147 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p4:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:-:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p5:*:*:*:*:*:*"
 			},
@@ -888,18 +1074,23 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p8:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p5:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p9:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p2:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p3:*:*:*:*:*:*"
 			},
@@ -913,83 +1104,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p2:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p3:*:*:*:*:*:*"
 			},
@@ -1028,142 +1142,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p4:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p10:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p11:*:*:*:*:*:*"
 			},
@@ -1171,146 +1168,10 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p14:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p16:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p10:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.2.8",
-		"versionStartIncluding": "7.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p13:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p16:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p2:*:*:*:*:*:*"
@@ -1329,9 +1190,169 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p9:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p5:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:p6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.8:p13:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.2.8",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.5:p4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -2266,37 +2287,8 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:-:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_7:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p2:*:*:*:*:*:*"
 			},
@@ -2316,13 +2308,131 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p7:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:if01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_02:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.3.3",
+		"versionStartIncluding": "7.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:if01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_02:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:-:*:*:*:*:*:*"
@@ -2334,13 +2444,25 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_10:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_11:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_4:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_5:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_7:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_8:*:*:*:*:*:*"
@@ -2374,149 +2496,6 @@
 			}
 		],
 		"versionEndIncluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:if01:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:fix_pack_11:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_01:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_02:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p4:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_01:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:interim_fix_02:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.3.3",
-		"versionStartIncluding": "7.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.1:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.3.2:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3.3",
 		"versionStartIncluding": "7.3.0"
 	},
 	{
@@ -2572,16 +2551,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_4:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:p1:*:*:*:*:*:*"
@@ -2593,19 +2563,75 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:patch1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.4.3",
+		"versionStartIncluding": "7.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.4.3",
+		"versionStartIncluding": "7.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_4:*:*:*:*:*:*"
@@ -2633,16 +2659,13 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:fix_pack_4:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:p1:*:*:*:*:*:*"
@@ -2651,73 +2674,22 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:p2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.4.3",
-		"versionStartIncluding": "7.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.3:fix_pack_3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.4.3",
-		"versionStartIncluding": "7.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:patch1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:p1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.4.3",
-		"versionStartIncluding": "7.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.1:fix_pack_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.2:fix_pack_2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.4.3",
 		"versionStartIncluding": "7.4.0"
 	}
 ]

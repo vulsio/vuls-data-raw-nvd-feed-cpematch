@@ -4515,9 +4515,6 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -4556,6 +4553,16 @@
 			}
 		],
 		"versionEndExcluding": "8.1.4",
+		"versionStartIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.1.4",
 		"versionStartIncluding": "8.0"
 	},
 	{
@@ -5041,16 +5048,6 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.12",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -5131,6 +5128,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.02:*:*:*:*:*:*:*"

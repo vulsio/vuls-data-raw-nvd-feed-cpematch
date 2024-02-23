@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:identity_linux_broker:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:identity_linux_broker:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.1"
 	}
 ]
