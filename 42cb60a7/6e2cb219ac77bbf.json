@@ -787,12 +787,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.7:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.0.9",
@@ -820,18 +814,6 @@
 				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.3:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.3:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.5:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.5:rc:*:*:*:*:*:*"
 			},
 			{
@@ -851,6 +833,45 @@
 			}
 		],
 		"versionEndExcluding": "3.0.9",
+		"versionStartIncluding": "3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.0.9",
+		"versionStartIncluding": "3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.3:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.5:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.0.9",
+		"versionStartIncluding": "3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.0.9",
 		"versionStartIncluding": "3.0"
 	},
 	{

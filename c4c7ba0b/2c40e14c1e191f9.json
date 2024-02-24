@@ -230,5 +230,27 @@
 		],
 		"versionEndIncluding": "11.0",
 		"versionStartIncluding": "10.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:10.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:10.8.1:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:10.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:10.9.0:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_server:10.9.1:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndExcluding": "11.1",
+		"versionStartIncluding": "10.8.1"
 	}
 ]

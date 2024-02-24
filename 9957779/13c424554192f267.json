@@ -5615,7 +5615,7 @@
 				"cpe23Uri": "cpe:2.3:a:puppet:puppet_enterprise:3.8.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.8.6",
+		"versionEndExcluding": "3.8.6",
 		"versionStartIncluding": "3.8.0"
 	},
 	{
@@ -5638,14 +5638,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:puppet:puppet_enterprise:3.8.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.8.6",
-		"versionStartIncluding": "3.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:puppet:puppet_enterprise:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:puppet:puppet_enterprise:3.8.6:*:*:*:*:*:*:*"
 			}
