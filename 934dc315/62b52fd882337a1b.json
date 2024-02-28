@@ -1653,9 +1653,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.6.2",
+		"versionEndIncluding": "6.6.2",
 		"versionStartIncluding": "6.5.0"
 	},
 	{
@@ -1675,12 +1678,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.2",
+		"versionEndExcluding": "6.6.2",
 		"versionStartIncluding": "6.5.0"
 	},
 	{
@@ -1788,9 +1788,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.6.2",
+		"versionEndIncluding": "6.6.2",
 		"versionStartIncluding": "6.6.0"
 	},
 	{
@@ -1801,12 +1804,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.2",
+		"versionEndExcluding": "6.6.2",
+		"versionStartIncluding": "6.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.6.3",
 		"versionStartIncluding": "6.6.0"
 	},
 	{
@@ -1831,9 +1841,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.1:*:*:*:*:*:*:*"
 			},
@@ -1940,10 +1947,7 @@
 		"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.0:beta:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.0.4",
@@ -1978,13 +1982,16 @@
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.0:beta:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:7.0.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.0.4",

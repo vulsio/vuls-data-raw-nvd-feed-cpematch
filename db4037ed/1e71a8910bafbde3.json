@@ -24,13 +24,7 @@
 		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:8.5.1.1516:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1-1600:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.1."
@@ -38,9 +32,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:8.5.1.1516:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.0:*:*:*:*:*:*:*"
 			},
@@ -60,7 +51,25 @@
 		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1:patch1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:8.5.1.1516:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.1."
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:8.5.1.1516:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.1."
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1:patch2:*:*:*:*:*:*"
@@ -81,7 +90,10 @@
 		"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1-1600:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trendmicro:interscan_messaging_security_virtual_appliance:9.1:patch1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.1."

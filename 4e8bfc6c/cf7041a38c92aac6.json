@@ -3151,12 +3151,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:21.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:21.11.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "21.11.2"
+		"versionEndExcluding": "21.11.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:*:*:*:*:*:*:*:*",
@@ -3520,9 +3517,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:21.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:21.11.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "21.11.2"
+		"versionEndIncluding": "21.11.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bookstackapp:bookstack:*:*:*:*:*:*:*:*",
