@@ -3577,9 +3577,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2013.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2013.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2013.2.4",
+		"versionEndIncluding": "2013.2.4",
 		"versionStartIncluding": "2013.2"
 	},
 	{
@@ -3626,12 +3629,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2013.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2013.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2013.2.4",
+		"versionEndExcluding": "2013.2.4",
 		"versionStartIncluding": "2013.2"
 	},
 	{
@@ -3837,16 +3837,22 @@
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:milestone2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:milestone3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2014.2.3",
+		"versionEndExcluding": "2014.2.3",
 		"versionStartIncluding": "2014.2"
 	},
 	{
@@ -3857,6 +3863,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:beta3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:milestone1:*:*:*:*:*:*"
@@ -3878,42 +3890,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2014.2.3",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:nova:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:milestone3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2014.2.3",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:nova:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:beta2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:beta3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2014.2.3",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:nova:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.0:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2014.2.3",
