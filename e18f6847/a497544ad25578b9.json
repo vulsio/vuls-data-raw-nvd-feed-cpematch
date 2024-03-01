@@ -629,9 +629,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.0.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.0.8",
@@ -671,6 +668,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.0.4:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.0.5:*:*:*:*:*:*:*"
 			},
@@ -747,12 +747,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.1.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.9",
+		"versionEndExcluding": "3.1.9",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -784,9 +781,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs_itsm:3.1.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.9",
+		"versionEndIncluding": "3.1.9",
 		"versionStartIncluding": "3.1.0"
 	},
 	{

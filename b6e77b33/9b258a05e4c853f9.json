@@ -31,10 +31,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.14.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.13:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.15:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.15.0:*:*:*:*:*:*:*"
@@ -51,15 +51,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.14.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.15:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.2.15.0",
+		"versionStartIncluding": "2.2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.15.0",
 		"versionStartIncluding": "2.2.0.0"
 	},
 	{
@@ -72,7 +79,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_copy_data_management:2.2.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.15.0",
+		"versionEndExcluding": "2.2.15.0",
 		"versionStartIncluding": "2.2.0.0"
 	}
 ]

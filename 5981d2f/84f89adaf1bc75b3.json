@@ -56807,12 +56807,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.36.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.36.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.36.3",
+		"versionEndExcluding": "2.36.3",
 		"versionStartIncluding": "2.36.0"
 	},
 	{
@@ -56835,9 +56832,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:git-scm:git:2.36.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.36.3",
+		"versionEndIncluding": "2.36.3",
 		"versionStartIncluding": "2.36.0"
 	},
 	{
