@@ -400,9 +400,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0"
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:*:*:*:*:*:*:*:*",
@@ -520,12 +523,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:4.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0"
+		"versionEndExcluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:evolved_programmable_network_manager:*:*:*:*:*:*:*:*",

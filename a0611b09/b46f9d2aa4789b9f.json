@@ -1,6 +1,13 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:curl:curl:*:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:curl:curl:8.5.0:*:*:*:*:*:*:*"
+			}
+		]
 	}
 ]

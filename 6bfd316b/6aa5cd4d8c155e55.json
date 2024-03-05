@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:extcalendar_project:extcalendar:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:extcalendar_project:extcalendar:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:extcalendar_project:extcalendar:2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2"
 	}
 ]

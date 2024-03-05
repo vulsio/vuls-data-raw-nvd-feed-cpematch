@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:p-661hw-d1_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:p-661hw-d1_firmware:3.40\\(agd.2\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:p-661hw-d1_firmware:3.40\\(ahq.3\\):*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.40\\(ahq.3\\)",
 		"versionStartIncluding": "3.40\\(agd.2\\)"
 	}
