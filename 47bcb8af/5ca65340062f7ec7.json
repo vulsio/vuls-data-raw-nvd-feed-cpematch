@@ -7,12 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contec:solarview_compact_firmware:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contec:solarview_compact_firmware:6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0"
+		"versionEndExcluding": "6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contec:solarview_compact_firmware:*:*:*:*:*:*:*:*",
@@ -37,8 +34,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contec:solarview_compact_firmware:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contec:solarview_compact_firmware:6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0"
+		"versionEndIncluding": "6.0"
 	}
 ]
