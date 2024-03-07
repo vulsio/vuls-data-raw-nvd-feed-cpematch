@@ -553,12 +553,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.2"
+		"versionEndExcluding": "3.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -604,9 +601,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.2"
+		"versionEndIncluding": "3.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -6070,9 +6070,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.3"
+		"versionEndIncluding": "8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -6262,12 +6265,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.3"
+		"versionEndExcluding": "8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",

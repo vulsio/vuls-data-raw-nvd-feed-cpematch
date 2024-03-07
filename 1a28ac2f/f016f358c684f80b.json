@@ -57,6 +57,18 @@
 		"cpe23Uri": "cpe:2.3:a:lief-project:lief:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.7.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.8.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -82,21 +94,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.12.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "0.12.1"
@@ -124,31 +121,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.8.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.12.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:lief-project:lief:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:-:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.12.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:lief-project:lief:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.8.3:*:*:*:*:*:*:*"
 			},
@@ -187,5 +160,26 @@
 			}
 		],
 		"versionEndIncluding": "0.12.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:lief-project:lief:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.11.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lief-project:lief:0.12.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.12.1"
 	}
 ]
