@@ -8,9 +8,6 @@
 		"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2020:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2020:maintenance_pack1:*:*:*:*:*:*"
 			},
 			{
@@ -45,6 +42,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2020:maintenance_pack9:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "se2021"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2021:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "se2021"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2020:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "se2021"
@@ -90,9 +105,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2020:maintenance_pack9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2021:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:solid_edge:se2021:-:*:*:*:*:*:*"

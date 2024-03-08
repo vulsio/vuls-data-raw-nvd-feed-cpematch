@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:juvare:webeoc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:juvare:webeoc:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.2"
 	}
 ]

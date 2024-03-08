@@ -1640,7 +1640,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jupyter:notebook:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jupyter:notebook:7.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.0.7",
 		"versionStartIncluding": "7.0.0"
 	}
