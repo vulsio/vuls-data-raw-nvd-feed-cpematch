@@ -632,7 +632,29 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:1password:1password:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.4.0-54:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.4.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.4.1-2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.5.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.6.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.6.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:1password:1password:8.7.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "8.7.1",
 		"versionStartIncluding": "8.0"
 	}
