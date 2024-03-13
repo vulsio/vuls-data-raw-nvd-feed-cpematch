@@ -480,34 +480,13 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.421:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.1:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.3:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.4:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.5:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.6:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.447.1:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.447.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.466.1:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.466.2:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.480.1:*:*:*:lts:*:*:*"
@@ -559,12 +538,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.3:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.565.3"
+		"versionEndExcluding": "1.565.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
@@ -676,6 +652,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.3:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.565.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.424.4:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.447.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.447.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.466.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.466.2:*:*:*:lts:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.565.3"
