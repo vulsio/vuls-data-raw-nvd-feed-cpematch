@@ -282,9 +282,6 @@
 		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha2:*:*:*:*:*:*"
 			},
 			{
@@ -338,27 +335,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.2:*:*:*:*:*:*:*"
 			},
@@ -437,15 +413,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.2:*:*:*:*:*:*:*"
 			},
@@ -459,24 +426,6 @@
 		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha6:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha7:*:*:*:*:*:*"
 			},
 			{
@@ -514,13 +463,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.6:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.7:*:*:*:*:*:*:*"
 			},
@@ -583,8 +541,44 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.0.0:alpha6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.0"
 	}
 ]

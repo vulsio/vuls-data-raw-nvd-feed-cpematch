@@ -213,9 +213,6 @@
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.2.11051.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.3.11237.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -232,15 +229,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.4.12528.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "23.11.13156.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.4.12455.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.6.12695.3:*:*:*:*:*:*:*"
@@ -255,13 +243,19 @@
 		"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.6.12695.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.2.11051.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "23.11.13156.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.2.11051.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "23.11.13156.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:*:*:*:*",
@@ -270,9 +264,6 @@
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.2.11051.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.3.11237.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -285,10 +276,19 @@
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:22.12.12140.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.4.12455.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.4.12528.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.6.12695.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:23.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "23.11.13156.0"
+		"versionEndExcluding": "23.11.13156.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:m-files:m-files_server:*:*:*:*:*:*:*:*",
