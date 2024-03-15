@@ -524,6 +524,21 @@
 		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -572,10 +587,22 @@
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:rc1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:validation:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0:*:*:*:*:*:*:*"
@@ -585,6 +612,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:*:*:*:*:*:*:*"
@@ -599,55 +632,7 @@
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:rc:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.1.0"
@@ -689,46 +674,25 @@
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:validation:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:3.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:patch1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:validation:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:patch1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:rc:*:*:*:*:*:*"
@@ -740,7 +704,7 @@
 		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.1.0"
@@ -749,7 +713,13 @@
 		"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:3.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.0:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2:*:*:*:*:*:*:*"
@@ -758,13 +728,13 @@
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:4.2.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vtiger:vtiger_crm:5.0.4:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.1.0"
