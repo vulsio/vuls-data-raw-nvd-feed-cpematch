@@ -281,6 +281,32 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.0.10",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.6.0.10",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -294,9 +320,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.6:*:*:*:*:*:*:*"
@@ -333,9 +356,6 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -343,12 +363,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.6.0.10",
@@ -447,17 +461,123 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartExcluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartExcluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.3:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartExcluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartExcluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartExcluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
 			},
@@ -474,31 +594,17 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.10:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.6.3.0",
@@ -520,28 +626,26 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.6.3.0",
+		"versionStartIncluding": "7.6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.0:*:*:*:*:*:*:*"
@@ -556,17 +660,11 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.3.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.6.3.0",
-		"versionStartIncluding": "7.6.0.0"
+		"versionStartExcluding": "7.6.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:*:*:*:*:*:*:*:*",
@@ -602,12 +700,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.1.2",
+		"versionEndExcluding": "7.6.1.2",
 		"versionStartIncluding": "7.6.1.0"
 	},
 	{
@@ -618,9 +713,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maximo_asset_management:7.6.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.1.2",
+		"versionEndIncluding": "7.6.1.2",
 		"versionStartIncluding": "7.6.1.0"
 	}
 ]

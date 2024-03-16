@@ -124,9 +124,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2.0.2070:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.0.2070"
+		"versionEndIncluding": "3.2.0.2070"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -172,12 +175,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2.0.2070:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.0.2070"
+		"versionEndExcluding": "3.2.0.2070"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
