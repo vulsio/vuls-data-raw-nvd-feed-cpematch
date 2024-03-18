@@ -758,12 +758,6 @@
 				"cpe23Uri": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:iphone_os:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:edge:79.0.309.68:*:*:*:*:*:*:*"
 			},
 			{
@@ -915,30 +909,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:edge:86.0.622.68:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:86.0.622.69:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:87.0.664.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:87.0.664.47:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.62:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.63:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.74:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:edge:93.0.961.38:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "93.0.961.38"
@@ -1131,6 +1101,42 @@
 			}
 		],
 		"versionEndExcluding": "93.0.961.38"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:-:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:86.0.622.69:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:87.0.664.41:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:87.0.664.47:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.62:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:88.0.705.74:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge:93.0.961.38:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "93.0.961.38"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*",
