@@ -79,9 +79,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.6.3:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.7.3:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.4"
+		"versionEndExcluding": "1.7.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:*:*:*:*:*:jenkins:*:*",
@@ -128,15 +131,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.6.3:*:*:*:*:jenkins:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.7.3:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.7.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:reverse_proxy_auth:1.7.3:*:*:*:*:jenkins:*:*"
 			},

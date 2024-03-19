@@ -1259,16 +1259,10 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.5.9",
+		"versionEndExcluding": "11.5.9",
 		"versionStartIncluding": "11.5.2"
 	},
 	{
@@ -1303,6 +1297,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.5.9",
+		"versionStartIncluding": "11.5.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:11.5.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.5.9",
@@ -2101,6 +2108,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1.3",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:*:*:*:*:*:*:*"
@@ -2118,9 +2135,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:*:*:*:*:*:*:*"
 			},
@@ -2363,6 +2377,9 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -2400,30 +2417,13 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:hotfix2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "12.1.4.1",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:hotfix2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.1.4.1",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.1:hotfix2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.2:*:*:*:*:*:*:*"
@@ -3336,10 +3336,22 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
@@ -3369,32 +3381,13 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
@@ -3410,41 +3403,29 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf3:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
 			},
@@ -3459,64 +3440,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:hf3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.1.4",
-		"versionStartIncluding": "13.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.1.4",
+		"versionEndExcluding": "13.1.1.4",
 		"versionStartIncluding": "13.0.0"
 	},
 	{
@@ -4277,20 +4221,70 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
 			},
@@ -4305,15 +4299,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
@@ -4335,46 +4320,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.1.1.5",
@@ -4390,25 +4336,29 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
@@ -4418,9 +4368,143 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.1.5",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "13.1.3",
+		"versionStartIncluding": "13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.3:*:*:*:*:*:*:*"
@@ -4433,7 +4517,10 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "13.1.3",
@@ -4443,47 +4530,10 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.3:*:*:*:*:*:*:*"
@@ -4493,42 +4543,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.1.3",
-		"versionStartIncluding": "13.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "13.1.3",
@@ -6087,12 +6101,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -6100,12 +6108,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
@@ -6133,13 +6135,46 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.2",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.2",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.2",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.2",
+		"versionEndIncluding": "14.1.2",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -6177,40 +6212,16 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.2.3",
+		"versionEndIncluding": "14.1.2.3",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -6226,16 +6237,32 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.2.3",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
@@ -6251,6 +6278,35 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.1.2.3",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.45.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2.0.62.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.1.0.83.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.1.2.3",
+		"versionStartIncluding": "14.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "14.1.2.3",

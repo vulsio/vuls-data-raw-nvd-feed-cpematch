@@ -229,12 +229,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.5"
+		"versionEndExcluding": "4.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -295,45 +292,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.6"
+		"versionEndIncluding": "4.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -348,25 +312,37 @@
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.3:*:*:*:*:*:*:*"
@@ -383,9 +359,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*"
 			},
@@ -436,15 +409,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -514,6 +526,81 @@
 			}
 		],
 		"versionEndExcluding": "4.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -660,7 +747,7 @@
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.8"
+		"versionEndExcluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -739,81 +826,6 @@
 			}
 		],
 		"versionEndIncluding": "4.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:2.7:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",

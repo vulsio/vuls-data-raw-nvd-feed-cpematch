@@ -12,9 +12,6 @@
 		"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:1.77:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:01.83:*:*:*:*:*:*:*"
 			}
 		],
@@ -23,6 +20,27 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.85"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:1.77:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.85"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:1.77:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:01.83:*:*:*:*:*:*:*"
 			}
@@ -37,17 +55,5 @@
 			}
 		],
 		"versionEndExcluding": "1.85"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:z238_microtower_firmware:1.77:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.85"
 	}
 ]
