@@ -18649,16 +18649,17 @@
 		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "6.14.3",
+		"versionStartIncluding": "6.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.14.3",
@@ -18672,12 +18673,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.14.3",
+		"versionStartIncluding": "6.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:confluence_server:6.14.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.14.3",
 		"versionStartIncluding": "6.14.0"
 	},
 	{
