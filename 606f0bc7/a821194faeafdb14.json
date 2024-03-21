@@ -16,12 +16,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bodymen_project:bodymen:1.1.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:bodymen_project:bodymen:1.1.1:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.1"
+		"versionEndExcluding": "1.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bodymen_project:bodymen:*:*:*:*:*:node.js:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bodymen_project:bodymen:1.1.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bodymen_project:bodymen:1.1.1:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.1"
+		"versionEndIncluding": "1.1.1"
 	}
 ]

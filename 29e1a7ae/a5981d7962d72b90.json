@@ -1898,10 +1898,10 @@
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.7.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.8.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.8.1"
+		"versionEndExcluding": "2.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*",
@@ -1961,6 +1961,9 @@
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:0.9.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:1.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2004,42 +2007,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:1.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.8.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.8.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:1.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:1.12.1:*:*:*:*:*:*:*"
@@ -2123,6 +2090,24 @@
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2154,9 +2139,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:2.8.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.8.1"
+		"versionEndIncluding": "2.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lfprojects:mlflow:*:*:*:*:*:*:*:*",

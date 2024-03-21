@@ -130,12 +130,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:1.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:1.12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.12.4"
+		"versionEndExcluding": "1.12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:*:*:*:*:*:*:*:*",
@@ -268,9 +265,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:1.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:1.12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.12.4"
+		"versionEndIncluding": "1.12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:indy-node:*:*:*:*:*:*:*:*",

@@ -1786,12 +1786,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.23"
+		"versionEndExcluding": "8.0.23"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",
@@ -2029,9 +2026,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.23"
+		"versionEndIncluding": "8.0.23"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",
@@ -2376,12 +2376,6 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.2.1162:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.4.3247:*:*:*:*:*:*:*"
 			},
 			{
@@ -2398,12 +2392,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.2:*:*:*:*:*:*:*"
@@ -2521,25 +2509,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.29:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.29"
+		"versionEndExcluding": "8.0.29"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:2.3.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.0.4:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.0.25:*:*:*:*:*:*:*"
 			},
@@ -2661,6 +2637,45 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.2.4181:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.29"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.29"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:2.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.0.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:3.4.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -2733,9 +2748,6 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.0.8131:*:*:*:*:*:*:*"
 			},
 			{
@@ -2757,9 +2769,6 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.18.1217:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.20:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.21:*:*:*:*:*:*:*"
 			},
 			{
@@ -2770,9 +2779,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.29:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.29"
+		"versionEndIncluding": "8.0.29"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_enterprise_monitor:*:*:*:*:*:*:*:*",

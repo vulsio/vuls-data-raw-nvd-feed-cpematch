@@ -343,6 +343,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.23.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.25.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.26.0",
@@ -495,13 +507,55 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:commons_compress:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.23.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.25.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.26.0",
+		"versionStartIncluding": "1.21"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:commons_compress:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.23.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.25.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.26.0",
 		"versionStartIncluding": "1.21.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:commons_compress:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:commons_compress:1.23.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.24.0",
 		"versionStartIncluding": "1.22"
 	}
