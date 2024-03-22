@@ -72,12 +72,6 @@
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.7:*:*:*:*:*:*:*"
 			}
 		],
@@ -127,5 +121,17 @@
 			}
 		],
 		"versionEndIncluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.4.8"
 	}
 ]

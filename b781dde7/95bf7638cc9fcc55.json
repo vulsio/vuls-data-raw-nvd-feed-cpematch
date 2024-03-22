@@ -7480,15 +7480,6 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.12:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.13:*:*:*:*:*:*:*"
 			},
 			{
@@ -7596,6 +7587,22 @@
 			}
 		],
 		"versionEndIncluding": "5.2.20",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.2.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.20",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -8236,9 +8243,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.3.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.3.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.3.18",
+		"versionEndIncluding": "5.3.18",
 		"versionStartIncluding": "5.3.0"
 	},
 	{
@@ -8309,12 +8319,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.3.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_framework:5.3.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.3.18",
+		"versionEndExcluding": "5.3.18",
 		"versionStartIncluding": "5.3.0"
 	},
 	{
