@@ -1212,6 +1212,54 @@
 		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.4:candidate_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.5:candidate_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.10.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:1.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.10.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:1.14:*:*:*:*:*:*:*"
 			},
 			{
@@ -1320,15 +1368,6 @@
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.3.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.4.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.5.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1347,9 +1386,6 @@
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.6.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.6.3:-:*:*:*:*:*:*"
 			},
 			{
@@ -1363,9 +1399,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.6.4:candidate_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.0:-:*:*:*:*:*:*"
@@ -1404,19 +1437,10 @@
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.3:candidate_2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.4:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.4:candidate_1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.4:candidate_2:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.7.5:candidate_1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.8.0:-:*:*:*:*:*:*"
@@ -1477,15 +1501,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.0:candidate_4:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.9.1:-:*:*:*:*:*:*"
@@ -1589,9 +1604,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:1.14:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:1.15:*:*:*:*:*:*:*"
 			},

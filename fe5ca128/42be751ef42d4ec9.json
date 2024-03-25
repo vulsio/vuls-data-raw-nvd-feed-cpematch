@@ -1560,30 +1560,6 @@
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.12.1:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.12.1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.3:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.4:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -1696,12 +1672,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.25.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.27.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.27.0"
+		"versionEndExcluding": "1.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",
@@ -1711,7 +1684,43 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.27.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.12.1.1:*:*:*:*:wordpress:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.13.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.14.3:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "1.27.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.0.3:*:*:*:*:wordpress:*:*"
 			},
@@ -1981,9 +1990,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.25.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:incsub:forminator:1.27.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.27.0"
+		"versionEndIncluding": "1.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:incsub:forminator:*:*:*:*:*:wordpress:*:*",

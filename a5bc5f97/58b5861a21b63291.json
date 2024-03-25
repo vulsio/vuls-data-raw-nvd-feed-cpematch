@@ -112,9 +112,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.4"
+		"versionEndIncluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:*:*:*:*:*:*:*:*",
@@ -172,16 +190,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.4.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.3:*:*:*:*:*:*:*"
 			},
@@ -194,18 +209,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.3.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.0:*:*:*:*:*:*:*"
 			},
@@ -220,6 +223,15 @@
 			}
 		],
 		"versionEndExcluding": "2.4.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:2.4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:exempi_project:exempi:*:*:*:*:*:*:*:*",
