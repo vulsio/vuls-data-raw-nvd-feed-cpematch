@@ -3,7 +3,7 @@
 		"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.0.13.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.0.1.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.0.14.0",
@@ -29,7 +29,7 @@
 		"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.0.1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.0.13.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.0.14.0",
@@ -152,12 +152,6 @@
 		"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.3.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.4.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -185,6 +179,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.3.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.7.4.0",
+		"versionStartIncluding": "12.7.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.3.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.7.4.0:*:*:*:*:*:*:*"
@@ -201,12 +208,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:13.2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:13.2.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.2.5.0",
+		"versionEndExcluding": "13.2.5.0",
 		"versionStartIncluding": "13.2.1.0"
 	},
 	{
@@ -217,9 +221,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:13.2.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:rtu500_firmware:13.2.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.2.5.0",
+		"versionEndIncluding": "13.2.5.0",
 		"versionStartIncluding": "13.2.1.0"
 	},
 	{
