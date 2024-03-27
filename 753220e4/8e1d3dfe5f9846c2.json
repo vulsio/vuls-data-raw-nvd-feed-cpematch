@@ -4,6 +4,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:3.4.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.4",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:3.4.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:3.4.4:*:*:*:*:*:*:*"
@@ -16,11 +26,11 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:3.4.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:4.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.4",
-		"versionStartIncluding": "3.4.0"
+		"versionEndExcluding": "4.0.1",
+		"versionStartIncluding": "4.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:*:*:*:*:*:*:*:*",
@@ -33,16 +43,6 @@
 			}
 		],
 		"versionEndIncluding": "4.0.1",
-		"versionStartIncluding": "4.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:sd-wan_orchestrator:4.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.0.1",
 		"versionStartIncluding": "4.0.0"
 	}
 ]
