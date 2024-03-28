@@ -49,9 +49,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:5.0.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:5.0.12:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.0.12.22203",
@@ -77,6 +74,16 @@
 			}
 		],
 		"versionEndIncluding": "5.0.12.22203",
+		"versionStartIncluding": "5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:5.0.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.12.22203",
 		"versionStartIncluding": "5.0"
 	},
 	{

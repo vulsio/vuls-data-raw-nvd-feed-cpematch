@@ -3,6 +3,18 @@
 		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -47,21 +59,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.7:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.8:*:*:*:*:*:*:*"
 			},
@@ -81,18 +78,6 @@
 		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -148,18 +133,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:go-getter:1.5.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.5.11"

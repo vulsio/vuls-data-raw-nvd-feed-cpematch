@@ -272,9 +272,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -285,9 +282,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.2:*:*:*:*:*:*:*"
@@ -303,10 +297,47 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.0.0:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.2.3",
+		"versionStartIncluding": "3.4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.4.2.3",
+		"versionStartIncluding": "3.4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.2.3",
+		"versionStartIncluding": "3.4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.4.2.3",
+		"versionStartIncluding": "3.4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.1.2:*:*:*:*:*:*:*"
@@ -319,9 +350,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tririga_application_platform:3.4.2.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.4.2.3",
