@@ -403,9 +403,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_operations_center:8.1.13.000:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_operations_center:8.1.14.000:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.14.000",
+		"versionEndIncluding": "8.1.14.000",
 		"versionStartIncluding": "8.1.0.000"
 	},
 	{
@@ -452,12 +455,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_operations_center:8.1.13.000:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_operations_center:8.1.14.000:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.1.14.000",
+		"versionEndExcluding": "8.1.14.000",
 		"versionStartIncluding": "8.1.0.000"
 	},
 	{
@@ -467,7 +467,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_operations_center:8.1.7.000:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.14.000",
+		"versionEndIncluding": "8.1.14.000",
 		"versionStartIncluding": "8.1.0.000"
 	}
 ]

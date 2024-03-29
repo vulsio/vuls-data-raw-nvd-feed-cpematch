@@ -100,12 +100,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:compuware_topaz_for_total_test:2.4.7:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:compuware_topaz_for_total_test:2.4.8:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.8"
+		"versionEndExcluding": "2.4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:compuware_topaz_for_total_test:*:*:*:*:*:jenkins:*:*",
@@ -208,8 +205,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:compuware_topaz_for_total_test:2.4.7:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:compuware_topaz_for_total_test:2.4.8:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.8"
+		"versionEndIncluding": "2.4.8"
 	}
 ]

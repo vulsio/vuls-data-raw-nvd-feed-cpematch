@@ -1,13 +1,21 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:h:intel:quickassist_technology:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:h:intel:quickassist_technology:1.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10",
 		"versionStartIncluding": "1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:h:intel:quickassist_technology:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:h:intel:quickassist_technology:2.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "2.04",
 		"versionStartIncluding": "2.0"
 	}

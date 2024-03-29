@@ -2162,13 +2162,7 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:5.0:*:*:*:*:*:*:*"
@@ -2318,25 +2312,13 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:1.0:b1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:2.0:b2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:5.0:*:*:*:*:*:*:*"
@@ -2346,18 +2328,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.196:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.196a:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.204:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.205:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.1:*:*:*:*:*:*:*"
@@ -2373,18 +2343,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.1.106:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.321:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.323:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.324:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.325:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:9:*:*:*:*:*:*:*"
@@ -2423,13 +2381,7 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:10.2.0.023:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.0.0.456:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.0.3.471:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.5.0.595:*:*:*:*:*:*:*"
@@ -2448,6 +2400,66 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.5.7.609:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.6.4.634"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.6.4.634"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:1.0:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:2.0:b2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:3.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:4.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.196:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.196a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.204:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.0.205:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.321:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.323:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.324:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:8.5.325:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.0.3.471:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:shockwave_player:11.5.8.612:*:*:*:*:*:*:*"
