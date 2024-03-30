@@ -1246,12 +1246,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:portable_runtime:1.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:portable_runtime:1.7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.0"
+		"versionEndExcluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:portable_runtime:*:*:*:*:*:*:*:*",
@@ -1465,8 +1462,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:portable_runtime:1.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:portable_runtime:1.7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.0"
+		"versionEndIncluding": "1.7.0"
 	}
 ]
