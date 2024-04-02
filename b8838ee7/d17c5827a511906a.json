@@ -37,9 +37,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:softaculous:speedycache:1.1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:softaculous:speedycache:1.1.2:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "1.1.3"
@@ -91,5 +88,14 @@
 			}
 		],
 		"versionEndIncluding": "1.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:softaculous:speedycache:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:softaculous:speedycache:1.1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "1.1.3"
 	}
 ]

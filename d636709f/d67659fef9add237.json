@@ -736,6 +736,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.022:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.028:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.24.029"
@@ -1023,6 +1026,21 @@
 				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.022:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.028:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:6.24.029:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.04.007:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.04.008:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.06.011:*:*:*:*:*:*:*"
 			},
 			{
@@ -1033,7 +1051,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:meinbergglobal:lantime_firmware:7.04.007:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.04.008",
 		"versionStartIncluding": "7.0.0"
 	}

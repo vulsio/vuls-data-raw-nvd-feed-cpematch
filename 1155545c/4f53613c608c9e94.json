@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:solax:pocket_wifi_3_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:solax:pocket_wifi_3_firmware:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:solax:pocket_wifi_3_firmware:3.009.03_20230504:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.009.03_20230504",
 		"versionStartIncluding": "3.0.0"
 	}

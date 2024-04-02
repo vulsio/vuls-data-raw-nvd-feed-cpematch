@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:byzoro:smart_s40_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:byzoro:smart_s40_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:byzoro:smart_s40_firmware:2024-01-26:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2024-01-26"
 	}
 ]
