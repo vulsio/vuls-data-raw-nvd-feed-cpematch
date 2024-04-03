@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hipresta:gift_wrapping_pro:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hipresta:gift_wrapping_pro:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hipresta:gift_wrapping_pro:1.4.0:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.1"
 	}
 ]

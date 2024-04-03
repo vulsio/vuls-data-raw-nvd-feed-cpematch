@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:guardiansoft:guardian:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:guardiansoft:guardian:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.278.0"
 	}
 ]

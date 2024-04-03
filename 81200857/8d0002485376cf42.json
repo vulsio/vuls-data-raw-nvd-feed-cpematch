@@ -15,20 +15,14 @@
 				"cpe23Uri": "cpe:2.3:a:kaseya:vsa:-:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.5.6"
+		"versionEndExcluding": "9.5.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kaseya:vsa:*:*:*:*:-:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:kaseya:vsa:-:*:*:*:-:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.5.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:kaseya:vsa:*:*:*:*:-:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kaseya:vsa:9.5.6:*:*:*:-:*:*:*"
 			}
