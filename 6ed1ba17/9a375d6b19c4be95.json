@@ -225,6 +225,15 @@
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta.3:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -279,6 +288,9 @@
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc.1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -307,9 +319,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.32.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.32.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.32.3"
+		"versionEndIncluding": "1.32.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
@@ -424,27 +439,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.32.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.32.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.32.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.32.3"
@@ -1116,26 +1110,83 @@
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.21:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.23:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.24:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.26:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.36.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.1:*:*:*:*:*:*:*"
 			},
@@ -1171,54 +1222,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.13:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.36.27"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc.1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.36.27"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.36.27"
@@ -1272,8 +1275,59 @@
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc.1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:rc2:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc.1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc.1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.36.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.36.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.3:*:*:*:*:*:*:*"
 			},
@@ -1291,9 +1345,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.32.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.21:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.36.27"
@@ -1301,6 +1352,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.13:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.14:*:*:*:*:*:*:*"
 			},
@@ -1324,6 +1378,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.5:*:*:*:*:*:*:*"
@@ -1398,7 +1464,22 @@
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.0:*:*:*:*:*:*:*"
@@ -1467,142 +1548,7 @@
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.22:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.12:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.26:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.36.27"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.13:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.36.27"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.13:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.36.27"
@@ -1665,6 +1611,9 @@
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.0:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -1675,6 +1624,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc.1:*:*:*:*:*:*"
@@ -1707,22 +1659,70 @@
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.15:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.16:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.26:beta3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.17:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.1:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.18:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.2:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.19:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.30.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.24:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.36.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.34.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.36.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.36.25:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.36.27"

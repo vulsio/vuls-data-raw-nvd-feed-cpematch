@@ -5785,6 +5785,16 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.5.6",
+		"versionStartIncluding": "3.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -5814,9 +5824,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.3:*:*:*:*:*:*:*"
