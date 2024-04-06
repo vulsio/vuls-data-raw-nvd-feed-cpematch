@@ -708,21 +708,6 @@
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -838,12 +823,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.1:*:*:*:*:*:*:*"
@@ -1014,9 +993,6 @@
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1053,10 +1029,46 @@
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.3.9"
@@ -1815,7 +1827,7 @@
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.3"
+		"versionEndIncluding": "2.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
@@ -2014,7 +2026,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.3:*:*:*:*:*:*:*"
 			}

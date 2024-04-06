@@ -26790,6 +26790,9 @@
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.10:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.11:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.12:*:*:*:*:*:*:*"
 			},
 			{
@@ -26802,7 +26805,22 @@
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.15:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.16:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.21:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.22",
@@ -26882,31 +26900,6 @@
 			}
 		],
 		"versionEndIncluding": "10.22",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:10.21:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.22",
 		"versionStartIncluding": "10.0"
 	},
 	{
@@ -28342,6 +28335,24 @@
 		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.5:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.6:*:*:*:*:*:*:*"
 			},
 			{
@@ -28383,31 +28394,6 @@
 			}
 		],
 		"versionEndIncluding": "13.8",
-		"versionStartIncluding": "13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:13.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "13.8",
 		"versionStartIncluding": "13.0"
 	},
 	{
