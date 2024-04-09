@@ -3,16 +3,23 @@
 		"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.4.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "6.6.1",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.6.0:*:*:*:*:*:*:*"
@@ -25,13 +32,7 @@
 		"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.2:*:*:*:*:*:*:*"
@@ -51,19 +52,18 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.5.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.6.1",
-		"versionStartIncluding": "6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:readynas_os_firmware:6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.6.1",
 		"versionStartIncluding": "6.0"
 	},
 	{
