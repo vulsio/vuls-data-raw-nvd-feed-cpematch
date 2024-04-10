@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:n-able:passportal:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:n-able:passportal:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.29.2"
 	}
 ]

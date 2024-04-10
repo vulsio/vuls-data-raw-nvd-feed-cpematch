@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:plasma-web:quickform:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plasma-web:quickform:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plasma-web:quickform:3.3.01:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.01",
 		"versionStartIncluding": "1.0.0"
 	}

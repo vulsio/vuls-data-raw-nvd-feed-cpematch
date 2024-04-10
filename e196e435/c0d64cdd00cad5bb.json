@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mdaemon:mdaemon:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mdaemon:mdaemon:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mdaemon:mdaemon:5.0.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.6",
 		"versionStartIncluding": "5.0"
 	}

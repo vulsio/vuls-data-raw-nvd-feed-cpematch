@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mlwebtechnologies:livingword:*:*:*:*:*:joomla\\!:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mlwebtechnologies:livingword:1.0.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlwebtechnologies:livingword:2.5.0:*:*:*:*:joomla\\!:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlwebtechnologies:livingword:3.0.0:*:*:*:*:joomla\\!:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.0",
 		"versionStartIncluding": "1.0.0"
 	}

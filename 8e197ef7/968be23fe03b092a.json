@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:innovadeluxe:manufacturer_or_supplier_alphabetical_search:*:*:*:*:*:prestashop:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:innovadeluxe:manufacturer_or_supplier_alphabetical_search:-:*:*:*:*:prestashop:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:innovadeluxe:manufacturer_or_supplier_alphabetical_search:2.0.4:*:*:*:*:prestashop:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.5"
 	}
 ]

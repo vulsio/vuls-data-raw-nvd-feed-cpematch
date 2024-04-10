@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:liferay:dxp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:liferay:dxp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.0:-:*:*:*:*:*:*"
 			},
@@ -311,6 +318,9 @@
 		"cpe23Uri": "cpe:2.3:a:liferay:dxp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -630,6 +640,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_17:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_18:*:*:*:*:*:*"
@@ -665,6 +681,9 @@
 		"cpe23Uri": "cpe:2.3:a:liferay:dxp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -984,6 +1003,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_17:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_18:*:*:*:*:*:*"
@@ -1383,6 +1408,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_17:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:liferay:dxp:7.2:fix_pack_18:*:*:*:*:*:*"

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:prasidhdamalla:honeypot_for_wp_comment:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:prasidhdamalla:honeypot_for_wp_comment:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prasidhdamalla:honeypot_for_wp_comment:2.2.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2.3"
 	}
 ]
