@@ -1,12 +1,22 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:plainblack:webgui:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plainblack:webgui:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:6.7.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:6.8.8:*:*:*:*:*:*:*"
 			},
@@ -22,6 +32,12 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:plainblack:webgui:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:6.7.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plainblack:webgui:6.8.8:*:*:*:*:*:*:*"
 			},

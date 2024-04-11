@@ -417,13 +417,10 @@
 				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.4.153:*:*:*:premise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.1:*:*:*:premise:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4.1"
+		"versionEndExcluding": "6.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
@@ -474,11 +471,17 @@
 				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4.1"
+		"versionEndIncluding": "6.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:5.3.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.0:*:*:*:*:*:*:*"
 			},
@@ -496,42 +499,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.4.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:-:*:*:*:premise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.2.3490:*:*:*:premise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.3:*:*:*:premise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.3.101:*:*:*:premise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.4:*:*:*:premise:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.4.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:5.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
@@ -568,6 +538,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.2:*:*:*:premise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.2.3490:*:*:*:premise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.3:*:*:*:premise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.4.1:*:*:*:premise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.4.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.4.1"
@@ -576,13 +570,13 @@
 		"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:4.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:-:*:*:*:premise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:5.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.3.101:*:*:*:premise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ivanti:avalanche:6.3.4:*:*:*:premise:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.4.1"

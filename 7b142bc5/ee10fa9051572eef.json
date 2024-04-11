@@ -146,28 +146,13 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
-			}
-		],
 		"versionEndExcluding": "15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "15.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
@@ -176,10 +161,13 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.0"
+		"versionEndIncluding": "15.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
@@ -260,14 +248,83 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5:rc4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.4:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.11.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x12.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x12.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.1:*:*:*:*:*:*:*"
 			},
@@ -351,27 +408,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.10.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "x12.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:expressway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:expressway:14.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x12.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x12.5.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x12.5.2:*:*:*:*:*:*:*"
@@ -413,55 +491,7 @@
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:expressway:x8.8.3:*:*:*:*:*:*:*"
