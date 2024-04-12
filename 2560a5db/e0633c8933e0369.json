@@ -3737,16 +3737,33 @@
 		"cpe23Uri": "cpe:2.3:a:openstack:keystone:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2013.2.4",
+		"versionStartIncluding": "2013.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openstack:keystone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2013.2.4",
+		"versionStartIncluding": "2013.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openstack:keystone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.4:*:*:*:*:*:*:*"
@@ -3763,9 +3780,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:keystone:2013.2.3:*:*:*:*:*:*:*"
