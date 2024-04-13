@@ -1,6 +1,13 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_for_business_automation:23.0.2:-:*:*:*:*:*:*"
+			}
+		]
 	}
 ]
