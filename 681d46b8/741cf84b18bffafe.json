@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:azure_site_recovery:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_site_recovery:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.47.6219.1"
 	}
 ]
