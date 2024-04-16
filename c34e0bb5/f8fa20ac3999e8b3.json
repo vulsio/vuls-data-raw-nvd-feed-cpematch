@@ -1,17 +1,47 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:2.0:rc1.2:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:2.0:rc1.2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:3.0.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xt-commerce:xt-commerce:3.0.4:sp2.1:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.4"
 	},
 	{

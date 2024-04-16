@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:entra_jira_sso_plugin:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:entra_jira_sso_plugin:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.2"
 	}
 ]
