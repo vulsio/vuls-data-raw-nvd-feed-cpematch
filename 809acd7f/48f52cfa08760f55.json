@@ -1143,9 +1143,6 @@
 		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
@@ -1156,9 +1153,26 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.5:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.0.7",
@@ -1171,9 +1185,6 @@
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.0:beta2:*:*:*:*:*:*"
 			},
 			{
@@ -1184,6 +1195,16 @@
 			}
 		],
 		"versionEndExcluding": "5.0.7",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.7",
 		"versionStartIncluding": "5.0.0"
 	},
 	{
@@ -2145,12 +2166,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.7",
+		"versionEndExcluding": "5.2.7",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -2167,9 +2185,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.7",
+		"versionEndIncluding": "5.2.7",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -2318,12 +2339,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.6.1",
+		"versionEndExcluding": "5.6.1",
 		"versionStartIncluding": "5.6.0"
 	},
 	{
@@ -2331,9 +2349,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudera:cloudera_manager:5.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.6.1",
+		"versionEndIncluding": "5.6.1",
 		"versionStartIncluding": "5.6.0"
 	},
 	{
