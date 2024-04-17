@@ -36,7 +36,7 @@
 		"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.12.00:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "01.21.01"
@@ -44,6 +44,15 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.04.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.12.00:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.21.01:*:*:*:*:*:*:*"
 			}
@@ -54,28 +63,13 @@
 		"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.04.02:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.04.02:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:01.12.00:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "01.21.01"
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elite_x2_g4_firmware:*:*:*:*:*:*:*:*",

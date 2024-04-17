@@ -2162,6 +2162,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:rc1:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.6.6",
+		"versionStartIncluding": "1.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:-:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:rc1:*:*:enterprise:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.1:*:*:*:enterprise:*:*:*"
@@ -2212,12 +2225,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:-:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:rc1:*:*:enterprise:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.1:*:*:*:enterprise:*:*:*"
 			},
