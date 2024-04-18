@@ -24,12 +24,6 @@
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.7:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.8:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.9:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -45,9 +39,6 @@
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.4:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.5:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.6:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -58,12 +49,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.9:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1"
+		"versionEndExcluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:*:*:*:*:*:wordpress:*:*",
@@ -130,9 +118,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1"
+		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:*:*:*:*:*:wordpress:*:*",
@@ -141,9 +132,18 @@
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.1:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.1:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:1.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:2.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1"
+		"versionEndExcluding": "3.1"
 	}
 ]

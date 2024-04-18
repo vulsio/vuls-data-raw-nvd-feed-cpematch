@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2022.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2022.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2022.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2022.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2023.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:neurons_for_itsm:2023.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2023.4"
 	}
 ]

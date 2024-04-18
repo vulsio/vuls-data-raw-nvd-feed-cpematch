@@ -69,6 +69,15 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:8.0.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:2.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -93,9 +102,6 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:2.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -106,12 +112,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:8.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:8.0.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.27"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_connectors:*:*:*:*:*:*:*:*",

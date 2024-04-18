@@ -30,12 +30,6 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:19.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:20.12:*:*:*:*:*:*:*"
 			}
 		],
@@ -46,7 +40,22 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "21.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:19.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:19.0:*:*:*:*:*:*:*"
 			},
@@ -58,5 +67,14 @@
 			}
 		],
 		"versionEndIncluding": "21.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:siebel_core_-_server_framework:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.5"
 	}
 ]
