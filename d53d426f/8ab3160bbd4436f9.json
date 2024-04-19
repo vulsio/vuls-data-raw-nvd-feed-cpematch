@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:standalone_sentry:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:standalone_sentry:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.19.0"
 	}
 ]

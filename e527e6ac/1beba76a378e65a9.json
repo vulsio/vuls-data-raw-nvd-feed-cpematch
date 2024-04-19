@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:2.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:swadeshswain:before_after_image_slider:2.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2"
 	}
 ]

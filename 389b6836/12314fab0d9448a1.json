@@ -331,51 +331,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.10:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.11:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.12:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.13:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.14:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.15:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.2:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.3:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.2:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.1.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.1.1:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4.17"
+		"versionEndIncluding": "4.4.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
@@ -616,12 +574,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.16:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.17:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4.17"
+		"versionEndExcluding": "4.4.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
@@ -661,6 +616,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:0.1.13:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.11:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.12:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.13:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.14:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.1.15:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.2:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:3.2.3:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.0.2:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.1.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.1.1:*:*:*:*:node.js:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.1.2:*:*:*:*:node.js:*:*"
@@ -730,9 +727,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.16:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.17:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4.17"
+		"versionEndIncluding": "4.4.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
@@ -1169,49 +1169,6 @@
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.2:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.3:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.4:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.5:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.1.0:*:*:*:*:node.js:*:*"
-			}
-		],
-		"versionEndIncluding": "6.1.8",
-		"versionStartIncluding": "6.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.2:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.3:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.4:*:*:*:*:node.js:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.5:*:*:*:*:node.js:*:*"
 			},
 			{
@@ -1246,6 +1203,9 @@
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.0:*:*:*:*:node.js:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.1.1:*:*:*:*:node.js:*:*"
 			},
 			{
@@ -1268,6 +1228,53 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.1.8:*:*:*:*:node.js:*:*"
+			}
+		],
+		"versionEndIncluding": "6.1.8",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.2:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.3:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.4:*:*:*:*:node.js:*:*"
+			}
+		],
+		"versionEndExcluding": "6.1.8",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.2:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.3:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.4:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.0.5:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:6.1.0:*:*:*:*:node.js:*:*"
 			}
 		],
 		"versionEndIncluding": "6.1.8",

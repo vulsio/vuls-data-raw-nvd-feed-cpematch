@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:sinteso_fs20_en_x200_cloud_distribution:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinteso_fs20_en_x200_cloud_distribution:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.0.5016"
 	}
 ]

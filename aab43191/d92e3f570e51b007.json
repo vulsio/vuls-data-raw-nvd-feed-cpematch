@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:cerberus_pro_en_fire_panel_fc72x:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:cerberus_pro_en_fire_panel_fc72x:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "ip8"
 	}
 ]

@@ -1443,6 +1443,9 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:7.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1662,6 +1665,9 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:9.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:9.7.0-125:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:9.7.1:-:*:*:*:*:*:*"
 			},
 			{
@@ -1698,6 +1704,9 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.0:hot_patch1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.0.1:-:*:*:*:*:*:*"
 			},
 			{
@@ -1717,6 +1726,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.1-230:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.1-234:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.1-235:*:*:*:*:*:*:*"
@@ -2311,30 +2329,6 @@
 			}
 		],
 		"versionEndExcluding": "11.7.2-011"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:9.7.0-125:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.1-230:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:10.1.1-234:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.7.2-011"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*",

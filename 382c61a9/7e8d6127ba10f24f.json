@@ -1,12 +1,22 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "22.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:22.7:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:23.8.4:*:*:*:*:*:*:*"
 			}
@@ -16,6 +26,12 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:22.7:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:connectwise:screenconnect:23.8.4:*:*:*:*:*:*:*"
 			},

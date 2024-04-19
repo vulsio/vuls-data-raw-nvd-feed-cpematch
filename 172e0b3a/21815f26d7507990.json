@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:spectrumcu:cash_receipting_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:spectrumcu:cash_receipting_system:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:spectrumcu:cash_receipting_system:6.406.08:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.504"
 	}
 ]

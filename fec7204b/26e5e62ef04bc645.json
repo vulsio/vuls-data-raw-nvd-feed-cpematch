@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:sinteso_mobile:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinteso_mobile:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.0.0"
 	}
 ]
