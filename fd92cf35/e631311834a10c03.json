@@ -13951,12 +13951,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.31:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.32:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.32",
+		"versionEndExcluding": "7.0.32",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -14048,9 +14045,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.31:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.32:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.32",
+		"versionEndIncluding": "7.0.32",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -15045,27 +15045,6 @@
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.11:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.12:*:*:*:-:*:*:*"
 			},
 			{
@@ -15128,6 +15107,34 @@
 			}
 		],
 		"versionEndExcluding": "8.0.14",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.14",
 		"versionStartIncluding": "8.0.0"
 	},
 	{

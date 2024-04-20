@@ -12,9 +12,6 @@
 		"cpe23Uri": "cpe:2.3:a:dialog-semiconductor:software_development_kit:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:dialog-semiconductor:software_development_kit:1.0.14.1081:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dialog-semiconductor:software_development_kit:5.0.4:*:*:*:*:*:*:*"
 			}
 		],
@@ -28,5 +25,14 @@
 			}
 		],
 		"versionEndExcluding": "5.0.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dialog-semiconductor:software_development_kit:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dialog-semiconductor:software_development_kit:1.0.14.1081:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.4"
 	}
 ]
