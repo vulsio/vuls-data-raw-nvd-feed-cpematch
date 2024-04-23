@@ -20363,9 +20363,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.5.23",
+		"versionEndIncluding": "5.5.23",
 		"versionStartIncluding": "5.5.0"
 	},
 	{
@@ -20382,12 +20385,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.5.23",
+		"versionEndExcluding": "5.5.23",
 		"versionStartIncluding": "5.5.0"
 	},
 	{
@@ -23423,6 +23423,28 @@
 		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.28a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.43:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.5.47",
+		"versionStartIncluding": "5.5.20"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.20:*:*:*:*:*:*:*"
 			},
 			{
@@ -23499,15 +23521,6 @@
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.25:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.28a:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.33:*:*:*:*:*:*:*"
 			},
 			{
@@ -23518,12 +23531,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.35:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.43:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:5.5.46:*:*:*:*:*:*:*"
@@ -26875,9 +26882,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.1.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.1.12",
+		"versionEndIncluding": "10.1.12",
 		"versionStartIncluding": "10.1.0"
 	},
 	{
@@ -26918,12 +26928,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.1.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.1.12",
+		"versionEndExcluding": "10.1.12",
 		"versionStartIncluding": "10.1.0"
 	},
 	{
@@ -36079,6 +36086,22 @@
 		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.1:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.2:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.6.4",
+		"versionStartExcluding": "10.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.0:alpha:*:*:*:*:*:*"
 			},
 			{
@@ -36093,22 +36116,6 @@
 		],
 		"versionEndExcluding": "10.6.4",
 		"versionStartIncluding": "10.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.1:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.2:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:10.6.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6.4",
-		"versionStartExcluding": "10.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mariadb:mariadb:*:*:*:*:*:*:*:*",

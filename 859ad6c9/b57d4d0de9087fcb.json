@@ -53,9 +53,6 @@
 		"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.4.1c:*:*:*:*:*:*:*"
 			}
 		],
@@ -76,7 +73,20 @@
 		"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.4.1c",
+		"versionStartIncluding": "6.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.5.1b:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.5.1b",
@@ -90,16 +100,6 @@
 			}
 		],
 		"versionEndExcluding": "6.5.1b",
-		"versionStartIncluding": "6.5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cohesity:cohesity_dataplatform:6.5.1b:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.5.1b",
 		"versionStartIncluding": "6.5.1"
 	}
 ]
