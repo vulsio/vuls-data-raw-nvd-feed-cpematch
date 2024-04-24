@@ -288,6 +288,12 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:4.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -340,15 +346,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:20.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "21.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:application_express:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:application_express:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:21.1.0:*:*:*:*:*:*:*"
@@ -360,17 +357,8 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:application_express:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:application_express:-:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "21.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:application_express:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:3.0:*:*:*:*:*:*:*"
 			},
@@ -435,7 +423,7 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:application_express:20.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "21.1.0"
+		"versionEndExcluding": "21.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:application_express:*:*:*:*:*:*:*:*",

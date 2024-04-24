@@ -25,12 +25,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:sp1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:sp1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2"
+		"versionEndExcluding": "8.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:emc:rsa_authentication_manager:*:sp1:*:*:*:*:*:*",
@@ -43,8 +40,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:emc:rsa_authentication_manager:8.1:sp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:sp1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2"
+		"versionEndIncluding": "8.2"
 	}
 ]

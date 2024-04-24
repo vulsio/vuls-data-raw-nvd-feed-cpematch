@@ -1532,34 +1532,10 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.19:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.19:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.19:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.21:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.25:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.26"
+		"versionEndIncluding": "2.1.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
@@ -1592,15 +1568,6 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.6:*:*:*:*:*:*:*"
 			},
 			{
@@ -1631,15 +1598,6 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:stable:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1668,6 +1626,108 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.13:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.19:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.19:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.21:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.21:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.22:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.25:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.25:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1:stable:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.9:*:*:*:*:*:*:*"
@@ -1704,12 +1764,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.12:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.13:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.14:*:*:*:*:*:*:*"
@@ -1785,15 +1839,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:mailman:2.1.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.26"
+		"versionEndExcluding": "2.1.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:mailman:*:*:*:*:*:*:*:*",

@@ -57,9 +57,6 @@
 				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:2.0.7:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:2.0.8:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:2.0.9:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -247,5 +244,14 @@
 			}
 		],
 		"versionEndExcluding": "3.1.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:2.0.8:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.6"
 	}
 ]

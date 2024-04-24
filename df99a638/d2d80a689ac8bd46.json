@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:progress:telerik_test_studio:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:progress:telerik_test_studio:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:progress:telerik_test_studio:2023.3.1115:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2023.3.1330"
 	}
 ]
