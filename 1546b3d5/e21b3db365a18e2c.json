@@ -243,9 +243,6 @@
 				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.2.8:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.2.9:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.3.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -262,12 +259,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.3.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.3.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.6"
+		"versionEndExcluding": "1.3.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:*:*:*:*:*:wordpress:*:*",
@@ -382,6 +376,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.3.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.3.6:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.3.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:backupbliss:backup_migration:1.2.9:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "1.3.6"

@@ -73,9 +73,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.80.75.3:sp3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.90"
+		"versionEndIncluding": "9.90"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:*:*:*:*:*:*:*:*",
@@ -109,18 +115,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.80.75.3:sp2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.80.75.3:sp3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:-:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "9.90"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.90"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.80.75.3:sp3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.90"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp10:*:*:*:*:*:*"
@@ -129,13 +153,7 @@
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp11:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp2:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp4:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hornerautomation:cscape:9.90:sp5:*:*:*:*:*:*"

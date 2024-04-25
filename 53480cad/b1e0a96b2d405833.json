@@ -940,12 +940,6 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.6.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.8.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.8.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1014,7 +1008,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.7.0:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "6.0.16.4",
+		"versionStartIncluding": "6.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.16.4",
+		"versionStartIncluding": "6.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.8.0:*:*:*:*:*:*:*"
 			},
@@ -1062,6 +1073,16 @@
 			}
 		],
 		"versionEndIncluding": "6.0.16.4",
+		"versionStartIncluding": "6.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:java:6.0.8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.16.4",
 		"versionStartIncluding": "6.0.0.0"
 	},
 	{

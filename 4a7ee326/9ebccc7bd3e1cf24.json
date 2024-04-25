@@ -300,9 +300,63 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l01:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l02:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l09:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p03:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p04:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p06:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0503:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0504:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:enterprise:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p06:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p10:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:*:*:*:*:*:*:*:*",
@@ -332,12 +386,6 @@
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0101p01:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:enterprise:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -363,12 +411,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p04:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "7.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p06:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p10:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:enterprise:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:-:*:*:*:*:*:*"
@@ -377,13 +428,7 @@
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0501:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0503:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0503p02:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0504:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.3:e0504p02:*:*:*:*:*:*"
@@ -462,38 +507,5 @@
 			}
 		],
 		"versionEndIncluding": "7.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:5.1:e0202:enterprise:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l01:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l02:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403l09:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p03:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p04:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p06:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:intelligent_management_center:7.2:e0403p10:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3"
 	}
 ]
