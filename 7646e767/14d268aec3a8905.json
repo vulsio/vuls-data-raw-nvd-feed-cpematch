@@ -1910,6 +1910,9 @@
 				"cpe23Uri": "cpe:2.3:a:apple:quicktime:4.1.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:apple:quicktime:4.1.2:*:*:ja:*:windows:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apple:quicktime:5.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2166,12 +2169,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:quicktime:7.2.1:-:windows:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:quicktime:7.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.3"
+		"versionEndExcluding": "7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:quicktime:*:*:*:*:*:*:*:*",
@@ -2448,15 +2448,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:quicktime:7.2.1:-:windows:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apple:quicktime:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apple:quicktime:4.1.2:*:*:ja:*:windows:*:*"
+				"cpe23Uri": "cpe:2.3:a:apple:quicktime:7.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.3"

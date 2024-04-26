@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wirlab:kphone:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wirlab:kphone:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wirlab:kphone:4.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.0.1"
 	}
 ]
