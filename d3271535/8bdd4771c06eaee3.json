@@ -1186,9 +1186,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.0"
+		"versionEndIncluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gitea:gitea:*:*:*:*:*:*:*:*",
@@ -1384,24 +1399,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gitea:gitea:1.7.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.0"
+		"versionEndExcluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gitea:gitea:*:*:*:*:*:*:*:*",

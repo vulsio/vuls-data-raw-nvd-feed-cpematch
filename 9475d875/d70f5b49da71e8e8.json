@@ -435,12 +435,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mongo-express_project:mongo-express:0.53.0:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mongo-express_project:mongo-express:0.54.0:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "0.54.0"
+		"versionEndExcluding": "0.54.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mongo-express_project:mongo-express:*:*:*:*:*:node.js:*:*",
@@ -657,8 +654,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mongo-express_project:mongo-express:0.53.0:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mongo-express_project:mongo-express:0.54.0:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "0.54.0"
+		"versionEndIncluding": "0.54.0"
 	}
 ]

@@ -594,8 +594,41 @@
 		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.2:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.1:*:*:*:*:*:*:*"
 			},
@@ -633,18 +666,6 @@
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.4.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.5.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -664,7 +685,46 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.5.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.5.3:*:*:*:*:*:*:*"
 			},
@@ -700,13 +760,85 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.0.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta4:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta5:*:*:*:*:*:*"
 			},
@@ -798,27 +930,6 @@
 		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:0.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.1.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.2.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -909,45 +1020,6 @@
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.0:beta5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.0:beta5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -985,12 +1057,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.2.3"

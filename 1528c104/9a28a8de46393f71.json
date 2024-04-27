@@ -36,9 +36,6 @@
 		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.0:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.1:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -100,5 +97,14 @@
 			}
 		],
 		"versionEndIncluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.5"
 	}
 ]
