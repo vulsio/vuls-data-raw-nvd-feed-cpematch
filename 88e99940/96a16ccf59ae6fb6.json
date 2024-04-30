@@ -1706,7 +1706,14 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:horizon:2013.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2013.2",
+		"versionStartIncluding": "2013.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:horizon:2013.1.1:*:*:*:*:*:*:*"
 			},
@@ -1721,13 +1728,20 @@
 		"cpe23Uri": "cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:openstack:horizon:2013.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openstack:horizon:2013.1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2013.2",
+		"versionStartIncluding": "2013.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openstack:horizon:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:horizon:2013.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2013.2",
 		"versionStartIncluding": "2013.1"
 	},
 	{

@@ -16,6 +16,9 @@
 		"cpe23Uri": "cpe:2.3:a:apache:flume:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:flume:1.4.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:flume:1.9.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -42,16 +45,6 @@
 			}
 		],
 		"versionEndIncluding": "1.10.1",
-		"versionStartIncluding": "1.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:flume:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:flume:1.4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.10.1",
 		"versionStartIncluding": "1.4.0"
 	}
 ]

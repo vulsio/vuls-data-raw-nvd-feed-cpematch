@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:unitedthemes:brooklyn:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:unitedthemes:brooklyn:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:unitedthemes:brooklyn:4.9.7.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "4.9.7.6"
 	}
 ]

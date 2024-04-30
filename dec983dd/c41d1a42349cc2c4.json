@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:zixn:vk_poster_group:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zixn:vk_poster_group:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zixn:vk_poster_group:2.0.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0.3"
 	}
 ]

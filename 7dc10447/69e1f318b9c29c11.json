@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:juanpao:jpshop:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:juanpao:jpshop:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:juanpao:jpshop:1.5.02:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.02"
 	}
 ]

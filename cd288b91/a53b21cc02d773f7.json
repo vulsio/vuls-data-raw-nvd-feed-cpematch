@@ -285,9 +285,6 @@
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:-:*:*:*:*:ruby:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:ruby:*:*"
 			},
 			{
@@ -520,6 +517,15 @@
 			}
 		],
 		"versionEndExcluding": "3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",

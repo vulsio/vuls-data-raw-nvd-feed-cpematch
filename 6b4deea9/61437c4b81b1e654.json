@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webcource:wc_captcha:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webcource:wc_captcha:1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4"
 	}
 ]

@@ -3516,12 +3516,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:9.0.262.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:9.0.277.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.277.0"
+		"versionEndExcluding": "9.0.277.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
@@ -3720,9 +3717,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:9.0.262.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:9.0.277.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.277.0"
+		"versionEndIncluding": "9.0.277.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",

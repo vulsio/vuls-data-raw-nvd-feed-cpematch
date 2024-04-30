@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:xlinesoft:phprunner:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xlinesoft:phprunner:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xlinesoft:phprunner:4.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.2"
 	}
 ]
