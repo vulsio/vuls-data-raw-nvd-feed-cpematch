@@ -210,7 +210,7 @@
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.42.1"
+		"versionEndIncluding": "0.42.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
@@ -418,14 +418,26 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "0.42.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "0.42.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:motioneye_project:motioneye:0.42:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.42.1"
 	}
 ]
