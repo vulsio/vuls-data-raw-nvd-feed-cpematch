@@ -60,19 +60,7 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.26:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.28:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.7.33"
@@ -105,18 +93,6 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.33:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.7.33"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -126,9 +102,6 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.26:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.27:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.28:*:*:*:*:*:*:*"
 			},
 			{
@@ -136,12 +109,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.34:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.7.34"
+		"versionEndIncluding": "5.7.33"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
@@ -196,15 +166,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.35:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.36:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.7.36"
+		"versionEndIncluding": "5.7.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
@@ -238,6 +202,42 @@
 			}
 		],
 		"versionEndExcluding": "5.7.36"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.36:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.7.36"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
@@ -1554,17 +1554,13 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.17:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0.23",
-		"versionStartIncluding": "8.0.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.15:*:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.22:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.23:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0.23",
@@ -1577,6 +1573,9 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.15:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.17:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.22:*:*:*:*:*:*:*"
 			}
 		],
@@ -1587,13 +1586,7 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.23:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:8.0.22:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0.23",

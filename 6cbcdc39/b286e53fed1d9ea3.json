@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:firepower_threat_defense_software:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:firepower_threat_defense_software:6.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:firepower_threat_defense_software:6.2.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:firepower_threat_defense_software:6.2.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:firepower_threat_defense_software:6.2.3.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.2.3.4"
 	}
 ]

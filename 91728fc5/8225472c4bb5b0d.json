@@ -19,9 +19,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:moxa:nport_ia5450a_firmware:1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:moxa:nport_ia5450a_firmware:2.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0"
+		"versionEndIncluding": "2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:moxa:nport_ia5450a_firmware:*:*:*:*:*:*:*:*",
@@ -31,11 +34,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:moxa:nport_ia5450a_firmware:1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:moxa:nport_ia5450a_firmware:2.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0"
+		"versionEndExcluding": "2.0"
 	}
 ]
