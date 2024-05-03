@@ -179,5 +179,45 @@
 		],
 		"versionEndIncluding": "5.10.0",
 		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:5.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.6.0.17",
+		"versionStartIncluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:5.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.7.0.39",
+		"versionStartIncluding": "5.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:5.9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.9.0.45",
+		"versionStartIncluding": "5.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wso2:identity_server_as_key_manager:5.10.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.10.0.80",
+		"versionStartIncluding": "5.10.0"
 	}
 ]

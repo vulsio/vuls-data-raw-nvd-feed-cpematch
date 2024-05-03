@@ -7145,6 +7145,26 @@
 		"cpe23Uri": "cpe:2.3:a:apache:cxf:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.11",
+		"versionStartIncluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:cxf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.11",
+		"versionStartIncluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:cxf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -7161,9 +7181,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.7:*:*:*:*:*:*:*"
@@ -7216,9 +7233,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:cxf:3.1.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.1.11",
