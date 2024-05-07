@@ -66,9 +66,6 @@
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.71:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.72:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.73:*:*:*:*:*:*:*"
 			},
 			{
@@ -94,12 +91,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.75.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.75.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.75.3"
+		"versionEndExcluding": "1.75.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:*:*:*:*:*:*:*:*",
@@ -109,7 +103,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.44:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "1.75.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.72:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.75.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.46:*:*:*:*:*:*:*"
 			},
@@ -196,9 +205,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.75.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:1.75.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.75.3"
+		"versionEndIncluding": "1.75.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:leptonica:leptonica:*:*:*:*:*:*:*:*",

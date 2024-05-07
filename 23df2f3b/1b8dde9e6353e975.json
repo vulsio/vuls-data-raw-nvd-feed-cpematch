@@ -762,7 +762,22 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.2-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.0-1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.3.1"
@@ -771,50 +786,11 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.3-3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:1.0.0:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.5.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:1.0.1:*:*:*:*:*:*:*"
 			},
@@ -892,6 +868,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.0-1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.2-1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.1:*:*:*:*:*:*:*"
@@ -903,46 +906,34 @@
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.2-1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.1:*:*:*:*:*:*:*"
@@ -975,22 +966,49 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.2-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.10:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.11:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.0-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.1-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.2-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.3-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.3-2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.3.1"
@@ -999,91 +1017,37 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.2-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.2-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.1-2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.2-2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.10:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.3-2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.11:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.0-1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.2-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.0-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.0-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.2:*:*:*:*:*:*:*"
@@ -1120,61 +1084,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.1-2:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.2-1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.3-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.3-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.3-3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:1.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.4:*:*:*:*:*:*:*"
 			},
@@ -1219,21 +1129,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.2-2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.3.1"
@@ -1242,25 +1137,70 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.3.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.3.1"
@@ -1282,27 +1222,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.1-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.3.1:*:*:*:*:*:*:*"
@@ -1314,29 +1233,74 @@
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.0-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.1-2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.2-2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.1-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.3-2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.2-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.6.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.2.3-2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.0-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:3.3.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:0.8.2:*:*:*:*:*:*:*"
 			},
@@ -1425,49 +1389,43 @@
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.2-1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.1-2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.3.2-1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.4.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.0.11:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.6.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:2.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.1"
+		"versionEndIncluding": "3.3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cobbler_project:cobbler:*:*:*:*:*:*:*:*",
