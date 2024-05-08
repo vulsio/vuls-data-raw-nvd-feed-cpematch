@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv260w_firmware:1.0.01.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv260w_firmware:1.0.01.05:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.01.05"
+		"versionEndExcluding": "1.0.01.05"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:rv260w_firmware:*:*:*:*:*:*:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv260w_firmware:1.0.01.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv260w_firmware:1.0.01.05:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.01.05"
+		"versionEndIncluding": "1.0.01.05"
 	}
 ]
