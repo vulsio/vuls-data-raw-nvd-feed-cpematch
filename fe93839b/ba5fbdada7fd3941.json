@@ -2387,6 +2387,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.10:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.0.11",
@@ -2433,16 +2436,6 @@
 			}
 		],
 		"versionEndIncluding": "6.0.11",
-		"versionStartIncluding": "6.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.0.11",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
@@ -2722,12 +2715,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.2.7",
+		"versionEndExcluding": "6.2.7",
 		"versionStartIncluding": "6.2.0"
 	},
 	{
@@ -2753,9 +2743,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.2.7",
+		"versionEndIncluding": "6.2.7",
 		"versionStartIncluding": "6.2.0"
 	},
 	{
