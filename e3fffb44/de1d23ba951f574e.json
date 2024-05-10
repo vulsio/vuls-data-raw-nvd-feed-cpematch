@@ -1,7 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:5.0.2.230:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:8.0.0.2030:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.0.2030"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:5.0.2.230:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:8.0.0.2030:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:9.5.0.1536:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:9.5.4.2615:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0"
 	},
 	{
@@ -9,6 +34,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4442:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.1.4848:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.0.1.4854",
@@ -18,10 +58,66 @@
 		"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4442:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.0.4461:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0.1.4848:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.1.4854",
+		"versionStartIncluding": "10.0.0.4442"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.825:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0.0.837",
 		"versionStartIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.825:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:p20210319:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:p20210324:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:p20210401:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:p20210507:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.0.837:p20210525:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0.1.1261",
+		"versionStartIncluding": "11.0.0.825"
 	}
 ]

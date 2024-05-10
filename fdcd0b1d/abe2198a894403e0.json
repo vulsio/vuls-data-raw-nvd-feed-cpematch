@@ -1,11 +1,22 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:layslider:layslider:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:layslider:layslider:7.1.2:*:*:*:*:wordpress:*:*"
+			}
+		]
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:layslider:layslider:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:layslider:layslider:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "7.1.2"
 	}
 ]
