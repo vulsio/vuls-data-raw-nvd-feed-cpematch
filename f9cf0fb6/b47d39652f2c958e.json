@@ -19,15 +19,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.2.78_1.0.58:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.4.06:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.4.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.4.06"
+		"versionEndExcluding": "1.0.4.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:*:*:*:*:*:*:*:*",
@@ -40,9 +34,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.2.78_1.0.58:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.4.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:1.0.4.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.4.6"
+		"versionEndIncluding": "1.0.4.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r6300_firmware:*:*:*:*:*:*:*:*",
