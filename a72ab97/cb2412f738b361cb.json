@@ -42,9 +42,6 @@
 				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.6.0:*:*:*:*:php:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.6.1:*:*:*:*:php:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.7.0:*:*:*:*:php:*:*"
 			},
 			{
@@ -70,9 +67,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.14.0:*:*:*:*:php:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.14.1:*:*:*:*:php:*:*"
 			}
 		],
 		"versionEndIncluding": "2.14.1",
@@ -152,6 +146,19 @@
 			}
 		],
 		"versionEndExcluding": "2.14.1",
+		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:*:*:*:*:*:php:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.6.1:*:*:*:*:php:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mustache_project:mustache:2.14.1:*:*:*:*:php:*:*"
+			}
+		],
+		"versionEndIncluding": "2.14.1",
 		"versionStartIncluding": "2.0.0"
 	}
 ]

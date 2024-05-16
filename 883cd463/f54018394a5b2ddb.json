@@ -46,6 +46,19 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:22:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "22",
+		"versionStartIncluding": "16"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:16:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "22",
@@ -54,12 +67,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:22:-:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:22:patch_1:*:*:*:*:*:*"
 			}
