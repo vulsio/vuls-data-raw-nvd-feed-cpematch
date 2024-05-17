@@ -7659,10 +7659,33 @@
 		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.15",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.15",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:beta1:*:*:*:*:*:*"
@@ -7729,9 +7752,6 @@
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.0:beta1:*:*:*:*:*:*"
 			},
 			{
@@ -7775,12 +7795,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.2.14:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.2.15",
@@ -7996,7 +8010,10 @@
 		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.4:*:*:*:*:*:*:*"
@@ -8010,10 +8027,24 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.3.4",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:-:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.3.4",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta1:*:*:*:*:*:*"
 			},
@@ -8043,16 +8074,27 @@
 		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta2:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.3.4",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.3.4",
+		"versionStartIncluding": "5.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ilias:ilias:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ilias:ilias:5.3.0:beta4:*:*:*:*:*:*"

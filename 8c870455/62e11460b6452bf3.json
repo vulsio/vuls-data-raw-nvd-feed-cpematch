@@ -76876,6 +76876,44 @@
 		"cpe23Uri": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.17.7",
+		"versionStartIncluding": "4.17.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.17.7",
+		"versionStartIncluding": "4.17.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -76888,28 +76926,10 @@
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.17.7",
@@ -76934,9 +76954,6 @@
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.0:rc5:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -76947,18 +76964,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.17.7",
+		"versionStartIncluding": "4.17.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:samba:samba:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samba:samba:4.17.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.17.7",
 		"versionStartIncluding": "4.17.0"
 	},
 	{

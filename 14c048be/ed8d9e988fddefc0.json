@@ -89,24 +89,6 @@
 		"cpe23Uri": "cpe:2.3:a:apache:sling:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.10:*:*:*:*:*:*:*"
 			},
 			{
@@ -117,6 +99,15 @@
 			}
 		],
 		"versionEndExcluding": "2.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:sling:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:sling:*:*:*:*:*:*:*:*",
@@ -138,6 +129,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:sling:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:sling:1.0.10:*:*:*:*:*:*:*"
