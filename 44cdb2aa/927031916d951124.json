@@ -25,7 +25,31 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:0.4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.3.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnupg:libksba:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.1.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnupg:libksba:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:0.4.3:*:*:*:*:*:*:*"
 			},
@@ -130,9 +154,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.3.2"
+		"versionEndIncluding": "1.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnupg:libksba:*:*:*:*:*:*:*:*",
@@ -253,24 +280,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnupg:libksba:1.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.2"
+		"versionEndExcluding": "1.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnupg:libksba:*:*:*:*:*:*:*:*",
