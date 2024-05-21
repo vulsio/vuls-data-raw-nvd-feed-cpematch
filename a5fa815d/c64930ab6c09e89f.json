@@ -656,12 +656,6 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:fusion:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -675,12 +669,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.1.5",
+		"versionEndExcluding": "10.1.5",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -708,7 +699,30 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.1.4:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndIncluding": "10.1.5",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:fusion:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.1.5",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:fusion:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:fusion:10.1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.1.5",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -839,12 +853,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0.2",
+		"versionEndExcluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -855,9 +866,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.0.2",
+		"versionEndIncluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
