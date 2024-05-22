@@ -5939,17 +5939,51 @@
 		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:a:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:b:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1b:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:c:*:*:*:*:*:*"
 			},
@@ -5958,9 +5992,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:e:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1a:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1b:*:*:*:*:*:*:*"
@@ -5976,8 +6007,34 @@
 		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:d:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:e:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:-:*:*:*:*:*:*"
 			},
@@ -5989,27 +6046,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:c:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:d:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:e:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1a:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1b:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.2.1d",
+		"versionStartIncluding": "8.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.2.1d",
 		"versionStartIncluding": "8.2.1"
 	},
 	{

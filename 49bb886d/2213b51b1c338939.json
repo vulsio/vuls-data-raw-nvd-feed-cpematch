@@ -15,9 +15,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_premium_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_premium_firmware:3.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.20"
@@ -30,5 +27,14 @@
 			}
 		],
 		"versionEndExcluding": "3.20"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_premium_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_premium_firmware:3.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.20"
 	}
 ]
