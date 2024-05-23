@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:dm5500_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:dm5500_firmware:5.14.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.14.0.0"
 	}
 ]

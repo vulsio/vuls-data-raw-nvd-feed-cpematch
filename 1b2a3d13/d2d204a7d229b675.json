@@ -13,7 +13,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if1:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "9.0.1",
+		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.1",
+		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if10:*:*:*:*:*:*"
 			},
@@ -100,16 +117,6 @@
 			}
 		],
 		"versionEndIncluding": "9.0.1",
-		"versionStartIncluding": "9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.0.1",
 		"versionStartIncluding": "9.0"
 	},
 	{
@@ -231,21 +238,6 @@
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp5:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp6:*:*:*:*:*:*"
 			},
 			{
@@ -272,6 +264,28 @@
 			}
 		],
 		"versionEndExcluding": "10.0.1",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp5:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0.1",
 		"versionStartIncluding": "10.0"
 	},
 	{

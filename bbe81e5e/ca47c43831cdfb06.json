@@ -142,9 +142,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:3.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:3.6.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.11"
+		"versionEndIncluding": "3.6.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:*:*:*:*:*:*:*:*",
@@ -244,37 +247,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:3.6.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:3.6.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.0.6",
-		"versionStartIncluding": "6.0.0"
+		"versionEndExcluding": "3.6.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:*:*:*:*:*:*:*:*",
@@ -302,6 +277,31 @@
 			}
 		],
 		"versionEndIncluding": "6.0.6",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:fortinet:fortiswitch:6.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.6",
 		"versionStartIncluding": "6.0.0"
 	},
 	{

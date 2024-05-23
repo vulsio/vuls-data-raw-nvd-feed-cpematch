@@ -75,6 +75,9 @@
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.80:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.80.939:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.80.960:-:*:*:*:*:*:*"
 			},
 			{
@@ -84,16 +87,25 @@
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.961:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.991:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.991:maintenance_release5:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.00:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.1038:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.1038:maintenance_release6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.00"
+		"versionEndExcluding": "8.00"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
@@ -136,30 +148,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.1038:maintenance_release6:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.00"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.80.939:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.961:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.1038:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:7.90.1038:maintenance_release6:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.00:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.00"
@@ -1063,12 +1057,32 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.10.1284",
+		"versionStartIncluding": "8.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:maintenance_release6:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.10.1284",
+		"versionStartIncluding": "8.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:maintenance_release6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.10.1284",
 		"versionStartIncluding": "8.10"
 	},
 	{
@@ -1091,13 +1105,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1211:maintenance_release5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1253:maintenance_release6:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "8.10.1284",
+		"versionStartIncluding": "8.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gallagher:command_centre:8.10.1284:-:*:*:*:*:*:*"
 			}

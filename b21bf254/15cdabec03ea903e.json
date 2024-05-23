@@ -673,24 +673,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.08.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "19.11"
+		"versionEndExcluding": "19.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:*:*:*:*:*:*:*:*",
@@ -871,9 +856,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.08.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:19.11:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "19.11"
+		"versionEndIncluding": "19.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dpdk:data_plane_development_kit:*:*:*:*:*:*:*:*",
