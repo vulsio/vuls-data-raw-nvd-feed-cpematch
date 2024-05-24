@@ -369,13 +369,7 @@
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.23:*:*:*:premium:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.24:*:*:*:premium:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.25:*:*:*:premium:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.26:*:*:*:premium:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.27:*:*:*:premium:*:*:*"
@@ -449,6 +443,27 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:-:*:*:*:premium:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.53:*:*:*:premium:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.53"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:*:*:*:*:premium:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.24:*:*:*:premium:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.26:*:*:*:premium:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.53"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:*:*:*:*:premium:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.2:*:*:*:premium:*:*:*"
 			},
@@ -535,9 +550,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.47:*:*:*:premium:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sixapart:movable_type:1.53:*:*:*:premium:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.53"
