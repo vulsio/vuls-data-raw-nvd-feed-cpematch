@@ -201,6 +201,15 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:coreutils:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.23"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:coreutils:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:coreutils:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:coreutils:5.0:*:*:*:*:*:*:*"
@@ -361,9 +370,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:coreutils:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:coreutils:-:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:coreutils:5.0:*:*:*:*:*:*:*"
 			},

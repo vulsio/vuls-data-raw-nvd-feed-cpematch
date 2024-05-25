@@ -300,25 +300,13 @@
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:ruby:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.3.0:*:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:ruby:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.1:*:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.0:*:*:*:*:*:*:*"
@@ -355,9 +343,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.1"
@@ -365,6 +362,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:ruby:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.3.0:*:*:*:*:ruby:*:*"
 			},
@@ -412,69 +412,6 @@
 			}
 		],
 		"versionEndExcluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:-:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc2:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:-:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc2:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
-			}
-		],
-		"versionEndIncluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:ruby:*:*"
-			}
-		],
-		"versionEndExcluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.0:*:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.1:*:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.0:*:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
-			}
-		],
-		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
@@ -495,55 +432,106 @@
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.2.0:*:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.3.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.3.0:*:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.4.1:*:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.0:*:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.0.1:*:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.0:*:*:*:*:ruby:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:-:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.1:rc2:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:-:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc2:*:*:*:ruby:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:ruby:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1"
+		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
