@@ -794,6 +794,57 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -812,6 +863,29 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.1:release:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -821,25 +895,7 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.2.12",
@@ -871,36 +927,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.2:release:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.9:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "4.2.12",
+		"versionStartIncluding": "4.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_security:4.2.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.2.12",
+		"versionEndExcluding": "4.2.12",
 		"versionStartIncluding": "4.2.0"
 	},
 	{
