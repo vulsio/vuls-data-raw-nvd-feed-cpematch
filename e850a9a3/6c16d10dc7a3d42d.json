@@ -46,12 +46,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:2.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:2.3.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.9"
+		"versionEndExcluding": "2.3.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:*:*:*:*:*:*:*:*",
@@ -79,9 +76,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:2.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:2.3.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.9"
+		"versionEndIncluding": "2.3.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:mod_fcgid:*:*:*:*:*:*:*:*",

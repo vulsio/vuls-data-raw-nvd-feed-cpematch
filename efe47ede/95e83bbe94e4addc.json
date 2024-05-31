@@ -46,11 +46,14 @@
 		"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "6.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.2.1:*:*:*:*:*:*:*"
 			},
@@ -67,13 +70,28 @@
 		"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "6.3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:log_and_event_manager:6.3.0:*:*:*:*:*:*:*"

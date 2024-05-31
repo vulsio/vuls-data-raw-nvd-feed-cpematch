@@ -46644,9 +46644,6 @@
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.2.994:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.2.7428:*:*:*:*:*:*:*"
 			},
 			{
@@ -46845,7 +46842,7 @@
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.3.12944:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2021.3.13021",
+		"versionEndIncluding": "2021.3.13021",
 		"versionStartIncluding": "2021.1.6959"
 	},
 	{
@@ -47117,6 +47114,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.3.12944:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2021.3.13021",
+		"versionStartIncluding": "2021.1.6959"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.2.994:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2021.3.13021:*:*:*:*:*:*:*"
@@ -49316,6 +49323,25 @@
 		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2387:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2616:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.7782:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.9163:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2022.3.10586",
+		"versionStartIncluding": "2022.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.348:*:*:*:*:*:*:*"
 			},
 			{
@@ -49332,26 +49358,17 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2616:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.5512:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.7274:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.7782:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.9163:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2022.3.10586",
+		"versionEndIncluding": "2022.3.10586",
 		"versionStartIncluding": "2022.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.348:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.1455:*:*:*:*:*:*:*"
 			},
@@ -49360,13 +49377,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2140:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2387:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.2616:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2022.3.10586",
+		"versionStartIncluding": "2022.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.4953:*:*:*:*:*:*:*"
 			},
@@ -49394,19 +49412,15 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.4953:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.5512:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.7274:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2022.3.10586",
-		"versionStartIncluding": "2022.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:octopus:octopus_server:2022.3.348:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2022.3.10586",
 		"versionStartIncluding": "2022.3.0"
 	},
 	{
