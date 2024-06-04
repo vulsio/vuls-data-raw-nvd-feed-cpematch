@@ -24,16 +24,10 @@
 		"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:16:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:20:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:22:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:22:patch_1:*:*:*:*:*:*"
@@ -53,6 +47,19 @@
 			}
 		],
 		"versionEndExcluding": "22",
+		"versionStartIncluding": "16"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:wago:pfc100_firmware:22:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "22",
 		"versionStartIncluding": "16"
 	},
 	{

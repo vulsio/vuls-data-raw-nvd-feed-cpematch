@@ -64,9 +64,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:2.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.4"
+		"versionEndIncluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:*:*:*:*:*:wordpress:*:*",
@@ -166,25 +175,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:3.0.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:3.0.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.4"
+		"versionEndExcluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:2.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:2.1:*:*:*:*:wordpress:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:2.2:*:*:*:*:wordpress:*:*"
 			},
@@ -208,8 +205,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:3.0.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:etsy_shop_project:etsy_shop:3.0.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.4"
+		"versionEndIncluding": "3.0.4"
 	}
 ]

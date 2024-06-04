@@ -972,28 +972,7 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.7.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.7.2:*:*:*:*:*:*:*"
@@ -1030,15 +1009,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.11:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.11",
+		"versionEndExcluding": "3.11",
 		"versionStartIncluding": "3.0"
 	},
 	{
@@ -1087,9 +1060,6 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1103,9 +1073,53 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.11",
+		"versionStartIncluding": "3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.7.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.11",
+		"versionStartIncluding": "3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:3.11:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.11",
 		"versionStartIncluding": "3.0"
 	},
 	{
@@ -1462,83 +1476,83 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.3.1",
+		"versionStartIncluding": "4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.3.1",
+		"versionStartIncluding": "4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.3.1",
+		"versionStartIncluding": "4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.3.1",
+		"versionStartIncluding": "4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.3.1",
-		"versionStartIncluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.3.1",
-		"versionStartIncluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.3.1",
-		"versionStartIncluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.3.1",
-		"versionStartIncluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:cloud_foundation:4.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.3.1",
