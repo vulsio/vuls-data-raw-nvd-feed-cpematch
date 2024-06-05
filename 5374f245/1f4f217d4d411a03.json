@@ -375,6 +375,21 @@
 		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.67:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.72:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.74:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -423,18 +438,6 @@
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.58:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.59:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.61:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.62:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.63:*:*:*:*:*:*:*"
 			},
 			{
@@ -469,12 +472,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.74:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.75:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.75"
+		"versionEndExcluding": "0.75"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
@@ -532,7 +532,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.60:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.59:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.60:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.61:*:*:*:*:*:*:*"
 			},
@@ -544,15 +562,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.65:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.61:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.62:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.66:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.67:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.67:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.68:*:*:*:*:*:*:*"
@@ -567,16 +600,13 @@
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.71:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.72:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.73:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.74:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.75:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.75"
+		"versionEndIncluding": "0.75"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
