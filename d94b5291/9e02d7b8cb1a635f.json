@@ -3,27 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.4:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndIncluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.12:beta1:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.13:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.1:*:*:*:*:jenkins:*:*"
 			},
 			{
@@ -31,6 +10,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.3:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.4:*:*:*:*:jenkins:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.5:*:*:*:*:jenkins:*:*"
@@ -43,43 +25,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.8:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndIncluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.12:-:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.10:*:*:*:*:jenkins:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.11:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndIncluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.11:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.12:-:*:*:*:jenkins:*:*"
 			},
@@ -103,9 +55,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.18:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.19:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "1.20"
+		"versionEndExcluding": "1.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
@@ -138,6 +93,24 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.10:*:*:*:*:jenkins:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.11:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.12:-:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.12:beta1:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.13:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.14:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.15:*:*:*:*:jenkins:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.16:*:*:*:*:jenkins:*:*"
 			},
 			{
@@ -146,15 +119,6 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.18:*:*:*:*:jenkins:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.19:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.19:*:*:*:*:jenkins:*:*"
 			},
@@ -163,18 +127,6 @@
 			}
 		],
 		"versionEndIncluding": "1.20"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.14:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.15:*:*:*:*:jenkins:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",

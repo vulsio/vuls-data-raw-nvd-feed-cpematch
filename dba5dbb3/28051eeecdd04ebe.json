@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:fusion_builder_project:fusion_builder:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fusion_builder_project:fusion_builder:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.6.2"
 	}
 ]

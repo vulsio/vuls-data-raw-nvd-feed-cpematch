@@ -114,6 +114,12 @@
 		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p5:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p6:*:*:*:*:*:*"
 			},
 			{
@@ -127,13 +133,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.7:*:*:*:*:*:*:*"
 			},
@@ -145,25 +145,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p4:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p1:*:*:*:*:*:*"
 			},
@@ -238,6 +220,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p2:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.8.15"
@@ -246,34 +243,82 @@
 		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p7:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p10:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10.p8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11.p3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.12:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.12:p3:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.8.15"
@@ -281,6 +326,21 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10.p8:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:-:*:*:*:*:*:*"
 			},
@@ -318,6 +378,12 @@
 		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -340,54 +406,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p10:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.2.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p4:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p5:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p6:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10.p8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:7.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:-:*:*:*:*:*:*"
@@ -409,6 +457,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p3:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.8.15"
@@ -481,126 +571,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11.p3:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.12:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.12:p3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p10:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p1:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10.p8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.11:p5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p11:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p12:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.8.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.6.0:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.8.15"
@@ -608,24 +593,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p3:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.7.11:p4:*:*:*:*:*:*"
 			},
@@ -667,39 +634,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.8:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.9:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zimbra:collaboration_server:8.8.10:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.8.15"
