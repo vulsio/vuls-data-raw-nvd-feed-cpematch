@@ -26,7 +26,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yzmcms:yzmcms:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yzmcms:yzmcms:7.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.0",
 		"versionStartIncluding": "6.5"
 	}

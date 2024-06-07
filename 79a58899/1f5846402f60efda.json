@@ -829,21 +829,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.10:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.11:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.12:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.13:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.14:*:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.5"
+		"versionEndExcluding": "2.3.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
@@ -876,7 +864,31 @@
 				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.4:*:*:*:commerce:*:*:*"
 			}
 		],
+		"versionEndIncluding": "2.3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.11:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.4:*:*:*:commerce:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.3.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.5:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.6:*:*:*:commerce:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.3.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
@@ -933,6 +945,18 @@
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.0.10:*:*:*:commerce:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.11:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.12:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.13:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.14:*:*:*:commerce:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.1.15:*:*:*:commerce:*:*:*"
 			},
 			{
@@ -978,9 +1002,6 @@
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.10:*:*:*:commerce:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.11:*:*:*:commerce:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.0:*:*:*:commerce:*:*:*"
 			},
 			{
@@ -994,21 +1015,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.3:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.4:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:-:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:p1:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:p2:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.5"
+		"versionEndExcluding": "2.3.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
@@ -1024,12 +1033,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:1.9.4.3:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.5:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.6:*:*:*:commerce:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:1.14.3.7:*:*:*:commerce:*:*:*"
@@ -1198,9 +1201,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.4:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:-:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:p1:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.5:p2:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.5"
+		"versionEndIncluding": "2.3.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
@@ -2244,50 +2256,14 @@
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.6:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.7:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.8:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.10",
-		"versionStartIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.0:*:*:*:commerce:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.1:*:*:*:commerce:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.2:*:*:*:commerce:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.3:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.2.10",
-		"versionStartIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.9:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.10",
-		"versionStartIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.4:*:*:*:commerce:*:*:*"
 			},
@@ -2299,36 +2275,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.7:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.2.10",
-		"versionStartIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.1:*:*:*:commerce:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.2:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.3:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.4:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.5:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.10",
-		"versionStartIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.8:*:*:*:commerce:*:*:*"
 			},
@@ -2347,6 +2294,50 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.0:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.1:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.2:*:*:*:commerce:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.10",
+		"versionStartIncluding": "2.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.2:*:*:*:commerce:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.10",
+		"versionStartIncluding": "2.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.3:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.4:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.5:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.6:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.7:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.8:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.2.9:*:*:*:commerce:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.2.10",
@@ -2410,9 +2401,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.0:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.1:*:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.2",
+		"versionEndIncluding": "2.3.2",
 		"versionStartIncluding": "2.3.0"
 	},
 	{
@@ -2423,19 +2417,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.1:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:*:*:*:commerce:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.3.2",
-		"versionStartIncluding": "2.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.1:*:*:*:commerce:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.3.2",
@@ -2444,6 +2425,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:commerce:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:*:*:*:commerce:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:-:*:*:commerce:*:*:*"
 			}
