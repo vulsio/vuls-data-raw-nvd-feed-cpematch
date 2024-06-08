@@ -477,9 +477,6 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:8.0.19:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:8.0.20:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:8.0.21:*:*:*:*:*:*:*"
 			},
 			{
@@ -574,6 +571,15 @@
 			}
 		],
 		"versionEndExcluding": "8.0.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:8.0.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.27"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_workbench:*:*:*:*:*:*:*:*",

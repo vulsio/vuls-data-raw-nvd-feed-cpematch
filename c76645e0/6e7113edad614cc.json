@@ -55,7 +55,22 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.5.0.90"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5.0.90"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:1.4.7.0:*:*:*:*:*:*:*"
 			},
@@ -74,9 +89,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:-:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:1.4.7.0:*:*:*:*:*:*:*"
 			},
@@ -142,12 +154,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:2.5.0.92:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:2.5.5.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.5.5.47"
+		"versionEndExcluding": "2.5.5.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:*:*:*:*:*:*:*:*",
@@ -172,9 +181,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:2.5.0.92:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:2.5.5.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.5.5.47"
+		"versionEndIncluding": "2.5.5.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sg550x-24mp_firmware:*:*:*:*:*:*:*:*",

@@ -299,6 +299,31 @@
 		"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r34p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r35p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r38p2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r39p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r40p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r41p0",
+		"versionStartIncluding": "r34p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:arm:bifrost_gpu_kernel_driver:r35p0:*:*:*:*:*:*:*"
 			},
 			{
