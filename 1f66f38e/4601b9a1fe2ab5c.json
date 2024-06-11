@@ -383,9 +383,6 @@
 				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.70:sp2_hotfix2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.80:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.81:-:*:*:*:*:*:*"
 			},
 			{
@@ -462,7 +459,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.40:-:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "1.87"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.80:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.87"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:phoenixcontact:pc_worx:1.40:hotfix1:*:*:*:*:*:*"
 			},

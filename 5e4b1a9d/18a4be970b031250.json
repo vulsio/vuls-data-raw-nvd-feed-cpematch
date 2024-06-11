@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:netgsm:netgsm:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netgsm:netgsm:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netgsm:netgsm:2.9.16:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.9.16"
 	}
 ]

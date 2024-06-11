@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:codeparrots:easy_forms_for_mailchimp:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codeparrots:easy_forms_for_mailchimp:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:codeparrots:easy_forms_for_mailchimp:6.9.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "6.9.0"
 	}
 ]

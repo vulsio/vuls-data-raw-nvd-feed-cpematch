@@ -4,12 +4,27 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.5.0.41"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:5.1.0.8016:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.1.0.8017"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "5.0.0.1018",
+		"versionStartIncluding": "5.0.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:mitel:6869i_sip_firmware:*:*:*:*:*:*:*:*",

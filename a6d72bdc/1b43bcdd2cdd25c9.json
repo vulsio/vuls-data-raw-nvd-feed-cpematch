@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "4.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:4.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opmc:woocommerce_dropshipping:5.0.4:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.4"
 	}
 ]

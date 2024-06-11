@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:erikeng:google_cse:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:erikeng:google_cse:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:erikeng:google_cse:1.0.7:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.7"
 	}
 ]

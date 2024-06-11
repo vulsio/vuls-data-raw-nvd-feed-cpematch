@@ -126,27 +126,6 @@
 		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:-:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:2.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:3.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.0:*:*:*:standard:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.1:*:*:*:standard:*:*:*"
 			},
 			{
@@ -160,12 +139,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.0:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.1:*:*:*:standard:*:*:*"
@@ -187,28 +160,58 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:11.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:20.1:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.0:*:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:21.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.0:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.1:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.1:-:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:19.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.1:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.1:sp1:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.0:-:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.0:sp1:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.0:*:*:*:standard:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:19.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.1:*:*:*:standard:*:*:*"
 			},
@@ -217,7 +220,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:15.1:*:*:*:standard:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.0:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:16.0:*:*:*:standard:*:*:*"
 			},
@@ -226,24 +244,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:17.0:*:*:*:standard:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.2:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:17.1:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:19.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:20.1:*:*:*:standard:*:*:*"
 			}
 		],
-		"versionEndExcluding": "21.1"
+		"versionEndIncluding": "21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
@@ -258,41 +282,17 @@
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:3.0:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.0:*:*:*:standard:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.0:*:*:*:standard:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:6.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:6.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.2:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.1:*:*:*:standard:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:9.0:*:*:*:standard:*:*:*"
 			},
@@ -331,13 +331,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:14.1:*:*:*:standard:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:15.0:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.0:*:*:*:standard:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:8.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:15.1:*:*:*:standard:*:*:*"
 			},
@@ -346,30 +367,123 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:16.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:6.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:6.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:7.2:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:20.1:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:2.2:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:3.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.2:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.0:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.0:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:17.0:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndExcluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:-:*:*:*:standard:*:*:*"
+			}
+		],
+		"versionEndIncluding": "21.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.1:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:4.2:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:5.0:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.1:-:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:12.1:sp1:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.0:-:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.0:sp1:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:13.1:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:17.1:*:*:*:standard:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.0:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:18.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:19.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:20.1:*:*:*:standard:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:21.1:*:*:*:standard:*:*:*"
 			}
 		],
-		"versionEndIncluding": "21.1"
+		"versionEndExcluding": "21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:quartus_prime:*:*:*:*:standard:*:*:*",
