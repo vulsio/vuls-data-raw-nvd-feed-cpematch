@@ -186,10 +186,16 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.3.21:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.24:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.27:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.29:*:*:*:*:*:*:*"
@@ -201,21 +207,6 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.1.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.1.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.3.21:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.24:*:*:*:*:*:*:*"
 			},
 			{
@@ -231,6 +222,18 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.3.21:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.03.29"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -252,13 +255,10 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.21:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.27:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.3.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.03.29"
+		"versionEndExcluding": "1.0.03.29"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:*:*:*:*:*:*:*:*",
@@ -267,12 +267,18 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.0.14:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.1.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.1.20:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.03.19:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv345_firmware:1.0.3.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.03.29"
+		"versionEndIncluding": "1.0.03.29"
 	}
 ]
