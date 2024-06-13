@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ovic_importer_project:ovic_importer:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ovic_importer_project:ovic_importer:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ovic_importer_project:ovic_importer:1.6.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.6.3"
 	}
 ]

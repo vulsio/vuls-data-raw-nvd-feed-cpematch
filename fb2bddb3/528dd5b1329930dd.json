@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:beyondtrust:beyondinsight:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:beyondtrust:beyondinsight:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:beyondtrust:beyondinsight:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:beyondtrust:beyondinsight:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:beyondtrust:beyondinsight:23.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.2"
 	}
 ]

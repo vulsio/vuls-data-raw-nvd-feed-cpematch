@@ -1152,7 +1152,13 @@
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.1:*:*:*:*:*:*:*"
@@ -1262,19 +1268,6 @@
 			}
 		],
 		"versionEndExcluding": "4.3.15",
-		"versionStartIncluding": "4.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:spring_framework:4.3.0:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.3.15",
 		"versionStartIncluding": "4.3.0"
 	},
 	{

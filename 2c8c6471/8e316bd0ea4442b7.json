@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jetbrains:aqua:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jetbrains:aqua:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2024.1.2"
 	}
 ]

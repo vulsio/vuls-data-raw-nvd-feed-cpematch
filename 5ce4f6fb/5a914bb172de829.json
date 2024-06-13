@@ -939,9 +939,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.3.24"
+		"versionEndIncluding": "1.3.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
@@ -1113,12 +1116,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.24"
+		"versionEndExcluding": "1.3.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
@@ -1493,22 +1493,19 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.2:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27a:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3:*:*:*:*:*:*:*"
@@ -1529,15 +1526,6 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.15:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.16:*:*:*:*:*:*:*"
 			}
 		],
@@ -1547,7 +1535,37 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.3.31"
@@ -1598,7 +1616,16 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.12:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.14:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.2:*:*:*:*:*:*:*"
@@ -1616,8 +1643,47 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.18:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.7:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.29:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.30:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
 			},
@@ -1635,15 +1701,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
@@ -1694,6 +1751,54 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.3.31"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1701,6 +1806,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.1:*:*:*:*:*:*:*"
@@ -1712,34 +1823,19 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.10:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.14:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.31"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.31"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.1:*:*:*:*:*:*:*"
@@ -1784,12 +1880,6 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.8:*:*:*:*:*:*:*"
 			},
 			{
@@ -1823,18 +1913,6 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.22:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.23:*:*:*:*:*:*:*"
 			},
 			{
@@ -1845,21 +1923,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27a:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.29:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.30:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.3.31"
@@ -1868,73 +1931,22 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.14:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.13:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.3.31"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.31"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.31"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.31"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
@@ -2141,123 +2153,6 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27a:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.34:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -2274,6 +2169,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.6:*:*:*:*:*:*:*"
@@ -2349,39 +2247,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.18:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.29:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.32:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3:*:*:*:*:*:*:*"
@@ -2391,100 +2256,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.5:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.18:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
 			},
@@ -2496,6 +2277,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
@@ -2558,6 +2366,12 @@
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -2567,10 +2381,85 @@
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.1.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.2.18:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3:*:*:*:*:*:*:*"
@@ -2589,6 +2478,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.11:*:*:*:*:*:*:*"
@@ -2613,18 +2517,60 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.27a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.29:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.34:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.3.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:1.3.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.3.35"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:graphicsmagick:graphicsmagick:*:*:*:*:*:*:*:*",

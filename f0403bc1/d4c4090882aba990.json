@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:buddypress_cover_project:buddypress_cover:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:buddypress_cover_project:buddypress_cover:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:buddypress_cover_project:buddypress_cover:2.1.4.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.1.4.2"
 	}
 ]

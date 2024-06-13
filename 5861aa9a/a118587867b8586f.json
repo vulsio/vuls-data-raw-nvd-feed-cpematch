@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:stylemixthemes:mega_menu:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stylemixthemes:mega_menu:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:stylemixthemes:mega_menu:2.3.12:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.3.13"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dreryk:gabinet:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dreryk:gabinet:7.0.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.17.0.0",
 		"versionStartIncluding": "7.0.0.0"
 	}

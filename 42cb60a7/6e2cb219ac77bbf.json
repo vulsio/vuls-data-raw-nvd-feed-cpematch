@@ -950,6 +950,12 @@
 		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2:beta1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2:beta3:*:*:*:*:*:*"
 			},
 			{
@@ -960,6 +966,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.2.3",
@@ -977,22 +986,6 @@
 		],
 		"versionEndExcluding": "3.2.3",
 		"versionStartExcluding": "3.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:3.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.2.3",
-		"versionStartIncluding": "3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:espressif:esp-idf:*:*:*:*:*:*:*:*",
