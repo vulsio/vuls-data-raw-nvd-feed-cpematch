@@ -468,9 +468,6 @@
 				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.2.3:beta:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.2.3:final:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.2.3:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -513,7 +510,7 @@
 				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.4.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.3"
+		"versionEndIncluding": "1.4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:*:*:*:*:*:*:*:*",
@@ -676,6 +673,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.4.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.4.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:impresscms:impresscms:1.2.3:final:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.4.3"

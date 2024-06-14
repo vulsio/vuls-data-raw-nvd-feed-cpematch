@@ -2457,27 +2457,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "22.3",
-		"versionStartIncluding": "22.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:photoshop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "22.3",
-		"versionStartIncluding": "22.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:photoshop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.2:*:*:*:*:*:*:*"
 			},
@@ -2493,6 +2473,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:photoshop:22.2:*:*:*:*:*:*:*"
@@ -2747,13 +2733,13 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:photoshop:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
-		"versionEndIncluding": "24.1.1",
+		"versionEndExcluding": "24.1.1",
 		"versionStartIncluding": "24.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:photoshop:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
-		"versionEndExcluding": "24.1.1",
+		"versionEndIncluding": "24.1.1",
 		"versionStartIncluding": "24.0.0"
 	}
 ]

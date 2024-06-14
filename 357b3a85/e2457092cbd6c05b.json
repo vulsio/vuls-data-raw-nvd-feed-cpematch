@@ -624,7 +624,31 @@
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.1:*:*:*:*:*:*:*"
@@ -634,6 +658,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.1:*:*:*:*:*:*:*"
@@ -664,12 +694,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.14.11"
+		"versionEndExcluding": "1.14.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:*:*:*:*:*:*:*:*",
@@ -880,42 +907,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.14.11"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.12.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.13.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:simplesamlphp:simplesamlphp:1.14.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.14.11"
