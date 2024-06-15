@@ -534,52 +534,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:interimfix1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.1.7",
-		"versionStartIncluding": "11.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -620,6 +574,45 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:fixpack7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:interimfix1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.1.7:interimfix2:*:*:*:*:*:*"
 			},
 			{
@@ -655,12 +648,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.2.3",
+		"versionEndExcluding": "11.2.3",
 		"versionStartIncluding": "11.2.0"
 	},
 	{
@@ -671,9 +661,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cognos_analytics:11.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.2.3",
+		"versionEndIncluding": "11.2.3",
 		"versionStartIncluding": "11.2.0"
 	},
 	{

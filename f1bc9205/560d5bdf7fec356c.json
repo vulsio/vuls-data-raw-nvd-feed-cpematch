@@ -10,5 +10,20 @@
 			}
 		],
 		"versionEndIncluding": "1.6.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:salephpscripts:web_directory_free:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:salephpscripts:web_directory_free:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:salephpscripts:web_directory_free:1.6.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:salephpscripts:web_directory_free:1.6.8:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "1.7.0"
 	}
 ]
