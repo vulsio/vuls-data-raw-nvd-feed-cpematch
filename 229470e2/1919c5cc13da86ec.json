@@ -54,6 +54,39 @@
 		"cpe23Uri": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.1.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.1.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:nagios:log_server:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -85,30 +118,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.1.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.7"
+		"versionEndExcluding": "2.1.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*",
@@ -165,7 +177,7 @@
 				"cpe23Uri": "cpe:2.3:a:nagios:log_server:2.1.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.7"
+		"versionEndIncluding": "2.1.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nagios:log_server:*:*:*:*:*:*:*:*",
