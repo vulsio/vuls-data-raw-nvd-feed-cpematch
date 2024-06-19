@@ -23,5 +23,24 @@
 		],
 		"versionEndExcluding": "16.2.0.0",
 		"versionStartIncluding": "14.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:azure_file_sync:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_file_sync:16.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_file_sync:16.2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_file_sync:17.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_file_sync:17.1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "17.3.0.0",
+		"versionStartIncluding": "16.0.0.0"
 	}
 ]
