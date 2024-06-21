@@ -40,9 +40,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:2.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.5"
@@ -58,7 +55,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:1.5:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:phpmybackuppro:phpmybackuppro:1.6:*:*:*:*:*:*:*"
 			},

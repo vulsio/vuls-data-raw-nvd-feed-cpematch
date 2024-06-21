@@ -5801,12 +5801,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.6",
+		"versionEndExcluding": "3.5.6",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -5829,9 +5826,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.5.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.6",
+		"versionEndIncluding": "3.5.6",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -5880,12 +5880,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.4",
+		"versionEndExcluding": "3.6.4",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -5902,9 +5899,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.4",
+		"versionEndIncluding": "3.6.4",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -5937,6 +5937,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.7.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.7.2",
@@ -5956,16 +5959,6 @@
 			}
 		],
 		"versionEndIncluding": "3.7.2",
-		"versionStartIncluding": "3.7.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible_tower:3.7.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.7.2",
 		"versionStartIncluding": "3.7.0"
 	},
 	{

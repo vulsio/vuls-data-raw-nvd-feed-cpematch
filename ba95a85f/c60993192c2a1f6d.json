@@ -13008,9 +13008,6 @@
 		"cpe23Uri": "cpe:2.3:a:atlassian:jira_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:atlassian:jira_server:7.10.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:atlassian:jira_server:7.10.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -13031,6 +13028,16 @@
 			}
 		],
 		"versionEndExcluding": "7.10.2",
+		"versionStartIncluding": "7.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:atlassian:jira_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:atlassian:jira_server:7.10.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.10.2",
 		"versionStartIncluding": "7.10.0"
 	},
 	{
