@@ -3,20 +3,19 @@
 		"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.30:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35\\(abfc.3\\)c0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.21",
-		"versionStartIncluding": "4.30"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:5.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.21",
@@ -27,6 +26,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35\\(abfc.3\\)c0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.60:*:*:*:*:*:*:*"
@@ -39,25 +44,6 @@
 			}
 		],
 		"versionEndIncluding": "5.21",
-		"versionStartIncluding": "4.30"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.35\\(abfc.3\\)c0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:4.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:vpn300_firmware:5.20:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.21",
 		"versionStartIncluding": "4.30"
 	},
 	{

@@ -129,9 +129,6 @@
 		"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.123:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.124:*:*:*:*:*:*:*"
 			},
 			{
@@ -262,12 +259,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.172:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.173:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.174:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "0.174"
@@ -367,7 +358,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.154:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "0.174"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.123:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.174"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.155:*:*:*:*:*:*:*"
 			},
@@ -415,5 +421,17 @@
 			}
 		],
 		"versionEndExcluding": "0.174"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.173:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.174:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.174"
 	}
 ]
