@@ -355,49 +355,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.4.7:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.0:*:*:*:*:kubernetes:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.3:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.4:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.5:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.6:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc1:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc2:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.5.0:*:*:*:*:kubernetes:*:*"
 			},
@@ -451,34 +409,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.0:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.1:*:*:*:*:kubernetes:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.0:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.2:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.1:*:*:*:*:kubernetes:*:*"
 			},
@@ -502,13 +433,136 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc2:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc3:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc4:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc5:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc6:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc2:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc3:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc4:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc5:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc6:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.3:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc2:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc3:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc2:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc3:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc4:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc5:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc6:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc7:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc8:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:rc2:*:*:*:kubernetes:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.0"
+		"versionEndExcluding": "1.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.6:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc2:*:*:*:kubernetes:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc3:*:*:*:kubernetes:*:*"
 			},
@@ -658,58 +712,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.3:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.4:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.5:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.6:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:rc1:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.3:*:*:*:*:kubernetes:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.0"
+		"versionEndIncluding": "1.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.3:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.4:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.5:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.0:rc1:*:*:*:kubernetes:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.0:rc2:*:*:*:kubernetes:*:*"
 			},
@@ -742,13 +751,49 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.3:*:*:*:*:kubernetes:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.0"
+		"versionEndExcluding": "1.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:-:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.1.0:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.2.0:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.0:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.2:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.3:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.4.0:-:*:*:*:kubernetes:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.4.0:alpha1:*:*:*:kubernetes:*:*"
 			},
@@ -787,31 +832,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.5.4:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:rc1:*:*:*:kubernetes:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.6.0:*:*:*:*:kubernetes:*:*"
 			},
@@ -829,54 +850,69 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.7.2:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc2:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc3:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.0:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc4:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.1:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc5:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.2:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.0:rc6:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.0:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.1:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.1:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.11.2:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.9.2:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:-:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.0:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc1:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.1:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc2:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.2:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc3:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.3:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc4:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.4:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc5:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.10.5:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.4:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.5:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.6:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:-:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.0:rc1:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.1:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.2:*:*:*:*:kubernetes:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.4.3:*:*:*:*:kubernetes:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:-:*:*:*:kubernetes:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc1:*:*:*:kubernetes:*:*"
@@ -894,124 +930,28 @@
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:-:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.1:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.1.0:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.2:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.2.0:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.3:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.0:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.4:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.1:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.5:*:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.2:*:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.0:-:*:*:*:kubernetes:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.3.3:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.4.0:-:*:*:*:kubernetes:*:*"
+				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.3.0:rc1:*:*:*:kubernetes:*:*"
 			}
 		],
 		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.0:rc6:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.12.3:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc1:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc2:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.0:rc3:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.1:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:0.8.0:*:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.0.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc1:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc2:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc3:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc4:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc5:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc6:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc7:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.0:rc8:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.1:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.1.2:*:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:-:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:rc1:*:*:*:kubernetes:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.2.0:rc2:*:*:*:kubernetes:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:*:*:*:*:*:kubernetes:*:*",

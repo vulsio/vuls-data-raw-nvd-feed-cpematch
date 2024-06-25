@@ -8517,12 +8517,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.0.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.0.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.21",
+		"versionEndExcluding": "3.0.21",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -8611,9 +8608,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.0.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.0.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.21",
+		"versionEndIncluding": "3.0.21",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -8718,12 +8718,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.1.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.1.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.17",
+		"versionEndExcluding": "3.1.17",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -8776,9 +8773,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.1.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.1.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.17",
+		"versionEndIncluding": "3.1.17",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -8871,12 +8871,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.2.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.8",
+		"versionEndExcluding": "3.2.8",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -8923,9 +8920,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:3.2.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.8",
+		"versionEndIncluding": "3.2.8",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -13040,9 +13040,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:community:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.13",
+		"versionEndIncluding": "7.0.13",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -13077,15 +13083,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:community:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.13",
+		"versionEndExcluding": "7.0.13",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -13632,6 +13632,9 @@
 		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:community:*:*:*"
 			},
 			{
@@ -13690,9 +13693,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.26:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.0.27",
@@ -13702,16 +13702,10 @@
 		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.5:*:*:*:*:*:*:*"
@@ -13724,6 +13718,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.15:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.16:*:*:*:*:*:*:*"
@@ -13764,34 +13776,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.26:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.0.27",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.13:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.0.27",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -13799,9 +13789,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.27",
+		"versionEndIncluding": "7.0.27",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -13972,9 +13965,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.31:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.32:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.32",
+		"versionEndIncluding": "7.0.32",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -14066,12 +14062,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.31:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:7.0.32:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.32",
+		"versionEndExcluding": "7.0.32",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -15051,10 +15044,26 @@
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:-:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:community:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0.14",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.1:*:*:*:*:*:*:*"
@@ -15070,27 +15079,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.12:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.13:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0.14",
@@ -15100,25 +15088,10 @@
 		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.5:*:*:*:*:*:*:*"
@@ -15149,6 +15122,40 @@
 			}
 		],
 		"versionEndIncluding": "8.0.14",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:otrs:otrs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.0:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.12:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:otrs:otrs:8.0.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0.14",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
