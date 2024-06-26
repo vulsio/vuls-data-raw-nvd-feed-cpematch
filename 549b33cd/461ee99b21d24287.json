@@ -970,61 +970,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.22.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.21.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.15.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.16.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.18.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.18.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.21.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.23.0:*:*:*:*:*:*:*"
 			},
@@ -1246,12 +1192,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.21.1"
+		"versionEndExcluding": "1.21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",
@@ -1354,6 +1297,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.13.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.16.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.17.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.18.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.18.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:0.18.2:*:*:*:*:*:*:*"
@@ -1618,9 +1603,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.21.1"
+		"versionEndIncluding": "1.21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",
