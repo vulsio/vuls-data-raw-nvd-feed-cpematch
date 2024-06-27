@@ -33,7 +33,7 @@
 				"cpe23Uri": "cpe:2.3:a:dlink:central_wifimanager:1.02:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.03",
+		"versionEndIncluding": "1.03",
 		"versionStartIncluding": "1.00"
 	},
 	{
@@ -47,7 +47,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dlink:central_wifimanager:1.02:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.03",
+		"versionStartIncluding": "1.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dlink:central_wifimanager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dlink:central_wifimanager:1.03:*:*:*:*:*:*:*"
 			},

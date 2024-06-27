@@ -347,11 +347,24 @@
 		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.13:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.14:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.3:*:*:*:*:*:*:*"
 			},
@@ -369,7 +382,47 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.12:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.12.68:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.11:*:*:*:*:*:*:*"
 			},
@@ -403,7 +456,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5.19",
+		"versionStartIncluding": "9.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.3:*:*:*:*:*:*:*"
 			},
@@ -421,27 +491,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.12.68:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:9.5.18:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.5.19",
@@ -747,7 +796,14 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:10.0.0:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "10.0.6",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:10.0.2:*:*:*:*:*:*:*"
 			},
@@ -762,9 +818,6 @@
 		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:10.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:10.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -772,6 +825,16 @@
 			}
 		],
 		"versionEndIncluding": "10.0.6",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:bigfix_platform:10.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.6",
 		"versionStartIncluding": "10.0"
 	},
 	{

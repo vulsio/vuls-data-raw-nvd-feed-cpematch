@@ -3370,6 +3370,12 @@
 		"cpe23Uri": "cpe:2.3:a:apache:hadoop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:-:*:*:*:*:*:*"
 			},
 			{
@@ -3383,6 +3389,15 @@
 		"cpe23Uri": "cpe:2.3:a:apache:hadoop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:-:*:*:*:*:*:*"
 			}
 		],
@@ -3393,32 +3408,10 @@
 		"cpe23Uri": "cpe:2.3:a:apache:hadoop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.3.2",
-		"versionStartIncluding": "3.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:hadoop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:hadoop:3.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.3.2",
 		"versionStartIncluding": "3.3.0"
 	},
 	{

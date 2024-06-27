@@ -252,6 +252,21 @@
 				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.22:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.22:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.22:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.22:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.23.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.23.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.24.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -259,9 +274,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.24.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.25.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.26.0",
 		"versionStartIncluding": "2.0.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.20",
+		"versionStartIncluding": "2.0.12"
 	}
 ]
