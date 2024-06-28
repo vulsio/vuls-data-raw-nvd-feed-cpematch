@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wpl-05g300_firmware:1.87:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:buffalo:wpl-05g300_firmware:1.88:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.88"
+		"versionEndExcluding": "1.88"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:buffalo:wpl-05g300_firmware:*:*:*:*:*:*:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:buffalo:wpl-05g300_firmware:1.87:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:buffalo:wpl-05g300_firmware:1.88:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.88"
+		"versionEndIncluding": "1.88"
 	}
 ]

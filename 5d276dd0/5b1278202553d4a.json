@@ -1065,9 +1065,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:3.0mr2:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3_security_patch3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3_security_patch4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0"
+		"versionEndIncluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:*:*:*:*:*:*:*:*",
@@ -1326,27 +1344,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:3.0mr2:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3_security_patch3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:4.0:maintenance_release3_security_patch4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0"
+		"versionEndExcluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:webex_meetings_server:*:*:*:*:*:*:*:*",

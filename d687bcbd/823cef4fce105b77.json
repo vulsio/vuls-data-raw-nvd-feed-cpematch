@@ -202,9 +202,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.8:*:preview:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.8",
+		"versionEndIncluding": "15.8",
 		"versionStartIncluding": "15.0"
 	},
 	{
@@ -410,15 +416,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2017:15.8:*:preview:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.8",
+		"versionEndExcluding": "15.8",
 		"versionStartIncluding": "15.0"
 	},
 	{
