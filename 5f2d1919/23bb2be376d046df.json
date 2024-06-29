@@ -358,9 +358,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wwbn:avideo:11.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wwbn:avideo:12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.4"
+		"versionEndIncluding": "12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wwbn:avideo:*:*:*:*:*:*:*:*",
@@ -463,11 +466,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wwbn:avideo:11.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wwbn:avideo:12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.4"
+		"versionEndExcluding": "12.4"
 	}
 ]
