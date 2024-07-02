@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ali2woo:ali2woo:*:*:*:*:lite:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ali2woo:ali2woo:-:*:*:*:lite:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ali2woo:ali2woo:3.3.5:*:*:*:lite:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.5"
 	}
 ]

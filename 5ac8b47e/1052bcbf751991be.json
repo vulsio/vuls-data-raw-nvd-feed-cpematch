@@ -1452,12 +1452,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:6.0.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net:6.0.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0.21",
+		"versionEndExcluding": "6.0.21",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
@@ -1561,9 +1558,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:6.0.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net:6.0.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.21",
+		"versionEndIncluding": "6.0.21",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
