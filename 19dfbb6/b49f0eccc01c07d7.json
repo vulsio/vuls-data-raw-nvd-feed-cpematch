@@ -64,12 +64,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:twinpictures:annual_archive:1.5.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:twinpictures:annual_archive:1.6.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.0"
+		"versionEndExcluding": "1.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:twinpictures:annual_archive:*:*:*:*:*:wordpress:*:*",
@@ -136,8 +133,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:twinpictures:annual_archive:1.5.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:twinpictures:annual_archive:1.6.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.0"
+		"versionEndIncluding": "1.6.0"
 	}
 ]

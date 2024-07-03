@@ -1048,9 +1048,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:airflow:1.10.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:1.10.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.10.5"
+		"versionEndIncluding": "1.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*",
@@ -1252,12 +1255,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:airflow:1.10.2:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:airflow:1.10.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.10.5"
+		"versionEndExcluding": "1.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*",

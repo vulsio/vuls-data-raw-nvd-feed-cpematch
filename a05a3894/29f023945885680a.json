@@ -218,9 +218,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.11",
+		"versionEndIncluding": "2.0.11",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -276,12 +279,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:syncope:2.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.11",
+		"versionEndExcluding": "2.0.11",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
