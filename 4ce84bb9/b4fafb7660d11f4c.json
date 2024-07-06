@@ -375,12 +375,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "26.0.8",
+		"versionEndExcluding": "26.0.8",
 		"versionStartIncluding": "26.0.0"
 	},
 	{
@@ -400,9 +397,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "26.0.8",
+		"versionEndIncluding": "26.0.8",
 		"versionStartIncluding": "26.0.0"
 	},
 	{

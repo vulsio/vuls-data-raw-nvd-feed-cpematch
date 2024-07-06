@@ -790,12 +790,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:8.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:8.5.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.5.5"
+		"versionEndExcluding": "8.5.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:*:*:*:*:*:*:*:*",
@@ -1006,9 +1003,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:8.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:8.5.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.5.5"
+		"versionEndIncluding": "8.5.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:concretecms:concrete_cms:*:*:*:*:*:*:*:*",
