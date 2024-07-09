@@ -10,5 +10,24 @@
 			}
 		],
 		"versionEndExcluding": "8.5.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zkteco:biotime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zkteco:biotime:8.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zkteco:biotime:8.5.3:build20200816.447:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zkteco:biotime:8.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zkteco:biotime:8.5.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.5.2",
+		"versionStartIncluding": "8.5"
 	}
 ]

@@ -2366,15 +2366,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.1:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:*:*:*:commerce:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:-:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.2",
+		"versionEndExcluding": "2.3.2",
 		"versionStartIncluding": "2.3.0"
 	},
 	{
@@ -2385,9 +2379,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.1:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:*:*:*:commerce:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:2.3.2:-:*:*:commerce:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.2",
+		"versionEndIncluding": "2.3.2",
 		"versionStartIncluding": "2.3.0"
 	},
 	{

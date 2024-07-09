@@ -28,15 +28,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.7:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.7"
+		"versionEndExcluding": "4.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:*:*:*:*:*:*:*:*",
@@ -46,9 +40,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:4.7:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.7"
+		"versionEndIncluding": "4.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sinumerik_828d_firmware:*:*:*:*:*:*:*:*",
