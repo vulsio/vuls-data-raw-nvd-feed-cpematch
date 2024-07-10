@@ -10351,12 +10351,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.22.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.22.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.22.6"
+		"versionEndExcluding": "2.22.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:*:*:*:*:*:*:*:*",
@@ -11218,9 +11215,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.22.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:2.22.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.22.6"
+		"versionEndIncluding": "2.22.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webkitgtk:webkitgtk\\+:*:*:*:*:*:*:*:*",

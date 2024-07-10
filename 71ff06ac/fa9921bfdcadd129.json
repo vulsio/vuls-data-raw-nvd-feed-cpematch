@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:darteweb:dimage_360:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:darteweb:dimage_360:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:darteweb:dimage_360:2.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0"
 	}
 ]

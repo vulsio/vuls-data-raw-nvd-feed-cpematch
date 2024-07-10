@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kontextwork:drupal_wiki:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kontextwork:drupal_wiki:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kontextwork:drupal_wiki:8.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kontextwork:drupal_wiki:8.31:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.31.1"
 	}
 ]
