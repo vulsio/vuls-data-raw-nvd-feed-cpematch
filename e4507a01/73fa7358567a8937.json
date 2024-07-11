@@ -10104,9 +10104,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.15.12"
+		"versionEndIncluding": "1.15.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
@@ -10701,12 +10704,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.15.12"
+		"versionEndExcluding": "1.15.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",

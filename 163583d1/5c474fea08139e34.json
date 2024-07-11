@@ -316,9 +316,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.18.10:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.18.11:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.18.11"
+		"versionEndIncluding": "1.18.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:riverside:http_headers:*:*:*:*:*:wordpress:*:*",
@@ -481,11 +484,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.18.10:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.18.11:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.18.11"
+		"versionEndExcluding": "1.18.11"
 	}
 ]

@@ -35,21 +35,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.8"
+		"versionEndExcluding": "4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.8"
+		"versionEndIncluding": "4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sinamics_s150_firmware:*:*:*:*:*:*:*:*",
