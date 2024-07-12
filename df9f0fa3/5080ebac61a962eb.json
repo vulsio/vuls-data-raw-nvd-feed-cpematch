@@ -1374,5 +1374,81 @@
 			}
 		],
 		"versionEndIncluding": "sg_a.11.16.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.0:*:*:*:*:*:intel64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.0:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.0:*:client:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.1.0:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.4:*:server_x64:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:5.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:intel64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.0:*:*:*:scientific_computing:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:redhat:enterprise_linux:6.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.10",
+		"versionStartIncluding": "5.0"
 	}
 ]
