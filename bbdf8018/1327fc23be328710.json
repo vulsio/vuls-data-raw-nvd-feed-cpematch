@@ -3422,12 +3422,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader_dc:15.006.30505:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader_dc:15.006.30508:*:*:*:classic:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.006.30508",
+		"versionEndExcluding": "15.006.30508",
 		"versionStartIncluding": "15.006.30060"
 	},
 	{
@@ -3555,9 +3552,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader_dc:15.006.30505:*:*:*:classic:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader_dc:15.006.30508:*:*:*:classic:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.006.30508",
+		"versionEndIncluding": "15.006.30508",
 		"versionStartIncluding": "15.006.30060"
 	},
 	{

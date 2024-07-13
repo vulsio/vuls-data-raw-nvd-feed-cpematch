@@ -151,12 +151,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:1.2.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:1.2.27:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.27"
+		"versionEndExcluding": "1.2.27"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:*:*:*:*:*:*:*:*",
@@ -310,9 +307,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:1.2.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:1.2.27:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.27"
+		"versionEndIncluding": "1.2.27"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lestrrat-go:jwx:*:*:*:*:*:*:*:*",

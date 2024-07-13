@@ -1933,12 +1933,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortinac:9.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortinac:9.4.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.4.2",
+		"versionEndExcluding": "9.4.2",
 		"versionStartIncluding": "9.4.0"
 	},
 	{
@@ -1949,9 +1946,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortinac:9.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortinac:9.4.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.4.2",
+		"versionEndIncluding": "9.4.2",
 		"versionStartIncluding": "9.4.0"
 	},
 	{
