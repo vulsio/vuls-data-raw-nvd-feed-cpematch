@@ -553,12 +553,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:2.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:2.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.2"
+		"versionEndExcluding": "2.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:*:*:*:*:*:*:*:*",
@@ -640,9 +637,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:2.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.2"
+		"versionEndIncluding": "2.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:freerdp:freerdp:*:*:*:*:*:*:*:*",
