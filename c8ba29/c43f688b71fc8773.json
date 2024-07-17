@@ -11495,12 +11495,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.18:*:*:*:hypervisor:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.5.5.19",
+		"versionEndExcluding": "8.5.5.19",
 		"versionStartIncluding": "8.5.0.0"
 	},
 	{
@@ -11634,9 +11631,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.18:*:*:*:hypervisor:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.5.5.19",
+		"versionEndIncluding": "8.5.5.19",
 		"versionStartIncluding": "8.5.0.0"
 	},
 	{
@@ -12199,12 +12199,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.22:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.5.5.22",
+		"versionEndExcluding": "8.5.5.22",
 		"versionStartIncluding": "8.5.0.0"
 	},
 	{
@@ -12344,9 +12341,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:websphere_application_server:8.5.5.22:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.5.5.22",
+		"versionEndIncluding": "8.5.5.22",
 		"versionStartIncluding": "8.5.0.0"
 	},
 	{

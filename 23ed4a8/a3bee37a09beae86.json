@@ -15,20 +15,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:1.01b:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.01b"
+		"versionEndExcluding": "1.01b"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:m_commdtm-hart:1.01b:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.01b"
+		"versionEndIncluding": "1.01b"
 	}
 ]

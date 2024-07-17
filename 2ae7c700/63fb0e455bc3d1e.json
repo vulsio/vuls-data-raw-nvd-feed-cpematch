@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4.2_37"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_38:*:*:*:*:*:*:*"
 			}
@@ -16,6 +23,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_38:*:*:*:*:*:*:*"
 			},
@@ -28,6 +38,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_38:*:*:*:*:*:*:*"
 			},
@@ -1301,6 +1314,9 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_38:*:*:*:*:*:*:*"
 			},
 			{
@@ -2001,7 +2017,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:jdk:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.4.2_37:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4.2_37",
 		"versionStartIncluding": "1.4.2"
 	},
@@ -2133,6 +2153,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.8.0:update321:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.8.0:update33:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:jdk:1.8.0:update331:*:*:*:*:*:*"
