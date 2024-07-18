@@ -3499,12 +3499,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:7.6.11:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:7.6.12:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.12"
+		"versionEndExcluding": "7.6.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:*:*:*:*:*:wordpress:*:*",
@@ -3982,9 +3979,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:7.6.11:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:7.6.12:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.12"
+		"versionEndIncluding": "7.6.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gvectors:wpdiscuz:*:*:*:*:*:wordpress:*:*",

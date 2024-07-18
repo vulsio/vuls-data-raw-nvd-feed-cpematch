@@ -46,9 +46,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:network_configuration_manager:2020.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:network_configuration_manager:2023.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2023.4"
+		"versionEndIncluding": "2023.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:solarwinds:network_configuration_manager:*:*:*:*:*:*:*:*",
@@ -64,11 +67,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:network_configuration_manager:2020.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:network_configuration_manager:2023.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2023.4"
+		"versionEndExcluding": "2023.4"
 	}
 ]

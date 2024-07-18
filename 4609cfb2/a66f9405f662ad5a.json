@@ -369,6 +369,73 @@
 		"cpe23Uri": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:11.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:11.12.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.3:u8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.7:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.7:u2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.9:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.5.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.5.12",
+		"versionStartIncluding": "11.9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.0.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -481,6 +548,43 @@
 		],
 		"versionEndExcluding": "12.5.9",
 		"versionStartIncluding": "12.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.6.1:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.6.1:u3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.7.0:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.7.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.7.2:u1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.7.2:u2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:watchguard:fireware:12.8.0:u1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.10.4",
+		"versionStartIncluding": "12.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:watchguard:fireware:*:*:*:*:*:*:*:*",
