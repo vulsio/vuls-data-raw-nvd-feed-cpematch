@@ -343,12 +343,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.1"
+		"versionEndExcluding": "2.7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",
@@ -535,9 +532,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.1"
+		"versionEndIncluding": "2.7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:teluu:pjsip:*:*:*:*:*:*:*:*",

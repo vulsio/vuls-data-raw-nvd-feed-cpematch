@@ -2464,12 +2464,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.204:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "20.0.0.233"
+		"versionEndExcluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -2593,9 +2590,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.204:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "20.0.0.233"
+		"versionEndIncluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",

@@ -280,12 +280,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:urllib3:1.24.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:urllib3:1.24.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.24.2"
+		"versionEndExcluding": "1.24.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*",
@@ -430,9 +427,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:urllib3:1.24.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:urllib3:1.24.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.24.2"
+		"versionEndIncluding": "1.24.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:python:urllib3:*:*:*:*:*:*:*:*",
