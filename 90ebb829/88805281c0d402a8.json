@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:payplus:payplus_payment_gateway:6.6.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "6.6.9"
 	}
 ]

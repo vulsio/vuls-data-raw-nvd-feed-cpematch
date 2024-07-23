@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:centurysys:futurenet_nxr-160\\/lw_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:centurysys:futurenet_nxr-160\\/lw_firmware:21.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:centurysys:futurenet_nxr-160\\/lw_firmware:21.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:centurysys:futurenet_nxr-160\\/lw_firmware:21.8.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "21.8.4"
 	}
 ]
