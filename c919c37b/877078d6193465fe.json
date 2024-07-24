@@ -178,5 +178,24 @@
 			}
 		],
 		"versionEndIncluding": "3.3.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artbees:jupiter_x_core:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artbees:jupiter_x_core:3.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artbees:jupiter_x_core:3.1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artbees:jupiter_x_core:3.2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artbees:jupiter_x_core:3.3.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "3.3.5",
+		"versionStartIncluding": "3.0.0"
 	}
 ]

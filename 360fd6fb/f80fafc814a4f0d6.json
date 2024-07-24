@@ -304,12 +304,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:3.1.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:3.1.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.3"
+		"versionEndExcluding": "3.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:*:*:*:*:*:wordpress:*:*",
@@ -466,8 +463,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:3.1.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mtouch_quiz_project:mtouch_quiz:3.1.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.3"
+		"versionEndIncluding": "3.1.3"
 	}
 ]

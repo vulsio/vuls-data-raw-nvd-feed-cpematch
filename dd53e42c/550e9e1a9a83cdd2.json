@@ -295,9 +295,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:1.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:1.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.9"
+		"versionEndIncluding": "1.0.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:*:*:*:*:*:*:*:*",
@@ -406,12 +409,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:1.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:1.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.9"
+		"versionEndExcluding": "1.0.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:*:*:*:*:*:*:*:*",
@@ -1159,12 +1159,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.6",
+		"versionEndExcluding": "2.0.6",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -1235,9 +1232,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.6",
+		"versionEndIncluding": "2.0.6",
 		"versionStartIncluding": "2.0.0"
 	},
 	{

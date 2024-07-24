@@ -4861,12 +4861,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:9.2.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:9.2.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "9.2.6"
+		"versionEndExcluding": "9.2.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:*:*:*:*:*:wordpress:*:*",
@@ -6079,9 +6076,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:9.2.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:9.2.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "9.2.6"
+		"versionEndIncluding": "9.2.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:carrcommunications:rsvpmaker:*:*:*:*:*:wordpress:*:*",
