@@ -127,5 +127,33 @@
 			}
 		],
 		"versionEndExcluding": "1.19.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:drill:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.17.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.18.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:drill:1.19.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.21.2",
+		"versionStartIncluding": "1.9.0"
 	}
 ]
