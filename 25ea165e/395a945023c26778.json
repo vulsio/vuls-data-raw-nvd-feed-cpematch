@@ -3408,9 +3408,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:11.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:11.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.6.5",
+		"versionEndIncluding": "11.6.5",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -3442,12 +3445,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:11.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:11.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.6.5",
+		"versionEndExcluding": "11.6.5",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -3671,9 +3671,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.0",
+		"versionEndIncluding": "12.1.0",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
@@ -3684,12 +3687,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.0.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.0",
+		"versionEndExcluding": "12.1.0",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
@@ -3842,18 +3842,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:hotfix2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:hotfix1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.2",
+		"versionEndExcluding": "12.1.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -3867,9 +3858,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:hotfix1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.2",
+		"versionEndIncluding": "12.1.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -4566,73 +4566,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "12.1.5.1",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:hotfix2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.1.0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.1.5.1",
@@ -4702,7 +4635,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.5.2",
+		"versionEndIncluding": "12.1.5.1",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -4773,6 +4706,73 @@
 			}
 		],
 		"versionEndIncluding": "12.1.5.2",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.2:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.1.0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:12.1.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.5.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -7581,12 +7581,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:13.1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.4",
+		"versionEndExcluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -7660,9 +7657,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:13.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.4",
+		"versionEndIncluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -8835,12 +8835,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.0.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.0.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.0.0.5",
+		"versionEndExcluding": "14.0.0.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -8857,9 +8854,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.0.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.0.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.0.0.5",
+		"versionEndIncluding": "14.0.0.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -10000,9 +10000,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.0.6",
+		"versionEndIncluding": "14.1.0.6",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -10046,12 +10049,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.0.5.0.40.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.0.6",
+		"versionEndExcluding": "14.1.0.6",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11088,12 +11088,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.2.5",
+		"versionEndExcluding": "14.1.2.5",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11224,9 +11221,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.2.5",
+		"versionEndIncluding": "14.1.2.5",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11813,9 +11813,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.3",
+		"versionEndIncluding": "14.1.3",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -11967,12 +11970,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.3",
+		"versionEndExcluding": "14.1.3",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -13102,12 +13102,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.4.4",
+		"versionEndExcluding": "14.1.4.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -13268,9 +13265,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.4.4",
+		"versionEndIncluding": "14.1.4.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -13769,12 +13769,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.5",
+		"versionEndExcluding": "14.1.5",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -13941,9 +13938,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:14.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.5",
+		"versionEndIncluding": "14.1.5",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -15524,6 +15524,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.0.1.4",
+		"versionStartIncluding": "15.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.0.33.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.0.48.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.4:*:*:*:*:*:*:*"
@@ -15555,9 +15583,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.0.1.4",
+		"versionEndExcluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -15592,37 +15623,6 @@
 			}
 		],
 		"versionEndIncluding": "15.1.0",
-		"versionStartIncluding": "15.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.0.33.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.0.48.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.0.1.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -16221,9 +16221,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.4",
+		"versionEndIncluding": "15.1.4",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -16258,12 +16261,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.4",
+		"versionEndExcluding": "15.1.4",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -16552,12 +16552,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.8",
+		"versionEndExcluding": "15.1.8",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -16610,9 +16607,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.8",
+		"versionEndIncluding": "15.1.8",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -16793,9 +16793,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.9",
+		"versionEndIncluding": "15.1.9",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -16857,12 +16860,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:15.1.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.9",
+		"versionEndExcluding": "15.1.9",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -17247,6 +17247,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.1",
+		"versionStartIncluding": "16.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.1:*:*:*:*:*:*:*"
@@ -17260,9 +17270,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.0.1",
+		"versionEndExcluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -17279,19 +17292,6 @@
 			}
 		],
 		"versionEndIncluding": "16.0.1.1",
-		"versionStartIncluding": "16.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -17321,12 +17321,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.1.0",
+		"versionEndExcluding": "16.1.0",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -17340,9 +17337,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.0.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.1.0",
+		"versionEndIncluding": "16.1.0",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -17442,9 +17442,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.1.3",
+		"versionEndIncluding": "16.1.3",
 		"versionStartIncluding": "16.1.0"
 	},
 	{
@@ -17461,12 +17464,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_access_policy_manager:16.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.1.3",
+		"versionEndExcluding": "16.1.3",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

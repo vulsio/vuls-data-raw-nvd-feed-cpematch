@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bulkgate:sms_plugin_for_woocommerce:3.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.2"
 	}
 ]

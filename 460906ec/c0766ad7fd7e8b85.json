@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:funnelkit:funnelkit_checkout:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:funnelkit:funnelkit_checkout:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:funnelkit:funnelkit_checkout:3.10.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.11.0"
 	}
 ]

@@ -1918,12 +1918,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.8.7"
+		"versionEndExcluding": "2.8.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpexperts:post_smtp_mailer:*:*:*:*:*:wordpress:*:*",
@@ -2287,8 +2284,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.8.7"
+		"versionEndIncluding": "2.8.7"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dokan:dokan_pro_plugin:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dokan:dokan_pro_plugin:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dokan:dokan_pro_plugin:3.10.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.11.0"
 	}
 ]

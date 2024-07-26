@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jankarres:wp_stacker:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jankarres:wp_stacker:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jankarres:wp_stacker:1.8.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.5"
 	}
 ]

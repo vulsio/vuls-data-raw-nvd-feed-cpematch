@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:elegantthemes:divi:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elegantthemes:divi:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "4.23.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elegantthemes:divi:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elegantthemes:divi:-:*:*:*:*:wordpress:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elegantthemes:divi:4.23.2:*:*:*:*:wordpress:*:*"
 			}

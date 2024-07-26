@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ceikay:tooltip_ck:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ceikay:tooltip_ck:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ceikay:tooltip_ck:2.2.15:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2.15"
 	}
 ]

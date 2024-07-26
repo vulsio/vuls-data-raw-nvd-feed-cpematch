@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:filemanagerpro:file_manager_pro:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:filemanagerpro:file_manager_pro:8.3.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "8.3.4"
 	}
 ]

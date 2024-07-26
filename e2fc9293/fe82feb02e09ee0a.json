@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.22.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:-:*:*:*:*:wordpress:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:1.25.9:*:*:*:*:wordpress:*:*"
 			}
@@ -17,7 +24,13 @@
 		"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:-:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:1.25.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:happyforms:happyforms:1.25.10:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "1.25.10"
