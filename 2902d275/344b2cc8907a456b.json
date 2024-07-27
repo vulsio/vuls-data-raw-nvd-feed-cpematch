@@ -168,12 +168,6 @@
 				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.16:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.20:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.20:beta1:*:*:*:*:*:*"
 			}
 		],
@@ -196,15 +190,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8.6:*:*:*:*:*:*:*"
@@ -250,6 +235,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.18:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.11.20"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.11.20:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.11.20"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:chamilo:chamilo:1.8.8.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.11.20"

@@ -18,15 +18,6 @@
 				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -187,5 +178,20 @@
 			}
 		],
 		"versionEndIncluding": "0.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:warpgate_project:warpgate:0.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.8.1"
 	}
 ]

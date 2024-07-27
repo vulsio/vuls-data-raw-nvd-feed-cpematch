@@ -48,29 +48,14 @@
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.3.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.3.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.4:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.5:*:*:*:*:*:*:*"
 			},
@@ -78,7 +63,22 @@
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.3.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta4:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "0.4.8"
@@ -111,6 +111,42 @@
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:beta5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.4.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libming:libming:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -118,14 +154,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libming:libming:0.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.4.8"
+		"versionEndExcluding": "0.4.8"
 	}
 ]

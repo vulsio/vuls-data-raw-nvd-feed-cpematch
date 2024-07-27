@@ -896,9 +896,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:hibernate_validator:5.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:hibernate_validator:5.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.5",
+		"versionEndIncluding": "5.2.5",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -927,12 +930,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:hibernate_validator:5.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:hibernate_validator:5.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.5",
+		"versionEndExcluding": "5.2.5",
 		"versionStartIncluding": "5.2.0"
 	},
 	{

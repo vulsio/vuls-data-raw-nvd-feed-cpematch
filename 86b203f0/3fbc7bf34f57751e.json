@@ -30,27 +30,6 @@
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.10.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.13.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.13.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -250,12 +229,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:3.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nasa:openmct:3.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.0"
+		"versionEndExcluding": "3.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*",
@@ -481,7 +457,40 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:2.1.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:0.13.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:2.2.0:*:*:*:*:*:*:*"
 			},
@@ -508,9 +517,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nasa:openmct:3.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nasa:openmct:3.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.0"
+		"versionEndIncluding": "3.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nasa:openmct:*:*:*:*:*:*:*:*",

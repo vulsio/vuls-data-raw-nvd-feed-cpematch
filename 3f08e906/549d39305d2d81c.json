@@ -364,7 +364,13 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "16.1.27"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.0:*:*:*:*:*:*:*"
 			},

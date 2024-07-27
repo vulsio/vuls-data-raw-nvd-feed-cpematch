@@ -372,9 +372,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:testlink:testlink:1.9.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:testlink:testlink:1.9.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.20"
+		"versionEndIncluding": "1.9.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:testlink:testlink:*:*:*:*:*:*:*:*",
@@ -456,11 +459,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:testlink:testlink:1.9.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:testlink:testlink:1.9.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.20"
+		"versionEndExcluding": "1.9.20"
 	}
 ]

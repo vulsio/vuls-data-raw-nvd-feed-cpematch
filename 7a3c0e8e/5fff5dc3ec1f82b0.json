@@ -57,7 +57,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:vmware:spring_cloud_data_flow:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_cloud_data_flow:2.11.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_cloud_data_flow:2.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_cloud_data_flow:2.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_cloud_data_flow:2.11.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.11.4",
 		"versionStartIncluding": "2.11.0"
 	}
