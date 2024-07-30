@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:andibauer:svgmagic:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:andibauer:svgmagic:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:andibauer:svgmagic:1.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1"
 	}
 ]

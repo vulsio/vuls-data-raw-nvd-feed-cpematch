@@ -62,5 +62,33 @@
 		"cpe_name": [],
 		"versionEndExcluding": "21.04.439",
 		"versionStartIncluding": "21.04"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:*:*:*:*:compute:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.00:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.01:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.02:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.03:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.04:*:*:*:compute:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_cloud:32.05:*:*:*:compute:*:*:*"
+			}
+		],
+		"versionEndIncluding": "32.05",
+		"versionStartIncluding": "32"
 	}
 ]

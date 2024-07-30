@@ -1,12 +1,47 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.2.8.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.2.8.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.2.8.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.7:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.8:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.13:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.14:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "21.06.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.7:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dotcms:dotcms:5.3.8.8:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.3.8.12",
 		"versionStartIncluding": "5.3.8"
 	},

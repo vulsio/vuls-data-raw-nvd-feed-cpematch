@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:martintod:rotating_tweets:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:martintod:rotating_tweets:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:martintod:rotating_tweets:1.9.10:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.9.10"
 	}
 ]

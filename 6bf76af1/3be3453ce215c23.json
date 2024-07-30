@@ -2701,7 +2701,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cybozu:garoon:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cybozu:garoon:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cybozu:garoon:6.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.2",
 		"versionStartIncluding": "6.0.0"
 	}

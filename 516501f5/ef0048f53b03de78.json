@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:onetarek:wp_logs_book:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:onetarek:wp_logs_book:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:onetarek:wp_logs_book:1.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.1"
 	}
 ]

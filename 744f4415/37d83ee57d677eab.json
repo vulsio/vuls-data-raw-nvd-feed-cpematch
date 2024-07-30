@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:irods:irods:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:irods:irods:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:irods:irods:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:irods:irods:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:irods:irods:4.1.10:*:*:*:*:*:*:*"
 			}
@@ -16,6 +23,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:irods:irods:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:irods:irods:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:irods:irods:4.1.10:*:*:*:*:*:*:*"
 			},

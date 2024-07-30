@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:davidjmiller:similarity:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:davidjmiller:similarity:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:davidjmiller:similarity:3.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0"
 	}
 ]

@@ -70,12 +70,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.0:*:*:*:*:iphone_os:*:*"
 			}
 		],
-		"versionEndIncluding": "25.0"
+		"versionEndExcluding": "25.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*:iphone_os:*:*",
@@ -148,9 +145,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.0:*:*:*:*:iphone_os:*:*"
 			}
 		],
-		"versionEndExcluding": "25.0"
+		"versionEndIncluding": "25.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*:iphone_os:*:*",
@@ -865,5 +865,104 @@
 			}
 		],
 		"versionEndExcluding": "120.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*:iphone_os:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:15.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:15.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:16.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:16.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:16.2:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:17.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:17.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:17.2:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:17.3:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:18.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:18.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:18.2:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:19.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:19.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:20.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:20.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:20.2:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:21.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:22.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:23.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:26.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:27.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:28.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:102.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:119.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:120.0:*:*:*:*:iphone_os:*:*"
+			}
+		],
+		"versionEndExcluding": "127.0"
 	}
 ]

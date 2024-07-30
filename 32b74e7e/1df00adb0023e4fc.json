@@ -1,22 +1,37 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "6.0_2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.5\\(3\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.5\\(4\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:unified_presence:8.5\\(4\\):*:*:*:*:*:*:*"
 			}

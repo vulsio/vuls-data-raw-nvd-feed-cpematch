@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:richardlerma:auto_coupons_for_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:richardlerma:auto_coupons_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.0.15"
 	}
 ]

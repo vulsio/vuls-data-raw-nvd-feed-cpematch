@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:content_cards_project:content_cards:0.9.6:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:content_cards_project:content_cards:0.9.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "0.9.7"
+		"versionEndExcluding": "0.9.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:content_cards_project:content_cards:*:*:*:*:*:wordpress:*:*",
@@ -52,8 +49,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:content_cards_project:content_cards:0.9.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:content_cards_project:content_cards:0.9.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "0.9.7"
+		"versionEndIncluding": "0.9.7"
 	}
 ]

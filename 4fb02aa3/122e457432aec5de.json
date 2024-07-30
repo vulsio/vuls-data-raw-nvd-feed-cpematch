@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:redlettuce:pdf_viewer_for_elementor:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redlettuce:pdf_viewer_for_elementor:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redlettuce:pdf_viewer_for_elementor:2.9.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.9.3"
 	}
 ]

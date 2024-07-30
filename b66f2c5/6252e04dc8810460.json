@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:data443:inline_related_posts:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:data443:inline_related_posts:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.7.0"
 	}
 ]
