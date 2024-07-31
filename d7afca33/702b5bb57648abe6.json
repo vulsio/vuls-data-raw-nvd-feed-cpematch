@@ -702,7 +702,7 @@
 				"cpe23Uri": "cpe:2.3:a:owncloud:owncloud:2.18.1:*:*:*:*:android:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0"
+		"versionEndExcluding": "3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:owncloud:owncloud:*:*:*:*:*:android:*:*",
@@ -948,6 +948,6 @@
 				"cpe23Uri": "cpe:2.3:a:owncloud:owncloud:2.18.1:*:*:*:*:android:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0"
+		"versionEndIncluding": "3.0"
 	}
 ]

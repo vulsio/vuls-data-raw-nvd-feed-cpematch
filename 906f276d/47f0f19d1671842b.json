@@ -436,12 +436,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.13"
+		"versionEndExcluding": "3.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
@@ -631,9 +628,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.13"
+		"versionEndIncluding": "3.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",

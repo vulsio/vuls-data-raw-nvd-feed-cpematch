@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webinane:lifeline_donation:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webinane:lifeline_donation:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webinane:lifeline_donation:1.2.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.6"
 	}
 ]

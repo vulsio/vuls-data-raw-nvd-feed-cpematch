@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpexperts:wp_secure_maintenance:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpexperts:wp_secure_maintenance:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7"
 	}
 ]

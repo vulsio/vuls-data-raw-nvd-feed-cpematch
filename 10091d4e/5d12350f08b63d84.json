@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_ddi_central:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_ddi_central:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_ddi_central:4001:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4002"
 	}
 ]

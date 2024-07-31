@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:theme4press:demo_awesome:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:theme4press:demo_awesome:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:theme4press:demo_awesome:1.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:theme4press:demo_awesome:1.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.2"
 	}
 ]

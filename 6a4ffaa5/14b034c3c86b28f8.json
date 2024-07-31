@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:overclokk:stellissimo_text_box:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:overclokk:stellissimo_text_box:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:overclokk:stellissimo_text_box:1.1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.4"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eltiempoen:weather_widget_pro:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eltiempoen:weather_widget_pro:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eltiempoen:weather_widget_pro:1.1.40:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.40"
 	}
 ]

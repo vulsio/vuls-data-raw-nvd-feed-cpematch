@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:telerik:report_server_2024:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:telerik:report_server_2024:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:telerik:report_server_2024:10.0.24.130:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:telerik:report_server_2024:10.0.24.305:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "10.0.24.305"
 	}
 ]
