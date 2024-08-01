@@ -1312,9 +1312,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:28.0.0.137:*:*:*:*:edge:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:28.0.0.161:*:*:*:*:edge:*:*"
 			}
 		],
-		"versionEndExcluding": "28.0.0.161"
+		"versionEndIncluding": "28.0.0.161"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:edge:*:*",
@@ -1405,12 +1408,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:28.0.0.137:*:*:*:*:edge:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:28.0.0.161:*:*:*:*:edge:*:*"
 			}
 		],
-		"versionEndIncluding": "28.0.0.161"
+		"versionEndExcluding": "28.0.0.161"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:edge:*:*",

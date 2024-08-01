@@ -1982,9 +1982,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.6.3",
+		"versionEndIncluding": "6.6.3",
 		"versionStartIncluding": "6.6.0"
 	},
 	{
@@ -1998,12 +2001,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:couchbase:couchbase_server:6.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.3",
+		"versionEndExcluding": "6.6.3",
 		"versionStartIncluding": "6.6.0"
 	},
 	{

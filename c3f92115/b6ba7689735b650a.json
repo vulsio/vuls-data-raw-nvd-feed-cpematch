@@ -25,12 +25,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ea:origin:10.5.56.33908:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "10.5.56.33908"
+		"versionEndExcluding": "10.5.56.33908"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ea:origin:*:*:*:*:*:windows:*:*",
@@ -43,9 +40,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ea:origin:10.5.56.33908:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "10.5.56.33908"
+		"versionEndIncluding": "10.5.56.33908"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ea:origin:*:*:*:*:*:windows:*:*",

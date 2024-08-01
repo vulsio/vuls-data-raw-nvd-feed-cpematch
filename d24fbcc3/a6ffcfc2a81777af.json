@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:estore-wss:payment_ex:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:estore-wss:payment_ex:1.1.5b:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.5b"
 	}
 ]

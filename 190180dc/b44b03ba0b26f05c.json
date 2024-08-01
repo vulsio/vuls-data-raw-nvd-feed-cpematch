@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:icinga:icingaweb2-module-incubator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:icinga:icingaweb2-module-incubator:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.22.0"
 	}
 ]
