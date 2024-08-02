@@ -11664,9 +11664,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.3.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.13"
+		"versionEndIncluding": "3.3.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
@@ -12474,12 +12477,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.3.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.3.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.3.13"
+		"versionEndExcluding": "3.3.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",

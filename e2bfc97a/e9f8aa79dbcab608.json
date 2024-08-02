@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:peripheral_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:peripheral_manager:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:peripheral_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:peripheral_manager:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:peripheral_manager:1.3.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.6"
 	}
 ]

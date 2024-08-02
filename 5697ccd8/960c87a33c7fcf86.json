@@ -787,12 +787,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.3"
+		"versionEndExcluding": "2.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",
@@ -991,9 +988,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dena:h2o:2.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.3"
+		"versionEndIncluding": "2.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*",

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:librechat:librechat:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:librechat:librechat:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "0.7.3"
 	}
 ]

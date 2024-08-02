@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:kerryjames:posts_to_page:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kerryjames:posts_to_page:1.7:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.7"
 	}
 ]

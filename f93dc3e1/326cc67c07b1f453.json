@@ -1357,21 +1357,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:druid:0.19.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.20.0"
+		"versionEndExcluding": "0.20.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:druid:*:*:*:*:*:*:*:*",
@@ -2731,9 +2719,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:druid:0.19.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:druid:0.20.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.20.0"
+		"versionEndIncluding": "0.20.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:druid:*:*:*:*:*:*:*:*",

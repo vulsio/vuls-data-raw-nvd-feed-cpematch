@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:virtual_desktop_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:virtual_desktop_service:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.21356.1837"
 	}
 ]

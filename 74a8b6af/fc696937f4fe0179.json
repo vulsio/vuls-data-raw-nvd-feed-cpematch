@@ -22333,9 +22333,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.4.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.0"
+		"versionEndIncluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:libvirt:*:*:*:*:*:*:*:*",
@@ -23761,18 +23770,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.4.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:libvirt:7.5.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.0"
+		"versionEndExcluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:libvirt:*:*:*:*:*:*:*:*",

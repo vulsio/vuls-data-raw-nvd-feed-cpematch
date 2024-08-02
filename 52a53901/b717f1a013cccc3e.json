@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:master-addons:prettyphoto:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:master-addons:prettyphoto:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:master-addons:prettyphoto:1.2.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.3"
 	}
 ]

@@ -7,12 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zenoss:zenoss_core:4.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zenoss:zenoss_core:4.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.2.5"
+		"versionEndExcluding": "4.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zenoss:zenoss_core:*:*:*:*:*:*:*:*",
@@ -22,8 +19,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zenoss:zenoss_core:4.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zenoss:zenoss_core:4.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.2.5"
+		"versionEndIncluding": "4.2.5"
 	}
 ]

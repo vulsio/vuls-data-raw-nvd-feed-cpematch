@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:matteoenna:website_content_in_page_or_post:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:matteoenna:website_content_in_page_or_post:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2024.04.09"
 	}
 ]
