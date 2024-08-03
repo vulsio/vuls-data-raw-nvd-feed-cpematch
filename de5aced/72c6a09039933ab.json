@@ -8142,12 +8142,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:2.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:2.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.3"
+		"versionEndExcluding": "2.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -8571,9 +8568,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:2.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:2.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.3"
+		"versionEndIncluding": "2.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -37950,9 +37950,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4.0"
+		"versionEndIncluding": "4.4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -39726,12 +39729,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4.0"
+		"versionEndExcluding": "4.4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -70245,36 +70245,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9"
+		"versionEndExcluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -72612,9 +72585,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9"
+		"versionEndIncluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:*:*:*:*:*:*:*:*",
@@ -139701,12 +139701,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.2.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.2.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.2.35",
+		"versionEndExcluding": "4.2.35",
 		"versionStartIncluding": "4.2"
 	},
 	{
@@ -139849,9 +139846,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.2.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.2.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.2.35",
+		"versionEndIncluding": "4.2.35",
 		"versionStartIncluding": "4.2"
 	},
 	{
@@ -143995,12 +143995,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.6.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.6.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.6.26",
+		"versionEndExcluding": "4.6.26",
 		"versionStartIncluding": "4.6"
 	},
 	{
@@ -144116,9 +144113,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.6.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.6.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.6.26",
+		"versionEndIncluding": "4.6.26",
 		"versionStartIncluding": "4.6"
 	},
 	{
@@ -146857,12 +146857,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.22:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.8.22",
+		"versionEndExcluding": "4.8.22",
 		"versionStartIncluding": "4.8"
 	},
 	{
@@ -146960,9 +146957,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.8.22:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.8.22",
+		"versionEndIncluding": "4.8.22",
 		"versionStartIncluding": "4.8"
 	},
 	{
@@ -147764,12 +147764,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9.23",
+		"versionEndExcluding": "4.9.23",
 		"versionStartIncluding": "4.9"
 	},
 	{
@@ -147921,9 +147918,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:4.9.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9.23",
+		"versionEndIncluding": "4.9.23",
 		"versionStartIncluding": "4.9"
 	},
 	{
@@ -148549,12 +148549,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.0.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.0.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.19",
+		"versionEndExcluding": "5.0.19",
 		"versionStartIncluding": "5.0"
 	},
 	{
@@ -148655,9 +148652,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.0.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.0.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.19",
+		"versionEndIncluding": "5.0.19",
 		"versionStartIncluding": "5.0"
 	},
 	{
@@ -152046,12 +152046,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.6.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.6.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.6.11",
+		"versionEndExcluding": "5.6.11",
 		"versionStartIncluding": "5.6"
 	},
 	{
@@ -152092,9 +152089,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.6.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.6.11",
+		"versionEndIncluding": "5.6.11",
 		"versionStartIncluding": "5.6"
 	},
 	{
@@ -152277,9 +152277,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.7.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.7.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.7.9",
+		"versionEndIncluding": "5.7.9",
 		"versionStartIncluding": "5.7"
 	},
 	{
@@ -152314,12 +152317,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.7.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.7.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.7.9",
+		"versionEndExcluding": "5.7.9",
 		"versionStartIncluding": "5.7"
 	},
 	{
@@ -152446,9 +152446,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.8.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8.7",
+		"versionEndIncluding": "5.8.7",
 		"versionStartIncluding": "5.8"
 	},
 	{
@@ -152492,12 +152495,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wordpress:wordpress:5.8.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.8.7",
+		"versionEndExcluding": "5.8.7",
 		"versionStartIncluding": "5.8"
 	},
 	{

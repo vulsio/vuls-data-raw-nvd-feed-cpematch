@@ -518,13 +518,30 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:1.27.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:1.27.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:1.27.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.27.3",
 		"versionStartIncluding": "1.27.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:1.28.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:backdropcms:backdrop:1.28.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.28.2",
 		"versionStartIncluding": "1.28.0"
 	}

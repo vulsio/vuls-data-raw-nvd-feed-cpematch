@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:omron:automation_software_sysmac_studio:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:omron:automation_software_sysmac_studio:1.54:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.54"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sepidz:sepidzdigitalmenu:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sepidz:sepidzdigitalmenu:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sepidz:sepidzdigitalmenu:7.1.0728.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.1.0728.1"
 	}
 ]

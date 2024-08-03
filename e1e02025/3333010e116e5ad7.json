@@ -373,12 +373,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:15.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:15.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.4.1"
+		"versionEndExcluding": "15.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:*:*:*:*:*:*:*:*",
@@ -430,9 +427,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:15.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:15.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.4.1"
+		"versionEndIncluding": "15.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:*:*:*:*:*:*:*:*",

@@ -28,12 +28,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:3.0.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.0"
+		"versionEndExcluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:*:*:*:*:*:wordpress:*:*",
@@ -64,8 +61,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:3.0.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.0"
+		"versionEndIncluding": "3.0.0"
 	}
 ]

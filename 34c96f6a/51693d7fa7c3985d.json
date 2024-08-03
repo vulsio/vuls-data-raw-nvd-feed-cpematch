@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:web-shop-host:startklar_elmentor_addons:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:web-shop-host:startklar_elmentor_addons:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:web-shop-host:startklar_elmentor_addons:1.7.15:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.7.15"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:azure_monitor_agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_monitor_agent:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.26.0"
 	}
 ]

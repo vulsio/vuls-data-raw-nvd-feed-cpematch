@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tarassych:anonymous_restricted_content:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tarassych:anonymous_restricted_content:1.6.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.6.2"
 	}
 ]

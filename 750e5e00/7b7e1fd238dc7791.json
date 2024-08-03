@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:simgesel:hearing_tracking_system:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:simgesel:hearing_tracking_system:-:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:simgesel:hearing_tracking_system:1.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0"
 	}
 ]

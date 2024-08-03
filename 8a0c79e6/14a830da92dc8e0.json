@@ -468,9 +468,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vaadin:flow:1.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vaadin:flow:1.0.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.14",
+		"versionEndIncluding": "1.0.14",
 		"versionStartIncluding": "1.0.0"
 	},
 	{
@@ -637,12 +640,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vaadin:flow:1.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vaadin:flow:1.0.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.14",
+		"versionEndExcluding": "1.0.14",
 		"versionStartIncluding": "1.0.0"
 	},
 	{
@@ -3052,21 +3052,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vaadin:flow:4.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.0",
+		"versionEndExcluding": "5.0.0",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -3257,9 +3245,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vaadin:flow:4.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vaadin:flow:5.0.0:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.0",
+		"versionEndIncluding": "5.0.0",
 		"versionStartIncluding": "3.0.0"
 	},
 	{

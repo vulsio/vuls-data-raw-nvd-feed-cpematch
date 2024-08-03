@@ -1485,18 +1485,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.29"
+		"versionEndExcluding": "1.1.29"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:*:*:*:*:*:*:*:*",
@@ -1737,9 +1728,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:1.1.29:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.29"
+		"versionEndIncluding": "1.1.29"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxslt:*:*:*:*:*:*:*:*",

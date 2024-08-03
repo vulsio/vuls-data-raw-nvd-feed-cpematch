@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:savignano:s-notify:*:*:*:*:*:jira:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:savignano:s-notify:-:*:*:*:*:jira:*:*"
+			}
+		],
 		"versionEndExcluding": "4.0.2"
 	}
 ]

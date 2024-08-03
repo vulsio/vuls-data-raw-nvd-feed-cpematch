@@ -2794,15 +2794,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.53:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.54:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.54:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.54"
+		"versionEndExcluding": "9.0.54"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:*:*:*:*",
@@ -3715,9 +3709,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.53:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.54:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:9.0.54:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.54"
+		"versionEndIncluding": "9.0.54"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:*:*:*:*:*:*:*:*",
@@ -94182,6 +94182,9 @@
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.0:*:*:*:enterprise:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.1:*:*:*:-:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -94203,16 +94206,34 @@
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.4:*:*:*:enterprise:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.5:*:*:*:-:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.6:*:*:*:enterprise:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.7:*:*:*:-:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.9:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.10:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.11:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.13:*:*:*:-:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:27.0.0:*:*:*:-:*:*:*"

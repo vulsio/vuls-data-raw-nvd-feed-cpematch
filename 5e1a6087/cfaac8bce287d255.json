@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:schuhfried:schuhfried:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schuhfried:schuhfried:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:schuhfried:schuhfried:8.22.00:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.22.00"
 	}
 ]

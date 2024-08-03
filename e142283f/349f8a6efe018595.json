@@ -28,12 +28,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webkul:qloapps:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:webkul:qloapps:1.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.0"
+		"versionEndExcluding": "1.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webkul:qloapps:*:*:*:*:*:*:*:*",
@@ -64,8 +61,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webkul:qloapps:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webkul:qloapps:1.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.0"
+		"versionEndIncluding": "1.6.0"
 	}
 ]

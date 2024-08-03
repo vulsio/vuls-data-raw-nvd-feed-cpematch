@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:stimulsoft:dashboards.js:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:stimulsoft:dashboards.js:-:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "2024.1.2"
 	}
 ]

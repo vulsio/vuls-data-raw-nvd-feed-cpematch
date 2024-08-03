@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:quantumcloud:simple_video_directory:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:quantumcloud:simple_video_directory:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.4"
 	}
 ]
