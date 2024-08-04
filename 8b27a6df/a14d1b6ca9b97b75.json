@@ -49041,9 +49041,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:4.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.3"
+		"versionEndIncluding": "4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:*:*:*:*:*:*:*:*",
@@ -50175,12 +50178,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:4.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:4.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3"
+		"versionEndExcluding": "4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ffmpeg:ffmpeg:*:*:*:*:*:*:*:*",
