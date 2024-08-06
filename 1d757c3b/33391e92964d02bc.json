@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:cloud_manager:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:cloud_manager:-:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "6.2.24135.272"
 	}
 ]

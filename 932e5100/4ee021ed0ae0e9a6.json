@@ -1,11 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:ic3000_industrial_compute_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:ic3000_industrial_compute_gateway:-:*:*:*:*:*:*:*"
+			}
+		]
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:ic3000_industrial_compute_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:ic3000_industrial_compute_gateway:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.1"
 	}
 ]

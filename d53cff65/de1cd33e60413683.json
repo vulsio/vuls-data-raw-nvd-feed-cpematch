@@ -3696,12 +3696,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:1.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:1.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.2"
+		"versionEndExcluding": "1.6.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -4125,9 +4122,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:1.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:1.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.2"
+		"versionEndIncluding": "1.6.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -14073,33 +14073,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.0"
+		"versionEndExcluding": "2.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -14727,9 +14703,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:2.6.0:rc5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.0"
+		"versionEndIncluding": "2.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -35436,33 +35436,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.0"
+		"versionEndExcluding": "3.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -36315,9 +36291,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:3.1.0:rc5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.0"
+		"versionEndIncluding": "3.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -44043,9 +44043,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.0.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.1"
+		"versionEndIncluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -45033,12 +45036,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.0.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.1"
+		"versionEndExcluding": "5.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -49074,27 +49074,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.0"
+		"versionEndExcluding": "5.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -50103,9 +50085,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.0"
+		"versionEndIncluding": "5.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -57447,27 +57447,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.1.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.2.0"
+		"versionEndExcluding": "6.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -58539,9 +58521,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.1.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:6.2.0:rc4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.2.0"
+		"versionEndIncluding": "6.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qemu:qemu:*:*:*:*:*:*:*:*",
@@ -80670,12 +80670,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.50:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.50",
+		"versionEndExcluding": "5.2.50",
 		"versionStartIncluding": "5.0.0"
 	},
 	{
@@ -80737,9 +80734,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qemu:qemu:5.2.50:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.50",
+		"versionEndIncluding": "5.2.50",
 		"versionStartIncluding": "5.0.0"
 	},
 	{

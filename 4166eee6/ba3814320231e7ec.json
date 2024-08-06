@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:qualys:policy_compliance:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qualys:policy_compliance:1.0.5:*:*:*:*:jenkins:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.5"
 	}
 ]

@@ -3,20 +3,8 @@
 		"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:-:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:21.06.11.0:*:*:*:*:*:x86:*"
-			}
-		],
-		"versionEndExcluding": "24.06"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.6:*:*:*:*:*:*:*"
 			},
@@ -28,5 +16,23 @@
 			}
 		],
 		"versionEndIncluding": "24.06"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:9.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:johnsoncontrols:exacqvision_server:21.06.11.0:*:*:*:*:*:x86:*"
+			}
+		],
+		"versionEndExcluding": "24.06"
 	}
 ]
