@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mohsinrasool:paypal_pay_now\\,_buy_now\\,_donation_and_cart_buttons_shortcode:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mohsinrasool:paypal_pay_now\\,_buy_now\\,_donation_and_cart_buttons_shortcode:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mohsinrasool:paypal_pay_now\\,_buy_now\\,_donation_and_cart_buttons_shortcode:1.7:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.7"
 	}
 ]

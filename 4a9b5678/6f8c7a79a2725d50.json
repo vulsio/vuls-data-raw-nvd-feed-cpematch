@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:digiwin:easyflow_.net:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:digiwin:easyflow_.net:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.6.17"
 	}
 ]

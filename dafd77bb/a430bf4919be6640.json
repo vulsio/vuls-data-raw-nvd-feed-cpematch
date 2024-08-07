@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:info-d-74:open_street_map:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:info-d-74:open_street_map:1.25:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.25"
 	}
 ]

@@ -214,9 +214,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:1.4.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:1.4.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.12"
+		"versionEndIncluding": "1.4.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:*:*:*:*:*:*:*:*",
@@ -433,12 +436,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:1.4.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:1.4.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.12"
+		"versionEndExcluding": "1.4.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eclipse:mosquitto:*:*:*:*:*:*:*:*",

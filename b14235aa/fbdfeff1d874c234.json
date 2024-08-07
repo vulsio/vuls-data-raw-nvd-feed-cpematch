@@ -1102,12 +1102,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:10.5\\(2\\)su9:*:*:*:session_management:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:10.5\\(2\\)su10:*:*:*:session_management:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.5\\(2\\)su10",
+		"versionEndExcluding": "10.5\\(2\\)su10",
 		"versionStartIncluding": "10.5\\(2\\)"
 	},
 	{
@@ -1151,9 +1148,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:10.5\\(2\\)su9:*:*:*:session_management:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:unified_communications_manager:10.5\\(2\\)su10:*:*:*:session_management:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.5\\(2\\)su10",
+		"versionEndIncluding": "10.5\\(2\\)su10",
 		"versionStartIncluding": "10.5\\(2\\)"
 	},
 	{

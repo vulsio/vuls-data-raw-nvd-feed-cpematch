@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:insightiq:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:insightiq:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:insightiq:5.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.1.0"
 	}
 ]

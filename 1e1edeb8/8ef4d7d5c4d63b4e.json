@@ -154,9 +154,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:sinema_remote_connect_server:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinema_remote_connect_server:3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2"
+		"versionEndIncluding": "3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:sinema_remote_connect_server:*:*:*:*:*:*:*:*",
@@ -190,11 +193,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:sinema_remote_connect_server:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:sinema_remote_connect_server:3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2"
+		"versionEndExcluding": "3.2"
 	}
 ]

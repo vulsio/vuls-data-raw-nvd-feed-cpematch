@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:shambix:simple_csv\\/xls_exporter:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:shambix:simple_csv\\/xls_exporter:1.5.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.8"
 	}
 ]

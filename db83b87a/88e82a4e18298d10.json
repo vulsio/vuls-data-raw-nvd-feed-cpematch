@@ -1,6 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mitel:cmg_suite:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "8.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mitel:cmg_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitel:cmg_suite:8.4:*:*:*:*:*:*:*"
@@ -16,10 +21,5 @@
 			}
 		],
 		"versionEndIncluding": "8.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mitel:cmg_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "8.4"
 	}
 ]

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eladmin:eladmin:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eladmin:eladmin:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eladmin:eladmin:2.7:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.7"
 	}
 ]
