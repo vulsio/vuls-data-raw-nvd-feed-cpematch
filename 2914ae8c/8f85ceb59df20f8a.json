@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:moodle:virtual_programming_lab:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:virtual_programming_lab:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.2.3"
 	}
 ]

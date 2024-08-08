@@ -445,12 +445,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.13"
+		"versionEndExcluding": "3.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
@@ -643,9 +640,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.13"
+		"versionEndIncluding": "3.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
@@ -861,51 +861,6 @@
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.4.99-0.20000927:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.4.99-0.20001108:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:alpha1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -982,10 +937,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.0:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.4.1",
+		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.0.1:*:*:*:*:*:*:*"
 			},
@@ -1063,12 +1022,10 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.1"
+		"versionEndExcluding": "3.1.19",
+		"versionStartIncluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",

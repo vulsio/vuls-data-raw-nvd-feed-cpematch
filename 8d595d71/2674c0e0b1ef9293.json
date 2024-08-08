@@ -76,9 +76,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.2"
+		"versionEndIncluding": "9.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
@@ -157,12 +160,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.2"
+		"versionEndExcluding": "9.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",

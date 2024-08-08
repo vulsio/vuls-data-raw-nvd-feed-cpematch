@@ -10609,9 +10609,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4"
+		"versionEndIncluding": "6.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*",
@@ -11452,12 +11455,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4"
+		"versionEndExcluding": "6.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*",
@@ -21485,7 +21485,7 @@
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:5.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.3",
+		"versionEndExcluding": "5.0.03",
 		"versionStartIncluding": "5.0"
 	},
 	{
@@ -21501,7 +21501,7 @@
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:5.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.03",
+		"versionEndExcluding": "5.0.3",
 		"versionStartIncluding": "5.0"
 	},
 	{

@@ -1483,9 +1483,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pcre:pcre:8.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pcre:pcre:8.37:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.37"
+		"versionEndIncluding": "8.37"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pcre:pcre:*:*:*:*:*:*:*:*",
@@ -1702,12 +1705,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pcre:pcre:8.36:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pcre:pcre:8.37:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.37"
+		"versionEndExcluding": "8.37"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pcre:pcre:*:*:*:*:*:*:*:*",
