@@ -589,18 +589,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.10a:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.11"
+		"versionEndExcluding": "1.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",
@@ -739,9 +730,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.10a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.11:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.11"
+		"versionEndIncluding": "1.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",

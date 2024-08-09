@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:afzalmultani:wp_clone_menu:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:afzalmultani:wp_clone_menu:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:afzalmultani:wp_clone_menu:1.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.1"
 	}
 ]

@@ -96,9 +96,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv320_firmware:1.4.2.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv320_firmware:1.5.1.05:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.1.05"
+		"versionEndIncluding": "1.5.1.05"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:rv320_firmware:*:*:*:*:*:*:*:*",
@@ -123,11 +126,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv320_firmware:1.4.2.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv320_firmware:1.5.1.05:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.1.05"
+		"versionEndExcluding": "1.5.1.05"
 	}
 ]

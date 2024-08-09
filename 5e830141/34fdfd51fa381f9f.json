@@ -49,12 +49,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:grub2:2.04:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:grub2:2.06:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.06"
+		"versionEndExcluding": "2.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:grub2:*:*:*:*:*:*:*:*",
@@ -79,9 +76,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:grub2:2.04:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:grub2:2.06:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.06"
+		"versionEndIncluding": "2.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:grub2:*:*:*:*:*:*:*:*",

@@ -2419,6 +2419,22 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.1.1",
+		"versionStartExcluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2433,22 +2449,6 @@
 		],
 		"versionEndExcluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.1.1",
-		"versionStartExcluding": "15.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
@@ -3131,12 +3131,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.0.1.1",
+		"versionEndExcluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -3147,9 +3144,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.0.1.1",
+		"versionEndIncluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{

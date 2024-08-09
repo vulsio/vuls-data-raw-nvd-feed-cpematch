@@ -1264,9 +1264,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.2.3"
+		"versionEndIncluding": "6.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
@@ -1519,12 +1522,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.2.3"
+		"versionEndExcluding": "6.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
@@ -3850,43 +3850,6 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.1:*:*:*:virtual_machine:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.2.9",
-		"versionStartIncluding": "6.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -3919,6 +3882,43 @@
 		],
 		"versionEndIncluding": "6.2.9",
 		"versionStartExcluding": "6.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.1:*:*:*:virtual_machine:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.2.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.2.9",
+		"versionStartIncluding": "6.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
@@ -4265,9 +4265,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4.8",
+		"versionEndIncluding": "6.4.8",
 		"versionStartIncluding": "6.4.0"
 	},
 	{
@@ -4327,12 +4330,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4.8",
+		"versionEndExcluding": "6.4.8",
 		"versionStartIncluding": "6.4.0"
 	},
 	{
@@ -4576,12 +4576,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4.11",
+		"versionEndExcluding": "6.4.11",
 		"versionStartIncluding": "6.4.8"
 	},
 	{
@@ -4595,9 +4592,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:6.4.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4.11",
+		"versionEndIncluding": "6.4.11",
 		"versionStartIncluding": "6.4.8"
 	},
 	{
@@ -4650,22 +4650,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.0.3",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.3:*:*:*:*:*:*:*"
@@ -4701,12 +4685,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.4",
+		"versionEndExcluding": "7.0.3",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -4729,6 +4710,25 @@
 			}
 		],
 		"versionEndIncluding": "7.0.4",
+		"versionStartIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.0.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.4",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -5046,12 +5046,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.2.3",
+		"versionEndExcluding": "7.2.3",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -5065,9 +5062,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager:7.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.2.3",
+		"versionEndIncluding": "7.2.3",
 		"versionStartIncluding": "7.2.0"
 	},
 	{

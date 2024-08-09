@@ -2086,9 +2086,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:5.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:5.8.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8.4"
+		"versionEndIncluding": "5.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:*:*:*:*:*:*:*:*",
@@ -2281,12 +2284,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:5.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:5.8.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.8.4"
+		"versionEndExcluding": "5.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nagios:nagios_xi:*:*:*:*:*:*:*:*",
