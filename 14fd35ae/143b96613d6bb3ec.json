@@ -1,0 +1,33 @@
+[
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1000.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1050.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1105.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1110.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1115.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.1121.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4125.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.4131.2",
+		"versionStartIncluding": "16.0.4125.3"
+	}
+]

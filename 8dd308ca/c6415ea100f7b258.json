@@ -1054,9 +1054,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.14:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.7.14"
+		"versionEndIncluding": "6.7.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
@@ -1279,12 +1282,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.14:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.7.14"
+		"versionEndExcluding": "6.7.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
@@ -2675,21 +2675,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.8.9",
+		"versionEndExcluding": "6.8.9",
 		"versionStartIncluding": "6.8.0"
 	},
 	{
@@ -2721,9 +2709,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.8.9",
+		"versionEndIncluding": "6.8.9",
 		"versionStartIncluding": "6.8.0"
 	},
 	{

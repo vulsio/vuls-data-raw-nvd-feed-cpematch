@@ -469,9 +469,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:1.10.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:1.10.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.10.1"
+		"versionEndIncluding": "1.10.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:*:*:*:*:*:*:*:*",
@@ -943,12 +946,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:1.10.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:1.10.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.10.1"
+		"versionEndExcluding": "1.10.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:signal:signal-desktop:*:*:*:*:*:*:*:*",

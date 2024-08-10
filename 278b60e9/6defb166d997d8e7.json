@@ -213,9 +213,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:3.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.3"
+		"versionEndIncluding": "3.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:*:*:*:*:*:*:*:*",
@@ -408,12 +411,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:3.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.3"
+		"versionEndExcluding": "3.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mercurial:mercurial:*:*:*:*:*:*:*:*",

@@ -1546,9 +1546,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2015.8.10"
+		"versionEndIncluding": "2015.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
@@ -1897,12 +1900,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2015.8.10"
+		"versionEndExcluding": "2015.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",

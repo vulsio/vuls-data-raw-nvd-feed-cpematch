@@ -10609,12 +10609,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4"
+		"versionEndExcluding": "6.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*",
@@ -11455,9 +11452,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:6.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4"
+		"versionEndIncluding": "6.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:squid-cache:squid:*:*:*:*:*:*:*:*",
@@ -12354,42 +12354,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7",
+		"versionEndExcluding": "2.7",
 		"versionStartIncluding": "2.0"
 	},
 	{
@@ -12457,9 +12424,42 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:squid-cache:squid:2.7:stable9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7",
+		"versionEndIncluding": "2.7",
 		"versionStartIncluding": "2.0"
 	},
 	{

@@ -2960,15 +2960,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.6:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.7:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.1.7",
+		"versionEndExcluding": "8.1.7",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -3102,9 +3096,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.6:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:8.1.7:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.7",
+		"versionEndIncluding": "8.1.7",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -3835,15 +3835,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.1.4:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.2.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.2.1:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.2.1",
+		"versionEndExcluding": "9.2.1",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -3911,9 +3905,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.1.4:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.2.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:9.2.1:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.2.1",
+		"versionEndIncluding": "9.2.1",
 		"versionStartIncluding": "9.0.0"
 	},
 	{

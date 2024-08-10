@@ -621,6 +621,43 @@
 		"cpe23Uri": "cpe:2.3:o:hp:instantos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.10.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.10.0.13",
+		"versionStartIncluding": "8.10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:instantos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:hp:instantos:8.11.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -654,5 +691,11 @@
 		],
 		"versionEndExcluding": "8.11.2.0",
 		"versionStartIncluding": "8.11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:instantos:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "8.12.0.2",
+		"versionStartIncluding": "8.12.0.0"
 	}
 ]
