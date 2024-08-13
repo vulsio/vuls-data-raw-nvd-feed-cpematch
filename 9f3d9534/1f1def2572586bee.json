@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:ares-tl00chw_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:ares-tl00chw_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.2.0.163\\(c01r2p1\\)"
 	}
 ]

@@ -1,17 +1,35 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.321\\(c01e320r1p1t8\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:9.1.0.321\\(c01e320r1p1t8\\):*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.333\\(c01e333r1p1t8\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-tl10b_firmware:9.1.0.321\\(c01e320r1p1t8\\):*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.340\\(c01e333r1p1t8\\)"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:stanford-l09_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:stanford-l09_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.211\\(c635e2r1p4t8\\)"
 	}
 ]

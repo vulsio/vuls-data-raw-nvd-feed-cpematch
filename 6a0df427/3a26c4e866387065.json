@@ -7787,12 +7787,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.3",
+		"versionEndExcluding": "10.0.3",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -8175,9 +8172,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.3",
+		"versionEndIncluding": "10.0.3",
 		"versionStartIncluding": "3.0.0"
 	},
 	{

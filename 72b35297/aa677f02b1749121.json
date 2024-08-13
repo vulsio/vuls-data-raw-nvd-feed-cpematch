@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:florida-tl10b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:florida-tl10b_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.128\\(c01e112r1p6t8\\)"
 	}
 ]

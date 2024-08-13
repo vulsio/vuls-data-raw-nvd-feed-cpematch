@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:florida-l22_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:florida-l22_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.0.0.132\\(c636\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:florida-l22_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:florida-l22_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:florida-l22_firmware:8.0.0.132\\(c636\\):*:*:*:*:*:*:*"
 			}

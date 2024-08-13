@@ -778,6 +778,55 @@
 		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:470:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:471.11:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:471.41:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:471.68:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:472.12:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:472.39:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:472.47:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:472.84:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:472.98:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:473.47:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:473.81:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:474.04:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:474.14:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:474.30:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "475.14",
+		"versionStartIncluding": "470"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:471.11:*:*:*:*:windows:*:*"
 			},
 			{
@@ -1155,5 +1204,27 @@
 		],
 		"versionEndExcluding": "536.40",
 		"versionStartIncluding": "530"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:536.40:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "538.78",
+		"versionStartIncluding": "535"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "552.74",
+		"versionStartIncluding": "550"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "556.12",
+		"versionStartIncluding": "555"
 	}
 ]

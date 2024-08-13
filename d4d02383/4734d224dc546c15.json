@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:berkeley-tl10_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:berkeley-tl10_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.333\\(c01e333r1p1t8\\)"
 	}
 ]

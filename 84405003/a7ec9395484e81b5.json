@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:florida-l03_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:florida-l03_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.121\\(c605e5r1p1t8\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:florida-l03_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:florida-l03_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:florida-l03_firmware:9.1.0.121\\(c605e5r1p1t8\\):*:*:*:*:*:*:*"
 			}

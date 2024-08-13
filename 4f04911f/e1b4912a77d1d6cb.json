@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:elecom:wrc-2533gs2v-b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-2533gs2v-b_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-2533gs2v-b_firmware:1.61:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-2533gs2v-b_firmware:1.62:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-2533gs2v-b_firmware:1.68:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.69"
 	}
 ]

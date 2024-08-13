@@ -49,12 +49,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:keyring:0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.10"
+		"versionEndExcluding": "0.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:python:keyring:*:*:*:*:*:*:*:*",
@@ -106,8 +103,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:keyring:0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.10"
+		"versionEndIncluding": "0.10"
 	}
 ]

@@ -73,9 +73,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.0:*:*:*:*:iphone_os:*:*"
 			}
 		],
-		"versionEndExcluding": "25.0"
+		"versionEndIncluding": "25.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*:iphone_os:*:*",
@@ -151,12 +154,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:24.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:firefox:25.0:*:*:*:*:iphone_os:*:*"
 			}
 		],
-		"versionEndIncluding": "25.0"
+		"versionEndExcluding": "25.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:firefox:*:*:*:*:*:iphone_os:*:*",

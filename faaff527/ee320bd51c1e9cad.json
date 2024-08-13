@@ -6448,12 +6448,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:2.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:2.1.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.6"
+		"versionEndExcluding": "2.1.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:*:*:*",
@@ -6805,9 +6802,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:2.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:2.1.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.6"
+		"versionEndIncluding": "2.1.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:*:*:*",

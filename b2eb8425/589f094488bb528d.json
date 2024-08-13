@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:elecom:wrc-x1500gsa-b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-x1500gsa-b_firmware:1.05:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-x1500gsa-b_firmware:1.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-x1500gsa-b_firmware:1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:elecom:wrc-x1500gsa-b_firmware:1.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.12"
 	}
 ]

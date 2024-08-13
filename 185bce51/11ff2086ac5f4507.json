@@ -76,12 +76,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opsview:opsview:4.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opsview:opsview:4.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4.1"
+		"versionEndExcluding": "4.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opsview:opsview:*:*:*:*:*:*:*:*",
@@ -160,9 +157,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opsview:opsview:4.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opsview:opsview:4.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4.1"
+		"versionEndIncluding": "4.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opsview:opsview:*:*:*:*:*:*:*:*",
