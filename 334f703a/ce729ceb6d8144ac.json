@@ -22,21 +22,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mit:kerberos:4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mit:kerberos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mit:kerberos:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mit:kerberos:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mit:kerberos:4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mit:kerberos:4.0:*:*:*:*:*:*:*"
@@ -49,6 +34,21 @@
 			}
 		],
 		"versionEndIncluding": "4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mit:kerberos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mit:kerberos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mit:kerberos:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mit:kerberos:4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mit:kerberos:*:*:*:*:*:*:*:*",

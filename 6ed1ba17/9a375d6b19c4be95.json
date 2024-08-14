@@ -1981,7 +1981,7 @@
 			}
 		],
 		"versionEndExcluding": "1.37.24",
-		"versionStartExcluding": "1.37.0"
+		"versionStartIncluding": "1.37.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
@@ -1991,20 +1991,7 @@
 			}
 		],
 		"versionEndExcluding": "1.37.24",
-		"versionStartIncluding": "1.37.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.37.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.37.24:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.37.33",
-		"versionStartIncluding": "1.37.0"
+		"versionStartExcluding": "1.37.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
@@ -2018,5 +2005,18 @@
 		],
 		"versionEndExcluding": "1.37.33",
 		"versionStartIncluding": "1.37.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.37.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoneminder:zoneminder:1.37.24:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.37.33",
+		"versionStartIncluding": "1.37.0"
 	}
 ]
