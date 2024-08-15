@@ -30,13 +30,51 @@
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if5:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp5if2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp5if3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp7if1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp7if2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp8if1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp9if1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp9if2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.1",
+		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.1",
+		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if6:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp10if8:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp1if1:*:*:*:*:*:*"
@@ -76,40 +114,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp5if1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp5if2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp5if3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp7if1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp7if2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp8if1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp9if1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0.1:fp9if2:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0.1",
-		"versionStartIncluding": "9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:9.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.0.1",
 		"versionStartIncluding": "9.0"
 	},
 	{
@@ -216,8 +223,44 @@
 		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0.1",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.1",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.0:fp3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp7:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0.1",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.0:fp1:*:*:*:*:*:*"
 			},
@@ -235,19 +278,10 @@
 		"cpe23Uri": "cpe:2.3:a:hcltech:notes:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.0:fp1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.0:fp2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.0:fp3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp1:*:*:*:*:*:*"
@@ -263,12 +297,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hcltech:notes:10.0.1:fp7:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.0.1",

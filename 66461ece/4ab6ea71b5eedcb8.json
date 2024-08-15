@@ -1773,9 +1773,6 @@
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:1.1.0:*:*:*:community:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:combodo:itop:1.1.181:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:1.2:-:*:*:*:*:*:*"
 			},
 			{
@@ -1978,21 +1975,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.5-2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.6"
+		"versionEndExcluding": "2.7.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:combodo:itop:0.7.1:beta:*:*:community:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:0.7.2:*:*:*:*:*:*:*"
@@ -2214,12 +2205,6 @@
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0:-:*:*:community:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0:beta:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0:beta2:*:*:community:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0-1:*:*:*:community:*:*:*"
 			},
 			{
@@ -2254,9 +2239,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.5-2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:combodo:itop:1.1.181:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:combodo:itop:0.7.1:beta:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0:beta:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:combodo:itop:2.7.0:beta2:*:*:community:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.7.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:combodo:itop:*:*:*:*:*:*:*:*",
