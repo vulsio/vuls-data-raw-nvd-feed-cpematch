@@ -84,15 +84,6 @@
 		"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.8.65:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.10:*:*:*:*:*:*:*"
 			},
 			{
@@ -106,6 +97,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:12.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.0.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:converged_security_management_engine_firmware:11.8.65:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.0.5"

@@ -11097,12 +11097,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.3.183.15"
+		"versionEndExcluding": "10.3.183.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
@@ -11457,9 +11454,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.3.183.15"
+		"versionEndIncluding": "10.3.183.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
@@ -12183,12 +12183,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.3.183.18"
+		"versionEndExcluding": "10.3.183.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
@@ -12549,9 +12546,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:10.3.183.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.3.183.18"
+		"versionEndIncluding": "10.3.183.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
@@ -147270,381 +147270,185 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.191:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:chrome:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.160:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.234:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.125:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_10:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.145:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.176:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.179:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:chrome:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.152:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_10:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.167:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_11:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.189:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.223:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.239:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.190:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.246:*:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_11:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.234:*:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.176:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.235:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.257:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.296:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.305:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.134:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.169:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.188:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.190:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.191:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_10:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_11:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:esr:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.160:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.161:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "18.0.0.194",
+		"versionStartIncluding": "14.0.0.125"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.125:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.145:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.176:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.179:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.152:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.167:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.189:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.223:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.239:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.246:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.234:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.235:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.257:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.296:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.305:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.134:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.169:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.188:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.190:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.191:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_10:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:*:internet_explorer_11:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:esr:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.160:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.161:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.194:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.125:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.145:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:esr:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0:*:*:*:esr:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.189:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:chrome:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:chrome:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.246:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.305:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.134:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.161:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.257:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.169:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.160:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.125:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.188:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.152:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.246:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:18.0.0.161:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.296:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.296:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.167:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.223:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.191:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.235:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.176:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.287:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.179:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.235:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.305:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.134:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:17.0.0.190:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:14.0.0.145:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.189:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.223:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.239:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.234:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:16.0.0.257:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.0.0.194",
-		"versionStartIncluding": "14.0.0.125"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.152:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:15.0.0.167:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.0.0.194",
 		"versionStartIncluding": "14.0.0.125"
 	},
 	{
