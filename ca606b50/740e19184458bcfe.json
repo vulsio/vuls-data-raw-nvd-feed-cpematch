@@ -181,9 +181,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:kylin:2.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:kylin:2.6.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.6",
+		"versionEndIncluding": "2.6.6",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -239,12 +242,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:kylin:2.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:kylin:2.6.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.6",
+		"versionEndExcluding": "2.6.6",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -595,12 +595,6 @@
 		"cpe23Uri": "cpe:2.3:a:apache:kylin:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.0:alpha:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.0:alpha2:*:*:*:*:*:*"
 			},
 			{
@@ -645,7 +639,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.2",
+		"versionStartIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:kylin:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.0:-:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.0.0:alpha:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.2",
+		"versionStartIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:kylin:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:kylin:3.1.0:*:*:*:*:*:*:*"
 			},

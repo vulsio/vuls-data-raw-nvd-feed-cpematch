@@ -2593,6 +2593,22 @@
 		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.12.14",
+		"versionStartIncluding": "3.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -2688,15 +2704,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:3.12.14:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.12.14",
@@ -2916,6 +2923,28 @@
 		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.4",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
 			},
 			{
@@ -2938,15 +2967,6 @@
 		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:rc0:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -2957,19 +2977,6 @@
 			}
 		],
 		"versionEndExcluding": "4.1.4",
-		"versionStartIncluding": "4.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gluster:glusterfs:4.1.0:alpha:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.1.4",
 		"versionStartIncluding": "4.1.0"
 	},
 	{

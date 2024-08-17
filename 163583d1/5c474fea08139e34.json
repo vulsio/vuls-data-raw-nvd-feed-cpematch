@@ -159,6 +159,48 @@
 		"cpe23Uri": "cpe:2.3:a:riverside:http_headers:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.2:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.16.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -271,21 +313,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.11.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.1:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.2:*:*:*:*:wordpress:*:*"
@@ -399,9 +426,6 @@
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.5.0:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.6.0:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.7.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -433,6 +457,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "1.18.11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:riverside:http_headers:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.11.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.18.11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:riverside:http_headers:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.6.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.2:*:*:*:*:wordpress:*:*"
@@ -448,50 +496,20 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.11.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.12.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.13.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.14.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.15.2:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "1.18.11"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:riverside:http_headers:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:riverside:http_headers:1.10.5:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.18.11"
 	}
 ]
