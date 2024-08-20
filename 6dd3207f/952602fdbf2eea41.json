@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:abinitio:metadata_hub:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:abinitio:metadata_hub:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.1.4.9"
 	}
 ]

@@ -1,17 +1,51 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.11:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.3.0:*:*:*:*:*:*:*"
@@ -21,31 +55,66 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.0.5",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.1.7",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.1.9",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.10",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.1.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.1.11",
 		"versionStartIncluding": "9.1.0"
 	},
@@ -83,6 +152,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.2.9",
@@ -96,6 +168,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.2.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.2.10",
@@ -106,6 +181,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.3.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.3.2",
@@ -116,6 +194,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.3.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.3.3",
@@ -123,13 +204,27 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.4.1",
 		"versionStartIncluding": "9.4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:edgeconnect_sd-wan_orchestrator:9.4.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.4.2",
 		"versionStartIncluding": "9.4.0"
 	}

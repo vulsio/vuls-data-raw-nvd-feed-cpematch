@@ -42,5 +42,30 @@
 		],
 		"versionEndExcluding": "r29",
 		"versionStartIncluding": "r25"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r29:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r29:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r30:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_plus:r30:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r31",
+		"versionStartIncluding": "r27"
 	}
 ]

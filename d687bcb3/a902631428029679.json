@@ -674,9 +674,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.4",
+		"versionEndIncluding": "16.4",
 		"versionStartIncluding": "16.0"
 	},
 	{
@@ -801,12 +804,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.3.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.4",
+		"versionEndExcluding": "16.4",
 		"versionStartIncluding": "16.0"
 	},
 	{
@@ -9326,7 +9326,7 @@
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.11.33:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.11.37",
+		"versionEndExcluding": "16.11.37",
 		"versionStartIncluding": "16.0"
 	},
 	{
@@ -9864,7 +9864,7 @@
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2019:16.11.33:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.11.37",
+		"versionEndIncluding": "16.11.37",
 		"versionStartIncluding": "16.0"
 	},
 	{

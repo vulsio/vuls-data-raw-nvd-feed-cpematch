@@ -30,6 +30,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:15.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.1.1",
+		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:15.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:15.1.10:*:*:*:*:*:*:*"
@@ -49,6 +59,19 @@
 			}
 		],
 		"versionEndIncluding": "16.1.4",
+		"versionStartIncluding": "16.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:16.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_container_ingress_services:16.1.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.1.5",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

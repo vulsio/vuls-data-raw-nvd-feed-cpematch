@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:al-enterprise:omnipcx_enterprise_communication_server:7.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "7.1"
 	}
 ]
