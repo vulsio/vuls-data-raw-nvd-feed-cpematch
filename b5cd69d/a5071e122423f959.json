@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:vonets:var1200-l_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:vonets:var1200-l_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:vonets:var1200-l_firmware:3.3.23.6.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.23.6.9"
 	}
 ]

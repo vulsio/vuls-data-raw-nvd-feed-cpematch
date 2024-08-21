@@ -4,20 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:sthttpd_project:sthttpd:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sthttpd_project:sthttpd:2.27.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.27.1"
+		"versionEndExcluding": "2.27.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sthttpd_project:sthttpd:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:sthttpd_project:sthttpd:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sthttpd_project:sthttpd:2.27.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.27.1"
+		"versionEndIncluding": "2.27.1"
 	}
 ]

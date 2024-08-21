@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:vonets:vap11g_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:vonets:vap11g_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:vonets:vap11g_firmware:3.3.23.6.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.3.23.6.9"
 	}
 ]

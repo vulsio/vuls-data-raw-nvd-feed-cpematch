@@ -12336,12 +12336,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:itunes:12.1.3:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:itunes:12.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.2"
+		"versionEndExcluding": "12.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:itunes:*:*:*:*:*:*:*:*",
@@ -12936,9 +12933,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:itunes:12.1.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:itunes:12.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.2"
+		"versionEndIncluding": "12.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:itunes:*:*:*:*:*:*:*:*",

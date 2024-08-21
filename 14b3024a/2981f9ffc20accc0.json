@@ -229,18 +229,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.8"
+		"versionEndExcluding": "15.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
@@ -349,9 +340,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.8:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.8"
+		"versionEndIncluding": "15.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",

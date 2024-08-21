@@ -4,12 +4,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:*:*:*:critical_environment:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5.101:*:*:*:critical_environment:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.101",
+		"versionEndExcluding": "7.5.101",
 		"versionStartIncluding": "7.5"
 	},
 	{
@@ -17,9 +14,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:*:*:*:critical_environment:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5.101:*:*:*:critical_environment:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.101",
+		"versionEndIncluding": "7.5.101",
 		"versionStartIncluding": "7.5"
 	},
 	{
