@@ -2136,12 +2136,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:chrome_os:8.0.552.342:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:google:chrome_os:8.0.552.343:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.552.343"
+		"versionEndExcluding": "8.0.552.343"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:chrome_os:*:*:*:*:*:*:*:*",
@@ -2172,9 +2169,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:chrome_os:8.0.552.342:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:google:chrome_os:8.0.552.343:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.552.343"
+		"versionEndIncluding": "8.0.552.343"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:chrome_os:*:*:*:*:*:*:*:*",

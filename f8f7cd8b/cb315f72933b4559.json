@@ -495,12 +495,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.0"
+		"versionEndExcluding": "2.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -561,9 +558,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.0"
+		"versionEndIncluding": "2.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",

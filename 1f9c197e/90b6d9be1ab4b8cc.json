@@ -418,12 +418,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.0"
+		"versionEndExcluding": "2.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:*:*:*:*:*:*:*:*",
@@ -565,8 +562,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rangerstudio:directus_7_api:2.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.0"
+		"versionEndIncluding": "2.3.0"
 	}
 ]

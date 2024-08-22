@@ -407,9 +407,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:15.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:15.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.1",
+		"versionEndIncluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -417,12 +420,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:15.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:15.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.1",
+		"versionEndExcluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
 	},
 	{

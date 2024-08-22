@@ -6779,6 +6779,15 @@
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:beta2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -6924,7 +6933,7 @@
 			}
 		],
 		"versionEndIncluding": "2.7.48",
-		"versionStartExcluding": "2.7.0"
+		"versionStartIncluding": "2.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*",
@@ -7087,15 +7096,6 @@
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.0:beta2:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:2.7.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -7241,7 +7241,7 @@
 			}
 		],
 		"versionEndIncluding": "2.7.48",
-		"versionStartIncluding": "2.7.0"
+		"versionStartExcluding": "2.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sensiolabs:symfony:*:*:*:*:*:*:*:*",

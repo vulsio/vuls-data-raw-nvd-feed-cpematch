@@ -217,9 +217,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:10.1:update2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:10.2:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.2"
+		"versionEndIncluding": "10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:*:*:*:*:*:*:*:*",
@@ -343,12 +346,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:10.1:update2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:10.2:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.2"
+		"versionEndExcluding": "10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sitecore:experience_platform:*:*:*:*:*:*:*:*",
