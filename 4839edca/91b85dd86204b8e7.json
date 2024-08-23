@@ -928,12 +928,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:4.5.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:4.5.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.5.3"
+		"versionEndExcluding": "4.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:*:*:*:*:*:wordpress:*:*",
@@ -1252,9 +1249,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:4.5.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:4.5.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.5.3"
+		"versionEndIncluding": "4.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:joomunited:wp_meta_seo:*:*:*:*:*:wordpress:*:*",

@@ -7561,12 +7561,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:14.20.0:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:14.20.1:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.20.1",
+		"versionEndExcluding": "14.20.1",
 		"versionStartIncluding": "14.15.0"
 	},
 	{
@@ -7643,9 +7640,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:14.20.0:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:14.20.1:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.20.1",
+		"versionEndIncluding": "14.20.1",
 		"versionStartIncluding": "14.15.0"
 	},
 	{

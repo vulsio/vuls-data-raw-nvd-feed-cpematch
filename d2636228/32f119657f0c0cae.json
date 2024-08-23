@@ -23,9 +23,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:11.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:11.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.6.5",
+		"versionEndIncluding": "11.6.5",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -42,12 +45,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:11.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:11.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.6.5",
+		"versionEndExcluding": "11.6.5",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -186,9 +186,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:12.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:12.1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.5.2",
+		"versionEndIncluding": "12.1.5.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -214,12 +217,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:12.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:12.1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.5.2",
+		"versionEndExcluding": "12.1.5.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -336,9 +336,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.3",
+		"versionEndIncluding": "13.1.3",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -349,12 +352,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.3",
+		"versionEndExcluding": "13.1.3",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -453,9 +453,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.4",
+		"versionEndIncluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -478,12 +481,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.4",
+		"versionEndExcluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -2441,22 +2441,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.1.1",
-		"versionStartExcluding": "15.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2471,6 +2455,22 @@
 		],
 		"versionEndExcluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:15.1.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.1.1",
+		"versionStartExcluding": "15.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:*:*:*:*:*:*:*:*",
@@ -3127,9 +3127,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.0.1",
+		"versionEndIncluding": "16.0.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -3137,12 +3140,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.0.1",
+		"versionEndExcluding": "16.0.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -3396,12 +3396,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.1.4",
+		"versionEndExcluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{
@@ -3430,9 +3427,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_advanced_web_application_firewall:16.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.1.4",
+		"versionEndIncluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

@@ -556,12 +556,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:5.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net:5.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.6",
+		"versionEndExcluding": "5.0.6",
 		"versionStartIncluding": "5.0"
 	},
 	{
@@ -623,9 +620,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net:5.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.6",
+		"versionEndIncluding": "5.0.6",
 		"versionStartIncluding": "5.0"
 	},
 	{
@@ -2253,9 +2253,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:7.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net:7.0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.10",
+		"versionEndIncluding": "7.0.10",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -2317,12 +2320,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:7.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net:7.0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.10",
+		"versionEndExcluding": "7.0.10",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -2777,12 +2777,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:8.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net:8.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.7",
+		"versionEndExcluding": "8.0.7",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -2835,9 +2832,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net:8.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net:8.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.7",
+		"versionEndIncluding": "8.0.7",
 		"versionStartIncluding": "8.0.0"
 	},
 	{

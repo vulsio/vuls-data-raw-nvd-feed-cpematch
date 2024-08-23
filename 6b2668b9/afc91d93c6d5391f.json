@@ -448,9 +448,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixr:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixs:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8.1"
+		"versionEndIncluding": "5.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
@@ -718,18 +727,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixr:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixs:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.8.1"
+		"versionEndExcluding": "5.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
