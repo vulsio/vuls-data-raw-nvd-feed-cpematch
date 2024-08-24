@@ -7,11 +7,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:safari:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:safari:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
 		"versionEndExcluding": "14.0.3"
 	},
 	{
@@ -38,5 +33,14 @@
 		"cpe23Uri": "cpe:2.3:o:apple:safari:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "17.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:safari:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:safari:17.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "17.6"
 	}
 ]

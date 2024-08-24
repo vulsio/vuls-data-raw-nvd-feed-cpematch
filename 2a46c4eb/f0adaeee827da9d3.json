@@ -43,9 +43,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:7.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.0"
+		"versionEndIncluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:*:*:*:*:*:*:*:*",
@@ -91,12 +94,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:7.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:7.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.0"
+		"versionEndExcluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:innominate:mguard_firmware:*:*:*:*:*:*:*:*",

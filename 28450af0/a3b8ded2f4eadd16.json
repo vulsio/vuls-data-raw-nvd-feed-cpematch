@@ -4647,18 +4647,6 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -4688,6 +4676,25 @@
 			}
 		],
 		"versionEndExcluding": "8.1.4",
+		"versionStartIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:8.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.1.4",
 		"versionStartIncluding": "8.0"
 	},
 	{
@@ -5916,15 +5923,6 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.01:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.02:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.03:*:*:*:*:*:*:*"
 			},
 			{
@@ -5940,9 +5938,6 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.05:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:-:*:*:*:windows:*:*"
 			},
 			{
@@ -5952,10 +5947,51 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.07:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0.12",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:-:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0.12",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.07:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.08:*:*:*:*:*:*:*"
@@ -5987,10 +6023,14 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.01:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "11.0.12",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.1:*:*:*:*:*:*:*"
 			},
@@ -5999,18 +6039,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0.12",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.01:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.03:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.04:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.05:*:*:*:*:*:*:*"
@@ -6019,19 +6063,10 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.5:-:*:*:*:windows:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.06:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.07:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:11.0.08:*:*:*:*:*:*:*"

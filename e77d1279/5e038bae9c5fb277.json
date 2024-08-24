@@ -93,9 +93,6 @@
 				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.00.88:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.00.96:*:*:*:*:*:*:*"
 			},
 			{
@@ -103,9 +100,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.30:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.01.30"
+		"versionEndIncluding": "1.01.30"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:*:*:*:*:*:*:*:*",
@@ -124,9 +124,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.26:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.01.30"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.01.30:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:deltaww:cncsoft_screeneditor:1.00.88:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.01.30"

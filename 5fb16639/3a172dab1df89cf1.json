@@ -11,14 +11,20 @@
 				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g3_firmware:1.41:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.43"
+		"versionEndIncluding": "1.43"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:probook_640_g3_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g3_firmware:1.41:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.43"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:probook_640_g3_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_640_g3_firmware:1.43:*:*:*:*:*:*:*"
 			}

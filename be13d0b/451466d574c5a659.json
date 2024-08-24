@@ -52,5 +52,23 @@
 			}
 		],
 		"versionEndExcluding": "2023.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2022.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:oneapi_dpc\\+\\+\\/c\\+\\+_compiler:2023.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2024.1"
 	}
 ]
