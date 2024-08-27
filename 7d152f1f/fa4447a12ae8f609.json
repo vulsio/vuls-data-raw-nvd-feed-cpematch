@@ -493,12 +493,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:5.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:5.8.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.8.1"
+		"versionEndExcluding": "5.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:*:*:*:*:*:*:*:*",
@@ -751,9 +748,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:5.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:5.8.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8.1"
+		"versionEndIncluding": "5.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wikindx_project:wikindx:*:*:*:*:*:*:*:*",

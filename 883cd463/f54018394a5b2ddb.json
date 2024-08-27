@@ -48,7 +48,7 @@
 				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:16:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "22",
+		"versionEndExcluding": "22",
 		"versionStartIncluding": "16"
 	},
 	{
@@ -56,14 +56,7 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:16:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "22",
-		"versionStartIncluding": "16"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:wago:touch_panel_600_advanced_firmware:22:-:*:*:*:*:*:*"
 			},
