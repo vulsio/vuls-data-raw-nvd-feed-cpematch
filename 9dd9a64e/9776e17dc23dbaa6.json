@@ -6695,7 +6695,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.7.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.7.6"
+		"versionEndIncluding": "12.7.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -6923,7 +6923,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.7.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.7.6"
+		"versionEndExcluding": "12.7.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -13900,12 +13900,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:13.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.0",
+		"versionEndExcluding": "13.0",
 		"versionStartIncluding": "11.0"
 	},
 	{
@@ -14057,9 +14054,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:13.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.0",
+		"versionEndIncluding": "13.0",
 		"versionStartIncluding": "11.0"
 	},
 	{
@@ -14783,6 +14783,19 @@
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1",
+		"versionStartExcluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -14794,19 +14807,6 @@
 		],
 		"versionEndExcluding": "12.1",
 		"versionStartIncluding": "12.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.1",
-		"versionStartExcluding": "12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -15958,25 +15958,6 @@
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "12.3",
-		"versionStartExcluding": "12.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -15994,6 +15975,25 @@
 		],
 		"versionEndExcluding": "12.3",
 		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:macos:12.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.3",
+		"versionStartExcluding": "12.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:macos:*:*:*:*:*:*:*:*",
@@ -17314,7 +17314,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:13.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.6.8",
+		"versionEndIncluding": "13.6.8",
 		"versionStartIncluding": "13.0"
 	},
 	{
@@ -17369,7 +17369,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:13.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.6.8",
+		"versionEndExcluding": "13.6.8",
 		"versionStartIncluding": "13.0"
 	},
 	{
@@ -17689,7 +17689,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:14.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.6",
+		"versionEndExcluding": "14.6",
 		"versionStartIncluding": "14.0"
 	},
 	{
@@ -17720,7 +17720,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:macos:14.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.6",
+		"versionEndIncluding": "14.6",
 		"versionStartIncluding": "14.0"
 	}
 ]

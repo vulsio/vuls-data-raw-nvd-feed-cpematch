@@ -1560,66 +1560,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p14:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p15:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p16:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.1"
+		"versionEndExcluding": "9.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
@@ -1875,9 +1818,66 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p14:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.1:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.1"
+		"versionEndIncluding": "9.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
@@ -2523,9 +2523,93 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p12d3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p14:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p14d3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p15d7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p17:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p17d1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p18:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p18d1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p19:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7d4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7d5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.3"
+		"versionEndIncluding": "9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
@@ -2856,93 +2940,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p12d3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p14:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p14d3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p15:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p15d7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p16:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p17:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p17d1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p18:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p18d1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p19:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7d4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p7d5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.3"
+		"versionEndExcluding": "9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
@@ -4164,6 +4164,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.5",
+		"versionStartIncluding": "9.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.5:-:*:*:*:*:*:*"
@@ -4272,34 +4300,6 @@
 			}
 		],
 		"versionEndIncluding": "9.5",
-		"versionStartIncluding": "9.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:clustered_data_ontap:9.4:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.5",
 		"versionStartIncluding": "9.4"
 	},
 	{

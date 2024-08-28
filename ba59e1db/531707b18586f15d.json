@@ -504,12 +504,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.0"
+		"versionEndExcluding": "2.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",
@@ -564,9 +561,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:2.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.0"
+		"versionEndIncluding": "2.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:uclouvain:openjpeg:*:*:*:*:*:*:*:*",

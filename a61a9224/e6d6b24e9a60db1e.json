@@ -88,12 +88,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:jasperreports_server:8.0.1:*:*:*:-:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:jasperreports_server:8.0.2:*:*:*:-:-:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.2"
+		"versionEndExcluding": "8.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:jasperreports_server:*:*:*:*:-:-:*:*",
@@ -184,8 +181,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:jasperreports_server:8.0.1:*:*:*:-:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:jasperreports_server:8.0.2:*:*:*:-:-:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.2"
+		"versionEndIncluding": "8.0.2"
 	}
 ]
