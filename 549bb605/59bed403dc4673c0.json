@@ -721,12 +721,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:1.7.7:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:1.7.8:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.8"
+		"versionEndExcluding": "1.7.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:*:*:*:*:*:wordpress:*:*",
@@ -982,9 +979,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:1.7.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:1.7.8:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.8"
+		"versionEndIncluding": "1.7.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pagelayer:pagelayer:*:*:*:*:*:wordpress:*:*",

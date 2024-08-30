@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:scalance_mum856-1_\\(row\\)_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_mum856-1_\\(row\\)_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.1"
 	}
 ]

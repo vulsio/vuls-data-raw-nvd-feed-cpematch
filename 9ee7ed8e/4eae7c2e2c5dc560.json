@@ -9,6 +9,31 @@
 				"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:1.32.0:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "1.52.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:1.31.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:1.32.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.52.1",
+		"versionStartIncluding": "1.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:1.31.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apollographql:apollo_helms-charts_router:1.32.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.32.0",
 		"versionStartIncluding": "1.31.0"
 	}

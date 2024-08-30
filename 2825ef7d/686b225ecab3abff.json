@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_lan-router_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_s615_lan-router_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.1"
 	}
 ]

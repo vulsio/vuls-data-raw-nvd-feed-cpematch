@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:sinec_traffic_analyzer:1.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0"
 	}
 ]

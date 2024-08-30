@@ -399,22 +399,13 @@
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.21:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.22:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.23:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.3"
+		"versionEndIncluding": "1.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:briarproject:briar:*:*:*:*:*:*:*:*",
@@ -610,7 +601,31 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.5.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:briarproject:briar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.22:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.5.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:briarproject:briar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.4.21:*:*:*:*:*:*:*"
 			},
@@ -628,11 +643,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.3"
+		"versionEndExcluding": "1.5.3"
 	}
 ]

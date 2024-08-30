@@ -5559,7 +5559,38 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.1.0:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.1.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:umbraco:umbraco_cms:14.1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "14.1.2",
 		"versionStartIncluding": "14.0.0"
 	}

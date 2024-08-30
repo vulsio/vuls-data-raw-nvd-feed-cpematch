@@ -559,9 +559,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.3:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.565.3"
+		"versionEndIncluding": "1.565.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
@@ -673,12 +676,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:1.565.3:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.565.3"
+		"versionEndExcluding": "1.565.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
@@ -21411,10 +21411,10 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.401.1:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.414.1:*:*:*:lts:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.414.2:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.414.2"
+		"versionEndIncluding": "2.414.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
@@ -21660,25 +21660,7 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.51:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.52:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.53:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.54:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.55:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.56:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.57:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.58:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.59:*:*:*:lts:*:*:*"
@@ -21696,42 +21678,6 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.60.3:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.61:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.62:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.63:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.64:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.65:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.66:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.67:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.68:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.69:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.70:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.71:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.72:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.73:*:*:*:lts:*:*:*"
 			},
 			{
@@ -21742,51 +21688,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.73.3:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.74:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.75:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.76:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.77:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.78:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.79:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.80:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.81:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.82:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.83:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.84:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.85:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.86:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.87:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.88:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.89:*:*:*:lts:*:*:*"
@@ -21802,60 +21703,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.89.4:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.90:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.91:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.92:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.93:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.94:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.95:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.96:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.97:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.98:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.99:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.100:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.101:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.102:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.103:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.104:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.105:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.106:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.107:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.107.1:*:*:*:lts:*:*:*"
@@ -21900,22 +21747,10 @@
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.164.1:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.164.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.164.3:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176:*:*:*:lts:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.1:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.3:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.4:*:*:*:lts:*:*:*"
@@ -22066,12 +21901,189 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.414.1:*:*:*:lts:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.414.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.414.2:*:*:*:lts:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.414.1:*:*:*:lts:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.414.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.52:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.53:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.54:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.55:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.56:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.58:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.61:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.62:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.63:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.64:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.65:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.66:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.67:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.68:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.69:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.70:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.71:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.72:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.74:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.75:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.76:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.77:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.78:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.79:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.80:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.81:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.82:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.83:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.84:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.85:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.86:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.87:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.88:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.90:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.91:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.92:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.93:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.94:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.95:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.96:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.97:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.98:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.99:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.100:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.101:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.102:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.103:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.104:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.105:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.106:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.107:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.164.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.164.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:2.176.3:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.414.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:jenkins:*:*:*:*:lts:*:*:*",

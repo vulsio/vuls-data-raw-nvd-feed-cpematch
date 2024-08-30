@@ -21,13 +21,61 @@
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.7.0:*:*:*:*:apache:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.1:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.10.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.1:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.12.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.1:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.1:*:*:*:*:apache:*:*"
+			}
+		],
+		"versionEndExcluding": "0.14.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:*:*:*:*:*:apache:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.0:*:*:*:*:apache:*:*"
+			}
+		],
+		"versionEndIncluding": "0.14.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:*:*:*:*:*:apache:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.0:*:*:*:*:apache:*:*"
+			}
+		],
+		"versionEndExcluding": "0.14.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:*:*:*:*:*:apache:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.0:*:*:*:*:apache:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.1:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.0:*:*:*:*:apache:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.1:*:*:*:*:apache:*:*"
@@ -66,6 +114,18 @@
 		"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:*:*:*:*:*:apache:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.0:*:*:*:*:apache:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.1:*:*:*:*:apache:*:*"
+			}
+		],
+		"versionEndExcluding": "0.14.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:*:*:*:*:*:apache:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.4.0:*:*:*:*:apache:*:*"
 			},
 			{
@@ -82,44 +142,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.7.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.8.1:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.9.1:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.10.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.11.1:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.12.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.13.1:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.0:*:*:*:*:apache:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mod_auth_mellon_project:mod_auth_mellon:0.14.1:*:*:*:*:apache:*:*"
 			}
 		],
-		"versionEndExcluding": "0.14.2"
+		"versionEndIncluding": "0.14.2"
 	}
 ]

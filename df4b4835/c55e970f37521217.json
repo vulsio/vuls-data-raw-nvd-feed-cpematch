@@ -56,8 +56,38 @@
 		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r8p0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r31p0",
+		"versionStartIncluding": "r4p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "r31p0",
+		"versionStartIncluding": "r4p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "r31p0",
+		"versionStartIncluding": "r4p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r8p0:*:*:*:*:*:*:*"
 			},
@@ -66,6 +96,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "r31p0",
+		"versionStartIncluding": "r4p0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*"
@@ -77,18 +117,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r4p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r8p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r26p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r29p0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*"
 			},

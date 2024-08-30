@@ -19154,16 +19154,10 @@
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.4:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.4:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.5:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.5:p1:*:*:*:*:*:*"
@@ -19172,16 +19166,10 @@
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.6:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.6:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.7:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.7:p1:*:*:*:*:*:*"
@@ -19190,25 +19178,16 @@
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.8:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.8:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.9:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.9:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:7.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:7.0:p1:*:*:*:*:*:*"
@@ -19308,9 +19287,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.4:p1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.4",
+		"versionEndIncluding": "8.4",
 		"versionStartIncluding": "5.7"
 	},
 	{
@@ -19546,12 +19531,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.3:p1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.4",
+		"versionStartIncluding": "5.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openbsd:openssh:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.4:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.4:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.5:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:8.4:p1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:6.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:7.0:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.4",

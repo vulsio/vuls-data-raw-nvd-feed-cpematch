@@ -2614,12 +2614,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpwax:directorist:7.5.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpwax:directorist:7.5.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.4"
+		"versionEndExcluding": "7.5.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpwax:directorist:*:*:*:*:*:wordpress:*:*",
@@ -3037,9 +3034,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpwax:directorist:7.5.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpwax:directorist:7.5.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.4"
+		"versionEndIncluding": "7.5.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpwax:directorist:*:*:*:*:*:wordpress:*:*",
