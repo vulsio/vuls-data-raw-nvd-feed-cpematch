@@ -1,7 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.0.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.0.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.0.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:smashballoon:reviews_feed:1.1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2.0"
 	}
 ]

@@ -1,8 +1,51 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "5.1.6",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.0.4:build896:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.0.5:build840:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1:build947:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.1:build964:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.2:build1033:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.3:build1070:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.4:build1111:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.5:build49:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build112:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build114:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build126:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build130:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build135:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortra:filecatalyst_workflow:5.1.6:build139:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1.7",
 		"versionStartIncluding": "5.0.4"
 	}
 ]

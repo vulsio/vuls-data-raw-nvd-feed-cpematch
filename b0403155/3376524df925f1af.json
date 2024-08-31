@@ -1550,30 +1550,6 @@
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.0:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.9:*:*:*:*:*:*:*"
 			},
 			{
@@ -1705,6 +1681,37 @@
 			}
 		],
 		"versionEndIncluding": "1.7.16.1",
+		"versionStartIncluding": "1.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:litespeedtech:openlitespeed:1.7.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.7.16.1",
 		"versionStartIncluding": "1.7.0"
 	}
 ]

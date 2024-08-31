@@ -15,13 +15,22 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.5.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:5120:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.1.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.1"
@@ -34,18 +43,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:5120:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
@@ -885,68 +897,115 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6055:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6056:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7000:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7002:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7003:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7004:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7005:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7000:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7006:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7007:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7006:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6053:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7007:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6055:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7053:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7054:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7055:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7060:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7055:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6056:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7054:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6057:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6058:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6060:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6061:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6062:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6066:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6067:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6068:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6070:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6071:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6072:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6075:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6076:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7052:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7062:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6077:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7008:*:*:*:*:*:*"
@@ -958,67 +1017,20 @@
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7051:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7055:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7002:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7060:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7003:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7004:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
 		"versionEndIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6000:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6001:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6002:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6003:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6010:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6030:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6031:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7052:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7053:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7054:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7065:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7080:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7081:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7082:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7090:*:*:*:*:*:*"
 			},
@@ -1078,8 +1090,60 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6000:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6001:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6002:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6003:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6010:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7081:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7082:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6030:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6031:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7080:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
@@ -1092,38 +1156,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6050:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6052:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
 		"versionEndIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:5120:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7065:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0"
@@ -1145,9 +1186,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:5120:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6050:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6052:*:*:*:*:*:*"
@@ -1157,9 +1195,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7000:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7002:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:-:*:*:*:*:*:*"
@@ -1172,12 +1207,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7007:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7212:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7213:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0"
@@ -1186,7 +1215,7 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7054:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7063:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0"
@@ -1194,6 +1223,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7002:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7003:*:*:*:*:*:*"
 			},
@@ -1201,7 +1233,13 @@
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7004:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7005:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7005:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7006:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7007:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0"
@@ -1210,14 +1248,53 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7062:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:4.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:5.1:5120:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6000:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6001:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6002:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6003:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6010:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6030:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6031:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6032:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6033:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6050:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6052:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6053:*:*:*:*:*:*"
 			},
@@ -1258,16 +1335,22 @@
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6071:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6072:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6075:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6076:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7000:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6077:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7002:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7003:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7004:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7005:*:*:*:*:*:*"
@@ -1303,19 +1386,85 @@
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7060:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7000:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7006:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7007:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7005:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7008:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7050:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7051:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7052:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7053:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7053:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7062:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7063:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7065:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7080:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7081:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7082:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7090:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7091:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7002:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7054:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7003:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7004:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7055:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.1.1:*:*:*:*:*:*:*"
@@ -1337,6 +1486,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7211:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7212:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.0"
@@ -1345,7 +1497,7 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6057:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7052:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0"
@@ -1354,48 +1506,25 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7065:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7213:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7080:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7215:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7081:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7220:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7082:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7250:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7055:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7251:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6058:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7260:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7063:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7270:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7271:*:*:*:*:*:*"
@@ -1407,307 +1536,40 @@
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6060:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6061:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7063:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7062:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6062:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6066:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7055:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6067:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7054:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6068:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6070:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6071:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7052:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7053:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6072:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7051:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6075:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6076:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7270:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6077:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7002:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7050:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7003:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6000:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7004:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7005:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7008:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7250:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7052:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7220:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7050:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7051:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6010:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6030:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7008:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7050:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7053:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6002:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6003:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6031:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6032:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6033:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7215:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7251:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.2:7260:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7005:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:6.0:6001:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:*:*:*:*:*:*:*:*",

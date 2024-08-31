@@ -19,6 +19,15 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jupyter:jupyterlab:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.6.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "2.2.10",
 		"versionStartIncluding": "2.0.0"
@@ -45,6 +54,12 @@
 		"cpe23Uri": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "4.0.11",
+		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jupyter:jupyterlab:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "4.2.5",
 		"versionStartIncluding": "4.0.0"
 	}
 ]

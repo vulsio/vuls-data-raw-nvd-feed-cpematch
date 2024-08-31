@@ -13,9 +13,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.4.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.8.0"
@@ -24,37 +21,10 @@
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.3.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
@@ -72,13 +42,79 @@
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.3.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.3.2:*:*:*:*:*:*:*"
@@ -97,24 +133,6 @@
 			}
 		],
 		"versionEndExcluding": "1.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
