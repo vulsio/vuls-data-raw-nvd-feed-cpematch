@@ -7261,9 +7261,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:traefik:traefik:2.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:traefik:traefik:2.10.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.10.5"
+		"versionEndIncluding": "2.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*",
@@ -8425,12 +8428,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:traefik:traefik:2.10.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:traefik:traefik:2.10.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.10.5"
+		"versionEndExcluding": "2.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:traefik:traefik:*:*:*:*:*:*:*:*",

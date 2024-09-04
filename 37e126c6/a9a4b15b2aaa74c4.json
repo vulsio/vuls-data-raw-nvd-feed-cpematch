@@ -2414,9 +2414,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:struts:2.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:struts:2.3.14.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.14.1",
+		"versionEndIncluding": "2.3.14.1",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -2565,12 +2568,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:struts:2.3.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:struts:2.3.14.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.14.1",
+		"versionEndExcluding": "2.3.14.1",
 		"versionStartIncluding": "2.0.0"
 	},
 	{

@@ -1293,12 +1293,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:4.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:google:android:4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4"
+		"versionEndExcluding": "4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",
@@ -1431,9 +1428,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:4.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:google:android:4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4"
+		"versionEndIncluding": "4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",
@@ -3342,12 +3342,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:google:android:7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0"
+		"versionEndExcluding": "7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",
@@ -3519,9 +3516,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:google:android:7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0"
+		"versionEndIncluding": "7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",
@@ -6708,12 +6708,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:5.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:google:android:5.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.1.1",
+		"versionEndExcluding": "5.1.1",
 		"versionStartIncluding": "5.1"
 	},
 	{
@@ -6724,9 +6721,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:5.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:google:android:5.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.1.1",
+		"versionEndIncluding": "5.1.1",
 		"versionStartIncluding": "5.1"
 	},
 	{
