@@ -1,17 +1,41 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:2.143.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.143.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:2.143.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:2.143.21:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.143.61"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:2.144:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:haloservicesolutions:haloitsm:2.146:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.146.1",
 		"versionStartIncluding": "2.144"
 	}

@@ -5399,7 +5399,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.4:*:*:*:enterprise:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.17.5",
 		"versionStartIncluding": "1.17.0"
 	}

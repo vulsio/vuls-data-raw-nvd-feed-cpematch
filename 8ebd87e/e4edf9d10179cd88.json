@@ -24,15 +24,6 @@
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:python:keyring:0.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:keyring:0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:keyring:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.8:*:*:*:*:*:*:*"
 			},
 			{
@@ -49,9 +40,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:keyring:0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.10"
+		"versionEndIncluding": "0.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:python:keyring:*:*:*:*:*:*:*:*",
@@ -103,9 +97,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:keyring:0.9.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:python:keyring:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:python:keyring:0.6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:python:keyring:0.10:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:python:keyring:0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:keyring:0.7.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "0.10"

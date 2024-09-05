@@ -343,7 +343,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:4.9.195:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.17.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:linux:linux_kernel:5.4.18:*:*:*:*:*:*:*"
 			},

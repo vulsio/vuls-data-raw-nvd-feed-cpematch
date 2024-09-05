@@ -4944,9 +4944,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.9.3"
+		"versionEndIncluding": "2.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:*:*:*:*:*:*:*:*",
@@ -5391,12 +5394,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.9.3"
+		"versionEndExcluding": "2.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:*:*:*:*:*:*:*:*",
@@ -8256,9 +8256,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.9.10"
+		"versionEndIncluding": "2.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:*:*:*:*:*:*:*:*",
@@ -8769,18 +8778,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:2.9.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.9.10"
+		"versionEndExcluding": "2.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xmlsoft:libxml2:*:*:*:*:*:*:*:*",

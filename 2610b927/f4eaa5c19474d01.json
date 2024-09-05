@@ -84,24 +84,6 @@
 				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.12:*:*:*:*:linux:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.13:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.14:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.15:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.16:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:2.0.0:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:2.1:*:*:*:*:linux:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:2.1.1:*:*:*:*:linux:*:*"
 			},
 			{
@@ -307,5 +289,29 @@
 			}
 		],
 		"versionEndExcluding": "3.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.13:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.14:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.15:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:1.1.16:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:2.0.0:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openrazer_project:openrazer:2.1:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndIncluding": "3.3.0"
 	}
 ]

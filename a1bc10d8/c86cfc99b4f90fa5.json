@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mlewand:open_link:*:*:*:*:*:ckeditor:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:-:*:*:*:*:ckeditor:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:1.0.0:*:*:*:*:ckeditor:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:1.0.1:*:*:*:*:ckeditor:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:1.0.2:*:*:*:*:ckeditor:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:1.0.3:*:*:*:*:ckeditor:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mlewand:open_link:1.0.4:*:*:*:*:ckeditor:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.5"
 	}
 ]

@@ -446,19 +446,98 @@
 		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.6",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:hotfix1:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.3:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:-:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:hotfix1:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.5:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.6:*:*:*:*:-:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.6",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.6",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.3:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.5:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.6:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.6",
+		"versionStartIncluding": "5.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:-:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:linux:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:windows:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:hotfix1:*:*:*:windows:*:*"
@@ -516,73 +595,22 @@
 		"cpe23Uri": "cpe:2.3:a:mcafee:agent:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:linux:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.0:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:-:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:*:*:*:*:windows:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.1:hotfix1:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:mac_os:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.2:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.3:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.3:*:*:*:*:linux:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.3:*:*:*:*:windows:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:*:*:*:*:linux:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:*:*:*:*:windows:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:-:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.4:hotfix1:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.5:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.5:*:*:*:*:linux:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.6:*:*:*:*:-:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.6:*:*:*:*:linux:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:agent:5.0.6:*:*:*:*:windows:*:*"
