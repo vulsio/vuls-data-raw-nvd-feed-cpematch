@@ -24,16 +24,10 @@
 				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.55:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.61:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.62:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.62.0019:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.62.0019"
+		"versionEndIncluding": "3.62.0019"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:*:*:*:*:*:*:*:*",
@@ -67,9 +61,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.62:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.62.0019"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.60:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.62.0019:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.61:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:bosch:divar_ip_2000_firmware:3.62:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.62.0019"

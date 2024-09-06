@@ -58,7 +58,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.58:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.0.0.82"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.82:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.0.82"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.60:*:*:*:*:*:*:*"
 			}
@@ -82,9 +97,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:dgn2200_firmware:1.0.0.82:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.0.0.82"

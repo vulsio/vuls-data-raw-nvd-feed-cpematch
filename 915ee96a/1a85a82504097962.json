@@ -12,6 +12,27 @@
 		"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.10.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev01:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev02:*:*:*:*:*:*"
 			},
 			{
@@ -121,33 +142,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev50:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:rev01:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.10.6"

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sambas:akos:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sambas:akos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sambas:akos:2024-09-02:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2024-09-02"
 	}
 ]

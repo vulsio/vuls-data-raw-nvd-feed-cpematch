@@ -3,5 +3,17 @@
 		"cpe23Uri": "cpe:2.3:a:trellix:intrusion_prevention_system_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "10.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:trellix:intrusion_prevention_system_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:trellix:intrusion_prevention_system_manager:10.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trellix:intrusion_prevention_system_manager:10.1:minor8:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.1.7.97"
 	}
 ]
