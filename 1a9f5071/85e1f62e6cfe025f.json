@@ -714,6 +714,18 @@
 		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.5.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.6.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -751,6 +763,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.10:*:*:*:*:*:*:*"
@@ -814,6 +829,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.0:-:*:*:*:*:*:*"
@@ -910,39 +940,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.5.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.4:*:*:*:*:*:*:*"
@@ -954,27 +951,6 @@
 		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.5.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.6.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -1041,24 +1017,6 @@
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.19:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.5.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.5.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:2.10.20:*:*:*:*:*:*:*"
 			},
 			{
@@ -1104,6 +1062,9 @@
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.0.6:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -1120,6 +1081,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.2.7:*:*:*:*:*:*:*"
@@ -1173,12 +1137,30 @@
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.4.9:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.4"
+		"versionEndExcluding": "3.5.4"
 	}
 ]

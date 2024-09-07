@@ -139,12 +139,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:13.1.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.4",
+		"versionEndExcluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -161,9 +158,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:13.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:13.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.4",
+		"versionEndIncluding": "13.1.4",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -556,12 +556,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.4",
+		"versionEndExcluding": "14.1.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -584,9 +581,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:14.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.4",
+		"versionEndIncluding": "14.1.4",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -984,6 +984,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.1.2",
+		"versionStartIncluding": "15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "15.1.2",
@@ -1005,7 +1024,7 @@
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.2",
+		"versionEndExcluding": "15.1.2.1",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -1013,18 +1032,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.2.1",
+		"versionEndExcluding": "15.1.3",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -1052,9 +1062,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:15.1.0.4:*:*:*:*:*:*:*"
 			},
@@ -1570,9 +1577,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.0.1.1",
+		"versionEndIncluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -1583,12 +1593,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.0.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.0.1.1",
+		"versionEndExcluding": "16.0.1.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -1766,12 +1773,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.1.4",
+		"versionEndExcluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{
@@ -1800,9 +1804,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_ssl_orchestrator:16.1.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "16.1.4",
+		"versionEndIncluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

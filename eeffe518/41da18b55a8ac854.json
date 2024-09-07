@@ -69,21 +69,6 @@
 				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.11.14:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2010.1.16:*:*:*:*:*:*:*"
 			},
 			{
@@ -124,9 +109,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2017.3.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2021.8.22:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2021.8.22"
+		"versionEndIncluding": "2021.8.22"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:*:*:*:*:*:*:*:*",
@@ -190,9 +178,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2017.3.23:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2021.8.22"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2021.8.22:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxera:ntfs-3g:2009.11.14:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2021.8.22"

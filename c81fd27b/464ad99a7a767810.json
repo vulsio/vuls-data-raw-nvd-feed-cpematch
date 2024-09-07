@@ -3,7 +3,7 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.0.0:*:*:*:*:macos:*:*"
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.0:*:*:*:*:macos:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.0.5:*:*:*:*:macos:*:*"
@@ -43,13 +43,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.2.6:*:*:*:*:macos:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.0.0:*:*:*:*:macos:*:*"
+			}
+		],
+		"versionEndIncluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.0:*:*:*:*:macos:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.1:*:*:*:*:macos:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.2:*:*:*:*:macos:*:*"
 			},
@@ -69,6 +90,21 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.2:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.3:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.4:*:*:*:*:macos:*:*"
+			}
+		],
+		"versionEndExcluding": "5.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.0:*:*:*:*:macos:*:*"
 			},
 			{
@@ -115,21 +151,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.1:*:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.2:*:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.3:*:*:*:*:macos:*:*"
-			}
-		],
-		"versionEndExcluding": "5.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:macos:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.0:*:*:*:*:macos:*:*"
 			}
 		],
 		"versionEndIncluding": "5.6.0"
@@ -139,9 +160,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.0.0:*:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.4:*:*:*:*:macos:*:*"
 			}
 		],
 		"versionEndExcluding": "5.6.0"

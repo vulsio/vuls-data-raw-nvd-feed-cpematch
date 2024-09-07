@@ -13,7 +13,25 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.21\\(aatb.10\\)c0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:-:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:5.21\\(aatb.4\\)c0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.21\\(aatb.10\\)c0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:5.21\\(aatb.4\\)c0:*:*:*:*:*:*:*"
 			},
@@ -29,12 +47,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:5.21\\(aatb.4\\)c0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nas540_firmware:5.21\\(aatb.9\\)c0:*:*:*:*:*:*:*"
 			}
