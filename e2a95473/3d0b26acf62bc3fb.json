@@ -4,31 +4,7 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:01.20.00:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:01.20.00:*:*:*:*:*:*:*"
 			},
@@ -37,6 +13,18 @@
 			}
 		],
 		"versionEndIncluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:01.20.00:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elitebook_745_g5_firmware:*:*:*:*:*:*:*:*",

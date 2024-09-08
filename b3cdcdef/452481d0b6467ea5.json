@@ -1957,12 +1957,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.2.5"
+		"versionEndExcluding": "1.7.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
@@ -2422,9 +2419,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.2.5"
+		"versionEndIncluding": "1.7.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
@@ -10876,6 +10876,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:8.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:8.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:8.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:8.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:8.1.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.1.7"
@@ -11781,6 +11793,27 @@
 		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.15:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.17:*:*:*:*:*:*:*"
 			},
 			{
@@ -11844,164 +11877,6 @@
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.11:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.12:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.7.6.6",
-		"versionStartExcluding": "1.5.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.7.6.6",
-		"versionStartIncluding": "1.5.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.5.0.15:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.9:*:*:*:*:*:*:*"
 			},
 			{
@@ -12029,6 +11904,15 @@
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:rc4:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -12053,10 +11937,16 @@
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.10:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.11:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.11:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.12:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.12:rc3:*:*:*:*:*:*"
@@ -12086,7 +11976,28 @@
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.19:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:beta1:*:*:*:*:*:*"
@@ -12102,6 +12013,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:rc0:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:rc1:*:*:*:*:*:*"
@@ -12168,6 +12082,66 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.6.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.7.6.6",
@@ -12262,6 +12236,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.6.1.2:*:*:*:*:*:*:*"

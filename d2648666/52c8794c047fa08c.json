@@ -895,6 +895,9 @@
 		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -933,16 +936,6 @@
 			}
 		],
 		"versionEndIncluding": "2.6.5",
-		"versionStartIncluding": "2.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:pivotal_software:pivotal_application_service:2.6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.6.5",
 		"versionStartIncluding": "2.6.0"
 	}
 ]

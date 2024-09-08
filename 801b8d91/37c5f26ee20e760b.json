@@ -825,6 +825,15 @@
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -865,12 +874,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.9"
+		"versionEndExcluding": "2.3.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
@@ -901,28 +907,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.3.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.0.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.3.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:0.6.2:*:*:*:*:*:*:*"
 			},
@@ -1063,9 +1048,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.3.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.9"
+		"versionEndIncluding": "2.3.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
@@ -1819,12 +1807,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.3"
+		"versionEndExcluding": "2.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
@@ -2023,9 +2008,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:2.6.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.3"
+		"versionEndIncluding": "2.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:agentejo:cockpit:*:*:*:*:*:*:*:*",
