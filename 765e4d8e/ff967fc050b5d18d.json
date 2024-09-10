@@ -1,11 +1,6 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:snap_deploy:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:snap_deploy:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:snap_deploy:6:-:*:*:*:windows:*:*"
@@ -15,5 +10,10 @@
 			}
 		],
 		"versionEndIncluding": "6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:acronis:snap_deploy:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "6"
 	}
 ]

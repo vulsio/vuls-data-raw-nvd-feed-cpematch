@@ -2727,9 +2727,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:cups:1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:cups:1.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.4"
+		"versionEndIncluding": "1.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:cups:*:*:*:*:*:*:*:*",
@@ -3003,12 +3006,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:cups:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:cups:1.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.4"
+		"versionEndExcluding": "1.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apple:cups:*:*:*:*:*:*:*:*",

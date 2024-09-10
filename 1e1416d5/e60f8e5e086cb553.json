@@ -24903,9 +24903,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.18.18"
+		"versionEndIncluding": "1.18.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
@@ -27471,12 +27474,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.18.18"
+		"versionEndExcluding": "1.18.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
@@ -68525,6 +68525,64 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.19.3",
+		"versionStartIncluding": "1.19.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.1:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:-:*:*:*:*:*:*"
@@ -68589,9 +68647,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.4:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.5:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.7:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.8:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.9:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.19.3",
+		"versionEndExcluding": "1.19.10",
 		"versionStartIncluding": "1.19.0"
 	},
 	{
@@ -68707,104 +68810,68 @@
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:alpha3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc3:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc4:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.2:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.1:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.2:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.1:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.3:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.3:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.4:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.4:rc0:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.5:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.4:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.5:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.6:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.7:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.8:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.9:rc0:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.5:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.19.10",
-		"versionStartIncluding": "1.19.0"
+		"versionEndExcluding": "1.20.6",
+		"versionStartIncluding": "1.20.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
@@ -68877,73 +68944,6 @@
 			}
 		],
 		"versionEndIncluding": "1.20.6",
-		"versionStartIncluding": "1.20.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:alpha3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.2:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.3:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.4:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.20.5:rc0:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.20.6",
 		"versionStartIncluding": "1.20.0"
 	},
 	{
@@ -70364,12 +70364,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.27.2",
+		"versionEndExcluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{
@@ -70401,9 +70398,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.27.2",
+		"versionEndIncluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{

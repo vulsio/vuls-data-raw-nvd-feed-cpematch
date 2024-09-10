@@ -130498,12 +130498,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:13.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:13.4.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.4.6",
+		"versionEndExcluding": "13.4.6",
 		"versionStartIncluding": "13.0"
 	},
 	{
@@ -130544,9 +130541,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:13.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:13.4.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.4.6",
+		"versionEndIncluding": "13.4.6",
 		"versionStartIncluding": "13.0"
 	},
 	{
@@ -131355,6 +131355,55 @@
 		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.4.7",
+		"versionStartExcluding": "14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -131408,107 +131457,6 @@
 		],
 		"versionEndExcluding": "14.4.7",
 		"versionStartIncluding": "14.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.4.7",
-		"versionStartExcluding": "14.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "14.4.8",
-		"versionStartExcluding": "14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
@@ -131570,6 +131518,58 @@
 		],
 		"versionEndExcluding": "14.4.8",
 		"versionStartIncluding": "14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.4.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.4.8",
+		"versionStartExcluding": "14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
@@ -132081,15 +132081,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.6",
+		"versionEndExcluding": "14.6",
 		"versionStartIncluding": "14.5"
 	},
 	{
@@ -132100,9 +132094,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:14.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.6",
+		"versionEndIncluding": "14.6",
 		"versionStartIncluding": "14.5"
 	},
 	{
@@ -132948,6 +132948,52 @@
 		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.5.5",
+		"versionStartExcluding": "15.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -132995,52 +133041,6 @@
 		],
 		"versionEndExcluding": "15.5.5",
 		"versionStartIncluding": "15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:15.5.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.5.5",
-		"versionStartExcluding": "15.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xwiki:xwiki:*:*:*:*:*:*:*:*",

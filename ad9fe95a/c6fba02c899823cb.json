@@ -34,5 +34,20 @@
 			}
 		],
 		"versionEndIncluding": "1.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eyecix:jobsearch_wp_job_board:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eyecix:jobsearch_wp_job_board:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eyecix:jobsearch_wp_job_board:1.5.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eyecix:jobsearch_wp_job_board:1.7.4:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "2.5.4"
 	}
 ]
