@@ -126,9 +126,6 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -147,10 +144,49 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.6:*:*:*:*:*:*:*"
@@ -163,7 +199,55 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.3:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.6:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.1.0:*:*:*:*:*:*:*"
 			},
@@ -181,6 +265,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:rc4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:shim:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:14:*:*:*:*:*:*:*"
@@ -246,24 +348,6 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:shim:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.8:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:0.9:*:*:*:*:*:*:*"
 			},
 			{
@@ -291,33 +375,6 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:1.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -327,28 +384,7 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:rc3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.3:rc4:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.5:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.6:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:shim:15.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "15.8"

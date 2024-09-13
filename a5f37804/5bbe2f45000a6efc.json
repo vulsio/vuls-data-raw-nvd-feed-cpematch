@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:o:hp:z240_small_form_factor_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:z240_small_form_factor_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:z240_small_form_factor_firmware:01.83:*:*:*:*:*:*:*"
 			}
 		],
@@ -22,5 +19,14 @@
 			}
 		],
 		"versionEndExcluding": "1.85"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:z240_small_form_factor_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:z240_small_form_factor_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.85"
 	}
 ]

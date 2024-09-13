@@ -1546,9 +1546,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2015.8.10"
+		"versionEndIncluding": "2015.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
@@ -1897,12 +1900,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2015.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2015.8.10"
+		"versionEndExcluding": "2015.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
@@ -9076,10 +9076,17 @@
 		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.2.0:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2018.3.5",
+		"versionStartIncluding": "2018.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.0:rc1:*:*:*:*:*:*"
@@ -9123,12 +9130,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2018.3.5",
+		"versionStartIncluding": "2018.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:saltstack:salt:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:saltstack:salt:2018.3.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2018.3.5",
 		"versionStartIncluding": "2018.2.0"
 	},
 	{

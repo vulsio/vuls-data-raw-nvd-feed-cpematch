@@ -372,9 +372,6 @@
 				"cpe23Uri": "cpe:2.3:a:cloudflare:warp:1.4.33.0:*:*:*:*:windows:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:cloudflare:warp:1.4.107.0:*:*:*:*:windows:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cloudflare:warp:1.5.147.0:*:*:*:*:windows:*:*"
 			},
 			{
@@ -550,6 +547,15 @@
 			}
 		],
 		"versionEndIncluding": "2023.3.381.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cloudflare:warp:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cloudflare:warp:1.4.107.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "2023.3.381.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cloudflare:warp:*:*:*:*:*:windows:*:*",

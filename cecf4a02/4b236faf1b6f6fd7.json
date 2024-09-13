@@ -295,5 +295,30 @@
 			}
 		],
 		"versionEndExcluding": "6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bitapps:file_manager:6.3.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "6.5.6",
+		"versionStartIncluding": "6.0"
 	}
 ]

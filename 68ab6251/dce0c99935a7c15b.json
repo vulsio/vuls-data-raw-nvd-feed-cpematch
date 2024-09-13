@@ -13,6 +13,15 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*"
+			}
+		],
+		"versionEndExcluding": "10.0.22621.4169"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:*:*:*:*:*:*:arm64:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:10.0.22631.2428:*:*:*:*:*:arm64:*"
@@ -46,5 +55,26 @@
 			}
 		],
 		"versionEndExcluding": "10.0.22631.3155"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:*:*:*:*:*:*:arm64:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:-:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:10.0.22631.2428:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:10.0.22631.2506:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:10.0.22631.2715:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_23h2:10.0.22631.3007:*:*:*:*:*:arm64:*"
+			}
+		],
+		"versionEndExcluding": "10.0.22631.3880"
 	}
 ]

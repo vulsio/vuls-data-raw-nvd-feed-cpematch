@@ -3385,9 +3385,6 @@
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.4m:*:*:*:*:*:*:*"
 			},
 			{
@@ -3404,13 +3401,30 @@
 		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.22.7m",
+		"versionStartIncluding": "4.22"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.22.7m",
+		"versionStartIncluding": "4.22"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.0f:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
@@ -3432,25 +3446,13 @@
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.0f:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.4m:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.6m:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.7m:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.8.1f:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.22.9m",
@@ -3488,6 +3490,25 @@
 			}
 		],
 		"versionEndIncluding": "4.22.9m",
+		"versionStartIncluding": "4.22"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.0f:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.6m:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.8.1f:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.22.9m",
 		"versionStartIncluding": "4.22"
 	},
 	{
@@ -4466,12 +4487,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.25.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.25.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.25.5",
+		"versionEndExcluding": "4.25.5",
 		"versionStartIncluding": "4.25"
 	},
 	{
@@ -4494,9 +4512,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.25.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.25.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.25.5",
+		"versionEndIncluding": "4.25.5",
 		"versionStartIncluding": "4.25"
 	},
 	{

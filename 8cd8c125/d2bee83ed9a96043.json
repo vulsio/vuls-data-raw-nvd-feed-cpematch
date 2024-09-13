@@ -607,9 +607,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:2.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:2.6.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.6.0"
@@ -718,7 +715,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:1.6.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:2.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:paddlepaddle:paddlepaddle:1.6.3:*:*:*:*:*:*:*"
 			},

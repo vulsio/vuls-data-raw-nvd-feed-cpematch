@@ -224,7 +224,14 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:ios_xe:17.3:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "17.3.4",
+		"versionStartIncluding": "17.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:ios_xe:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:ios_xe:17.3.3:*:*:*:*:*:*:*"
 			}
