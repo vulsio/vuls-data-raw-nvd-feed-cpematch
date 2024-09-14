@@ -230,9 +230,6 @@
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:8.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:8.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -240,6 +237,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:9.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:8.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:9.1:-:*:*:*:*:*:*"
@@ -249,7 +255,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:9.1:p18:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "9.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:clustered_data_ontap:9.1:p19:*:*:*:*:*:*"
 			},

@@ -3,6 +3,9 @@
 		"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:1.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -71,6 +74,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:1.0.0:*:*:*:*:*:*:*"
 			},
@@ -151,13 +157,24 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:1.10.9-lts:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:1.10.10-lts:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10.12-lts",
 		"versionStartIncluding": "1.10.9-lts"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fit2cloud:1panel:1.10.10-lts:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10.12-lts",
 		"versionStartIncluding": "1.10.10-lts"
 	}

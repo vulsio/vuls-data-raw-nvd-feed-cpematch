@@ -12,5 +12,17 @@
 				"cpe23Uri": "cpe:2.3:a:microsoft:office_online_server:2016:*:*:*:*:*:*:*"
 			}
 		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:office_online_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:office_online_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:office_online_server:1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.0.10414.20000"
 	}
 ]

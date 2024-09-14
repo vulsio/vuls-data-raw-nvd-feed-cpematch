@@ -11,14 +11,20 @@
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:apc_easy_ups_online_monitoring_software:2.5-ga:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.5-ga-01-22320"
+		"versionEndIncluding": "2.5-ga-01-22320"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:schneider-electric:apc_easy_ups_online_monitoring_software:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:apc_easy_ups_online_monitoring_software:2.5-ga:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "2.5-ga-01-22320"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:apc_easy_ups_online_monitoring_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:apc_easy_ups_online_monitoring_software:2.5-ga-01-22320:*:*:*:*:*:*:*"
 			}

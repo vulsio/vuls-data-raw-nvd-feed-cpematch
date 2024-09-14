@@ -5064,5 +5064,446 @@
 			}
 		],
 		"versionEndExcluding": "10.0.19043.4529"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:-:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:-:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:-:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19041.3570:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19041.3570:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19041.3570:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.985:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.985:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.985:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1023:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1023:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1023:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1052:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1052:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1052:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1055:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1055:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1055:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1081:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1081:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1081:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1082:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1082:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1082:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1083:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1083:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1083:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1110:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1110:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1110:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1151:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1151:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1151:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1165:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1165:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1165:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1202:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1202:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1202:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1237:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1237:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1237:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1266:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1266:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1266:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1288:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1288:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1288:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1320:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1320:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1320:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1348:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1348:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1348:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1387:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1387:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1387:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1415:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1415:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1415:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1466:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1466:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1466:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1469:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1469:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1469:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1503:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1503:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1503:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1526:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1526:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1526:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1566:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1566:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1566:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1586:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1586:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1586:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1620:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1620:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1620:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1645:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1645:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1645:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1682:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1682:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1682:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1706:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1706:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1706:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1708:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1708:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1708:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1741:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1741:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1741:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1766:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1766:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1766:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1767:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1767:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1767:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1806:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1806:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1806:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1826:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1826:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1826:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1865:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1865:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1865:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1889:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1889:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1889:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1949:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1949:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.1949:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2006:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2006:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2006:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2075:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2075:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2075:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2130:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2130:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2130:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2132:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2132:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2132:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2193:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2193:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2193:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2194:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2194:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2194:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2251:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2251:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2251:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2311:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2311:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2311:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2364:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2364:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_21h1:10.0.19043.2364:*:*:*:*:*:x86:*"
+			}
+		],
+		"versionEndExcluding": "10.0.19044.4894"
 	}
 ]

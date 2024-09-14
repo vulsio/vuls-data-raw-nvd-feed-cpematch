@@ -108,15 +108,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.5:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.5:p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2.5"
+		"versionEndExcluding": "8.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:*:*:*:*:*:*:*:*",
@@ -150,8 +144,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.5:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netapp:data_ontap:8.2.5:p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2.5"
+		"versionEndIncluding": "8.2.5"
 	}
 ]
