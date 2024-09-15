@@ -777,22 +777,10 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.0:*:*:*:*:iphone_os:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.2:*:*:*:*:*:*:*"
@@ -939,9 +927,6 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:-:*:*:*:*:*:*"
 			},
 			{
@@ -1054,6 +1039,39 @@
 			}
 		],
 		"versionEndIncluding": "1.12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:*:*:*:*:iphone_os:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:mupdf:1.1:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.12.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:mupdf:*:*:*:*:*:*:*:*",

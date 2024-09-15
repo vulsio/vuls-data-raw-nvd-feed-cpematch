@@ -3,27 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:*:*:*:*:*:mac_os:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.6.0:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.7.0:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.8.0:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.8.1:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.9.0:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.0:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.1:*:*:*:*:mac_os:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.2:*:*:*:*:mac_os:*:*"
 			},
 			{
@@ -37,6 +16,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.2:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3.738:*:*:*:*:mac_os:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.3.738"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:*:*:*:*:*:mac_os:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.6.0:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.7.0:*:*:*:*:mac_os:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3:*:*:*:*:mac_os:*:*"
@@ -67,6 +64,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.1:*:*:*:*:mac_os:*:*"
+			}
+		],
+		"versionEndIncluding": "1.12.3.738"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:*:*:*:*:*:mac_os:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.8.0:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.8.1:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.9.0:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.0:*:*:*:*:mac_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.1:*:*:*:*:mac_os:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.10.2:*:*:*:*:mac_os:*:*"
@@ -82,15 +100,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.2:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3:*:*:*:*:mac_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:1.12.3.738:*:*:*:*:mac_os:*:*"
 			}
 		],
-		"versionEndIncluding": "1.12.3.738"
+		"versionEndExcluding": "1.12.3.738"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:advanced_malware_protection_for_endpoints:*:*:*:*:*:mac_os:*:*",

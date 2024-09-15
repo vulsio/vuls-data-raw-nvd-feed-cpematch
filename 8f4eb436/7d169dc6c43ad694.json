@@ -436,12 +436,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:20.0.0.204:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "20.0.0.233"
+		"versionEndExcluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:*:*:*:*:*:*:*:*",
@@ -490,9 +487,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:20.0.0.204:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "20.0.0.233"
+		"versionEndIncluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air_sdk_\\&_compiler:*:*:*:*:*:*:*:*",
