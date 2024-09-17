@@ -177,6 +177,9 @@
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.2.7:*:*:*:*:windows:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.0:*:*:*:*:windows:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.1:*:*:*:*:windows:*:*"
 			},
 			{
@@ -190,6 +193,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.0.5:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.0.6:*:*:*:*:windows:*:*"
@@ -247,12 +253,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.6.0:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "5.6.0"
+		"versionEndExcluding": "5.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -382,18 +385,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.5:*:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndExcluding": "5.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:4.3.0:*:*:*:*:windows:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.0.5:*:*:*:*:windows:*:*"
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.6.0:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndIncluding": "5.6.0"
@@ -2900,12 +2894,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.2:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.3:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.3",
+		"versionEndExcluding": "7.0.3",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -2919,9 +2910,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.3:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.3",
+		"versionEndIncluding": "7.0.3",
 		"versionStartIncluding": "7.0.0"
 	},
 	{

@@ -572,12 +572,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.4.4",
+		"versionEndExcluding": "5.4.4",
 		"versionStartIncluding": "5.4.0"
 	},
 	{
@@ -600,9 +597,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lua:lua:5.4.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.4.4",
+		"versionEndIncluding": "5.4.4",
 		"versionStartIncluding": "5.4.0"
 	},
 	{

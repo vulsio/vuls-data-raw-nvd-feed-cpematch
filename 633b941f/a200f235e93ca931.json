@@ -13,13 +13,27 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:1.7.0.800:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:1.7.0.804:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.0.827",
 		"versionStartIncluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:qnap:qulog_center:1.8.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.8.0.872",
 		"versionStartIncluding": "1.8.0"
 	}

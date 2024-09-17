@@ -3,6 +3,9 @@
 		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:-:*:*:*:*:macos:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2016:*:*:*:*:macos:*:*"
 			},
 			{
@@ -46,12 +49,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2021:update_2:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2021:update_3:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2021:update_4:*:*:*:macos:*:*"
 			}
 		],
 		"versionEndIncluding": "2021"
@@ -59,30 +56,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2019:3:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2020:-:*:*:*:macos:*:*"
-			}
-		],
-		"versionEndExcluding": "2021"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:-:*:*:*:*:macos:*:*"
-			}
-		],
-		"versionEndIncluding": "2021"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:true_image:-:*:*:*:*:macos:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2016:*:*:*:*:macos:*:*"
 			},
@@ -105,7 +78,34 @@
 				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2019:2:*:*:*:macos:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2019:3:*:*:*:macos:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2020:*:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2020:-:*:*:*:macos:*:*"
+			}
+		],
+		"versionEndExcluding": "2021"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2021:update_3:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:2021:update_4:*:*:*:macos:*:*"
+			}
+		],
+		"versionEndIncluding": "2021"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:acronis:true_image:*:*:*:*:*:macos:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:true_image:-:*:*:*:*:macos:*:*"
 			}
 		],
 		"versionEndExcluding": "2021"

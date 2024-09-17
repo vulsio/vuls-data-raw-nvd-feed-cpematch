@@ -393,15 +393,6 @@
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.49:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.51:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:putty:putty:0.52:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:putty:putty:0.53:*:*:*:*:*:*:*"
 			},
 			{
@@ -577,6 +568,21 @@
 			}
 		],
 		"versionEndExcluding": "0.75"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.51:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:putty:putty:0.52:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "0.75"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:putty:putty:*:*:*:*:*:*:*:*",

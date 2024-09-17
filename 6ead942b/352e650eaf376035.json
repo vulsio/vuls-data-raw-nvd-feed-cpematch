@@ -2641,19 +2641,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.0.1.8",
-		"versionStartIncluding": "10.0.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.2:*:*:*:*:*:*:*"
@@ -2671,6 +2658,12 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:10.0.1.2:*:*:*:*:*:*:*"
 			},
@@ -3138,27 +3131,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.7:*:*:*:continuous_delivery:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.21:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2018.4.1.21",
@@ -3205,6 +3177,34 @@
 			}
 		],
 		"versionEndExcluding": "2018.4.1.21",
+		"versionStartIncluding": "2018.4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.7:*:*:*:continuous_delivery:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:datapower_gateway:2018.4.1.21:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2018.4.1.21",
 		"versionStartIncluding": "2018.4.1.0"
 	},
 	{

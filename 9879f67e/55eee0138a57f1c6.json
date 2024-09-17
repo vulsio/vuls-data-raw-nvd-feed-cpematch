@@ -15,10 +15,10 @@
 				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:1.0.0.56:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:1.0.0.58:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.0.58"
+		"versionEndIncluding": "1.0.0.58"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:*:*:*:*:*:*:*:*",
@@ -28,9 +28,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:1.0.0.56:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.0.0.58"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:1.0.0.58:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:netgear:r7000p_firmware:1.0.0.56:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.0.0.58"
