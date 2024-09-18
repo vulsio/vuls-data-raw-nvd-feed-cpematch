@@ -15,7 +15,13 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:9:*:*:*:*:*:*:*"
 			}
@@ -26,12 +32,18 @@
 		"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sap:3d_visual_enterprise_viewer:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0"
 	}
 ]

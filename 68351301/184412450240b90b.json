@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:beckhoff:mdp_package:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:beckhoff:mdp_package:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2.7.0"
 	}
 ]

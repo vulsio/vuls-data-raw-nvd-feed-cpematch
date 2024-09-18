@@ -78,10 +78,22 @@
 		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.0:*:*:*:pro:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.1:*:*:*:pro:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.2:*:*:*:pro:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.2:hf1:*:*:*:*:*:*"
@@ -96,37 +108,10 @@
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.0:*:*:*:pro:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.1:*:*:*:pro:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.2:*:*:*:pro:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.1:*:*:*:*:*:*:*"
@@ -140,6 +125,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:1.0:*:*:*:pro:*:*:*"
 			},
@@ -421,9 +409,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.8.0"
+		"versionEndIncluding": "3.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",
@@ -487,12 +478,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:3.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.8.0"
+		"versionEndExcluding": "3.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:wyse_management_suite:*:*:*:*:*:*:*:*",

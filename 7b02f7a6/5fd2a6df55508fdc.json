@@ -43,12 +43,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.8.0"
+		"versionEndExcluding": "1.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
@@ -94,9 +91,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.8.0"
+		"versionEndIncluding": "1.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
@@ -227,5 +227,57 @@
 		],
 		"versionEndExcluding": "1.16.0",
 		"versionStartIncluding": "1.0.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.16.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.17.1",
+		"versionStartIncluding": "1.4.0"
 	}
 ]

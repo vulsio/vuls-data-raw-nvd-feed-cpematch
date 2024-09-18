@@ -67,12 +67,41 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "1.21.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:1.6.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.21.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:1.6.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.21.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.21.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:1.6.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_m17_r4_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.21.0"

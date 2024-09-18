@@ -8890,9 +8890,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:7.6.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:7.6.51:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.51",
+		"versionEndIncluding": "7.6.51",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -9041,12 +9044,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:7.6.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:7.6.51:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.51",
+		"versionEndExcluding": "7.6.51",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -9631,13 +9631,37 @@
 		"cpe23Uri": "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.0:*:*:*:elts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.3.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.3.1:*:*:*:*:*:*:*"
@@ -9936,37 +9960,6 @@
 			}
 		],
 		"versionEndExcluding": "8.7.40",
-		"versionStartIncluding": "8.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.3.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.7.40",
 		"versionStartIncluding": "8.0.0"
 	},
 	{

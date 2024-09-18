@@ -165,9 +165,6 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:0.5.0:milestone1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:0.5.0:milestone2:*:*:*:*:*:*"
 			},
 			{
@@ -250,22 +247,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.1.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.5.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.5.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.1.11:*:*:*:*:*:*:*"
 			},
@@ -553,7 +535,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.2.5:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "1.5.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:0.5.0:milestone1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.5.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.2.6:*:*:*:*:*:*:*"
 			},
@@ -670,6 +667,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.5.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:1.5.8:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.5.9"
@@ -2827,12 +2827,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:2.6.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:2.6.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.14",
+		"versionEndExcluding": "2.6.14",
 		"versionStartIncluding": "2.6.0"
 	},
 	{
@@ -2894,9 +2891,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:2.6.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:2.6.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.14",
+		"versionEndIncluding": "2.6.14",
 		"versionStartIncluding": "2.6.0"
 	},
 	{

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:andrewabarber:wordpress_jitsi_shortcode:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:andrewabarber:wordpress_jitsi_shortcode:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:andrewabarber:wordpress_jitsi_shortcode:0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.1"
 	}
 ]

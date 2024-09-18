@@ -1,6 +1,15 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:simatic_reader_rf610r_cmiit_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_reader_rf610r_cmiit_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:simatic_reader_rf610r_cmiit_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "4.0",
 		"versionStartIncluding": "3.0"

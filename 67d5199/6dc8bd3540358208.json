@@ -7504,12 +7504,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elementor:website_builder:3.5.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:elementor:website_builder:3.5.5:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.5"
+		"versionEndExcluding": "3.5.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elementor:website_builder:*:*:*:*:*:wordpress:*:*",
@@ -8590,9 +8587,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elementor:website_builder:3.5.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elementor:website_builder:3.5.5:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.5"
+		"versionEndIncluding": "3.5.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elementor:website_builder:*:*:*:*:*:wordpress:*:*",
