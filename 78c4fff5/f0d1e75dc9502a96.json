@@ -8785,9 +8785,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ghost:ghost:5.46.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ghost:ghost:5.76.0:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "5.76.0"
+		"versionEndIncluding": "5.76.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ghost:ghost:*:*:*:*:*:node.js:*:*",
@@ -10756,12 +10759,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ghost:ghost:5.46.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ghost:ghost:5.76.0:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "5.76.0"
+		"versionEndExcluding": "5.76.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ghost:ghost:*:*:*:*:*:node.js:*:*",

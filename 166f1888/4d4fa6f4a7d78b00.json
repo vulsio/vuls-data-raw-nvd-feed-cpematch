@@ -3432,22 +3432,6 @@
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.4m:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.22.9m",
-		"versionStartIncluding": "4.22"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.0f:*:*:*:*:*:*:*"
 			},
 			{
@@ -3476,10 +3460,19 @@
 		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.0f:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.1f:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.3m:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.4m:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.22.6m:*:*:*:*:*:*:*"
@@ -4732,19 +4725,7 @@
 		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.1f:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.26.2",
@@ -4767,6 +4748,25 @@
 			}
 		],
 		"versionEndExcluding": "4.26.2",
+		"versionStartIncluding": "4.26"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:arista:eos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.1f:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:arista:eos:4.26.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.26.2",
 		"versionStartIncluding": "4.26"
 	},
 	{

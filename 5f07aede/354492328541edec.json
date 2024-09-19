@@ -354,10 +354,16 @@
 		"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.2:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix4:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2020.2.5"
@@ -365,6 +371,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:-:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix1:*:*:*:*:*:*"
 			},
@@ -507,19 +516,19 @@
 		"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix4:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.2:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.2:hotfix1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.2:hotfix2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2017.1:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2017.1:hotfix1:*:*:*:*:*:*"
@@ -628,27 +637,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2020.2.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2020.2.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2020.2.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2016.1:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:solarwinds:orion_platform:2017.1:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2020.2.5"

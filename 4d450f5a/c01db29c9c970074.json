@@ -10,5 +10,18 @@
 			}
 		],
 		"versionEndIncluding": "1.9.14"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:aspera_shares:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_shares:1.9.14:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_shares:1.9.14:patch_level1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.10.0",
+		"versionStartIncluding": "1.0.0"
 	}
 ]

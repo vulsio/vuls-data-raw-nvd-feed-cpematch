@@ -939,9 +939,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.0.5",
@@ -954,10 +951,27 @@
 				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.1_build_55017:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.5",
+		"versionStartIncluding": "2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:player:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.5",
+		"versionStartIncluding": "2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:player:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:player:2.0.2:*:*:*:*:*:*:*"
