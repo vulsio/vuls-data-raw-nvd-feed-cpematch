@@ -46,12 +46,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:0.4.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:0.4.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "0.4.6"
+		"versionEndExcluding": "0.4.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:*:*:*:*:*:wordpress:*:*",
@@ -100,9 +97,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:0.4.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:0.4.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "0.4.6"
+		"versionEndIncluding": "0.4.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gtmetrix:gtmetrix:*:*:*:*:*:wordpress:*:*",

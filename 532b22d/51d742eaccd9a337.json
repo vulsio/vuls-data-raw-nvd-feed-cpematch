@@ -11188,6 +11188,16 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.9.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.0.0:-:*:*:*:*:*:*"
@@ -11304,9 +11314,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.0.0:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.0.0:-:*:*:*:*:*:*"
 			},

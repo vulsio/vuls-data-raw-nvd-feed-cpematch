@@ -6,9 +6,6 @@
 				"cpe23Uri": "cpe:2.3:a:redhat:spacewalk:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:spacewalk:1.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:spacewalk:2.6:*:*:*:*:*:*:*"
 			},
 			{
@@ -31,5 +28,14 @@
 			}
 		],
 		"versionEndExcluding": "2.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:spacewalk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:spacewalk:1.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.9"
 	}
 ]
