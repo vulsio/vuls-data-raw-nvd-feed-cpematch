@@ -9156,7 +9156,13 @@
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:7.8.2:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:7.8.3:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:7.9.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:7.9.1:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.0.0:*:*:*:*:wordpress:*:*"
@@ -9171,10 +9177,16 @@
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.0.3:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.0.4:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.1.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.1.2:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.2.0:*:*:*:*:wordpress:*:*"
@@ -9807,13 +9819,39 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.8.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.8.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.8.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.8.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.8.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "8.8.5",
 		"versionStartIncluding": "8.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.9.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.9.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:woocommerce:woocommerce:8.9.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "8.9.3",
 		"versionStartIncluding": "8.9.0"
 	}

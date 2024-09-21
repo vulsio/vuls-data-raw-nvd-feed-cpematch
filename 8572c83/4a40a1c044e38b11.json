@@ -356,12 +356,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:15.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:15.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.1",
+		"versionEndExcluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -369,9 +366,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:15.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:15.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.1",
+		"versionEndIncluding": "15.1.1",
 		"versionStartIncluding": "15.1.0"
 	},
 	{
@@ -597,34 +597,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "16.1.4",
-		"versionStartIncluding": "16.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -644,6 +616,48 @@
 			}
 		],
 		"versionEndIncluding": "16.1.4",
+		"versionStartIncluding": "16.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.1.4",
+		"versionStartIncluding": "16.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "16.1.4",
+		"versionStartIncluding": "16.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_application_visibility_and_reporting:16.1.3.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "16.1.4",
 		"versionStartIncluding": "16.1.0"
 	},
 	{

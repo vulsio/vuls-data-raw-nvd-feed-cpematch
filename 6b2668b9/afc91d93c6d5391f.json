@@ -186,21 +186,6 @@
 		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -448,9 +433,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixr:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixs:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.8.1"
+		"versionEndIncluding": "5.8.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
@@ -715,18 +709,42 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.7.1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "5.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.8.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tibco:ebx:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixr:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:tibco:ebx:5.8.1:fixs:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:tibco:ebx:4.1.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.8.1"

@@ -69,12 +69,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r31p0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "r31p0",
+		"versionEndExcluding": "r31p0",
 		"versionStartIncluding": "r4p0"
 	},
 	{
@@ -94,9 +91,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r30p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:r31p0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "r31p0",
+		"versionEndIncluding": "r31p0",
 		"versionStartIncluding": "r4p0"
 	},
 	{

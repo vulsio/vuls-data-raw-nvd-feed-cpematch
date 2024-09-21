@@ -5200,9 +5200,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.25"
+		"versionEndIncluding": "9.25"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -5950,12 +5953,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.25"
+		"versionEndExcluding": "9.25"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -14589,39 +14589,6 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.30:beta:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.35:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.36:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.38:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.39:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.41:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.42:*:*:*:*:*:*:*"
 			},
 			{
@@ -14721,45 +14688,6 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.34:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.35:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.36:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.38:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.39:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.40:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.41:*:*:*:*:*:*:*"
 			},
 			{
@@ -14800,60 +14728,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.01:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.02:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.04:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.05:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.06:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.07:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.31:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.32:beta:*:*:*:*:*:*"
@@ -15246,6 +15120,405 @@
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.04:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.05:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.07:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.31:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.61:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.62:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.64:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.61:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.62:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.64:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.70:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.71:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.56.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.56.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.00.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.01.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.01.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.38:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.41:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.51:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.53:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.54:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.56:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.57:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.60:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.30:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7.1:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7.2:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.8:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.1:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.2:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.3:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.4:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.5:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.6:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.7:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.9:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.10:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.20:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.21:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.22:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.23:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.24:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.25:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.26:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.27:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.28:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.30:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.32:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.33:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.34:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.35:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.36:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.37:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.38:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.39:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.40:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.90:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.91:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.92:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.93:beta:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.32:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.34:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.38:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:4.40:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.02.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -15300,49 +15573,7 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7.1:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.7.2:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.8:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.1:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.2:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.3:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.4:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.5:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.6:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.7:beta:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.9:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:2.9.10:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.0:*:*:*:*:*:*:*"
@@ -15369,37 +15600,7 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.13:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.20:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.21:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.22:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.23:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.24:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.25:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.26:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.27:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.28:beta:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.29:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.30:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:3.31:*:*:*:*:*:*:*"
@@ -15669,51 +15870,6 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.31:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.32:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.33:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.34:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.35:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.36:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.37:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.38:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.39:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.40:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.61:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.62:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.63:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.64:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.65:*:*:*:*:*:*:*"
 			},
 			{
@@ -15766,18 +15922,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.88:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.90:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.91:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.92:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.93:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:5.94:beta:*:*:*:*:*:*"
@@ -15847,87 +15991,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:7.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.00:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.32:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.51:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.52:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.53:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.54:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.56:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.57:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.61:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.62:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.63:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.64:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.70:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8.71:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:8_64:*:*:*:*:*:*:*"
@@ -16032,22 +16095,7 @@
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.55.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.56.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.56.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.00.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.01.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.01.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:10.01.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.02.0"
@@ -17012,12 +17060,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.28:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.50:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.50",
+		"versionEndExcluding": "9.50",
 		"versionStartIncluding": "9.00"
 	},
 	{
@@ -17091,9 +17136,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.28:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.50:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.50",
+		"versionEndIncluding": "9.50",
 		"versionStartIncluding": "9.00"
 	},
 	{
