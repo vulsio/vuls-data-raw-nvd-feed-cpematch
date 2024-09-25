@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.2.35"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:0.3.28:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2.35"
 	}
 ]

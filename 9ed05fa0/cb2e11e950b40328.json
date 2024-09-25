@@ -127,12 +127,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:9.77:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:9.78:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.78"
+		"versionEndExcluding": "9.78"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:*:*:*:*:*:*:*:*",
@@ -154,9 +151,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:9.77:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:9.78:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.78"
+		"versionEndIncluding": "9.78"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:omron:cx-programmer:*:*:*:*:*:*:*:*",

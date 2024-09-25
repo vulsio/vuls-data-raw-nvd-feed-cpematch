@@ -39,9 +39,6 @@
 		"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:10.0.9:*:*:*:*:*:*:*"
 			}
 		],
@@ -58,6 +55,15 @@
 			}
 		],
 		"versionEndIncluding": "10.0.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sonicwall:email_security:*:*:*:*:*:*:*:*",

@@ -3,16 +3,10 @@
 		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.1.0:*:*:*:*:*:*:*"
@@ -55,7 +49,25 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:allura:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*"
 			},

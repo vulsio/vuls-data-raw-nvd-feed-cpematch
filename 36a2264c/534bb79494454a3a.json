@@ -327,12 +327,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.5.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.5.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.5.9",
+		"versionEndExcluding": "11.5.9",
 		"versionStartIncluding": "11.5.2"
 	},
 	{
@@ -364,9 +361,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.5.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.5.9",
+		"versionEndIncluding": "11.5.9",
 		"versionStartIncluding": "11.5.2"
 	},
 	{
@@ -521,6 +521,9 @@
 		"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.6.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -547,16 +550,6 @@
 			}
 		],
 		"versionEndIncluding": "11.6.4",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_websafe:11.6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.6.4",
 		"versionStartIncluding": "11.6.1"
 	},
 	{

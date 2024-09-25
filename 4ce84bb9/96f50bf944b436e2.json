@@ -349,9 +349,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.15:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.16:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "22.2.10.16",
+		"versionEndIncluding": "22.2.10.16",
 		"versionStartIncluding": "22.0.0"
 	},
 	{
@@ -377,12 +380,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.15:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:22.2.10.16:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "22.2.10.16",
+		"versionEndExcluding": "22.2.10.16",
 		"versionStartIncluding": "22.0.0"
 	},
 	{
@@ -424,7 +424,7 @@
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:23.0.0:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "23.0.12",
+		"versionEndIncluding": "23.0.12",
 		"versionStartIncluding": "23.0.0"
 	},
 	{
@@ -434,7 +434,7 @@
 				"cpe23Uri": "cpe:2.3:a:nextcloud:nextcloud_server:23.0.0:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "23.0.12",
+		"versionEndExcluding": "23.0.12",
 		"versionStartIncluding": "23.0.0"
 	},
 	{

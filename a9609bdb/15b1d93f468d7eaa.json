@@ -4,7 +4,25 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:-:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.2:*:*:*:*:wordpress:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.3:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "2.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:1.0.0:*:*:*:*:wordpress:*:*"
 			},
@@ -106,12 +124,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.3"
+		"versionEndExcluding": "2.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:*:*:*:*:*:wordpress:*:*",
@@ -217,11 +232,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jamesward:wp_mail_catcher:2.1.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.3"
+		"versionEndIncluding": "2.1.3"
 	}
 ]
