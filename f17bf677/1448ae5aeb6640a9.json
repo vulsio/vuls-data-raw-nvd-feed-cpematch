@@ -11667,6 +11667,12 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:ansible:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.0:a1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.0:b2:*:*:*:*:*:*"
 			},
 			{
@@ -11692,6 +11698,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.7:*:*:*:*:*:*:*"
@@ -11741,30 +11750,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.8.8",
-		"versionStartIncluding": "2.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:ansible:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.0:-:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.0:a1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.8.8",
-		"versionStartIncluding": "2.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:redhat:ansible:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ansible:2.8.7:*:*:*:*:*:*:*"
 			}

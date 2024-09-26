@@ -3,7 +3,19 @@
 		"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.1:*:*:*:*:*:*:*"
@@ -37,9 +49,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.2.0:*:*:*:*:*:*:*"
@@ -61,15 +70,6 @@
 			}
 		],
 		"versionEndIncluding": "9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:8.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:communications_element_manager:*:*:*:*:*:*:*:*",

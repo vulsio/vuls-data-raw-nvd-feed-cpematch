@@ -1039,5 +1039,27 @@
 			}
 		],
 		"versionEndExcluding": "4.9.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:4.9.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:4.9.11:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:4.9.12:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:4.9.13:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibericode:mailchimp:4.9.14:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "4.9.16",
+		"versionStartIncluding": "4.9.9"
 	}
 ]

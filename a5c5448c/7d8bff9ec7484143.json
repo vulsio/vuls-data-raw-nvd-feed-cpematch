@@ -1020,7 +1020,19 @@
 		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:515:*:*:*:*:windows:*:*"
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.25:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.59:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.94:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.40:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.71:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndExcluding": "517.88",
@@ -1037,15 +1049,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.59:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.94:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.40:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.71:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.88:*:*:*:*:windows:*:*"
@@ -1058,11 +1061,15 @@
 		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.25:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.59:*:*:*:*:windows:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:515:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "517.88",
+		"versionStartIncluding": "515"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:516.94:*:*:*:*:windows:*:*"
 			},
@@ -1073,7 +1080,7 @@
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_display_driver:517.71:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "517.88",
+		"versionEndIncluding": "517.88",
 		"versionStartIncluding": "515"
 	},
 	{

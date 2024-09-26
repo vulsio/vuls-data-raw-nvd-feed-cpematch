@@ -25804,6 +25804,52 @@
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8-11.el8_2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.7.1",
+		"versionStartIncluding": "3.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8-11.el8_2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.12:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.13:*:*:*:*:*:*:*"
 			},
 			{
@@ -25811,117 +25857,78 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.15:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "3.7.1",
+		"versionStartIncluding": "3.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.7.1",
+		"versionStartIncluding": "3.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.16:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.7.1",
+		"versionStartIncluding": "3.6.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.15:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.7.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.7.1",
-		"versionStartIncluding": "3.6.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.7.1",
-		"versionStartIncluding": "3.6.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.12:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.7.1",
-		"versionStartIncluding": "3.6.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gnu:gnutls:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.8-11.el8_2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.6.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:gnutls:3.7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.7.1",
 		"versionStartIncluding": "3.6.3"
 	},
 	{

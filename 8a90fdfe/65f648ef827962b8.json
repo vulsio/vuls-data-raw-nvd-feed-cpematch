@@ -750,9 +750,6 @@
 		"cpe23Uri": "cpe:2.3:a:gnu:wget:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:wget:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:wget:1.4.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -793,9 +790,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:wget:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:wget:1.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:wget:1.10.1:*:*:*:*:*:*:*"
@@ -1030,6 +1024,18 @@
 			}
 		],
 		"versionEndIncluding": "1.20.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:wget:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:wget:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:wget:1.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.20.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:wget:*:*:*:*:*:*:*:*",

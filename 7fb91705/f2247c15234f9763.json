@@ -904,19 +904,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.18:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "12.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.19:*:*:*:*:*:*:*"
 			},
@@ -1116,10 +1110,19 @@
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.6:*:*:*:*:*:*:*"
@@ -1128,13 +1131,13 @@
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.8"
+		"versionEndIncluding": "12.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
@@ -1330,16 +1333,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.21:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "12.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.22:*:*:*:*:*:*:*"
 			},
@@ -1462,6 +1462,51 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.66:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:seacms:seacms:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.21:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:6.67:*:*:*:*:*:*:*"
@@ -1530,25 +1575,10 @@
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:11.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:seacms:seacms:12.8:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "12.8"

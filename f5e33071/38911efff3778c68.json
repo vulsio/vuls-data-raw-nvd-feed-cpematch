@@ -64,12 +64,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1"
+		"versionEndExcluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:*:*:*:*:*:wordpress:*:*",
@@ -136,8 +133,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gopiplus:jquery_news_ticker:3.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1"
+		"versionEndIncluding": "3.1"
 	}
 ]
