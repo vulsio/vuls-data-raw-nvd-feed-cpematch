@@ -2364,6 +2364,12 @@
 		"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1.0:*:*:*:-:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1.0:*:*:*:enterprise:*:*:*"
 			},
 			{
@@ -2387,24 +2393,7 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1:beta1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.1.6",
-		"versionStartIncluding": "5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1.0:*:*:*:-:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.6",
-		"versionStartIncluding": "5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1.0:*:*:*:-:*:*:*"
 			},
@@ -2425,16 +2414,6 @@
 			}
 		],
 		"versionEndExcluding": "5.1.6",
-		"versionStartIncluding": "5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hazelcast:hazelcast:5.1:beta1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.6",
 		"versionStartIncluding": "5.1"
 	},
 	{

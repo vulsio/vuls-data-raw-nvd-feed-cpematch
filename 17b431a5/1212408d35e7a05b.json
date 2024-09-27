@@ -481,9 +481,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.13.5",
+		"versionEndIncluding": "2.13.5",
 		"versionStartIncluding": "2.13.0"
 	},
 	{
@@ -506,38 +515,10 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.13.5",
+		"versionEndExcluding": "2.13.5",
 		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.17.2",
-		"versionStartIncluding": "2.17.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
@@ -565,6 +546,25 @@
 			}
 		],
 		"versionEndIncluding": "2.17.2",
+		"versionStartIncluding": "2.17.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.17.2",
 		"versionStartIncluding": "2.17.0"
 	},
 	{
@@ -705,6 +705,54 @@
 		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.9:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.10:*:*:*:*:*:*:*"
 			},
 			{
@@ -727,27 +775,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.0.18",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.16:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.17:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.0.18",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.16:*:*:*:*:*:*:*"
 			},
@@ -786,44 +814,6 @@
 		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.0.18",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.0.18",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -885,49 +875,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.12:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.17:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.0.18",
-		"versionStartIncluding": "3.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:3.0.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.0.18",
 		"versionStartIncluding": "3.0.0"
 	},
 	{

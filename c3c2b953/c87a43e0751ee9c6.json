@@ -3,6 +3,9 @@
 		"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:-:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:1.0.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -43,6 +46,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:1.5.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:1.5.3:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:1.5.4:*:*:*:*:wordpress:*:*"
@@ -103,17 +109,5 @@
 			}
 		],
 		"versionEndExcluding": "1.5.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:-:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:avirtum:imagelinks:1.5.3:*:*:*:*:wordpress:*:*"
-			}
-		],
-		"versionEndIncluding": "1.5.4"
 	}
 ]
