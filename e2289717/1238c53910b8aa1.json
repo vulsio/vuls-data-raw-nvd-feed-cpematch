@@ -13,6 +13,22 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "3.0.9",
+		"versionStartIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.5",
+		"versionStartIncluding": "3.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.2.0:*:*:*:*:*:*:*"
@@ -28,10 +44,57 @@
 		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.2.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.2.10",
+		"versionStartIncluding": "3.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.3.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.3.1",
 		"versionStartIncluding": "3.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:3.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.3.11",
+		"versionStartIncluding": "3.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "4.0.6",
+		"versionStartIncluding": "4.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "4.1.10",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:purestorage:purity\\/\\/fb:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "4.2.3",
+		"versionStartIncluding": "4.2.0"
 	}
 ]

@@ -11,5 +11,18 @@
 		],
 		"versionEndIncluding": "2.0.4",
 		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:storage_defender:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:storage_defender:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:storage_defender:2.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.8",
+		"versionStartIncluding": "2.0.0"
 	}
 ]

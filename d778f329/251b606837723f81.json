@@ -36,12 +36,6 @@
 		"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:01.04.02:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:01.12.00:*:*:*:*:*:*:*"
 			}
 		],
@@ -52,7 +46,25 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:-:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:01.04.02:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elite_dragonfly_firmware:01.04.02:*:*:*:*:*:*:*"
 			},

@@ -7,9 +7,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.1"
@@ -22,5 +19,14 @@
 			}
 		],
 		"versionEndExcluding": "3.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:operator_terminal_expert_runtime:3.1:service_pack_1a:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1"
 	}
 ]

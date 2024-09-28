@@ -133,5 +133,21 @@
 			}
 		],
 		"versionStartIncluding": "1.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tinfoilsecurity:devise-two-factor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tinfoilsecurity:devise-two-factor:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tinfoilsecurity:devise-two-factor:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tinfoilsecurity:devise-two-factor:4.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.0",
+		"versionStartIncluding": "4.0.0"
 	}
 ]
