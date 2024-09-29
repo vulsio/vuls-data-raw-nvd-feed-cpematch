@@ -1467,9 +1467,6 @@
 		"cpe23Uri": "cpe:2.3:a:qnap:music_station:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1489,10 +1486,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.11:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "4.8.11",
+		"versionStartIncluding": "4.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:qnap:music_station:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:qnap:music_station:5.0.0:*:*:*:*:*:*:*"
 			},
@@ -1656,35 +1657,8 @@
 				"cpe23Uri": "cpe:2.3:a:qnap:music_station:5.3.23:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:qnap:music_station:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:qnap:music_station:4.8.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.8.11",
-		"versionStartIncluding": "4.8.0"
+		"versionEndExcluding": "5.4.0",
+		"versionStartIncluding": "5.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:qnap:music_station:*:*:*:*:*:*:*:*",

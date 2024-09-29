@@ -15,40 +15,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.4.5",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_4:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_5:*:*:*:*:*:*"
 			}
 		],
@@ -65,36 +31,19 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_6:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.4.5",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_1:*:*:*:*:*:*"
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.4.5",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "3.4.5",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_3:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.5",
+		"versionEndIncluding": "3.4.5",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -102,6 +51,22 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.5",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_5:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "3.4.5",
@@ -112,19 +77,27 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_6:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "3.4.5",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:aspera_console:3.4.2:patch_level_2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.4.5",
 		"versionStartIncluding": "3.4.0"
 	}
 ]

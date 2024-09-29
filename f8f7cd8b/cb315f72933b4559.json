@@ -212,21 +212,6 @@
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.0.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -269,7 +254,16 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
@@ -848,16 +842,7 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
@@ -1058,10 +1043,28 @@
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
@@ -1094,10 +1097,34 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*"
@@ -1245,39 +1272,6 @@
 			}
 		],
 		"versionEndIncluding": "2.2.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
