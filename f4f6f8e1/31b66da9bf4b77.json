@@ -29,6 +29,12 @@
 		"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:1.010l:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:1.011m:*:*:*:*:*:*:*"
 			}
 		],
@@ -45,17 +51,5 @@
 			}
 		],
 		"versionEndExcluding": "1.011m"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:cw_configurator:1.010l:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.011m"
 	}
 ]

@@ -6,20 +6,14 @@
 				"cpe23Uri": "cpe:2.3:o:netgear:wac104_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.4.13"
+		"versionEndExcluding": "1.0.4.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:wac104_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:wac104_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.0.4.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:netgear:wac104_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:wac104_firmware:1.0.4.13:*:*:*:*:*:*:*"
 			}
