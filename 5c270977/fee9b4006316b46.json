@@ -93,9 +93,6 @@
 				"cpe23Uri": "cpe:2.3:a:codestag:stagtools:2.2.5:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:codestag:stagtools:2.2.6:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:codestag:stagtools:2.3:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -241,5 +238,14 @@
 			}
 		],
 		"versionEndIncluding": "2.3.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:codestag:stagtools:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codestag:stagtools:2.2.6:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "2.3.7"
 	}
 ]

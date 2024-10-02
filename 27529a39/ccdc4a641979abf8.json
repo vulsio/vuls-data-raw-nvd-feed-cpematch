@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:codecabin:super_testimonials:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codecabin:super_testimonials:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:codecabin:super_testimonials:3.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.0"
 	}
 ]

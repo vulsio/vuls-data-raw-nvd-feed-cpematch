@@ -613,12 +613,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.2"
+		"versionEndExcluding": "3.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -667,9 +664,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.2"
+		"versionEndIncluding": "3.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -6081,6 +6081,174 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -6091,25 +6259,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
 			},
@@ -6132,7 +6282,28 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.3"
@@ -6141,10 +6312,19 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
@@ -6159,91 +6339,79 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
@@ -6291,37 +6459,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
@@ -6345,76 +6483,16 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
@@ -6435,73 +6513,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "8.3"
@@ -11199,6 +11211,78 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
 			},
 			{
@@ -11212,24 +11296,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.4:*:*:*:*:*:*:*"
@@ -11250,67 +11316,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
@@ -11322,19 +11328,19 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.6"
@@ -11343,137 +11349,104 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
 			},
@@ -11482,915 +11455,93 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
@@ -12402,7 +11553,7 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
@@ -12430,391 +11581,10 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
 			},
@@ -12837,14 +11607,71 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0"
+		"versionEndExcluding": "10.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.4:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.5:*:*:*:*:*:*:*"
 			},
@@ -12859,6 +11686,87 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -12867,7 +11775,61 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.4:*:*:*:*:*:*:*"
@@ -12882,10 +11844,124 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
@@ -12904,6 +11980,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -12912,7 +12000,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -12921,10 +12009,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -12933,7 +12018,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -12942,25 +12027,10 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -12969,7 +12039,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -12978,7 +12048,22 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -12987,7 +12072,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:9.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -12996,7 +12081,13 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:10.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -13005,16 +12096,28 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
@@ -13026,22 +12129,223 @@
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -13051,9 +12355,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -13062,13 +12363,7 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:8.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
@@ -13077,10 +12372,67 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.3.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0"
@@ -13089,13 +12441,100 @@
 		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.4.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:apple:watchos:7.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:6.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4.3.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:apple:watchos:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:watchos:4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0"
