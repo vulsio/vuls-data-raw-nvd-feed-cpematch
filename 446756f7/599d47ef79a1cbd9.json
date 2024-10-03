@@ -840,11 +840,14 @@
 		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:5.2:*:*:*:*:windows:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "7.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:5.2.1:*:*:*:*:*:*:*"
 			},
@@ -867,16 +870,10 @@
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.2:*:*:*:*:windows:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.2.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.1:*:*:*:*:*:*:*"
@@ -963,19 +960,7 @@
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.4:*:*:*:*:*:*:*"
@@ -1006,6 +991,39 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:5.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:6.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndIncluding": "7.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apple:icloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apple:icloud:7.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.10"

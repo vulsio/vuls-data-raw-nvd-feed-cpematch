@@ -4,21 +4,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:8.9.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.9.0"
+		"versionEndExcluding": "8.9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:8.9.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.9.0"
+		"versionEndIncluding": "8.9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4000_tx\\/tx-m_firmware:*:*:*:*:*:*:*:*",

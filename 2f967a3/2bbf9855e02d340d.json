@@ -3,28 +3,7 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:7.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.tc5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc5:*:*:*:*:*:*:*"
@@ -34,6 +13,84 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:7.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.00:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:7.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.tc5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.00:*:*:*:*:*:*:*"
@@ -46,42 +103,57 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:7.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.tc5:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc1:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.xc7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:10.00:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:9.40.uc1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.00"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:informix_dynamic_server:*:*:*:*:*:*:*:*",

@@ -232,9 +232,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "17.1.1"
+		"versionEndIncluding": "17.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",
@@ -283,12 +286,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "17.1.1"
+		"versionEndExcluding": "17.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",
@@ -357,7 +357,55 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:6.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:16.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:18.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:18.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "18.2"
@@ -424,60 +472,6 @@
 			}
 		],
 		"versionEndIncluding": "18.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:4.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:5.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:6.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:7.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:16.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:18.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",
