@@ -71,18 +71,6 @@
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:-:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.521:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.531:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.643:*:*:*:*:*:*:*"
 			},
 			{
@@ -95,16 +83,52 @@
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:-:*:*:*:*:*:x64:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndExcluding": "10.0.25398.709"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.521:*:*:*:*:*:x64:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.531:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndIncluding": "10.0.25398.709"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:-:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.521:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndExcluding": "10.0.25398.709"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:-:*:*:*:*:*:x64:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*"
+			}
+		],
+		"versionEndIncluding": "10.0.25398.709"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.531:*:*:*:*:*:x64:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.643:*:*:*:*:*:*:*"
@@ -222,7 +246,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*"
-			},
+			}
+		],
+		"versionEndExcluding": "10.0.25398.1009"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.643:*:*:*:*:*:*:*"
 			},
@@ -231,6 +261,15 @@
 			}
 		],
 		"versionEndIncluding": "10.0.25398.1009"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.709:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.25398.1009"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
@@ -246,12 +285,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.584:*:*:*:*:*:x64:*"
-			},
+			}
+		],
+		"versionEndIncluding": "10.0.25398.1009"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.643:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022_23h2:10.0.25398.709:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.0.25398.1009"

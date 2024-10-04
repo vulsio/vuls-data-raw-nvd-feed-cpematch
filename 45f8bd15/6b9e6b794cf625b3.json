@@ -10,7 +10,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phpvibe:phpvibe:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:phpvibe:phpvibe:11.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpvibe:phpvibe:11.0.42:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpvibe:phpvibe:11.0.43:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phpvibe:phpvibe:11.0.45:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "11.0.46",
 		"versionStartIncluding": "11.0.3"
 	}

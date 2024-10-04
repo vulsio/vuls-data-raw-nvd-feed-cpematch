@@ -4,9 +4,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g5_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g5_firmware:02.14.01:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "02.14.01"
@@ -19,5 +16,14 @@
 			}
 		],
 		"versionEndExcluding": "02.14.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g5_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g5_firmware:02.14.01:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "02.14.01"
 	}
 ]

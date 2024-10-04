@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:10up:simple_local_avatars:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:10up:simple_local_avatars:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.7.11"
 	}
 ]

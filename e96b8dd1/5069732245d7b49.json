@@ -446,14 +446,15 @@
 		"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.0.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.2.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.2.0",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0.21:*:*:*:*:*:*:*"
 			},
@@ -468,12 +469,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.1.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.2.0",
@@ -511,12 +506,31 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.2.0",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.0.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_powerscale_onefs:9.1.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.2.0",
 		"versionStartIncluding": "9.0.0.0"
 	},
 	{

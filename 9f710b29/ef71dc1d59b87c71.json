@@ -294,6 +294,9 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.4:*:*:*:*:*:arm:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:arm:*"
 			},
 			{
@@ -357,6 +360,9 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.3:rc1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:arm:*"
 			},
 			{
@@ -402,6 +408,9 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.2:*:*:*:*:*:arm:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:arm:*"
 			},
 			{
@@ -412,6 +421,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.5:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:arm:*"
@@ -436,6 +448,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.1:*:*:*:*:*:arm:*"
@@ -997,26 +1012,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:14.4:*:*:*:*:*:x86:*"
-			}
-		]
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.1:*:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -31537,21 +31532,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:x86:*:*"
 			}
 		],
-		"versionEndIncluding": "4.14.0",
+		"versionEndExcluding": "4.14.0",
 		"versionStartIncluding": "4.5.0"
 	},
 	{
@@ -32141,9 +32124,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:x86:*:*"
 			}
 		],
-		"versionEndExcluding": "4.14.0",
+		"versionEndIncluding": "4.14.0",
 		"versionStartIncluding": "4.5.0"
 	},
 	{

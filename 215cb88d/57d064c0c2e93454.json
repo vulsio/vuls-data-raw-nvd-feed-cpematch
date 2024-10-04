@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:8.40:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:8.41:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:8.45:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:8.50:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:maas360_mdm:8.55:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndIncluding": "8.60",
 		"versionStartIncluding": "6.31"
 	}

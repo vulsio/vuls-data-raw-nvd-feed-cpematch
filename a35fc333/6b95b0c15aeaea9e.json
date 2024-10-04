@@ -27,8 +27,20 @@
 		"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:-:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1:*:*:*:*:wordpress:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:0.3:*:*:*:*:wordpress:*:*"
 			},
@@ -43,9 +55,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.2:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1:*:*:*:*:wordpress:*:*"
@@ -79,18 +88,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.1.2:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "1.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "1.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpvibes:wp_mail_log:*:*:*:*:*:wordpress:*:*",
