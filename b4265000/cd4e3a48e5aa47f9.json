@@ -105,6 +105,9 @@
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190426:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190501:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190502:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -112,12 +115,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20230809:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20230811:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "20230811"
+		"versionEndExcluding": "20230811"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:*:*:*:*:*:wordpress:*:*",
@@ -166,22 +166,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190426:*:*:*:*:wordpress:*:*"
-			}
-		],
-		"versionEndExcluding": "20230811"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190501:*:*:*:*:wordpress:*:*"
-			}
-		],
-		"versionEndIncluding": "20230811"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20190501:*:*:*:*:wordpress:*:*"
 			},
@@ -193,9 +178,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20230809:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:20230811:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "20230811"
+		"versionEndIncluding": "20230811"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plugin-planet:user_submitted_posts:*:*:*:*:*:wordpress:*:*",

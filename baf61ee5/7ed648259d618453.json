@@ -28153,6 +28153,19 @@
 		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:rc3:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.1",
+		"versionStartIncluding": "5.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -28208,16 +28221,10 @@
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.0:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zabbix:zabbix:5.2.1:rc3:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.2.1",

@@ -7,12 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hitachienergy:retail_operations:5.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hitachienergy:retail_operations:5.7.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.7.3"
+		"versionEndExcluding": "5.7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hitachienergy:retail_operations:*:*:*:*:*:*:*:*",
@@ -22,8 +19,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hitachienergy:retail_operations:5.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachienergy:retail_operations:5.7.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.7.3"
+		"versionEndIncluding": "5.7.3"
 	}
 ]

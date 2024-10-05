@@ -476,12 +476,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r41p0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r42p0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "r42p0",
+		"versionEndExcluding": "r42p0",
 		"versionStartIncluding": "r29p0"
 	},
 	{
@@ -516,9 +513,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r41p0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arm:valhall_gpu_kernel_driver:r42p0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "r42p0",
+		"versionEndIncluding": "r42p0",
 		"versionStartIncluding": "r29p0"
 	},
 	{

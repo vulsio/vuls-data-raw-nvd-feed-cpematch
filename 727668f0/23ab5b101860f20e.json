@@ -1347,24 +1347,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.1:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "42.3.8",
-		"versionStartIncluding": "42.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "42.3.8",
-		"versionStartIncluding": "42.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.1:rc2:*:*:*:*:*:*"
 			},
@@ -1376,42 +1359,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.6:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.8:rc1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "42.3.8",
@@ -1420,6 +1367,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.0:-:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.0:rc1:*:*:*:*:*:*"
 			},
@@ -1476,6 +1426,49 @@
 			}
 		],
 		"versionEndExcluding": "42.3.8",
+		"versionStartIncluding": "42.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.6:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.3.8:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "42.3.8",
 		"versionStartIncluding": "42.3.0"
 	},
 	{
@@ -1640,12 +1633,6 @@
 		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.2:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.3:-:*:*:*:*:*:*"
 			},
 			{
@@ -1694,6 +1681,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:42.4.2:rc1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "42.4.3",

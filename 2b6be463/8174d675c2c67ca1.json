@@ -1767,6 +1767,18 @@
 		"cpe23Uri": "cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.19.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.11.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1906,6 +1918,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.8:*:*:*:*:*:*:*"
@@ -1956,96 +1971,6 @@
 		"cpe23Uri": "cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta6:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.19.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.19.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:libraw:libraw:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.11.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -2133,12 +2058,6 @@
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.15.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -2148,10 +2067,85 @@
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.1:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.1:alpha:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.16.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.17.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.18.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libraw:libraw:0.19.0:beta6:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "0.19.1"
