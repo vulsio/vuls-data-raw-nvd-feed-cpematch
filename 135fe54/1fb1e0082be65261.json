@@ -108,6 +108,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:telepresence_video_communication_server:*:*:*:*:expressway:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "x14.0.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:telepresence_video_communication_server:*:*:*:*:expressway:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:telepresence_video_communication_server:-:*:*:*:expressway:*:*:*"
@@ -195,5 +200,10 @@
 			}
 		],
 		"versionEndIncluding": "x14.0.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:telepresence_video_communication_server:*:*:*:*:expressway:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "x14.0.7"
 	}
 ]

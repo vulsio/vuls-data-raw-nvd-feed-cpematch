@@ -2158,70 +2158,6 @@
 		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:-:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.6.6",
-		"versionStartIncluding": "1.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.4:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.5:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.6.6",
-		"versionStartIncluding": "1.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:rc1:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.2:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.3:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.2:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.6.6",
-		"versionStartIncluding": "1.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.5.3:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.0:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.3:*:*:*:enterprise:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.6.6",
-		"versionStartIncluding": "1.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.4:*:*:*:enterprise:*:*:*"
 			},
 			{
@@ -2241,6 +2177,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.2:*:*:*:enterprise:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.3:*:*:*:enterprise:*:*:*"
@@ -2289,10 +2228,50 @@
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.5.2:*:*:*:enterprise:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.5.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.1:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.6.5:*:*:*:enterprise:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.6.6",
+		"versionStartIncluding": "1.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:consul:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:-:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.0:rc1:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:consul:1.4.3:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.6.6",
 		"versionStartIncluding": "1.4.0"
 	},
 	{

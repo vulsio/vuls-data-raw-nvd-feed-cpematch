@@ -1192,12 +1192,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.21.1"
+		"versionEndExcluding": "1.21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",
@@ -1606,9 +1603,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:1.21.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.21.1"
+		"versionEndIncluding": "1.21.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yarnpkg:yarn:*:*:*:*:*:*:*:*",

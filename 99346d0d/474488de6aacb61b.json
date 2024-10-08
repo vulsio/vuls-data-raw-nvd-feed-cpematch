@@ -432,18 +432,6 @@
 				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.4.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.8.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -580,6 +568,24 @@
 			}
 		],
 		"versionEndIncluding": "1.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:1.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libssh2:libssh2:*:*:*:*:*:*:*:*",

@@ -6,20 +6,14 @@
 				"cpe23Uri": "cpe:2.3:a:intel:in-band_manageability:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.13.0"
+		"versionEndExcluding": "2.13.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:in-band_manageability:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:in-band_manageability:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:intel:in-band_manageability:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:in-band_manageability:2.13.0:*:*:*:*:*:*:*"
 			}
