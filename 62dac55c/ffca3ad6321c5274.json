@@ -24,9 +24,6 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:meraki_mx100_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:meraki_mx100_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:meraki_mx100_firmware:16.2.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -39,7 +36,8 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:meraki_mx100_firmware:17.10.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "18.211.3"
+		"versionEndExcluding": "18.211.2",
+		"versionStartIncluding": "16.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:meraki_mx100_firmware:*:*:*:*:*:*:*:*",

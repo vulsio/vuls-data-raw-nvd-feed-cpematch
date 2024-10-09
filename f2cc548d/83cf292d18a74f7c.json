@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.3:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.4:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "0.2.4"
+		"versionEndExcluding": "0.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:defaults-deep_project:defaults-deep:*:*:*:*:*:node.js:*:*",
@@ -52,8 +49,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.3:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:defaults-deep_project:defaults-deep:0.2.4:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "0.2.4"
+		"versionEndIncluding": "0.2.4"
 	}
 ]

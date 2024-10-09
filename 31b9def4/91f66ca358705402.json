@@ -18,7 +18,16 @@
 				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.14:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.38:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.45:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.1.19444.8378"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.45:*:*:*:*:*:*:*"
@@ -33,15 +42,18 @@
 		"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.14:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.38:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.45:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.1.19444.8378"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:chipset_device_software:10.1.1.38:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.1.19444.8378"
 	}
 ]

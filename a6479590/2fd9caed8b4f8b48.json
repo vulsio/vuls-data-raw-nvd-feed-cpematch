@@ -1011,45 +1011,6 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "10.0.14393.6897"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "10.0.14393.6897"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:datacenter:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:essentials:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:standard:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.5717:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.6614:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.0.14393.6897"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "10.0.14393.6897"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:*:*:*:*:*:*:*"
@@ -1061,13 +1022,13 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:essentials:*:x64:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:standard:*:x64:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:standard:*:x64:*"
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.6614:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.14393.6897"
+		"versionEndExcluding": "10.0.14393.6897"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
@@ -1106,7 +1067,58 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.6614:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndIncluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:standard:*:x86:*"
+			}
+		],
 		"versionEndExcluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.5717:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:datacenter:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:essentials:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
+			}
+		],
+		"versionEndExcluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "10.0.14393.6897"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",

@@ -269,16 +269,31 @@
 		"cpe23Uri": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:*:*:*:*:*:*:*"
@@ -387,19 +402,61 @@
 		"cpe23Uri": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:p1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:p2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:b1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:p1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.3:-:*:*:*:*:*:*"
@@ -484,77 +541,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "4.2.8",
-		"versionStartIncluding": "4.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.2.8",
-		"versionStartIncluding": "4.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:a2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:b2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.2.8",
@@ -784,7 +770,13 @@
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:a1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.1:*:*:*:*:*:*:*"
@@ -796,6 +788,9 @@
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.1:b1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.1:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -803,6 +798,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.3:*:*:*:*:*:*:*"
@@ -815,12 +816,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3.6",
+		"versionEndExcluding": "4.3.6",
 		"versionStartIncluding": "4.3.0"
 	},
 	{
@@ -879,28 +877,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.3.6",
-		"versionStartIncluding": "4.3.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:isc:dhcp:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:a1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.2:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.3.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.3.6",
