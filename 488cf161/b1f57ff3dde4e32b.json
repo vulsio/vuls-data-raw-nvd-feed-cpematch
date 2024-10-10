@@ -48,27 +48,6 @@
 		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.7:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.8:*:*:*:*:*:*:*"
 			},
 			{
@@ -88,15 +67,81 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
@@ -111,8 +156,17 @@
 				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:5.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.2:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:cloudlink:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.5:*:*:*:*:*:*:*"
 			},
@@ -127,24 +181,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dell:cloudlink:7.1.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.1.3"

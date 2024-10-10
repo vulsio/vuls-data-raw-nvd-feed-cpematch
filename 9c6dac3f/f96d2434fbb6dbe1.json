@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:1.60.496306:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:1.62.518518:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:1.64.527952:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:1.66.531337:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:logitech:logi_options\\+:1.68.542186:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.70.551909",
 		"versionStartIncluding": "1.60.496306"
 	}

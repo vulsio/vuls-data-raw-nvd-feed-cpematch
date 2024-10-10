@@ -159,17 +159,23 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.2.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "18.3.6"
+		"versionEndIncluding": "18.3.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:16.12.1b:*:*:*:*:*:*:*"
 			},
@@ -186,14 +192,17 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.2.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.3.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3.1:*:*:*:*:*:*:*"
 			},
@@ -210,50 +219,8 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:-:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.3.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.3.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "18.3.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:16.12.1b:*:*:*:*:*:*:*"
 			},
@@ -282,46 +249,61 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "18.3.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "18.3.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "18.3.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:17.2.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "18.3.6"
@@ -708,21 +690,6 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.2.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -735,7 +702,7 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.303:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "19.2.2"
+		"versionEndIncluding": "19.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
@@ -841,12 +808,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "19.2.2"
+		"versionEndExcluding": "19.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
@@ -906,10 +870,25 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.3.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:18.4.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.1.0:*:*:*:*:*:*:*"
@@ -919,9 +898,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "19.2.2"
+		"versionEndIncluding": "19.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
