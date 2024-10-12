@@ -87,37 +87,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.0:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.1:*:*:*:lts:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.0.0.9",
-		"versionStartIncluding": "9.0.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.0:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.1:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.3:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.4:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.5:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.6:*:*:*:lts:*:*:*"
 			},
 			{
@@ -133,12 +102,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.3:*:*:*:lts:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.4:*:*:*:lts:*:*:*"
 			},
@@ -156,6 +119,64 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.9:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.0.9",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.3:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.4:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.5:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.0.9",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.2:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.3:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.0.9",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.0:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.0.9",
+		"versionStartIncluding": "9.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:mq:*:*:*:*:lts:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.0:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:mq:9.0.0.1:*:*:*:lts:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0.0.9",

@@ -9515,6 +9515,48 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -9560,6 +9602,18 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -9573,339 +9627,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta3:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.10:*:*:*:*:*:*:*"
@@ -9981,27 +9714,114 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.15.12"
+		"versionEndIncluding": "1.15.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.4.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:-:*:*:*:*:*:*"
@@ -10053,6 +9873,57 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.15.12"
@@ -10060,60 +9931,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:rc1:*:*:*:*:*:*"
 			},
@@ -10130,19 +9947,13 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.11:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:beta1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.15.12"
@@ -10151,145 +9962,28 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.12:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc5:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.6:*:*:*:*:*:*:*"
@@ -10305,6 +9999,90 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:beta1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.11:*:*:*:*:*:*:*"
@@ -10319,68 +10097,8 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
 			},
@@ -10391,7 +10109,19 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.15:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
@@ -10436,7 +10166,22 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.6:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.11:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.15.12"
@@ -10444,6 +10189,198 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.7:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.8:*:*:*:*:*:*:*"
 			},
@@ -10455,6 +10392,186 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.15.12"
@@ -10463,14 +10580,26 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta3:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.12"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.3:*:*:*:*:*:*:*"
 			},
@@ -10583,9 +10712,6 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:-:*:*:*:*:*:*"
 			},
 			{
@@ -10605,6 +10731,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
@@ -10628,58 +10769,10 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.12"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.11:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.15.12"
@@ -10688,58 +10781,10 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.15.12"
@@ -10748,106 +10793,19 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.15.12"
@@ -16475,116 +16433,23 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.12:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.16.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
 			},
@@ -16596,9 +16461,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
@@ -16718,6 +16580,81 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.11:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.16.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.11:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.12:*:*:*:*:*:*:*"
 			},
 			{
@@ -16725,6 +16662,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:-:*:*:*:*:*:*"
@@ -16761,243 +16707,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.16.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.16.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.9:*:*:*:*:*:*:*"
@@ -17036,19 +16745,10 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:-:*:*:*:*:*:*"
@@ -17064,18 +16764,57 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.16.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.16.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.14:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.6:*:*:*:*:*:*:*"
@@ -17165,9 +16904,6 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:0.0.0-20201203163018-be400aefbc4c:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc2:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -17208,6 +16944,126 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
@@ -17258,130 +17114,16 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.12:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.2:*:*:*:*:*:*:*"
@@ -17474,175 +17216,67 @@
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1:rc3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.1.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.16.15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.13:beta1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.16.15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
@@ -17711,6 +17345,120 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.13.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.14.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.15.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.16.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:golang:go:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.3:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.3.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -17768,9 +17516,6 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.5.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.6:-:*:*:*:*:*:*"
 			},
 			{
@@ -17801,7 +17546,232 @@
 				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.7.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.5:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.11.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:golang:go:1.12.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.16.15"

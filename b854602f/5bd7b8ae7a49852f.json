@@ -5108,6 +5108,9 @@
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1809:*:*:*:*:*:*:x64:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1809:-:*:*:*:*:*:x64:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1809:10.0.17763.1:*:*:*:*:*:x64:*"
 			},
 			{
@@ -5474,7 +5477,6 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1809:10.0.17763.5329:*:*:*:*:*:x64:*"
 			}
 		],
-		"versionEndExcluding": "10.0.17763.6414",
-		"versionStartIncluding": "10.0.0"
+		"versionEndExcluding": "10.0.17763.6414"
 	}
 ]

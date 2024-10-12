@@ -355,5 +355,27 @@
 		],
 		"versionEndIncluding": "22.0.8",
 		"versionStartIncluding": "22.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:animate:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:animate:23.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:animate:23.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:animate:23.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "23.0.8",
+		"versionStartIncluding": "23.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:animate:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "24.0.5",
+		"versionStartIncluding": "24.0.0"
 	}
 ]

@@ -509,6 +509,36 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:x64:*"
 			}
 		],
+		"versionEndExcluding": "10.0.20348..2762"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:datacenter:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:datacenter:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:x64:*"
+			}
+		],
 		"versionEndExcluding": "10.0.20348.230"
 	},
 	{
@@ -11567,17 +11597,35 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2227:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.25398.643"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "10.0.20348..2762",
-		"versionStartIncluding": "10.0.0"
+		"versionEndExcluding": "10.0.20348.2762"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:azure:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:datacenter:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:datacenter:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:x64:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.230:*:*:*:azure:*:x64:*"
 			},
@@ -12029,7 +12077,6 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.2227:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.20348.2762",
-		"versionStartIncluding": "10.0.0"
+		"versionEndExcluding": "10.0.25398.643"
 	}
 ]

@@ -7,5 +7,17 @@
 			}
 		],
 		"versionEndExcluding": "0.3.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:azure_service_connector:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_service_connector:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:azure_service_connector:0.3.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.65.0"
 	}
 ]
