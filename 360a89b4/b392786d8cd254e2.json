@@ -2117,9 +2117,6 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:2.6.0.19140:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:2.6.19140:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:2.7:*:*:*:*:*:*:*"
 			},
 			{
@@ -2211,12 +2208,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:3.9.0.1210:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:3.9.0.1380:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:4.0.0.1390:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "4.0.0.1390"
@@ -2400,6 +2391,21 @@
 			}
 		],
 		"versionEndExcluding": "4.0.0.1390"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:2.6.19140:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:3.9.0.1380:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:4.0.0.1390:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.0.0.1390"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:adobe_air:*:*:*:*:*:*:*:*",

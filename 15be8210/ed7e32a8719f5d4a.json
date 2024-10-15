@@ -2049,12 +2049,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2014.1.2",
+		"versionEndExcluding": "2014.1.2",
 		"versionStartIncluding": "2014.1"
 	},
 	{
@@ -2065,9 +2062,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2014.1.2",
+		"versionEndIncluding": "2014.1.2",
 		"versionStartIncluding": "2014.1"
 	},
 	{
@@ -2084,17 +2084,16 @@
 		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2014.2.4",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2014.2.4",
@@ -2108,47 +2107,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2014.2.4",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2014.2.4",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2014.2.4",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2014.2.4",
-		"versionStartIncluding": "2014.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:openstack:neutron:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:neutron:2014.2.4:*:*:*:*:*:*:*"
 			}

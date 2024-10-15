@@ -6,20 +6,14 @@
 				"cpe23Uri": "cpe:2.3:o:hp:probook_645_g4_firmware:01.20.00:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "01.21.01"
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:probook_645_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_645_g4_firmware:01.20.00:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:probook_645_g4_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:probook_645_g4_firmware:01.21.01:*:*:*:*:*:*:*"
 			}
