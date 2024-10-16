@@ -4294,9 +4294,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.2:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.2",
+		"versionEndIncluding": "1.4.2",
 		"versionStartIncluding": "1.4.0"
 	},
 	{
@@ -4307,12 +4310,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.2:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.2",
+		"versionEndExcluding": "1.4.2",
 		"versionStartIncluding": "1.4.0"
 	},
 	{
@@ -4943,6 +4943,18 @@
 		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:enterprise:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.7.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.7.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.7.9:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.7.10:*:*:*:enterprise:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc1:*:*:enterprise:*:*:*"
 			},
 			{
@@ -4953,10 +4965,133 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.6:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.9:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.9.10:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.10.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.10.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.10.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.10.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.10.11:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.11.0:-:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.11.0:rc1:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.11.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.11.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.12.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.12.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.12.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.12.11:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.5:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.7:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.8:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.13.10:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.14.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.14.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.14.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.14.6:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.15.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.15.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.0:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.4:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.17.5:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.8.4",
-		"versionStartIncluding": "1.8.0"
+		"versionEndExcluding": "1.17.6",
+		"versionStartIncluding": "1.7.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:enterprise:*:*:*",
@@ -4972,6 +5107,25 @@
 			}
 		],
 		"versionEndExcluding": "1.8.4",
+		"versionStartIncluding": "1.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hashicorp:vault:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc1:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.0:rc2:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.8.4:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.8.4",
 		"versionStartIncluding": "1.8.0"
 	},
 	{

@@ -26,10 +26,10 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.6",
+		"versionEndIncluding": "6.0.6",
 		"versionStartIncluding": "6.0"
 	},
 	{
@@ -40,9 +40,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0.2:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "6.0.6",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:doors_next_generation:6.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.0.6",

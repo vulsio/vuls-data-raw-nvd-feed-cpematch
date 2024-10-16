@@ -13,6 +13,9 @@
 		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.2:-:*:*:*:*:*:*"
 			}
 		],
@@ -40,9 +43,18 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.6.5",
+		"versionEndIncluding": "11.6.5.2",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -59,25 +71,6 @@
 			}
 		],
 		"versionEndExcluding": "11.6.5.2",
-		"versionStartIncluding": "11.6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "11.6.5.2",
 		"versionStartIncluding": "11.6.1"
 	},
 	{
@@ -132,26 +125,7 @@
 		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "12.1.5.2",
-		"versionStartIncluding": "12.1.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:-:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.5:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.1.5.2",
@@ -164,6 +138,9 @@
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:hotfix1:*:*:*:*:*:*"
 			},
 			{
@@ -174,6 +151,22 @@
 			}
 		],
 		"versionEndIncluding": "12.1.5.2",
+		"versionStartIncluding": "12.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:12.1.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "12.1.5.2",
 		"versionStartIncluding": "12.1.0"
 	},
 	{

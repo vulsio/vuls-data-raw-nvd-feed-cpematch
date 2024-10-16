@@ -3,6 +3,9 @@
 		"cpe23Uri": "cpe:2.3:o:unitree:go_1_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:unitree:go_1_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:unitree:go_1_firmware:0.1.35:*:*:*:*:*:*:*"
 			}
 		],
@@ -16,14 +19,5 @@
 			}
 		],
 		"versionEndExcluding": "0.1.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:unitree:go_1_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:unitree:go_1_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.1.35"
 	}
 ]

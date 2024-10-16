@@ -2750,14 +2750,38 @@
 		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:alpine:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.19:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0.3:*:*:*:*:*:*:*"
 			},
@@ -2779,6 +2803,63 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.2:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.0:*:*:*:alpine:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.17:*:*:*:alpine:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:alpine:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:alpha2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a1:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a2:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b2:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b3:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b4:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1rc1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1rc2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.3:*:*:*:*:*:*:*"
 			},
@@ -2880,75 +2961,111 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.5.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.5:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:alpine:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.1:*:*:*:*:*:*:*"
@@ -2960,6 +3077,126 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:a1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:beta1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -2967,9 +3204,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2.0:*:*:*:*:*:*:*"
@@ -3002,13 +3236,7 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.0:*:*:*:alpine:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.3:*:*:*:*:*:*:*"
@@ -3038,55 +3266,10 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.11:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.12:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.13:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.17:*:*:*:alpine:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:alpine:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.20:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:a1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:beta3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0:rc1:*:*:*:*:*:*"
@@ -3116,94 +3299,10 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.0.10:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:a1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:a2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:alpha2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:b4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a1:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1a2:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b2:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b3:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1b4:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1rc1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.1rc2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:rc4:*:*:*:*:*:*"
@@ -3216,18 +3315,90 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
@@ -3263,136 +3434,52 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.0.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.9:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.1.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:2.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.4:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:alpine:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.1:*:*:*:*:*:*:*"
@@ -3410,37 +3497,40 @@
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.2.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:3.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.0:*:*:*:alpine:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.0.10:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.4:*:*:*:*:*:*:*"
@@ -3450,9 +3540,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.2.0:*:*:*:*:*:*:*"
@@ -3489,9 +3576,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:4.3.3:*:*:*:*:*:*:*"

@@ -1252,27 +1252,7 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "358.87",
-		"versionStartIncluding": "358"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "358.87",
-		"versionStartIncluding": "358"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
 			}
@@ -1285,6 +1265,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:358.87:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "358.87",
