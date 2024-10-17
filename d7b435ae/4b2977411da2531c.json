@@ -1649,6 +1649,55 @@
 		"cpe23Uri": "cpe:2.3:a:apache:cloudstack:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.15.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.15.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.16.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.16.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.16.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.17.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.17.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.17.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.18.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.18.2.4",
+		"versionStartIncluding": "4.15.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:cloudstack:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.19.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1691,6 +1740,25 @@
 			}
 		],
 		"versionEndExcluding": "4.19.1.1",
+		"versionStartIncluding": "4.19.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:cloudstack:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.19.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.19.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.19.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cloudstack:4.19.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.19.1.2",
 		"versionStartIncluding": "4.19.0.0"
 	}
 ]

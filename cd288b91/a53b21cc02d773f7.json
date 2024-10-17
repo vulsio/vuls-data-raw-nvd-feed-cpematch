@@ -285,7 +285,13 @@
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:-:*:*:*:*:ruby:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:ruby:*:*"
@@ -385,9 +391,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1"
+		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
@@ -486,52 +498,28 @@
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:1.1.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:2.1.2:rc2:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:-:*:*:*:ruby:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:preview:*:*:*:ruby:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1"
+		"versionEndExcluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",

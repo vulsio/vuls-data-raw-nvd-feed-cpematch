@@ -1848,45 +1848,6 @@
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.4:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.1:*:*:*:*:typo3:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.2:*:*:*:*:typo3:*:*"
 			},
 			{
@@ -1930,14 +1891,69 @@
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.2:*:*:*:*:typo3:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.1:*:*:*:*:typo3:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.2:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.2:*:*:*:*:typo3:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.4:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.1:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndIncluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.1:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndIncluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.3:*:*:*:*:typo3:*:*"
 			},
@@ -1973,50 +1989,24 @@
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.0:*:*:*:*:typo3:*:*"
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.0:*:*:*:*:typo3:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.1:*:*:*:*:typo3:*:*"
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.1:*:*:*:*:typo3:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.2:*:*:*:*:typo3:*:*"
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.2:*:*:*:*:typo3:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.0.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.1.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.2.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.5.0:*:*:*:*:typo3:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.0:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndIncluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.6.0:*:*:*:*:typo3:*:*"
 			},
@@ -2116,8 +2106,82 @@
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:9.0.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.0.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.1.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.2.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.3.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.4.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:10.5.0:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndIncluding": "10.9.0",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.0.0:*:*:*:*:typo3:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.4:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.5:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "12.4.0",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.0.3:*:*:*:*:typo3:*:*"
 			},
@@ -2129,9 +2193,46 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.0:*:*:*:*:typo3:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "12.4.0",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.1:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "12.4.0",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.1:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndIncluding": "12.4.0",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.0:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "12.4.0",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.0.0:*:*:*:*:typo3:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.0:*:*:*:*:typo3:*:*"
@@ -2159,9 +2260,6 @@
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.0.0:*:*:*:*:typo3:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.0.3:*:*:*:*:typo3:*:*"
 			},
 			{
@@ -2169,27 +2267,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.1.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.2.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.4:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:12.3.5:*:*:*:*:typo3:*:*"
 			}
 		],
 		"versionEndExcluding": "12.4.0",

@@ -1670,16 +1670,7 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:20.0.0.228:*:*:*:*:chrome:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:20.0.0.306:*:*:*:*:chrome:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:21.0.0.97:*:*:*:*:chrome:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:21.0.0.216:*:*:*:*:chrome:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:21.0.0.242:*:*:*:*:chrome:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:22.0.0.192:*:*:*:*:chrome:*:*"
@@ -1878,6 +1869,21 @@
 			}
 		],
 		"versionEndExcluding": "28.0.0.161"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:20.0.0.306:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:21.0.0.97:*:*:*:*:chrome:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:flash_player:21.0.0.242:*:*:*:*:chrome:*:*"
+			}
+		],
+		"versionEndIncluding": "28.0.0.161"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:flash_player:*:*:*:*:*:chrome:*:*",
