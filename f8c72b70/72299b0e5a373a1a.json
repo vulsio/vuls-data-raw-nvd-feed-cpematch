@@ -521,7 +521,13 @@
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.2.0.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.2.1:*:*:*:*:*:*:*"
@@ -564,6 +570,42 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.7.6"
@@ -657,54 +699,6 @@
 			}
 		],
 		"versionEndExcluding": "1.7.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.7.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.7.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",
@@ -1344,12 +1338,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.10.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.10.1"
+		"versionEndExcluding": "1.10.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",
@@ -1461,9 +1452,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.10.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.10.1"
+		"versionEndIncluding": "1.10.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",

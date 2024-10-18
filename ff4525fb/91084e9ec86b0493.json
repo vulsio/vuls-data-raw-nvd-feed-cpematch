@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:brainlowcode:brain_low-code:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:brainlowcode:brain_low-code:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.1.0"
 	}
 ]

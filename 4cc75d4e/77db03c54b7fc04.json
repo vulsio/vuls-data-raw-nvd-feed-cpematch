@@ -450,10 +450,16 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.2:-:pro:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:_reader9.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.2"
+		"versionEndIncluding": "8.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
@@ -615,16 +621,10 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:8.1.2:-:pro:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:_reader9.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.1.2"
+		"versionEndExcluding": "8.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
@@ -10425,29 +10425,16 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.1.15",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.10:*:*:*:*:*:*:*"
@@ -10463,85 +10450,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.14:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.1.15",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:-:pro:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:-:pro:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "10.1.15",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:-:pro:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:-:pro:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.8:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.1.15",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.15:*:*:*:*:*:*:*"
 			}
@@ -10553,17 +10462,34 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.1.15",
-		"versionStartIncluding": "10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:-:pro:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:-:pro:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.3:*:*:*:*:*:*:*"
@@ -10600,6 +10526,52 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.1.15",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0:-:pro:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.1:-:pro:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:10.1.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.1.15",
@@ -10758,6 +10730,9 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -10767,20 +10742,25 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.5:-:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.12",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.5:-:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.11:*:*:*:*:*:*:*"
@@ -10796,31 +10776,6 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "11.0.12",
-		"versionStartIncluding": "11.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.5:-:*:*:*:windows:*:*"
 			},
 			{
@@ -10831,11 +10786,14 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.10:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "11.0.12",
+		"versionStartIncluding": "11.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
 		"versionEndIncluding": "11.0.12",
 		"versionStartIncluding": "11.0.0"
 	},
@@ -10846,10 +10804,25 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.11:*:*:*:*:*:*:*"
@@ -10863,15 +10836,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:11.0.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "11.0.12",
@@ -11222,6 +11186,15 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.000.0000:*:*:*:classic:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.008.30051:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30056:*:*:*:classic:*:*:*"
 			},
 			{
@@ -11238,6 +11211,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:classic:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30068:*:*:*:*:*:*:*"
@@ -11259,80 +11235,40 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.000.0000:*:*:*:classic:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.008.30051:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30056:*:*:*:classic:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30059:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30059:*:*:*:classic:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30065:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30065:*:*:*:classic:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:classic:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30068:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30070:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "17.011.30070",
-		"versionStartExcluding": "17.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.000.0000:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.008.30051:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:classic:*:*:*"
-			}
-		],
-		"versionEndIncluding": "17.011.30070",
-		"versionStartIncluding": "17.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30056:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30059:*:*:*:classic:*:*:*"
-			}
-		],
-		"versionEndIncluding": "17.011.30070",
-		"versionStartExcluding": "17.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "17.011.30070",
-		"versionStartIncluding": "17.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.000.0000:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.008.30051:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30065:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30066:*:*:*:classic:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30068:*:*:*:classic:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30070:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat:17.011.30070:*:*:*:classic:*:*:*"

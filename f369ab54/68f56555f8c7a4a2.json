@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:woobewoo:product_table:*:*:*:*:pro:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:woobewoo:product_table:-:*:*:*:pro:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.9.5"
 	}
 ]

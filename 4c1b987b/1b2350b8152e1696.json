@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:chartjs_project:chartjs:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:chartjs_project:chartjs:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:chartjs_project:chartjs:2023.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2023.2"
 	}
 ]

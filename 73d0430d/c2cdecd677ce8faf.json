@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpmet:elementskit:*:*:*:*:pro:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpmet:elementskit:-:*:*:*:pro:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.6.3"
 	}
 ]
