@@ -13,9 +13,6 @@
 		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.2:-:*:*:*:*:*:*"
 			}
 		],
@@ -26,10 +23,27 @@
 		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.2:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.6.5",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.6.5",
+		"versionStartIncluding": "11.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:ssl_orchestrator:11.6.5:*:*:*:*:*:*:*"

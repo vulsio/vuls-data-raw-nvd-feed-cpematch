@@ -271,6 +271,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:11.2.0.11537:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13110:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13489:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.16412:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.16909:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "12.2.0.17153",
@@ -278,13 +290,27 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13110:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13489:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "12.2.0.13489",
 		"versionStartIncluding": "12.2.0.13110"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13110:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kingsoft:wps_office:12.2.0.13489:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.2.0.16412",
 		"versionStartIncluding": "12.2.0.13110"
 	}

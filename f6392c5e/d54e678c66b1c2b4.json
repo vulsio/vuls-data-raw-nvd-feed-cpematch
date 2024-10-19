@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-24-ra_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-24-ra_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-24-ra_firmware:2.60:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.60"
 	}
 ]

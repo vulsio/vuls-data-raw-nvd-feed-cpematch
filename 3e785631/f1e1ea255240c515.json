@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:idec:ft1a-b12ra_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:ft1a-b12ra_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:ft1a-b12ra_firmware:2.41:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.41"
 	}
 ]

@@ -1656,9 +1656,6 @@
 		"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:-:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:1.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -1939,9 +1936,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.12.11:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.13.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.13.3:*:*:*:*:wordpress:*:*"
@@ -2248,6 +2242,18 @@
 			}
 		],
 		"versionEndExcluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.13.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "7.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:*:*:*:*:*:wordpress:*:*",

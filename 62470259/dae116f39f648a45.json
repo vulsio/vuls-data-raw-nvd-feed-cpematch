@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-d16p-hg1g_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-d16p-hg1g_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:idec:kit-fc6a-d16p-hg1g_firmware:2.40:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.40"
 	}
 ]

@@ -283,7 +283,35 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:authzed:spicedb:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.35.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.35.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.35.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.35.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.36.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.36.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.36.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:authzed:spicedb:1.37.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.37.1",
 		"versionStartIncluding": "1.35.0"
 	}

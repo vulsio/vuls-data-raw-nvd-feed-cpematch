@@ -871,7 +871,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pickplugins:post_grid:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:pickplugins:post_grid:2.2.87:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pickplugins:post_grid:2.2.88:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pickplugins:post_grid:2.2.89:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pickplugins:post_grid:2.2.90:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.2.91",
 		"versionStartIncluding": "2.2.87"
 	}

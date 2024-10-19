@@ -3,10 +3,40 @@
 		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc2:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc5:*:*:*:*:*:*"
@@ -60,33 +90,6 @@
 		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -97,13 +100,49 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.8:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc2:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc4:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:linux:acrn:1.0.2:*:*:*:*:*:*:*"
 			},
@@ -121,21 +160,6 @@
 			}
 		],
 		"versionEndIncluding": "2.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:linux:acrn:0.1:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:linux:acrn:*:*:*:*:*:*:*:*",

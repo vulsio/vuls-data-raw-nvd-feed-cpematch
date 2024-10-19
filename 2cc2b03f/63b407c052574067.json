@@ -19,5 +19,20 @@
 			}
 		],
 		"versionEndExcluding": "cezannepi-fp6_1.0.0.9a"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5625c_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5625c_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5625c_firmware:cezannepi-fp6_1.0.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_5_5625c_firmware:cezannepi-fp6_1.0.0.b:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "cezannepi-fp6_1.0.1.0"
 	}
 ]

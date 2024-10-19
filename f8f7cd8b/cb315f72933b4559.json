@@ -243,12 +243,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.1"
+		"versionEndExcluding": "1.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -285,9 +282,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.1"
+		"versionEndIncluding": "1.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -443,7 +443,13 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
@@ -453,54 +459,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
@@ -548,16 +506,13 @@
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
@@ -570,15 +525,42 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.0.0"
@@ -857,88 +839,16 @@
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
@@ -1016,6 +926,45 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev617-g85ce76efd:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev644-g5c4df2a67:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev649-ga8f438d20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev478-g696e6f868-master:*:*:*:*:*:*:*"
 			},
 			{
@@ -1038,6 +987,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev649-ga8f438d20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2.0:*:*:*:*:*:*:*"
@@ -1049,12 +1001,6 @@
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev478-g696e6f868-master:*:*:*:*:*:*:*"
 			},
 			{
@@ -1068,18 +1014,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev593-g007bf61a0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev617-g85ce76efd:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev644-g5c4df2a67:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev649-ga8f438d20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.2-rev0-gab012bbfb-master:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.2.0"
@@ -1091,25 +1025,7 @@
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
@@ -1146,88 +1062,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.1"
+		"versionEndIncluding": "2.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev428-gcb8ae46c8-master:*:*:*:*:*:*:*"
 			},
@@ -1267,6 +1108,72 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
 			},
@@ -1308,6 +1215,81 @@
 			}
 		],
 		"versionEndIncluding": "2.2.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.5.2:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:0.9.0-development-20191109:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1663-g881c6a94a-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1727-g8be34973d-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:1.1.0-dev-rev1759-geb2d1e6dd:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev87-g053aae8-master:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gpac:gpac:2.1-dev-rev368-gfd054169b-master:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gpac:gpac:*:*:*:*:*:*:*:*",

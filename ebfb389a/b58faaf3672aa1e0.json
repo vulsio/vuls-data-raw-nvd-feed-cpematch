@@ -1,24 +1,61 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:15.84:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:16.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:17.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:19.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "19.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:15:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "15.84",
 		"versionStartIncluding": "15"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:16:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "16.15",
 		"versionStartIncluding": "16"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nask:ezd_rp:17:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "17.2",
 		"versionStartIncluding": "17"
 	}

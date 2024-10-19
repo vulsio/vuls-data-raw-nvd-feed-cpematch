@@ -167,6 +167,18 @@
 		"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -179,6 +191,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.1:*:*:*:*:*:*:*"
 			},
@@ -199,42 +214,6 @@
 			}
 		],
 		"versionEndIncluding": "8.6",
-		"versionStartIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.6",
-		"versionStartIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "8.6",
-		"versionStartIncluding": "8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:vrealize_automation:8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "8.6",
 		"versionStartIncluding": "8.0"
 	},
 	{
