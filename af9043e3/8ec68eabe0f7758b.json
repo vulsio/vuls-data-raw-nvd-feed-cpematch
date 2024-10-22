@@ -52,9 +52,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:loguru_project:loguru:0.5.2:*:*:*:*:python:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:loguru_project:loguru:0.5.3:*:*:*:*:python:*:*"
 			}
 		],
-		"versionEndExcluding": "0.5.3"
+		"versionEndIncluding": "0.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:loguru_project:loguru:*:*:*:*:*:python:*:*",
@@ -109,11 +112,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:loguru_project:loguru:0.5.2:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:loguru_project:loguru:0.5.3:*:*:*:*:python:*:*"
 			}
 		],
-		"versionEndIncluding": "0.5.3"
+		"versionEndExcluding": "0.5.3"
 	}
 ]

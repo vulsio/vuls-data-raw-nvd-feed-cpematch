@@ -159,10 +159,10 @@
 				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.2.8:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.4:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "0.9.4"
+		"versionEndExcluding": "0.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:*:*:*:*:*:wordpress:*:*",
@@ -244,15 +244,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.3:*:*:*:*:wordpress:*:*"
-			}
-		],
-		"versionEndExcluding": "0.9.4"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.3:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.4:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "0.9.4"
