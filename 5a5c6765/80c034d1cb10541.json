@@ -19,5 +19,20 @@
 			}
 		],
 		"versionEndExcluding": "2212"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:workspace:*:*:*:*:-:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:-:*:*:*:-:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:2105:*:*:*:-:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:2212:*:*:*:-:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "2405"
 	}
 ]

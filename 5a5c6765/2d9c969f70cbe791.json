@@ -10,7 +10,41 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:citrix:workspace:*:*:*:*:ltsr:windows:*:*",
-		"cpe_name": [],
-		"versionStartIncluding": "2402"
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:-:*:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:19.12.4000:*:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:*:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:-:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu1:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu1-hf1:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu2:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu3:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu4:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu5:*:*:ltsr:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:workspace:1912:cu6:*:*:ltsr:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "2203.1"
 	}
 ]

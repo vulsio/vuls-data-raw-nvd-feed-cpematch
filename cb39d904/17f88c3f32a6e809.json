@@ -117,10 +117,19 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:aem_cloud_service:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:aem_cloud_service:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2022.10.0:*:*:*:aem_cloud_service:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.1.0:*:*:*:aem_cloud_service:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2024.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:aem_cloud_service:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:aem_cloud_service:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.2.0:*:*:*:aem_cloud_service:*:*:*"
@@ -151,7 +160,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:aem_cloud_service:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.2.0:*:*:*:aem_cloud_service:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2024.5.0"
 	},
 	{
@@ -159,6 +172,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2022.10.0:*:*:*:aem_cloud_service:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.1.0:*:*:*:aem_cloud_service:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2024.5.0"
@@ -168,15 +184,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:-:*:*:*:aem_cloud_service:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2022.10.0:*:*:*:aem_cloud_service:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.1.0:*:*:*:aem_cloud_service:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.2.0:*:*:*:aem_cloud_service:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2023.4.0:*:*:*:aem_cloud_service:*:*:*"

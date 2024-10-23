@@ -3,6 +3,9 @@
 		"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i6:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i7:*:*:*:*:*:*"
 			},
 			{
@@ -71,9 +74,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i6:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i7:*:*:*:*:*:*"
 			},
@@ -203,9 +203,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i6:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.4.0:b4:*:*:*:*:*:*"
 			},
@@ -397,6 +394,15 @@
 			}
 		],
 		"versionEndIncluding": "1.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:1.2.3:i6:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:checkmk:checkmk:*:*:*:*:*:*:*:*",

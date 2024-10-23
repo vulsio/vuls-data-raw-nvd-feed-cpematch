@@ -39,7 +39,7 @@
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "01.21.01"
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:*:*:*:*:*:*:*:*",
@@ -49,21 +49,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:01.04.02:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "01.21.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:01.04.02:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:01.21.01:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:01.04.02:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840_g6_healthcare_edition_firmware:*:*:*:*:*:*:*:*",

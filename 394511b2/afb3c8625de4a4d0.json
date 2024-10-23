@@ -839,66 +839,6 @@
 		"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.9.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "5.9.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5:sp1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.0:sp2a:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.9.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -977,6 +917,9 @@
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.6.8:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.6.9:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -989,10 +932,25 @@
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.1.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.1.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.1.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.9.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.9.1:*:*:*:*:*:*:*"
@@ -1005,6 +963,36 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5:sp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:2.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.0:sp2a:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:3.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mcafee:epolicy_orchestrator:4.5.0:*:*:*:*:*:*:*"

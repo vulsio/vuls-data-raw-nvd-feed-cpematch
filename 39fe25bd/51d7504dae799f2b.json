@@ -264,13 +264,57 @@
 		"cpe23Uri": "cpe:2.3:a:libuv:libuv:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.42.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.43.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.45.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.46.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.47.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.48.0",
+		"versionStartIncluding": "1.24.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libuv:libuv:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.24.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.48.0",
+		"versionStartIncluding": "1.24.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libuv:libuv:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.36.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.37.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.38.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.38.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.39.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.48.0",
@@ -392,9 +436,6 @@
 		"cpe23Uri": "cpe:2.3:a:libuv:libuv:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.24.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.24.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -446,10 +487,10 @@
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.35.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.38.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.37.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.39.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.38.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.40.0:*:*:*:*:*:*:*"
@@ -462,43 +503,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.42.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.42.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.43.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.44.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.45.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.46.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.47.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.48.0",
-		"versionStartIncluding": "1.24.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:libuv:libuv:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.24.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.48.0",
 		"versionStartIncluding": "1.24.0"
 	},
 	{
