@@ -2450,15 +2450,6 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.4:*:*:*:*:*:*:*"
 			},
 			{
@@ -2472,12 +2463,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.5.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.5.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.5.5",
+		"versionEndExcluding": "5.0.5.5",
 		"versionStartIncluding": "5.0.0.0"
 	},
 	{
@@ -2542,6 +2530,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.5.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0.5.5",
+		"versionStartIncluding": "5.0.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.0.4.3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.0.5.5",
@@ -2840,12 +2847,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.1.0.2:*:*:*:*:*:*:*"
 			}
 		],
@@ -2863,6 +2864,19 @@
 			}
 		],
 		"versionEndExcluding": "5.1.0.2",
+		"versionStartIncluding": "5.1.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_scale:5.1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.1.0.2",
 		"versionStartIncluding": "5.1.0.0"
 	},
 	{

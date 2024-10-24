@@ -29,12 +29,6 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.9.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.9.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -58,6 +52,19 @@
 			}
 		],
 		"versionEndExcluding": "1.1.9.4",
+		"versionStartIncluding": "1.1.4.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:i_access_client_solutions:1.1.9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.1.9.4",
 		"versionStartIncluding": "1.1.4.3"
 	}
 ]

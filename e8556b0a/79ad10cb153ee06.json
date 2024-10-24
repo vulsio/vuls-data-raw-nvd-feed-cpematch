@@ -1122,16 +1122,49 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.9",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.9",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.9",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.1:*:*:*:*:*:*:*"
@@ -1171,90 +1204,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.2:*:*:*:*:*:*:*"
@@ -1270,56 +1219,63 @@
 		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0:beta2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.7.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.8:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.9",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2:*:*:*:*:*:*:*"
 			},
@@ -1403,9 +1359,88 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.9",
+		"versionStartIncluding": "4.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.8.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:ovirt-engine:4.1.4.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "4.1.9",

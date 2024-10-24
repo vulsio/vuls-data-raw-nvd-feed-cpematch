@@ -1095,15 +1095,6 @@
 		"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc10:*:*:*:*:*:*"
 			},
 			{
@@ -1131,27 +1122,6 @@
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc4:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.2:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -1159,6 +1129,22 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.6",
+		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.0.6",
@@ -1177,6 +1163,40 @@
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc1:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.0.6",
+		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc10:*:*:*:*:*:*"
 			},
 			{
@@ -1219,9 +1239,6 @@
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:rc9:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -1232,12 +1249,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:linuxcontainers:lxc:2.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.6",
+		"versionEndExcluding": "2.0.6",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
