@@ -6,6 +6,18 @@
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:-:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.1:*:*:*:*:wordpress:*:*"
 			}
 		],
@@ -14,9 +26,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:-:*:*:*:*:wordpress:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:2.5.1:*:*:*:*:wordpress:*:*"
 			},
@@ -55,21 +64,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.2:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "3.2.2"
@@ -106,15 +100,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:2.7.1:*:*:*:*:wordpress:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "3.2.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.0.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.0.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.0:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:-:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.1.1:*:*:*:*:wordpress:*:*"
@@ -124,6 +118,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.2.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "3.2.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wp-media:search_\\&_replace:3.0.1:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "3.2.2"

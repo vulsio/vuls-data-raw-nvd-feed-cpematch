@@ -2307,6 +2307,12 @@
 		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0804:*:*:*:*:mac_os_x:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0805:*:*:*:*:linux_kernel:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -2346,6 +2352,9 @@
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:mac:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2376,96 +2385,6 @@
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:5.3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0.722:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0.118:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1.1049:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0.9297:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.6.0.25114"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1.1.0901:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.6.0.25114"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0804:*:*:*:*:mac_os_x:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0805:*:*:*:*:linux_kernel:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "9.6.0.25114"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1.0.0824:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0.722:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0.118:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1.1049:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0.9297:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "9.6.0.25114"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.3:*:*:*:*:mac:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:mac:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:5.3.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -2480,6 +2399,63 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.0.2:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0.722:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0.118:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.2.805:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1.1049:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.1.0.5096:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0.9297:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.0.3:*:*:*:*:*:*:*"
 			},
@@ -2506,9 +2482,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.0.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.4.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.3:*:*:*:*:mac:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:mac:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.5:*:*:*:*:*:*:*"
@@ -2536,9 +2524,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.2.805:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.0:*:*:*:*:*:*:*"
@@ -2613,13 +2598,118 @@
 		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.3:*:*:*:*:mac:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.3.0.10826:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.4.0.16811:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.4.1.16828:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.5.0.20723:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0804:*:*:*:*:mac_os_x:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.1.0.0805:*:*:*:*:linux_kernel:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.4.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1.0.0824:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1.1.0901:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.1.2.1013:*:*:*:*:*:*:*"
@@ -2634,9 +2724,6 @@
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.2.1.0401:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.3:*:*:*:*:mac:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:3.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2646,8 +2733,47 @@
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.0:*:*:*:*:mac:*:*"
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0.722:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0.118:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1.1049:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0.9297:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.6.0.25114"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:4.1.0:*:*:*:*:*:*:*"
 			},
@@ -2704,123 +2830,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:6.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:7.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.2.805:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.0.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:8.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.1.0.5096:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.3.0.10826:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.4.0.16811:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.4.1.16828:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.5.0.20723:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:9.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.6.0.25114"
+		"versionEndIncluding": "9.6.0.25114"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:foxitsoftware:reader:*:*:*:*:*:*:*:*",

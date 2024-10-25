@@ -66,16 +66,13 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:*:x86:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:x86:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.1:*:*:*:*:*:arm:*"
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.1:*:*:*:*:*:x86:*"
@@ -87,9 +84,6 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.2:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.2:*:*:*:*:*:x86:*"
 			},
 			{
@@ -99,9 +93,6 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.3:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.3:*:*:*:*:*:x86:*"
 			},
 			{
@@ -109,9 +100,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.4:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.4:*:*:*:*:*:x86:*"
@@ -183,6 +171,9 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.5:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.5:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.5:*:*:*:*:*:x86:*"
 			},
 			{
@@ -195,7 +186,13 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.6.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.6.1:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.0:*:*:*:*:*:x86:*"
@@ -207,10 +204,19 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:*:x86:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:x86:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.2:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.2:*:*:*:*:*:x86:*"
@@ -240,9 +246,6 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.0:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.0:*:*:*:*:*:x86:*"
 			},
 			{
@@ -252,31 +255,16 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.1:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.2:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.3:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.4:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:x86:*"
@@ -309,9 +297,6 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.1:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.1:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -319,9 +304,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.2:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.2:rc1:*:*:*:*:*:*"
@@ -333,22 +315,13 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.3:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.3:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:x86:*"
@@ -372,9 +345,6 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.1:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.1:rc1:*:*:*:*:*:*"
 			},
 			{
@@ -384,13 +354,7 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.2:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.4:*:*:*:*:*:*:*"
@@ -399,13 +363,7 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.5:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:x86:*"
@@ -472,9 +430,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.6:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.6:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.7.0:*:*:*:*:*:*:*"
@@ -573,6 +528,9 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.0:*:*:*:*:*:arm:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.0:*:*:*:*:*:x86:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.0:*:*:*:*:x86:*:*"
 			},
 			{
@@ -603,25 +561,16 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.1:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.1:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.2:*:*:*:*:*:arm:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.2:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.3:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.3:*:*:*:*:*:x86:*"
@@ -672,6 +621,12 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:rc7:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:rc8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:rc9:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -690,13 +645,25 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.4:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:*:*:*:*:x86:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:rc3:*:*:*:*:*:*"
@@ -720,19 +687,34 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.1:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.1:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.2:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.3:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.4:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:*:x86:*"
@@ -750,22 +732,28 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc7:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.1:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.4:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.0:*:*:*:*:*:arm:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.0:*:*:*:*:*:x86:*"
@@ -801,22 +789,58 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.1:*:*:*:*:*:arm:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.1:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:*:*:*:*:*:x86:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:*:*:*:*:x86:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:-:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.2:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.3:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:arm:*"
@@ -852,159 +876,16 @@
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.15.1:*:*:*:*:*:x86:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16.0:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:14.4:*:*:*:*:*:x86:*"
-			}
-		]
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:x86:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.5:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.1.6.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.1:*:*:*:*:x86:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.2.2:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.0:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.4:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.5:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:rc8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:rc9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.2:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.3:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.4:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.2:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.3:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.10.4:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.2:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.3:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.4:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.4:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.1:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.2:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.2:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.3:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.3:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16:*:*:*:*:*:arm:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16:*:*:*:*:*:x86:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.16.0:*:*:*:*:*:x86:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.17:*:*:*:*:*:x86:*"
@@ -1017,6 +898,130 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:14.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:14.4:*:*:*:*:*:x86:*"
+			}
+		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.0:*:*:*:*:*:arm:*"
+			}
+		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.0.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.3.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.4.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.5.5:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.6.6:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.4:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.8.5:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.1:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.2:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.9.3:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.11.0:rc7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.0:rc2:*:*:*:*:*:*"
 			}
 		]
 	},

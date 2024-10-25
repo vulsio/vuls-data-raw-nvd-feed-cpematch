@@ -22,5 +22,17 @@
 			}
 		],
 		"versionEndExcluding": "1.14.100.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:intel:sgx_dcap:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:sgx_dcap:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:sgx_dcap:1.10.100.4:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "1.19.100.3"
 	}
 ]
