@@ -13,9 +13,6 @@
 		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:fips:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:12.1:*:*:*:fips:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:12.1-55.297:*:*:*:fips:*:*:*"
 			},
 			{
@@ -36,6 +33,16 @@
 			}
 		],
 		"versionEndExcluding": "12.1-55.300",
+		"versionStartIncluding": "12.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:*:*:*:*:fips:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:12.1:*:*:*:fips:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.1-55.300",
 		"versionStartIncluding": "12.1"
 	},
 	{
@@ -72,9 +79,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-37.159:*:*:*:fips:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-37.164:*:*:*:fips:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1-37.164",
+		"versionEndIncluding": "13.1-37.164",
 		"versionStartIncluding": "13.1"
 	},
 	{
@@ -85,12 +95,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-37.159:*:*:*:fips:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:citrix:netscaler_application_delivery_controller:13.1-37.164:*:*:*:fips:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1-37.164",
+		"versionEndExcluding": "13.1-37.164",
 		"versionStartIncluding": "13.1"
 	},
 	{
