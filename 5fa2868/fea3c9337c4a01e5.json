@@ -66,42 +66,6 @@
 		"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:-:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.3:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.1:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.1.0.1:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -124,12 +88,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.3:*:*:*:*:wordpress:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "3.23.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.4:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.3:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "3.23.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "3.23.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*",
@@ -192,7 +171,46 @@
 				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.2:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.3:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.23.4:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "3.23.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:urosevic:stock_ticker:3.0.5.4:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "3.23.4"

@@ -31,12 +31,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:comboam5_1.0.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:comboam5_1.0.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "comboam5_1.0.8.0"
+		"versionEndExcluding": "comboam5_1.0.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:*:*:*:*:*:*:*:*",
@@ -49,9 +46,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:comboam5_1.0.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:comboam5_1.0.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "comboam5_1.0.8.0"
+		"versionEndIncluding": "comboam5_1.0.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:amd:ryzen_9_7900x_firmware:*:*:*:*:*:*:*:*",

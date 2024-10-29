@@ -6,12 +6,6 @@
 				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.4:beta:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.5.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -42,15 +36,6 @@
 				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.4:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.5.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.5.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -70,6 +55,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.6.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.4:beta:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.4.4:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jeecg:jimureport:1.5.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.6.1"
