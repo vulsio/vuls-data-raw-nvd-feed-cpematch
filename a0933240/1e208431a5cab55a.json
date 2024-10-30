@@ -7,12 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.1.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.1.8.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.1.8.1",
+		"versionEndExcluding": "5.1.8.1",
 		"versionStartIncluding": "5.1"
 	},
 	{
@@ -23,20 +20,13 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.1.8.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "5.1.8.1",
-		"versionStartIncluding": "5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.1.8.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.5.2",
-		"versionStartIncluding": "5.2"
+		"versionEndIncluding": "5.1.8.1",
+		"versionStartIncluding": "5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:*:*:*:*:*:*:*:*",
@@ -54,6 +44,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.2:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:tivoli_storage_manager_client:5.2.5.1:*:*:*:*:*:*:*"
 			},

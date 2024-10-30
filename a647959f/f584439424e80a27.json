@@ -810,7 +810,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0.17763.6414"
 	},
 	{
@@ -842,20 +846,7 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "10.0.17763.6414"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "10.0.17763.6414"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:-:*:*:*:datacenter:*:x64:*"
 			},
@@ -876,10 +867,5 @@
 			}
 		],
 		"versionEndExcluding": "10.0.17763.6414"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2019:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "10.0.17763.6414"
 	}
 ]
