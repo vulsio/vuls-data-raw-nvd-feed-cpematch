@@ -48,6 +48,18 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.78:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.90:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.92:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.5.47:*:*:*:*:*:*:*"
 			}
 		],
@@ -57,6 +69,9 @@
 		"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.78:*:*:*:*:*:*:*"
 			},
 			{
@@ -67,38 +82,5 @@
 			}
 		],
 		"versionEndExcluding": "2.5.5.47"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.90:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.5.5.47"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.5.5.47"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.78:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sf250-24p_firmware:2.5.0.92:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.5.5.47"
 	}
 ]

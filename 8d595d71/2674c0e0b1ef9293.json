@@ -3,6 +3,24 @@
 		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:4.0.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:-:*:*:*:*:*:*:*"
 			},
 			{
@@ -43,10 +61,37 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:3.0.0:beta2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.0:alpha1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:4.0.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.1:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:4.0.0:beta1:*:*:*:*:*:*"
 			},
@@ -139,40 +184,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:java:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.0:alpha1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:8.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:9.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:java:10.0.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "10.0.1",
-		"versionStartIncluding": "10.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
@@ -185,6 +199,16 @@
 			}
 		],
 		"versionEndIncluding": "10.0.1",
+		"versionStartIncluding": "10.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:kubernetes:java:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:java:10.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.0.1",
 		"versionStartIncluding": "10.0.0"
 	},
 	{

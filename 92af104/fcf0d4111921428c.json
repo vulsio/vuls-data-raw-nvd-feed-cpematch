@@ -21,8 +21,14 @@
 		"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:-:*:*:*:*:*:*:*"
-			},
+				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:01.21.02:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "01.21.02"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:01.19.00:*:*:*:*:*:*:*"
 			}
@@ -37,12 +43,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:01.19.00:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:01.21.02:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "01.21.02"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.21.02"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:zbook_17_g5_firmware:*:*:*:*:*:*:*:*",
