@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:yithemes:yith_custom_login:*:*:*:*:wordpress:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yithemes:yith_custom_login:1.7.0:*:*:*:wordpress:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.1"
 	}
 ]

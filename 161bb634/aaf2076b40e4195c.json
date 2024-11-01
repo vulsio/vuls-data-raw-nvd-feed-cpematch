@@ -239,34 +239,7 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.1.0.09:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.1.1.06:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.1.1.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.2.1.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.2.1.14:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.2.02:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.12.6-tm:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.12.19-tm:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.13.02-tm:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.14:*:*:*:*:*:*:*"
@@ -276,9 +249,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.19:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.20:*:*:*:*:*:*:*"
@@ -299,6 +269,69 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.0.1.17:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.5.1.05:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.5.1.05"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.1.1.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.1.1.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.2.1.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.2.1.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.2.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.12.6-tm:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.12.19-tm:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.13.02-tm:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.19:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.5.1.05"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.0.2.03:*:*:*:*:*:*:*"
 			},
 			{
@@ -317,9 +350,6 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.2.1.14:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.10:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.1.12:*:*:*:*:*:*:*"
 			},
 			{
@@ -335,25 +365,7 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.3.13.02-tm:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.17:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.4.2.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:rv325_firmware:1.5.1.05:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.5.1.05"
