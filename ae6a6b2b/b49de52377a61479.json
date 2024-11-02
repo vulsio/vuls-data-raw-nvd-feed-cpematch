@@ -309,8 +309,20 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.0:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.4:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.3:*:*:*:*:*:*:*"
 			},
@@ -322,7 +334,34 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:2.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.0:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:10.0.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:3.0:*:*:*:*:*:*:*"
 			},
@@ -351,33 +390,6 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:bridge:10.0.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:adobe:bridge:10.0.3:*:*:*:*:*:*:*"
 			},
 			{
@@ -394,6 +406,18 @@
 			}
 		],
 		"versionEndIncluding": "11.1.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:bridge:1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:bridge:*:*:*:*:*:*:*:*",

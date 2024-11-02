@@ -21,9 +21,6 @@
 		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:01.19.00:*:*:*:*:*:*:*"
 			}
 		],
@@ -43,6 +40,15 @@
 			}
 		],
 		"versionEndIncluding": "01.21.01"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "01.21.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:elitebook_840r_g4_firmware:*:*:*:*:*:*:*:*",

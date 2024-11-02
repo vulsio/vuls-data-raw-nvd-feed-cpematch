@@ -451,12 +451,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:cassandra:2.1.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:cassandra:2.1.22:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.22",
+		"versionEndExcluding": "2.1.22",
 		"versionStartIncluding": "2.1.0"
 	},
 	{
@@ -521,9 +518,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:cassandra:2.1.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:cassandra:2.1.22:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.22",
+		"versionEndIncluding": "2.1.22",
 		"versionStartIncluding": "2.1.0"
 	},
 	{

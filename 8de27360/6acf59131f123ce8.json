@@ -80,19 +80,7 @@
 		"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:6.5.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.3.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.4.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.7.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "8.7.1.3"
@@ -114,7 +102,31 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:-:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.3.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.4.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.7.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.7.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:scalance_w1750d_firmware:8.7.1.3:*:*:*:*:*:*:*"
 			}

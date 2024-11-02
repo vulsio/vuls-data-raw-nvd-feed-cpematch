@@ -4,15 +4,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:likeshop:likeshop:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.5.7"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:likeshop:likeshop:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:likeshop:likeshop:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:likeshop:likeshop:2.5.7.20210311:*:*:*:*:*:*:*"
@@ -31,5 +22,11 @@
 			}
 		],
 		"versionEndIncluding": "2.5.7.20210811"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:likeshop:likeshop:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "2.5.7",
+		"versionStartIncluding": "2.5.0"
 	}
 ]
