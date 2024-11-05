@@ -340,21 +340,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.3:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.4"
+		"versionEndExcluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netgate:pfsense:*:*:*:*:*:*:*:*",
@@ -457,9 +445,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.3:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netgate:pfsense:2.4.4:p3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.4"
+		"versionEndIncluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netgate:pfsense:*:*:*:*:*:*:*:*",

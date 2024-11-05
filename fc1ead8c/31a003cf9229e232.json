@@ -7,6 +7,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.20c:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:libextractor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.20c:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.21:*:*:*:*:*:*:*"
@@ -60,14 +69,23 @@
 		"cpe23Uri": "cpe:2.3:a:gnu:libextractor:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.20c:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.21:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:libextractor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:gnu:libextractor:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:libextractor:0.5.22:*:*:*:*:*:*:*"
 			},

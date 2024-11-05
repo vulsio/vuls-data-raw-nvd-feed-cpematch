@@ -3,12 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:1.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:1.2:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -37,5 +31,17 @@
 			}
 		],
 		"versionEndExcluding": "1.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sitekit_project:sitekit:1.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "1.4"
 	}
 ]

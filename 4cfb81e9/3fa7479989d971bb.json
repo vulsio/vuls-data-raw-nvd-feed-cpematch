@@ -2651,6 +2651,12 @@
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.3:-:*:*:*:*:*:*"
 			},
 			{
@@ -2679,79 +2685,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.1:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.16.0",
-		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.14.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.14.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.0:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.16.0",
-		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.16.0",
-		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.0:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.16.0",
-		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:rc1:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.16.0",
@@ -2764,6 +2697,9 @@
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:-:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc1:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.14.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -2771,9 +2707,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.1:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.16.0:-:*:*:*:*:*:*"
@@ -2789,8 +2722,18 @@
 		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc1:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc1:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.16.0",
+		"versionStartIncluding": "2.13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc2:*:*:*:*:*:*"
 			},
@@ -2799,12 +2742,62 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.16.0",
+		"versionStartIncluding": "2.13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc1:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:-:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.16.0",
+		"versionStartIncluding": "2.13.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:log4j:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.1:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.13.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.14.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.14.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:log4j:2.15.1:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "2.16.0",
 		"versionStartIncluding": "2.13.0"
 	},
 	{

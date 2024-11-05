@@ -3512,18 +3512,46 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.0:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.3:*:*:*:enterprise:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "9.0.10",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.4:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.6:*:*:*:enterprise:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "9.0.10",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.7:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.10",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.3:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.10",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.6:*:*:*:enterprise:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0.10",
@@ -3536,12 +3564,6 @@
 				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.0:*:*:*:enterprise:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.3:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.4:*:*:*:enterprise:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.6:*:*:*:enterprise:*:*:*"
 			},
 			{
@@ -3549,6 +3571,19 @@
 			}
 		],
 		"versionEndExcluding": "9.0.10",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:splunk:splunk:*:*:*:*:enterprise:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.3:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:splunk:splunk:9.0.4:*:*:*:enterprise:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.10",
 		"versionStartIncluding": "9.0.0"
 	},
 	{

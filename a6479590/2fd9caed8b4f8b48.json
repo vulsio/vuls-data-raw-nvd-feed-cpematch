@@ -1028,9 +1028,6 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:essentials:*:x86:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x86:*"
 			},
 			{
@@ -1046,14 +1043,29 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.6614:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.14393.6897"
+		"versionEndIncluding": "10.0.14393.6897"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
+			}
+		],
+		"versionEndIncluding": "10.0.14393.6897"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:datacenter:*:x64:*"
 			},
@@ -1085,7 +1097,7 @@
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.6614:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.14393.6897"
+		"versionEndExcluding": "10.0.14393.6897"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_server_2016:*:*:*:*:*:*:*:*",

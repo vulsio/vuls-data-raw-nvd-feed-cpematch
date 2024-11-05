@@ -1949,9 +1949,6 @@
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:x64:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:2.4.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -1980,9 +1977,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:openoffice:3.4.0:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:3.4.1:*:*:*:*:*:*:*"
@@ -2025,18 +2019,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.1.13"
+		"versionEndExcluding": "4.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:openoffice:*:*:*:*:*:*:*:*",
@@ -2178,6 +2163,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.13:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "4.1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:openoffice:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:openoffice:2.4.1:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:openoffice:3.4.0:beta:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:openoffice:4.1.11:*:*:*:*:*:*:*"
