@@ -387,6 +387,18 @@
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.0:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -400,6 +412,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.6:*:*:*:*:*:*:*"
@@ -439,9 +454,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.3"
+		"versionEndIncluding": "2.1.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
@@ -459,7 +480,25 @@
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.7:*:*:*:*:*:*:*"
@@ -517,6 +556,93 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.1.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.3:*:*:*:*:*:*:*"
@@ -558,72 +684,6 @@
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -658,96 +718,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.1.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:2.0.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.7.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.8.0:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "2.1.3"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.2.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip_server:1.5.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.1.3"

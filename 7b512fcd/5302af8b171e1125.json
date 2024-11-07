@@ -13,7 +13,22 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndIncluding": "1.43"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.43"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:1.41:*:*:*:*:*:*:*"
 			},
@@ -26,9 +41,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:-:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:pro_x2_612_g2_firmware:1.41:*:*:*:*:*:*:*"
 			}
