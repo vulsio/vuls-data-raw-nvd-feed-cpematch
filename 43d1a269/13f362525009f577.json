@@ -11,5 +11,18 @@
 		],
 		"versionEndExcluding": "1.5.0",
 		"versionStartIncluding": "1.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:nginx_api_connectivity_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_api_connectivity_manager:1.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_api_connectivity_manager:1.5.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.9.3",
+		"versionStartIncluding": "1.3.0"
 	}
 ]

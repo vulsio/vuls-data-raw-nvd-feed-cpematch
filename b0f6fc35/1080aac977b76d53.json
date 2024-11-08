@@ -18809,18 +18809,6 @@
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha5:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha9:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta1:*:*:*:*:*:*"
 			},
 			{
@@ -19032,13 +19020,7 @@
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha10:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha12:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha13:*:*:*:*:*:*"
@@ -19074,9 +19056,6 @@
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha9:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta10:*:*:*:*:*:*"
 			},
 			{
@@ -19104,16 +19083,7 @@
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta3:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta4:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta9:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:rc1:*:*:*:*:*:*"
@@ -19273,6 +19243,57 @@
 			}
 		],
 		"versionEndExcluding": "8.3.7",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha9:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.3.7",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:beta9:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3.7",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:8.0.0:alpha8:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.3.7",
 		"versionStartIncluding": "8.0.0"
 	},
 	{

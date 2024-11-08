@@ -85,5 +85,30 @@
 		],
 		"versionEndExcluding": "2.9.0",
 		"versionStartIncluding": "2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:nginx_instance_manager:2.9.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.17.4",
+		"versionStartIncluding": "2.5.0"
 	}
 ]

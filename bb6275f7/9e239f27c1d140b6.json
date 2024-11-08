@@ -10,22 +10,7 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:6.2:-:*:*:-:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:*:*:*:*:-:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:-:*:*:*:-:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.2"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:*:*:*:*:-:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:6.2:sp1:*:*:-:*:*:*"
 			},
@@ -58,5 +43,14 @@
 			}
 		],
 		"versionEndIncluding": "6.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:*:*:*:*:-:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:vijeo_designer:-:*:*:*:-:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.2"
 	}
 ]

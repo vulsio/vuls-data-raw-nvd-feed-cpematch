@@ -35,17 +35,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.12.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.10.23.0",
-		"versionStartIncluding": "1.10.12.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.17.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.21.0:*:*:*:*:*:*:*"
@@ -58,10 +51,16 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.12.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.16.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.17.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.21.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.10.23.0",
@@ -72,9 +71,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.17.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.10.23.0",
@@ -82,12 +78,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:1.10.21.0:*:*:*:*:*:*:*"
-			}
-		],
+		"cpe_name": [],
 		"versionEndIncluding": "1.10.23.0",
+		"versionStartIncluding": "1.10.12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:qradar_suite:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "1.10.23.0",
 		"versionStartIncluding": "1.10.12.0"
 	},
 	{
