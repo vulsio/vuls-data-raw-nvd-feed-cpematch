@@ -45,9 +45,6 @@
 				"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:3.0.1:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:3.0.2:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:3.1.0:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -133,6 +130,15 @@
 			}
 		],
 		"versionEndIncluding": "4.1.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:3.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpvar:wp_shamsi:*:*:*:*:*:wordpress:*:*",

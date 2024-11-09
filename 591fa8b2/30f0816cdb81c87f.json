@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:widgilabs:plugin_propagator:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:widgilabs:plugin_propagator:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:widgilabs:plugin_propagator:0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.1"
 	}
 ]
