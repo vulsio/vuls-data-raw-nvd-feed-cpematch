@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:*:*:*:*:-:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.0:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.0.1:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.1:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.1.1:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.1.2:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.2:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.2.1:*:*:*:-:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.2"
 	}
 ]

@@ -121,9 +121,6 @@
 		"cpe23Uri": "cpe:2.3:a:hitachi:vantara_pentaho:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:hitachi:vantara_pentaho:8.3.0.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:hitachi:vantara_pentaho:8.3.0.9:*:*:*:*:*:*:*"
 			}
 		],
@@ -144,6 +141,16 @@
 			}
 		],
 		"versionEndIncluding": "8.3.0.25",
+		"versionStartIncluding": "8.3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:hitachi:vantara_pentaho:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:vantara_pentaho:8.3.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3.0.25",
 		"versionStartIncluding": "8.3.0.0"
 	},
 	{

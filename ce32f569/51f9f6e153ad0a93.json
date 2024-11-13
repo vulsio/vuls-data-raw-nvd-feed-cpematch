@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:*:*:*:*:pro:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:-:*:*:*:pro:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpplugin:time_clock:1.1.4:*:*:*:pro:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.4"
 	}
 ]

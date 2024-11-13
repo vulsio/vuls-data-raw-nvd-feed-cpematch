@@ -19,24 +19,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:-:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.00175:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.01090:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.02042:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.02045:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03036:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9.00086"
+		"versionEndIncluding": "4.9.00086"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:*:*:*:*:*:windows:*:*",
@@ -64,24 +49,39 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03052:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "4.9.00086"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.00175:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.01090:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.02042:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.02045:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03036:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03043:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03052:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.9.00086:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndIncluding": "4.9.00086"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:*:*:*:*:*:windows:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03043:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:4.8.03052:*:*:*:*:windows:*:*"
-			}
-		],
-		"versionEndExcluding": "4.9.00086"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:anyconnect_secure_mobility_client:*:*:*:*:*:windows:*:*",

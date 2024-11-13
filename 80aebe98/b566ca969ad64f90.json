@@ -155,22 +155,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.0.15",
-		"versionStartIncluding": "4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.15:*:*:*:*:*:*:*"
@@ -187,9 +171,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.20",
+		"versionEndExcluding": "4.0.15",
 		"versionStartIncluding": "4.0"
 	},
 	{
@@ -214,6 +201,12 @@
 	{
 		"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.5:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.10:*:*:*:*:*:*:*"
 			},
