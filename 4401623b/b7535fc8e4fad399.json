@@ -408,9 +408,6 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus:10.1.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus:10.1.4.145:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus:10.1.4.179:*:*:*:*:*:*:*"
 			},
 			{
@@ -539,6 +536,16 @@
 			}
 		],
 		"versionEndExcluding": "10.1.7",
+		"versionStartIncluding": "10.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:spectrum_protect_plus:10.1.4.145:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "10.1.7",
 		"versionStartIncluding": "10.1.0"
 	},
 	{

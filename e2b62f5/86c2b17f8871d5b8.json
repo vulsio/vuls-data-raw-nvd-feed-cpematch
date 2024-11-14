@@ -3,10 +3,28 @@
 		"cpe23Uri": "cpe:2.3:a:health:covidsafe:*:*:*:*:*:android:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.11:*:*:*:*:android:*:*"
+			}
+		],
+		"versionEndIncluding": "1.0.17"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:health:covidsafe:*:*:*:*:*:android:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:health:covidsafe:-:*:*:*:*:android:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.11:*:*:*:*:android:*:*"
+				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.16:*:*:*:*:android:*:*"
+			}
+		],
+		"versionEndExcluding": "1.0.17"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:health:covidsafe:*:*:*:*:*:android:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:health:covidsafe:-:*:*:*:*:android:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.16:*:*:*:*:android:*:*"
@@ -21,13 +39,7 @@
 		"cpe23Uri": "cpe:2.3:a:health:covidsafe:*:*:*:*:*:android:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:health:covidsafe:-:*:*:*:*:android:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.11:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:health:covidsafe:1.0.16:*:*:*:*:android:*:*"
 			}
 		],
 		"versionEndExcluding": "1.0.17"

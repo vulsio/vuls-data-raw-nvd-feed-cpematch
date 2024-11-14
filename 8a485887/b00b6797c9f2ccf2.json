@@ -27,6 +27,9 @@
 				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.7:*:*:*:*:wordpress:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8.2:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -40,9 +43,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.9"
+		"versionEndIncluding": "2.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:*:*:*:*:*:wordpress:*:*",
@@ -90,24 +96,6 @@
 				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.8:*:*:*:*:wordpress:*:*"
-			}
-		],
 		"versionEndExcluding": "2.9"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:very_simple_google_maps_project:very_simple_google_maps:2.9:*:*:*:*:wordpress:*:*"
-			}
-		],
-		"versionEndIncluding": "2.9"
 	}
 ]

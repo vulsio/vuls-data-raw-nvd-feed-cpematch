@@ -38527,9 +38527,6 @@
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:-:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.9.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -38588,9 +38585,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.1:*:*:*:*:*:*:*"
@@ -38750,16 +38744,10 @@
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:-:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:lts:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.9.0:*:*:*:*:*:*:*"
@@ -38822,9 +38810,6 @@
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:-:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:lts:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -38844,6 +38829,42 @@
 			}
 		],
 		"versionEndExcluding": "8.11.3",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nodejs:node.js:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.11.3",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nodejs:node.js:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.0:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.11.0:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.11.3",
+		"versionStartIncluding": "8.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nodejs:node.js:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.8.1:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "8.11.3",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -41688,15 +41709,6 @@
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.5.0:*:*:*:-:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.0:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.1:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.2:*:*:*:-:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.7.0:*:*:*:-:*:*:*"
 			},
 			{
@@ -41767,15 +41779,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.0:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndIncluding": "16.20.1",
+		"versionEndExcluding": "16.20.1",
 		"versionStartIncluding": "16.0.0"
 	},
 	{
@@ -41888,6 +41894,28 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.0:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:lts:*:*:*"
+			}
+		],
+		"versionEndIncluding": "16.20.1",
+		"versionStartIncluding": "16.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:nodejs:node.js:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.0:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.1:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:16.6.2:*:*:*:-:*:*:*"
 			}
 		],
 		"versionEndExcluding": "16.20.1",
