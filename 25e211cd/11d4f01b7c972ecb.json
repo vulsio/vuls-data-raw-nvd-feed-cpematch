@@ -7253,16 +7253,6 @@
 		"cpe23Uri": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:rc0:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.2",
-		"versionStartIncluding": "1.15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -7270,6 +7260,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:rc0:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.1:*:*:*:*:*:*:*"
@@ -7285,26 +7278,6 @@
 		"cpe23Uri": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.15.2",
-		"versionStartIncluding": "1.15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:rc0:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.15.2",
-		"versionStartIncluding": "1.15.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:istio:istio:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -7312,6 +7285,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:istio:istio:1.15.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.15.2",

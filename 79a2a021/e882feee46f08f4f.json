@@ -102,19 +102,7 @@
 				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:1.4.7.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:1.4.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.3.0.130:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.5.0.78:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.5.0.90:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.5.0.92:*:*:*:*:*:*:*"
@@ -151,6 +139,24 @@
 			}
 		],
 		"versionEndIncluding": "2.5.5.47"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:1.4.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.3.0.130:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.5.0.78:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:2.5.0.90:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.5.5.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sx550x-12f_firmware:*:*:*:*:*:*:*:*",

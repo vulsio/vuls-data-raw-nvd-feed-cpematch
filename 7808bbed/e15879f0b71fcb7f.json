@@ -181,18 +181,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:audition:23.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "24.6.3"
+		"versionEndIncluding": "23.6.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
@@ -208,6 +199,22 @@
 			}
 		],
 		"versionEndIncluding": "24.4.1",
+		"versionStartIncluding": "24.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "24.4.6",
 		"versionStartIncluding": "24.0"
 	}
 ]

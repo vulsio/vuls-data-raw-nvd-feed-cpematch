@@ -294,12 +294,6 @@
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:alpha1:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -357,15 +351,6 @@
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.9b:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -400,43 +385,16 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.13"
+		"versionEndIncluding": "3.1.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.4.99-0.20000927:*:*:*:*:*:*:*"
 			},
@@ -460,36 +418,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.5.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "3.1.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.7b:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.1.13"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.0:*:*:*:*:*:*:*"
@@ -621,8 +549,86 @@
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.3:*:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:1.6.4:alpha1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.7b:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.9b:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:2.2.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "3.1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.1.13"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:netatalk:netatalk:3.1.3:*:*:*:*:*:*:*"
 			},

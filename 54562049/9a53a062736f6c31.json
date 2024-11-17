@@ -54,5 +54,20 @@
 				"cpe23Uri": "cpe:2.3:a:x.org:x11:r6.7:*:*:*:*:*:*:*"
 			}
 		]
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:x.org:x11:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:x.org:x11:1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:x.org:x11:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:x.org:x11:5.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.0"
 	}
 ]

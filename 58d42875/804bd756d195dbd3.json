@@ -36,7 +36,13 @@
 		"cpe23Uri": "cpe:2.3:a:typecho:typecho:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:typecho:typecho:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:typecho:typecho:0.9-13.12.1:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typecho:typecho:0.9-13.12.6:rc:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typecho:typecho:0.9-13.12.10:*:*:*:*:*:*:*"
@@ -74,6 +80,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:typecho:typecho:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:typecho:typecho:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typecho:typecho:0.9-13.12.1:beta:*:*:*:*:*:*"
 			},
@@ -124,27 +133,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typecho:typecho:1.2.0:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "1.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:typecho:typecho:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:typecho:typecho:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typecho:typecho:0.9-13.12.6:rc:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "1.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:typecho:typecho:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:typecho:typecho:-:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "1.2.0"

@@ -1,6 +1,15 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:soar:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:soar:40.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "51.0.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:soar:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "43.1.49",
 		"versionStartIncluding": "42.0.7058"

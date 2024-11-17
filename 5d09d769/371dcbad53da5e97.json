@@ -441,52 +441,13 @@
 		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:rc2:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:-:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:rc2:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8:*:*:*:*:*:*:*"
@@ -501,37 +462,19 @@
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:rc2:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:-:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc1:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:-:*:*:*:*:*:*"
@@ -543,6 +486,9 @@
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:rc2:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -550,6 +496,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:-:*:*:*:*:*:*"
@@ -565,6 +514,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:-:*:*:*:*:*:*"
@@ -594,6 +546,9 @@
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:-:*:*:*:*:*:*"
 			},
 			{
@@ -601,13 +556,229 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.23.0"
+		"versionEndIncluding": "0.23.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone1:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone2:*:*:*:*:*:*"
 			},
@@ -635,6 +806,15 @@
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone1:*:*:*:*:*:*"
 			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone2:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "0.23.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone2:*:*:*:*:*:*"
 			},
@@ -646,276 +826,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.23.0:milestone2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.21.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.22.0:milestone2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.17.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:milestone2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.16.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:milestone1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.18.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.19.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.20.0:-:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.8.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.15.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.11.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "0.23.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:eclipse:openj9:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.9.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:milestone2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.12.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.13.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:milestone1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:eclipse:openj9:0.14.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "0.23.0"

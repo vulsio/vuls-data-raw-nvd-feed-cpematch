@@ -25946,6 +25946,28 @@
 		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.66",
+		"versionStartIncluding": "8.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -26157,28 +26179,13 @@
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.1:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.6:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.8:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:8.5.9:*:*:*:*:*:*:*"
@@ -32574,21 +32581,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.42:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.43:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.44:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.45:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "9.0.46",
@@ -32597,36 +32589,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.10:*:*:*:*:*:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.11:*:*:*:*:*:*:*"
 			},
@@ -32644,9 +32606,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.17:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.18:*:*:*:*:*:*:*"
@@ -32744,6 +32703,75 @@
 		],
 		"versionEndIncluding": "9.0.46",
 		"versionStartExcluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.43:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.46",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.17:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "9.0.46",
+		"versionStartExcluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.41:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.42:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:tomcat:9.0.45:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.0.46",
+		"versionStartIncluding": "9.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:tomcat:*:*:*:*:*:*:*:*",
