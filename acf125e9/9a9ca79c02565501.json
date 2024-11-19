@@ -6,20 +6,14 @@
 				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "02.12.01"
+		"versionEndExcluding": "02.12.01"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "02.12.01"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:hp:z1_entry_tower_g6_firmware:02.12.01:*:*:*:*:*:*:*"
 			}

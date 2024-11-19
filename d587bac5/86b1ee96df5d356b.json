@@ -3116,10 +3116,23 @@
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.4:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "17.8.12",
+		"versionStartIncluding": "17.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "17.8.12",
+		"versionStartIncluding": "17.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.8.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "17.8.12",
@@ -3136,6 +3149,24 @@
 			}
 		],
 		"versionEndExcluding": "17.8.12",
+		"versionStartIncluding": "17.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "17.8.12",
+		"versionStartIncluding": "17.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "17.8.12",
+		"versionStartIncluding": "17.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "17.8.12",
 		"versionStartIncluding": "17.8.0"
 	},
 	{
@@ -3244,9 +3275,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "17.10.4",
+		"versionEndIncluding": "17.10.4",
 		"versionStartIncluding": "17.10.0"
 	},
 	{
@@ -3263,12 +3297,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "17.10.4",
+		"versionEndExcluding": "17.10.4",
 		"versionStartIncluding": "17.10.0"
 	},
 	{
@@ -3322,37 +3353,6 @@
 		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "17.10.9",
-		"versionStartIncluding": "17.10.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.6:*:*:*:*:*:*:*"
 			}
 		],
@@ -3363,6 +3363,34 @@
 		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "17.10.9",
+		"versionStartIncluding": "17.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndIncluding": "17.10.9",
+		"versionStartIncluding": "17.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.6:*:*:*:*:*:*:*"
 			}
 		],
@@ -3374,6 +3402,15 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:visual_studio_2022:17.10.4:*:*:*:*:*:*:*"

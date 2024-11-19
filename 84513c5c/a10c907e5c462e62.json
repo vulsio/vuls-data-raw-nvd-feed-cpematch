@@ -6,14 +6,20 @@
 				"cpe23Uri": "cpe:2.3:o:tp-link:archer_a10_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "230504"
+		"versionEndIncluding": "230504"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:tp-link:archer_a10_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:tp-link:archer_a10_firmware:-:*:*:*:*:*:*:*"
-			},
+			}
+		],
+		"versionEndExcluding": "230504"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:tp-link:archer_a10_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:tp-link:archer_a10_firmware:230504:*:*:*:*:*:*:*"
 			}

@@ -205,12 +205,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:ex6120_firmware:1.0.0.66:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:ex6120_firmware:1.0.0.68:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.0.68"
+		"versionEndExcluding": "1.0.0.68"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:ex6120_firmware:*:*:*:*:*:*:*:*",
@@ -241,8 +238,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:ex6120_firmware:1.0.0.66:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:ex6120_firmware:1.0.0.68:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.0.68"
+		"versionEndIncluding": "1.0.0.68"
 	}
 ]

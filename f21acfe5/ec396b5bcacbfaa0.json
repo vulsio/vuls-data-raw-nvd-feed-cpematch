@@ -3,9 +3,6 @@
 		"cpe23Uri": "cpe:2.3:a:vsourz:all_in_one_redirection:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:vsourz:all_in_one_redirection:1.0.0:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:vsourz:all_in_one_redirection:1.0.1:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -43,5 +40,14 @@
 			}
 		],
 		"versionEndExcluding": "2.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vsourz:all_in_one_redirection:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vsourz:all_in_one_redirection:1.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "2.2.0"
 	}
 ]

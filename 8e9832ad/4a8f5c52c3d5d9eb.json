@@ -1842,112 +1842,49 @@
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.3:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:iphone_os:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:android:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:iphone_os:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.2:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.2:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.2:*:*:*:*:iphone_os:*:*"
 			}
 		],
-		"versionEndIncluding": "6.3.8"
+		"versionEndExcluding": "6.3.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.2:*:*:*:*:*:*:*"
@@ -1966,201 +1903,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.3.8"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.38.1:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.38.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.39.0:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.39.0:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.40.0:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.40.0:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.0:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.0:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.1:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.8:*:*:*:*:*:*:*"
@@ -2172,28 +1914,7 @@
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.0:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.2:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.21.2:*:*:*:*:iphone_os:*:*"
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.22.0:*:*:*:*:android:*:*"
@@ -2313,34 +2034,7 @@
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.0:*:*:*:*:android:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.0:*:*:*:*:iphone_os:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.1:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.1:*:*:*:*:iphone_os:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.2:*:*:*:*:iphone_os:*:*"
-			}
-		],
-		"versionEndExcluding": "6.3.8"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.3.8"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.32.2:*:*:*:*:android:*:*"
@@ -2430,6 +2124,21 @@
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.1:*:*:*:*:iphone_os:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.5:*:*:*:*:*:*:*"
 			},
 			{
@@ -2454,6 +2163,42 @@
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.10:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -2463,7 +2208,19 @@
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.2:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.0:*:*:*:*:*:*:*"
@@ -2482,6 +2239,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.2:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.0:*:*:*:*:*:*:*"
@@ -2713,6 +2476,237 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.38.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.38.1:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.38.1:*:*:*:*:iphone_os:*:*"
+			}
+		],
+		"versionEndIncluding": "6.3.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.3.8"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.39.0:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.39.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.40.0:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.40.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.0:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.1:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:1.41.1:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.34.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.35.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.36.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.37.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.38.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:5.39.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.3.8"
