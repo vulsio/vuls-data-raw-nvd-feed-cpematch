@@ -2359,6 +2359,12 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -2381,66 +2387,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.0.11",
-		"versionStartIncluding": "6.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.0.11",
-		"versionStartIncluding": "6.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.0.11",
-		"versionStartIncluding": "6.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.3:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.10:*:*:*:*:*:*:*"
@@ -2450,6 +2396,46 @@
 			}
 		],
 		"versionEndIncluding": "6.0.11",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.0.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.11",
 		"versionStartIncluding": "6.0.0"
 	},
 	{
@@ -2711,9 +2697,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.2.7",
+		"versionEndExcluding": "6.2.7",
 		"versionStartIncluding": "6.2.0"
 	},
 	{
@@ -2739,37 +2737,25 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.6:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.2.7",
-		"versionStartIncluding": "6.2.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.6:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.2.7",
+		"versionStartIncluding": "6.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimail:6.2.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.2.7",
 		"versionStartIncluding": "6.2.0"
 	},
 	{

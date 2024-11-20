@@ -16,9 +16,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.06:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "c21.06"
+		"versionEndIncluding": "c21.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
@@ -28,12 +31,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.06:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "c21.06"
+		"versionEndExcluding": "c21.06"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
@@ -684,7 +684,22 @@
 		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.03:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.07:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.09:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.10:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.12:*:*:*:*:*:*:*"
@@ -787,51 +802,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.05:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.06:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.07:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.08:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "c23.08"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.10:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "c23.08"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.06:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c23.07:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "c23.08"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.03:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.06:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:acronis:agent:c21.07:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "c23.08"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:agent:*:*:*:*:*:*:*:*",

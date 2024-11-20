@@ -1480,6 +1480,21 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.1.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1516,27 +1531,14 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.1:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.6:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.3:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.7:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.4:*:*:*:*:*:*:*"
 			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.5:*:*:*:*:*:*:*"
 			},
@@ -1553,41 +1555,10 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.2:*:*:*:*:*:*:*"
@@ -1599,19 +1570,139 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.2:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.101:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.9.6.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.20:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartIncluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.102:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.103:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.100:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartIncluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.15:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartIncluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.20:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -1636,6 +1727,9 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.7:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -1684,6 +1778,12 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.4:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.6:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1711,6 +1811,15 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.101:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.102:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.103:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.9.6.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -1721,180 +1830,10 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.100:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.101:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.102:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.103:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.20:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.102:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.103:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.0:*:*:*:*:*:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.0:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.100:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.101:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -1905,9 +1844,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -1917,7 +1853,16 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -1927,7 +1872,22 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -1936,6 +1896,89 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartIncluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.3:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartIncluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.100:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "6.9.6.0",
+		"versionStartExcluding": "6.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.1.3.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.1.2:*:*:*:*:*:*:*"
 			},
@@ -1943,149 +1986,22 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.6.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.2.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.0:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.0:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.1:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.4:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.5:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.3.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.2:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartIncluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.9.6.0",
-		"versionStartExcluding": "6.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.4.2:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.6:*:*:*:*:*:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.5:*:*:*:*:*:*:*"
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:6.2.7.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "6.9.6.0",
@@ -3575,7 +3491,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.1.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.1.2.9",
+		"versionEndIncluding": "7.1.2.9",
 		"versionStartIncluding": "7.1.0.0"
 	},
 	{
@@ -3627,7 +3543,7 @@
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.1.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.1.2.9",
+		"versionEndExcluding": "7.1.2.9",
 		"versionStartIncluding": "7.1.0.0"
 	},
 	{
@@ -3944,7 +3860,29 @@
 		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0.1109832:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.3.2",
+		"versionStartIncluding": "7.2.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0.1109832:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.1.1114184:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.2.1116435:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.1.0.1123293:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.2.1:*:*:*:*:*:*:*"
@@ -3961,9 +3899,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0.1109832:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.1.1114184:*:*:*:*:*:*:*"
@@ -3982,25 +3917,6 @@
 			}
 		],
 		"versionEndExcluding": "7.2.3.2",
-		"versionStartIncluding": "7.2.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.0.1109832:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.1.1114184:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.0.2.1116435:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:urbancode_deploy:7.2.1.0.1123293:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.2.3.2",
 		"versionStartIncluding": "7.2.0.0"
 	},
 	{

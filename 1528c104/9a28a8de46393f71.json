@@ -36,21 +36,6 @@
 		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:2.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:3.0:*:*:*:*:wordpress:*:*"
-			},
-			{
 				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:3.2:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -58,12 +43,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.4:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.5"
+		"versionEndIncluding": "4.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
@@ -91,12 +73,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.1:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.0:*:*:*:*:wordpress:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.4:*:*:*:*:wordpress:*:*"
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:1.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:2.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:3.0:*:*:*:*:wordpress:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.5:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndIncluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.4:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "4.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sumo:social_share_boost:4.4:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndIncluding": "4.5"

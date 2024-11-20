@@ -43,12 +43,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.1:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.2:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.3:*:*:*:*:python:*:*"
 			}
 		],
 		"versionEndExcluding": "0.4.4",
@@ -57,18 +51,6 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:python:*:*",
 		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.15:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.16:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.17:*:*:*:*:python:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.18:*:*:*:*:python:*:*"
-			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.19:*:*:*:*:python:*:*"
 			},
@@ -107,6 +89,38 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.4:*:*:*:*:python:*:*"
+			}
+		],
+		"versionEndIncluding": "0.4.4",
+		"versionStartIncluding": "0.1.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:python:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.2:*:*:*:*:python:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.4.3:*:*:*:*:python:*:*"
+			}
+		],
+		"versionEndExcluding": "0.4.4",
+		"versionStartIncluding": "0.1.15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:*:*:*:*:*:python:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.15:*:*:*:*:python:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.16:*:*:*:*:python:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.17:*:*:*:*:python:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlparse_project:sqlparse:0.1.18:*:*:*:*:python:*:*"
 			}
 		],
 		"versionEndIncluding": "0.4.4",

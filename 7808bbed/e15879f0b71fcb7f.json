@@ -216,5 +216,21 @@
 		],
 		"versionEndIncluding": "24.4.6",
 		"versionStartIncluding": "24.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:audition:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:audition:24.4.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "24.6.3",
+		"versionStartIncluding": "24.0"
 	}
 ]
