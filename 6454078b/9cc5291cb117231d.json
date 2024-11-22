@@ -1,7 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_qradar_edr:3.12.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.12.12",
 		"versionStartIncluding": "3.12"
 	}

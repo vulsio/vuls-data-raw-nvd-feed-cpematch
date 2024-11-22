@@ -1895,12 +1895,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.10.5:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.11.0:m3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.11.0",
+		"versionEndExcluding": "2.11.0",
 		"versionStartIncluding": "2.9.0"
 	},
 	{
@@ -1974,19 +1971,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.10.5:rc2:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.11.0",
-		"versionStartIncluding": "2.9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:jspwiki:*:*:*:*:*:*:*:*",
-		"cpe_name": [
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.11.0:-:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.11.0:m1-rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.11.0:m3:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:jspwiki:2.11.0:m3-rc1:*:*:*:*:*:*"
