@@ -15,20 +15,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:rt_toolbox2:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:rt_toolbox2:3.73b:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.73b"
+		"versionEndExcluding": "3.73b"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mitsubishielectric:rt_toolbox2:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:rt_toolbox2:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:rt_toolbox2:3.73b:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.73b"
+		"versionEndIncluding": "3.73b"
 	}
 ]

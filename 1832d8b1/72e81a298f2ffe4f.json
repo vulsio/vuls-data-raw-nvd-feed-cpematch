@@ -1173,12 +1173,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:3.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:3.9.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.4"
+		"versionEndExcluding": "3.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:*:*:*:*:*:*:*:*",
@@ -1323,9 +1320,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:3.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:3.9.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.4"
+		"versionEndIncluding": "3.9.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:*:*:*:*:*:*:*:*",
@@ -5004,9 +5004,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.4.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.5.0"
+		"versionEndIncluding": "4.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:*:*:*:*:*:*:*:*",
@@ -5256,21 +5268,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.4.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:4.5.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.5.0"
+		"versionEndExcluding": "4.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libtiff:libtiff:*:*:*:*:*:*:*:*",

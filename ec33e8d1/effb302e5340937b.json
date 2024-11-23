@@ -309,7 +309,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:autodesk:autocad_mep:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_mep:2025:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autodesk:autocad_mep:2025.0.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2025.1.1",
 		"versionStartIncluding": "2025"
 	}

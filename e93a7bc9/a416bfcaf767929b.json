@@ -1191,12 +1191,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "354.35",
+		"versionEndExcluding": "354.35",
 		"versionStartIncluding": "352"
 	},
 	{
@@ -1213,9 +1210,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:352.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:gpu_driver:354.35:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "354.35",
+		"versionEndIncluding": "354.35",
 		"versionStartIncluding": "352"
 	},
 	{

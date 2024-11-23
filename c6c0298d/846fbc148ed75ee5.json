@@ -5370,9 +5370,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:4.3.5:-:ipodtouch:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:ipad:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:iphone:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:ipodtouch:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0"
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -5661,21 +5673,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:4.3.5:-:ipodtouch:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:ipad:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:iphone:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.0:-:ipodtouch:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0"
+		"versionEndExcluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -6927,12 +6927,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.1.1"
+		"versionEndExcluding": "5.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -7248,9 +7245,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.1.1"
+		"versionEndIncluding": "5.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -7890,12 +7890,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0"
+		"versionEndExcluding": "6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -8214,9 +8211,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:5.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0"
+		"versionEndIncluding": "6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -12069,9 +12069,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:7.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.1"
+		"versionEndIncluding": "7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -12438,12 +12441,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:7.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.1"
+		"versionEndExcluding": "7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -16344,12 +16344,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.3"
+		"versionEndExcluding": "8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -16749,9 +16746,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.3"
+		"versionEndIncluding": "8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -20064,12 +20064,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.2"
+		"versionEndExcluding": "9.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -20490,9 +20487,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.2"
+		"versionEndIncluding": "9.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -22644,12 +22644,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.3.2"
+		"versionEndExcluding": "9.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -23082,9 +23079,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:9.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.3.2"
+		"versionEndIncluding": "9.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -28107,12 +28107,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.2.1"
+		"versionEndExcluding": "10.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -28581,9 +28578,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.2.1"
+		"versionEndIncluding": "10.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -31458,12 +31458,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.3.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.3.3"
+		"versionEndExcluding": "10.3.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",
@@ -31944,9 +31941,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:iphone_os:10.3.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.3.3"
+		"versionEndIncluding": "10.3.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:iphone_os:*:*:*:*:*:*:*:*",

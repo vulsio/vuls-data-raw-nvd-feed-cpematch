@@ -3222,12 +3222,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.4"
+		"versionEndExcluding": "5.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
@@ -3705,9 +3702,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:plone:plone:5.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.4"
+		"versionEndIncluding": "5.2.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:plone:plone:*:*:*:*:*:*:*:*",
