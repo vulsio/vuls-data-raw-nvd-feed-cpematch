@@ -157,12 +157,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:2.5.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:2.5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.5.8"
+		"versionEndExcluding": "2.5.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:*:*:*:*:*:*:*:*",
@@ -322,9 +319,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:2.5.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:2.5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.5.8"
+		"versionEndIncluding": "2.5.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:*:*:*:*:*:*:*:*",
@@ -4299,12 +4299,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:3.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:3.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.4",
+		"versionEndExcluding": "3.0.4",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -4321,9 +4318,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:3.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:trustwave:modsecurity:3.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.4",
+		"versionEndIncluding": "3.0.4",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
