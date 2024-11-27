@@ -1639,9 +1639,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:cuda_toolkit:12.5.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nvidia:cuda_toolkit:12.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.6.0"
+		"versionEndIncluding": "12.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:nvidia:cuda_toolkit:*:*:*:*:*:*:*:*",
@@ -1840,11 +1843,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nvidia:cuda_toolkit:12.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nvidia:cuda_toolkit:12.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.6.0"
+		"versionEndExcluding": "12.6.0"
 	}
 ]

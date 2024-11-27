@@ -484,9 +484,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.12.1:*:*:*:*:jquery:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:-:*:*:*:jquery:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:rc1:*:*:*:jquery:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:rc2:*:*:*:jquery:*:*"
 			}
 		],
-		"versionEndExcluding": "1.13.0"
+		"versionEndIncluding": "1.13.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:*:*:*:*:*:jquery:*:*",
@@ -760,18 +769,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.12.1:*:*:*:*:jquery:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:-:*:*:*:jquery:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:rc1:*:*:*:jquery:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:1.13.0:rc2:*:*:*:jquery:*:*"
 			}
 		],
-		"versionEndIncluding": "1.13.0"
+		"versionEndExcluding": "1.13.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jqueryui:jquery_ui:*:*:*:*:*:jquery:*:*",

@@ -1435,9 +1435,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gogs:gogs:0.12.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gogs:gogs:0.12.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.12.7"
+		"versionEndIncluding": "0.12.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gogs:gogs:*:*:*:*:*:*:*:*",
@@ -1636,12 +1639,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gogs:gogs:0.12.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gogs:gogs:0.12.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.12.7"
+		"versionEndExcluding": "0.12.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gogs:gogs:*:*:*:*:*:*:*:*",

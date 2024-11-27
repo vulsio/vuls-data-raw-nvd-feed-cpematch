@@ -5335,15 +5335,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.2:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.3:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.7.3"
+		"versionEndExcluding": "6.7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:grafana:grafana:*:*:*:*:*:*:*:*",
@@ -6427,9 +6421,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.2:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:grafana:grafana:6.7.3:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.7.3"
+		"versionEndIncluding": "6.7.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:grafana:grafana:*:*:*:*:*:*:*:*",

@@ -11,6 +11,24 @@
 				"cpe23Uri": "cpe:2.3:a:amd:radeon_software:23.q3:*:*:*:pro:*:*:*"
 			}
 		],
+		"versionEndIncluding": "23.q4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:amd:radeon_software:*:*:*:*:pro:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:radeon_software:23.q3:*:*:*:pro:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.q4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:amd:radeon_software:*:*:*:*:pro:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:radeon_software:23.q3:*:*:*:pro:*:*:*"
+			}
+		],
+		"versionEndExcluding": "24.q2"
 	}
 ]

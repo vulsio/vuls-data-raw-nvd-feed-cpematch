@@ -3480,9 +3480,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.3p2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:p1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4"
+		"versionEndIncluding": "4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openbsd:openssh:*:*:*:*:*:*:*:*",
@@ -3885,18 +3894,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.3p2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openbsd:openssh:4.4:p1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4"
+		"versionEndExcluding": "4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openbsd:openssh:*:*:*:*:*:*:*:*",
