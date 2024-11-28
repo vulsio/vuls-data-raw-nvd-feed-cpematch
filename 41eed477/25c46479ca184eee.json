@@ -976,9 +976,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpbakery:page_builder:6.4.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpbakery:page_builder:6.13.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "6.13.0"
+		"versionEndIncluding": "6.13.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpbakery:page_builder:*:*:*:*:*:wordpress:*:*",
@@ -1438,11 +1441,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpbakery:page_builder:6.4.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpbakery:page_builder:6.13.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "6.13.0"
+		"versionEndExcluding": "6.13.0"
 	}
 ]
