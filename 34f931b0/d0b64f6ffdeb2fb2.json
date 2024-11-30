@@ -1372,5 +1372,30 @@
 		],
 		"versionEndExcluding": "7.3.11",
 		"versionStartIncluding": "7.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:powershell:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3:preview1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3:preview2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3:preview3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:powershell:7.3.11:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.3.12",
+		"versionStartIncluding": "7.3"
 	}
 ]

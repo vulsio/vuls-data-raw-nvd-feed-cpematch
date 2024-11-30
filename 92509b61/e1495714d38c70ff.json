@@ -130,12 +130,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:openshift_login:1.1.0.227.v27e08dfb_1a_20:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:openshift_login:1.1.0.230.v5d7030b_f5432:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.0.230.v5d7030b_f5432"
+		"versionEndExcluding": "1.1.0.230.v5d7030b_f5432"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:openshift_login:*:*:*:*:*:jenkins:*:*",
@@ -268,8 +265,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:openshift_login:1.1.0.227.v27e08dfb_1a_20:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:openshift_login:1.1.0.230.v5d7030b_f5432:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.0.230.v5d7030b_f5432"
+		"versionEndIncluding": "1.1.0.230.v5d7030b_f5432"
 	}
 ]

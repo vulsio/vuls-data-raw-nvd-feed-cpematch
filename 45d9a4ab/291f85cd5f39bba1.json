@@ -1795,5 +1795,33 @@
 		],
 		"versionEndIncluding": "3.5.2",
 		"versionStartIncluding": "3.4.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libarchive:libarchive:3.7.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.7.5",
+		"versionStartIncluding": "3.6.0"
 	}
 ]

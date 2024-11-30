@@ -10236,9 +10236,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:3.31.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:3.32.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.32.0"
+		"versionEndIncluding": "3.32.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:*:*:*:*:*:*:*:*",
@@ -11148,12 +11151,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:3.31.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:3.32.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.32.0"
+		"versionEndExcluding": "3.32.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sqlite:sqlite:*:*:*:*:*:*:*:*",
