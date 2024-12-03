@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:3.2.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:3.2.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:3.2.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:posimyth:nexter_blocks:3.2.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.2.6"
 	}
 ]

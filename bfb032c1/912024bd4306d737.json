@@ -82,9 +82,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.4.1"
+		"versionEndIncluding": "15.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:*:*:*:*:*:*:*:*",
@@ -100,12 +103,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.4.1"
+		"versionEndExcluding": "15.4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:*:*:*:*:*:*:*:*",
@@ -204,6 +204,33 @@
 				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.3:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "23.6.7"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:14.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:15.4.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "23.6.9"
 	},
 	{
@@ -211,6 +238,16 @@
 		"cpe_name": [],
 		"versionEndExcluding": "22.1.1",
 		"versionStartIncluding": "22.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:24.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "24.5",
+		"versionStartIncluding": "24.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:premiere_pro:*:*:*:*:*:*:*:*",
