@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acekyd:display_medium_posts:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acekyd:display_medium_posts:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acekyd:display_medium_posts:5.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "5.0.1"
 	}
 ]

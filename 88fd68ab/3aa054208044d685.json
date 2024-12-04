@@ -3187,9 +3187,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:239:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "239"
+		"versionEndIncluding": "239"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
@@ -3577,12 +3580,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:239:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "239"
+		"versionEndExcluding": "239"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",

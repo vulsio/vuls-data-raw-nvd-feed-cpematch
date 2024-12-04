@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:abdullahirfan:documentpress:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:abdullahirfan:documentpress:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:abdullahirfan:documentpress:2.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.1"
 	}
 ]
