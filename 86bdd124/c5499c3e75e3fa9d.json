@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:boopathirajan:wp_test_email:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:boopathirajan:wp_test_email:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:boopathirajan:wp_test_email:1.1.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:boopathirajan:wp_test_email:1.1.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:boopathirajan:wp_test_email:1.1.7:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.8"
 	}
 ]

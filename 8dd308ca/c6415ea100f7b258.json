@@ -1075,9 +1075,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.14:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.7.14"
+		"versionEndIncluding": "6.7.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
@@ -1303,12 +1306,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.7.14:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.7.14"
+		"versionEndExcluding": "6.7.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
@@ -2982,37 +2982,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "6.8.8",
-		"versionStartIncluding": "6.8.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.7:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.8:-:*:*:*:*:*:*"
@@ -3047,12 +3016,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.8:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.8.9",
+		"versionEndExcluding": "6.8.8",
 		"versionStartIncluding": "6.8.0"
 	},
 	{
@@ -3099,6 +3065,40 @@
 			}
 		],
 		"versionEndIncluding": "6.8.9",
+		"versionStartIncluding": "6.8.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.8:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.8.9",
 		"versionStartIncluding": "6.8.0"
 	},
 	{
@@ -3406,21 +3406,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.10.8",
+		"versionEndExcluding": "6.10.8",
 		"versionStartIncluding": "6.10.0"
 	},
 	{
@@ -3440,9 +3428,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.10.8:cumulative_hotfix_patch_6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.10.8",
+		"versionEndIncluding": "6.10.8",
 		"versionStartIncluding": "6.10.0"
 	},
 	{

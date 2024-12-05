@@ -238,9 +238,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:softing:opc:5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:softing:opc:5.30:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.30"
+		"versionEndIncluding": "5.30"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:softing:opc:*:*:*:*:*:*:*:*",
@@ -322,12 +325,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:softing:opc:5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:softing:opc:5.30:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.30"
+		"versionEndExcluding": "5.30"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:softing:opc:*:*:*:*:*:*:*:*",
