@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:automattic:ghactivity:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:automattic:ghactivity:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.5.0"
 	}
 ]

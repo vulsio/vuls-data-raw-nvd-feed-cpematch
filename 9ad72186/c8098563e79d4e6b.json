@@ -1573,9 +1573,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pressified:sendpress:1.22.3.31:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pressified:sendpress:1.23.11.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.23.11.6"
+		"versionEndIncluding": "1.23.11.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pressified:sendpress:*:*:*:*:*:wordpress:*:*",
@@ -2227,11 +2230,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pressified:sendpress:1.22.3.31:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pressified:sendpress:1.23.11.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.23.11.6"
+		"versionEndExcluding": "1.23.11.6"
 	}
 ]

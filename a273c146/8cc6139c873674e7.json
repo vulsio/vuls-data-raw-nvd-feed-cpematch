@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:addonmaster:load_more_anything:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:addonmaster:load_more_anything:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.3.4"
 	}
 ]

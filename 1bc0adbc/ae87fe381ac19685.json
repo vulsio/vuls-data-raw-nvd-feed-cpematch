@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:agustinberasategui:ab_categories_search_widget:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:agustinberasategui:ab_categories_search_widget:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:agustinberasategui:ab_categories_search_widget:0.2.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.2.5"
 	}
 ]

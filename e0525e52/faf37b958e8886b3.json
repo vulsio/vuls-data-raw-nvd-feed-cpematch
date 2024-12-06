@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acnoo:flutter_api:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:acnoo:flutter_api:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:acnoo:flutter_api:1.0.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.5"
 	}
 ]

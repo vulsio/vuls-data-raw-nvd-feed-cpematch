@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:adeelraza:gixaw_chat:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adeelraza:gixaw_chat:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adeelraza:gixaw_chat:1.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0"
 	}
 ]

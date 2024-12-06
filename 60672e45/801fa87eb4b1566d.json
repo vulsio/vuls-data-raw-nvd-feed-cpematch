@@ -170,6 +170,22 @@
 		"cpe23Uri": "cpe:2.3:o:zyxel:zld:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.37:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.38",
+		"versionStartIncluding": "5.00"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:zld:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.10:*:*:*:*:*:*:*"
 			},
 			{
@@ -177,6 +193,19 @@
 			}
 		],
 		"versionEndIncluding": "5.37",
+		"versionStartIncluding": "5.10"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:zld:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:zld:5.37:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "5.38",
 		"versionStartIncluding": "5.10"
 	}
 ]

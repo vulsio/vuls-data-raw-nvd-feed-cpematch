@@ -17742,12 +17742,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.7.2"
+		"versionEndExcluding": "3.7.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
@@ -18801,9 +18798,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.7.2"
+		"versionEndIncluding": "3.7.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
@@ -36499,9 +36499,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.1.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.1.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.15",
+		"versionEndIncluding": "3.1.15",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -36563,12 +36566,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.1.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.1.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.15",
+		"versionEndExcluding": "3.1.15",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -37340,46 +37340,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.5:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.4.6",
-		"versionStartIncluding": "3.4.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.5:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.6:*:*:*:*:*:*:*"
@@ -37423,15 +37383,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.8",
+		"versionEndExcluding": "3.4.6",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -37481,6 +37435,52 @@
 			}
 		],
 		"versionEndIncluding": "3.4.8",
+		"versionStartIncluding": "3.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.4.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.4.8",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -38071,12 +38071,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.5.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.5.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.14",
+		"versionEndExcluding": "3.5.14",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -38129,9 +38126,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.5.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.5.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.14",
+		"versionEndIncluding": "3.5.14",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -38389,9 +38389,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.5",
+		"versionEndIncluding": "3.6.5",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -38411,12 +38414,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.5",
+		"versionEndExcluding": "3.6.5",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -38470,9 +38470,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.7",
+		"versionEndIncluding": "3.6.7",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -38498,12 +38501,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.7",
+		"versionEndExcluding": "3.6.7",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -38592,9 +38592,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.7.1",
+		"versionEndIncluding": "3.7.1",
 		"versionStartIncluding": "3.7.0"
 	},
 	{
@@ -38602,12 +38605,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.7.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.7.1",
+		"versionEndExcluding": "3.7.1",
 		"versionStartIncluding": "3.7.0"
 	},
 	{
@@ -39168,9 +39168,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.2",
+		"versionEndIncluding": "3.9.2",
 		"versionStartIncluding": "3.9.0"
 	},
 	{
@@ -39196,12 +39199,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.2",
+		"versionEndExcluding": "3.9.2",
 		"versionStartIncluding": "3.9.0"
 	},
 	{
@@ -39365,58 +39365,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.9:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.9.10",
-		"versionStartIncluding": "3.9.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.9:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.10:*:*:*:*:*:*:*"
@@ -39472,12 +39420,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.11",
+		"versionEndExcluding": "3.9.10",
 		"versionStartIncluding": "3.9.0"
 	},
 	{
@@ -39536,6 +39481,61 @@
 			}
 		],
 		"versionEndIncluding": "3.9.11",
+		"versionStartIncluding": "3.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:moodle:moodle:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.9.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.9.11",
 		"versionStartIncluding": "3.9.0"
 	},
 	{
@@ -40428,12 +40428,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.10.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.10.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.10.7",
+		"versionEndExcluding": "3.10.7",
 		"versionStartIncluding": "3.10.0"
 	},
 	{
@@ -40468,9 +40465,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moodle:moodle:3.10.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.10.7",
+		"versionEndIncluding": "3.10.7",
 		"versionStartIncluding": "3.10.0"
 	},
 	{

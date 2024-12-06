@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amilia:store:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amilia:store:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amilia:store:2.9.8:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.9.8"
 	}
 ]
