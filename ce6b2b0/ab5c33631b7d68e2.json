@@ -4504,12 +4504,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.20",
+		"versionEndExcluding": "7.6.20",
 		"versionStartIncluding": "7.6.0"
 	},
 	{
@@ -4523,9 +4520,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.6.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.20",
+		"versionEndIncluding": "7.6.20",
 		"versionStartIncluding": "7.6.0"
 	},
 	{
