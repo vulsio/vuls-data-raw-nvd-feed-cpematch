@@ -338,9 +338,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:11.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:11.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.0.5",
+		"versionEndIncluding": "11.0.5",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -360,12 +363,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:11.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:11.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0.5",
+		"versionEndExcluding": "11.0.5",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -994,7 +994,7 @@
 				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:13.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.2.3",
+		"versionEndIncluding": "13.2.3",
 		"versionStartIncluding": "13.2.0"
 	},
 	{
@@ -1007,7 +1007,7 @@
 				"cpe23Uri": "cpe:2.3:a:rockwellautomation:thinmanager:13.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.2.3",
+		"versionEndExcluding": "13.2.3",
 		"versionStartIncluding": "13.2.0"
 	}
 ]

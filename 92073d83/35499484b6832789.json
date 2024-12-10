@@ -3520,12 +3520,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typora:typora:1.6.4:dev:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typora:typora:1.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.7"
+		"versionEndExcluding": "1.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:typora:typora:*:*:*:*:*:*:*:*",
@@ -4051,9 +4048,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typora:typora:1.6.4:dev:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typora:typora:1.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.7"
+		"versionEndIncluding": "1.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:typora:typora:*:*:*:*:*:*:*:*",
