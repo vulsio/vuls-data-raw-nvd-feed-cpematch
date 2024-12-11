@@ -804,60 +804,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2\\(1.145\\):*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch14:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch15:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch16:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch17:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.0"
+		"versionEndExcluding": "2.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:*:*:*:*:*:*:*:*",
@@ -1008,9 +957,60 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2\\(1.145\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch14:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch17:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.2.0:patch9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.0"
+		"versionEndIncluding": "2.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:*:*:*:*:*:*:*:*",
@@ -3522,48 +3522,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6\\(0.999\\):-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.0"
+		"versionEndExcluding": "2.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:*:*:*:*:*:*:*:*",
@@ -4023,9 +3984,48 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6\\(0.999\\):-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:2.6.0:patch9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.0"
+		"versionEndIncluding": "2.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:identity_services_engine:*:*:*:*:*:*:*:*",

@@ -2553,12 +2553,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.4.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.1.5",
+		"versionEndExcluding": "12.1.5",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -2611,9 +2608,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:12.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.1.5",
+		"versionEndIncluding": "12.1.5",
 		"versionStartIncluding": "12.1.0"
 	},
 	{
@@ -4250,9 +4250,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.1.5",
+		"versionEndIncluding": "13.1.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -4302,12 +4305,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:13.1.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.1.5",
+		"versionEndExcluding": "13.1.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -6004,12 +6004,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.2",
+		"versionEndExcluding": "14.1.2",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -6035,9 +6032,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:14.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.2",
+		"versionEndIncluding": "14.1.2",
 		"versionStartIncluding": "14.1.0"
 	},
 	{
@@ -6790,12 +6790,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:15.0.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:15.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1.0",
+		"versionEndExcluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{
@@ -6818,9 +6815,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:15.0.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_edge_gateway:15.1.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1.0",
+		"versionEndIncluding": "15.1.0",
 		"versionStartIncluding": "15.0.0"
 	},
 	{

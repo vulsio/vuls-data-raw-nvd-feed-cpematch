@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:expressjs:basic-auth-connect:*:*:*:*:*:node.js:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:expressjs:basic-auth-connect:-:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "1.1.0"
 	}
 ]
