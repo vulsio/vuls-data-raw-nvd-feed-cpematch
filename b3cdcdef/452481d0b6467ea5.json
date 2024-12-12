@@ -1957,12 +1957,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.2.5"
+		"versionEndExcluding": "1.7.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",
@@ -2422,9 +2419,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:1.7.2.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.2.5"
+		"versionEndIncluding": "1.7.2.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:prestashop:prestashop:*:*:*:*:*:*:*:*",

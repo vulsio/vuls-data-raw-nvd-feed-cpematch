@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:1.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:1.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mintplexlabs:anythingllm_docker:1.2.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.0"
 	}
 ]

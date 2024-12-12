@@ -851,9 +851,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:24.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:24.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "24.3",
+		"versionEndIncluding": "24.3",
 		"versionStartIncluding": "24.0"
 	},
 	{
@@ -867,12 +870,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:24.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:media_encoder:24.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "24.3",
+		"versionEndExcluding": "24.3",
 		"versionStartIncluding": "24.0"
 	},
 	{

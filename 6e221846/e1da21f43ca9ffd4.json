@@ -34,7 +34,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortios-6k7k:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortios-6k7k:6.2.13:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "6.2.13",
 		"versionStartIncluding": "6.2.10"
 	}

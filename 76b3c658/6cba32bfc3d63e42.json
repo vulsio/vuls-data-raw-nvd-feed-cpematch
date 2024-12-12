@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:1.0.0.244:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:2.0.0.324:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:3.0.0.340:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:provisioning_console:3.0.0.379:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.0.0.408"
 	}
 ]

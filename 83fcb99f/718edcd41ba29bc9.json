@@ -331,9 +331,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:christos_zoulas:file:5.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:christos_zoulas:file:5.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.19"
+		"versionEndIncluding": "5.19"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:christos_zoulas:file:*:*:*:*:*:*:*:*",
@@ -394,11 +397,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:christos_zoulas:file:5.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:christos_zoulas:file:5.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.19"
+		"versionEndExcluding": "5.19"
 	}
 ]

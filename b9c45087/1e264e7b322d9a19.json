@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:uprof:*:*:*:*:*:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:uprof:3.6.449:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:uprof:4.0.341:*:*:*:*:linux:*:*"
+			}
+		],
 		"versionEndExcluding": "4.1.424"
 	}
 ]

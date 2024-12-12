@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:5.5.0.1154:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:6.0.0.1226:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:6.1.0.1252:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_plugin_for_sccm:6.1.0.1267:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.0.0.1318"
 	}
 ]

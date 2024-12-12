@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:ryzen_master_utility_for_overclocking_control:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:ryzen_master_utility_for_overclocking_control:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.13.1.3097"
 	}
 ]

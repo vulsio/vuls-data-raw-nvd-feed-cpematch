@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:ryzen_master_monitoring_software_development_kit:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:ryzen_master_monitoring_software_development_kit:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.13.0.2915"
 	}
 ]

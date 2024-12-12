@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:management_console:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_console:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_console:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_console:8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_console:9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:management_console:9.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0"
 	}
 ]

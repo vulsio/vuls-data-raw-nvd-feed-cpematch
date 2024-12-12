@@ -412,9 +412,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.3"
+		"versionEndIncluding": "1.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:briarproject:briar:*:*:*:*:*:*:*:*",
@@ -628,11 +631,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:briarproject:briar:1.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.3"
+		"versionEndExcluding": "1.5.3"
 	}
 ]

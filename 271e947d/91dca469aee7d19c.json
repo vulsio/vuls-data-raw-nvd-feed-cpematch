@@ -997,12 +997,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.5.0:*:*:*:*:typo3:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.0"
+		"versionEndExcluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
@@ -1840,9 +1837,73 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.5.0:*:*:*:*:typo3:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.0"
+		"versionEndIncluding": "7.5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.4:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.2:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.0:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.1:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.2:*:*:*:*:typo3:*:*"
+			}
+		],
+		"versionEndExcluding": "8.5.0",
+		"versionStartIncluding": "8.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
@@ -1906,67 +1967,6 @@
 			}
 		],
 		"versionEndIncluding": "8.5.0",
-		"versionStartIncluding": "8.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.0.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.1.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.2.4:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.2:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.3.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.0:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.1:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:8.4.2:*:*:*:*:typo3:*:*"
-			}
-		],
-		"versionEndExcluding": "8.5.0",
 		"versionStartIncluding": "8.0.0"
 	},
 	{

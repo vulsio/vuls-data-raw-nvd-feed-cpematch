@@ -2123,12 +2123,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:api_connect:2018.4.1.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:api_connect:2018.4.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2018.4.1.13",
+		"versionEndExcluding": "2018.4.1.13",
 		"versionStartIncluding": "2018.4.1.0"
 	},
 	{
@@ -2172,9 +2169,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:api_connect:2018.4.1.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:api_connect:2018.4.1.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2018.4.1.13",
+		"versionEndIncluding": "2018.4.1.13",
 		"versionStartIncluding": "2018.4.1.0"
 	},
 	{

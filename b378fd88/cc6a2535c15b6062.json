@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amd:cloud_manageability_service:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amd:cloud_manageability_service:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.0.232"
 	}
 ]

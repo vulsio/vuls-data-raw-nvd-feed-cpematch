@@ -16,12 +16,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:8.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:8.9.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.9.0"
+		"versionEndExcluding": "8.9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:*:*:*:*:*:*:*:*",
@@ -31,9 +28,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:8.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:8.9.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.9.0"
+		"versionEndIncluding": "8.9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_rs4004_tx\\/dtx_vpn_firmware:*:*:*:*:*:*:*:*",
