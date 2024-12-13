@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:avchat.net:avchat_video_chat:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:avchat.net:avchat_video_chat:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:avchat.net:avchat_video_chat:2.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.2"
 	}
 ]

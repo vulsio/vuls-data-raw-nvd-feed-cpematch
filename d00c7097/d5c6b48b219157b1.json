@@ -121,12 +121,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.46:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.47"
+		"versionEndExcluding": "0.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:*:*:*:*:*:*:*:*",
@@ -199,9 +196,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.46:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.47:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.47"
+		"versionEndIncluding": "0.47"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:*:*:*:*:*:*:*:*",

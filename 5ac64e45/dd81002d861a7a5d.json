@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:wavlink:wn530hg4_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:wavlink:wn530hg4_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:wavlink:wn530hg4_firmware:20220809:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:wavlink:wn530hg4_firmware:20221028:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "20221028"
 	}
 ]

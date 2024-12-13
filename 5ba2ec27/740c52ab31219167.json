@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:yealink:sip-t28p_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:yealink:sip-t28p_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:yealink:sip-t28p_firmware:2.61.13.10:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.61.13.10"
 	}
 ]

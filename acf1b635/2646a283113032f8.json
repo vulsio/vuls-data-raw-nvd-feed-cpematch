@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:giuliopanda:bulk_images_optimizer:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:giuliopanda:bulk_images_optimizer:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giuliopanda:bulk_images_optimizer:2.0.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0.1"
 	}
 ]

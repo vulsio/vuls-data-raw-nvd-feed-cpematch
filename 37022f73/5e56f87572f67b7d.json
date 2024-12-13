@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:yealink:yealink_meeting_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yealink:yealink_meeting_server:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "26.0.0.66"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:yealink:yealink_meeting_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:yealink:yealink_meeting_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:yealink:yealink_meeting_server:26.0.0.66:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "26.0.0.67"
 	}
 ]

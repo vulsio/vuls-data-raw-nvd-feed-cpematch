@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ankitpokhrel:dynamic_featured_image:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ankitpokhrel:dynamic_featured_image:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ankitpokhrel:dynamic_featured_image:3.7.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.7.0"
 	}
 ]

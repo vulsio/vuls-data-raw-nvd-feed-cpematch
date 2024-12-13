@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:wyze:cam_v4_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:wyze:cam_v4_firmware:4.52.3.9455:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:wyze:cam_v4_firmware:4.52.4.9887:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.52.4.9887"
 	}
 ]

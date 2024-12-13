@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:asepbagjapriandana:woostagram_connect:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:asepbagjapriandana:woostagram_connect:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:asepbagjapriandana:woostagram_connect:1.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.2"
 	}
 ]

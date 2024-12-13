@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:giveawayboost:giveaway_boost:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:giveawayboost:giveaway_boost:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:giveawayboost:giveaway_boost:2.1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.1.4"
 	}
 ]

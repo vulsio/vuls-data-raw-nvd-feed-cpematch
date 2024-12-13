@@ -244,12 +244,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:10web:10web_social_post_feed:1.2.8:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:10web:10web_social_post_feed:1.2.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.9"
+		"versionEndExcluding": "1.2.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:10web:10web_social_post_feed:*:*:*:*:*:wordpress:*:*",
@@ -496,8 +493,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:10web:10web_social_post_feed:1.2.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:10web:10web_social_post_feed:1.2.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.9"
+		"versionEndIncluding": "1.2.9"
 	}
 ]

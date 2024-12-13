@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:vantiva:mediaaccess_dga2232_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:vantiva:mediaaccess_dga2232_firmware:19.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "19.4-810",
 		"versionStartIncluding": "19.4"
 	}

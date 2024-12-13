@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:uniview:nvr301-04s2-p4_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:uniview:nvr301-04s2-p4_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "nvr-b3801.20.17.240507"
 	}
 ]
