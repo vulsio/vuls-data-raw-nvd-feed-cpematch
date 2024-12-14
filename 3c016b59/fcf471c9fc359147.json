@@ -7140,12 +7140,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:clamav:clamav:0.97.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:clamav:clamav:0.97.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.97.7"
+		"versionEndExcluding": "0.97.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:clamav:clamav:*:*:*:*:*:*:*:*",
@@ -7590,9 +7587,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:clamav:clamav:0.97.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:clamav:clamav:0.97.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.97.7"
+		"versionEndIncluding": "0.97.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:clamav:clamav:*:*:*:*:*:*:*:*",

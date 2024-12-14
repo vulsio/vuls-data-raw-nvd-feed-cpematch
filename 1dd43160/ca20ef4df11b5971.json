@@ -1,6 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:synology:beestation_os:1.0:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:synology:beestation_os:1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:synology:beestation_os:1.0:65145:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:synology:beestation_os:1.0:65149:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:synology:beestation_os:1.0:65162:*:*:*:*:*:*"
+			}
+		]
 	}
 ]

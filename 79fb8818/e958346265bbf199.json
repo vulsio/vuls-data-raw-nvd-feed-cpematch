@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:brainstormforce:convert_pro:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:brainstormforce:convert_pro:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.6"
 	}
 ]

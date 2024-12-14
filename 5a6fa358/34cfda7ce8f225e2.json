@@ -13197,12 +13197,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.63:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.64:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.64"
+		"versionEndExcluding": "9.64"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",
@@ -13572,9 +13569,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.63:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.64:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.64"
+		"versionEndIncluding": "9.64"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",

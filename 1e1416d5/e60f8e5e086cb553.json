@@ -24903,12 +24903,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.17:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.18.18"
+		"versionEndExcluding": "1.18.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
@@ -27474,9 +27471,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.18.18"
+		"versionEndIncluding": "1.18.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:*:*:*:*:*:*:*:*",
@@ -68258,9 +68258,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.9:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.10:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.18.10",
+		"versionEndIncluding": "1.18.10",
 		"versionStartIncluding": "1.18.0"
 	},
 	{
@@ -68355,15 +68361,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.9:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.18.10:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.18.10",
+		"versionEndExcluding": "1.18.10",
 		"versionStartIncluding": "1.18.0"
 	},
 	{
@@ -68525,9 +68525,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.19.3",
+		"versionEndIncluding": "1.19.3",
 		"versionStartIncluding": "1.19.0"
 	},
 	{
@@ -68583,15 +68589,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.2:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.19.3:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.19.3",
+		"versionEndExcluding": "1.19.3",
 		"versionStartIncluding": "1.19.0"
 	},
 	{
@@ -70364,12 +70364,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.27.2",
+		"versionEndExcluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{
@@ -70401,9 +70398,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.27.2",
+		"versionEndIncluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{

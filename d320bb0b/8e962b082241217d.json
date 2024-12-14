@@ -406,12 +406,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mate-desktop:atril:1.26.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mate-desktop:atril:1.26.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.26.3"
+		"versionEndExcluding": "1.26.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mate-desktop:atril:*:*:*:*:*:*:*:*",
@@ -616,8 +613,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mate-desktop:atril:1.26.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mate-desktop:atril:1.26.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.26.3"
+		"versionEndIncluding": "1.26.3"
 	}
 ]

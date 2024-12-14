@@ -1471,12 +1471,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.20:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.21"
+		"versionEndExcluding": "9.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -2212,9 +2209,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.20:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.21:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.21"
+		"versionEndIncluding": "9.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -6706,9 +6706,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.26"
+		"versionEndIncluding": "9.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",
@@ -7459,12 +7462,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:9.26:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.26"
+		"versionEndExcluding": "9.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:artifex:ghostscript:*:*:*:*:*:*:*:*",

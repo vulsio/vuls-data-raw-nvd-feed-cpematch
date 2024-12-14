@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:toshibatec:e-studio908_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:toshibatec:e-studio908_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:toshibatec:e-studio908_firmware:t2.12.h3.00:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "t2.12.h3.00"
 	}
 ]

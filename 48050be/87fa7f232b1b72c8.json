@@ -6870,15 +6870,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.21:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndIncluding": "2.22"
+		"versionEndExcluding": "2.22"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -7221,9 +7215,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.21:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.22:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndExcluding": "2.22"
+		"versionEndIncluding": "2.22"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -8286,9 +8286,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.23:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.24"
+		"versionEndIncluding": "2.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -8643,12 +8646,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.23:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.24"
+		"versionEndExcluding": "2.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -9372,15 +9372,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.25:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.26:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndIncluding": "2.26"
+		"versionEndExcluding": "2.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -9741,9 +9735,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.25:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.26:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndExcluding": "2.26"
+		"versionEndIncluding": "2.26"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",

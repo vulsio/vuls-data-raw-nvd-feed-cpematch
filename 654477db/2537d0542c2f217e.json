@@ -292,12 +292,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mediavine:create:1.9.7:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mediavine:create:1.9.8:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.8"
+		"versionEndExcluding": "1.9.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mediavine:create:*:*:*:*:*:wordpress:*:*",
@@ -592,8 +589,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mediavine:create:1.9.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mediavine:create:1.9.8:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.8"
+		"versionEndIncluding": "1.9.8"
 	}
 ]
