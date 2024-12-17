@@ -7564,12 +7564,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.5",
+		"versionEndExcluding": "7.0.5",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -7598,9 +7595,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:7.0.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.5",
+		"versionEndIncluding": "7.0.5",
 		"versionStartIncluding": "7.0.0"
 	},
 	{

@@ -1315,12 +1315,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:4.1.6:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:4.1.10:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.1.10"
+		"versionEndExcluding": "4.1.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:*:*:*:*:*:wordpress:*:*",
@@ -1654,8 +1651,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:4.1.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:4.1.10:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.1.10"
+		"versionEndIncluding": "4.1.10"
 	}
 ]

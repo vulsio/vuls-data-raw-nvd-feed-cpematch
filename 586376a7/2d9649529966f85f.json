@@ -43,12 +43,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pluginus:wordpress_currency_switcher:1.1.9:*:*:*:professional:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:pluginus:wordpress_currency_switcher:1.2.0:*:*:*:professional:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.0"
+		"versionEndExcluding": "1.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:pluginus:wordpress_currency_switcher:*:*:*:*:professional:wordpress:*:*",
@@ -94,8 +91,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:pluginus:wordpress_currency_switcher:1.1.9:*:*:*:professional:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:pluginus:wordpress_currency_switcher:1.2.0:*:*:*:professional:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.0"
+		"versionEndIncluding": "1.2.0"
 	}
 ]

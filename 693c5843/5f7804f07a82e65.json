@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:sprecher-automation:sprecon-e_cp-2500_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sprecher-automation:sprecon-e_cp-2500_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.71j"
 	}
 ]

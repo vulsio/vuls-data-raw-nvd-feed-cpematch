@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*"
 			},
@@ -19,6 +26,9 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*"
 			},
@@ -47,6 +57,9 @@
 		"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:*:*:*:*:*:wordpress:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:1.6.1:*:*:*:*:wordpress:*:*"
 			},
 			{
@@ -69,6 +82,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.0.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.0.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.0.7:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.0.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.0.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:metagauss:download_plugin:2.2.0:*:*:*:*:wordpress:*:*"
 			}
 		],
 		"versionEndExcluding": "2.2.1"

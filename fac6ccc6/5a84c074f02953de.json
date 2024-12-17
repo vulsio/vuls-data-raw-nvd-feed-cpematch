@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:sicam_a8000_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:sicam_a8000_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "05.30"
 	}
 ]

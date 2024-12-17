@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:noorsplugin:wordpress_image_seo:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:noorsplugin:wordpress_image_seo:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:noorsplugin:wordpress_image_seo:1.1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.4"
 	}
 ]

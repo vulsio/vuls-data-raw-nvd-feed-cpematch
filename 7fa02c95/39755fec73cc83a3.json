@@ -925,12 +925,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip:4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zulip:zulip:4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.8"
+		"versionEndExcluding": "4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip:*:*:*:*:*:*:*:*",
@@ -1315,9 +1312,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zulip:zulip:4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zulip:zulip:4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.8"
+		"versionEndIncluding": "4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zulip:zulip:*:*:*:*:*:*:*:*",

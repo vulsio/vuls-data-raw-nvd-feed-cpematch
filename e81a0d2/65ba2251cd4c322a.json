@@ -4,13 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:sonicwall:sra_4600_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sra_4600_firmware:8.0.0.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "9.0.0.5-19sv"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:sonicwall:sra_4600_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sra_4600_firmware:8.0.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.0.0.10-28sv",
 		"versionStartIncluding": "8.0.0.0"
 	}
