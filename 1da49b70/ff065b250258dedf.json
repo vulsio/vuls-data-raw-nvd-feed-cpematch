@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:3.10.4202:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:3.10.4300:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:3.10.4400:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:3.10.4500:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-os:3.11.2100:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.11.2202"
 	}
 ]

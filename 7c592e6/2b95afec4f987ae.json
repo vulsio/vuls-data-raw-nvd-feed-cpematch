@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:hitachienergy:tro620_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:tro620_firmware:9.1.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hitachienergy:tro620_firmware:9.2.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.2.0.5",
 		"versionStartIncluding": "9.1.0.0"
 	}

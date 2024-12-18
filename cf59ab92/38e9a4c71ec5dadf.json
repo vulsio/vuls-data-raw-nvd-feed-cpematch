@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:nvidia:onyx:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:onyx:3.10.4100:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:onyx:3.10.4206:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:onyx:3.10.4300:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:onyx:3.10.4302:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.10.4402"
 	}
 ]

@@ -367,12 +367,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.47.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.48.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.48.0",
+		"versionEndExcluding": "1.48.0",
 		"versionStartIncluding": "1.24.0"
 	},
 	{
@@ -482,9 +479,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.47.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libuv:libuv:1.48.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.48.0",
+		"versionEndIncluding": "1.48.0",
 		"versionStartIncluding": "1.24.0"
 	},
 	{

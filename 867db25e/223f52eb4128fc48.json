@@ -3040,9 +3040,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:236:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:237:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "237"
+		"versionEndIncluding": "237"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:*:*:*:*:*:*:*:*",
@@ -3610,12 +3613,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:236:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:237:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "237"
+		"versionEndExcluding": "237"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:freedesktop:systemd:*:*:*:*:*:*:*:*",

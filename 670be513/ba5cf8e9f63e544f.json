@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_p5_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_p5_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_p5_firmware:01.500.104:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "01.500.104"
 	}
 ]

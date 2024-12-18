@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_4305_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:phoenixcontact:fl_mguard_4305_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.4.1"
 	}
 ]

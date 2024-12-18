@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:1.5.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:1.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:2.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:2.4.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:powerlogic_pm5341_firmware:2.6.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.7.0"
 	}
 ]

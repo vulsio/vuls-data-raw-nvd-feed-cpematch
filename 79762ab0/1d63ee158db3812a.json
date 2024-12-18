@@ -4576,12 +4576,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:6.6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:6.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.1"
+		"versionEndExcluding": "6.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*",
@@ -5044,9 +5041,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:6.6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:6.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.6.1"
+		"versionEndIncluding": "6.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:secure_firewall_management_center:*:*:*:*:*:*:*:*",

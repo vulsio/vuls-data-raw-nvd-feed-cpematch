@@ -5677,6 +5677,28 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.14.7",
+		"versionStartIncluding": "1.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "1.15.8",
 		"versionStartIncluding": "1.15.0"

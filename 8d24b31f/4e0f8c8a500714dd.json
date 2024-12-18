@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dlink:dcs-8300lhv2_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dcs-8300lhv2_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dlink:dcs-8300lhv2_firmware:1.06.01:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.07.02"
 	}
 ]
