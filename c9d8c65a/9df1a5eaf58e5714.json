@@ -2716,12 +2716,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:2.0.12:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:2.0.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.13",
+		"versionEndExcluding": "2.0.13",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -2765,9 +2762,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:2.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:2.0.13:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.13",
+		"versionEndIncluding": "2.0.13",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -2905,37 +2905,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.7:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "7.0.7",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.6:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.0.7",
@@ -2969,7 +2938,7 @@
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.8",
+		"versionEndIncluding": "7.0.7",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3032,15 +3001,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.9",
+		"versionEndExcluding": "7.0.8",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3111,7 +3074,7 @@
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.10",
+		"versionEndIncluding": "7.0.9",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3152,6 +3115,43 @@
 			}
 		],
 		"versionEndIncluding": "7.0.10",
+		"versionStartIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.9:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.10",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3333,9 +3333,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.14",
+		"versionEndIncluding": "7.0.14",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3382,12 +3385,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.0.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.14",
+		"versionEndExcluding": "7.0.14",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -3726,12 +3726,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.2.2",
+		"versionEndExcluding": "7.2.2",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -3742,9 +3739,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.2.2",
+		"versionEndIncluding": "7.2.2",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -3796,9 +3796,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.2.4",
+		"versionEndIncluding": "7.2.4",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -3815,12 +3818,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.2.4",
+		"versionEndExcluding": "7.2.4",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -3952,9 +3952,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.2.8",
+		"versionEndIncluding": "7.2.8",
 		"versionStartIncluding": "7.2.0"
 	},
 	{
@@ -3983,12 +3986,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiproxy:7.2.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.2.8",
+		"versionEndExcluding": "7.2.8",
 		"versionStartIncluding": "7.2.0"
 	},
 	{

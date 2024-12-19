@@ -895,36 +895,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.6.0:rc1:*:*:lite:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:lite:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:lite:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:-:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:lite:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.0"
+		"versionEndExcluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:google:tensorflow:*:*:*:*:*:*:*:*",
@@ -1372,9 +1345,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.6.0:rc1:*:*:lite:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:-:*:*:lite:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc0:*:*:lite:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:1.7.0:rc1:*:*:lite:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.0"
+		"versionEndIncluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:google:tensorflow:*:*:*:*:*:*:*:*",

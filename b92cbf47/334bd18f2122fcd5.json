@@ -5062,6 +5062,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.7:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.14.14"
@@ -5699,8 +5702,50 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.14.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.14.16",
+		"versionStartIncluding": "1.14.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.15.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.15.8",
+		"versionStartIncluding": "1.15.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cilium:cilium:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.15.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cilium:cilium:1.15.8:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.15.10",
 		"versionStartIncluding": "1.15.0"
 	}
 ]

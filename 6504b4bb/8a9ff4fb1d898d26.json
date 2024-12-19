@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_desktop_central:*:*:*:*:-:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:-:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.1.2137.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_desktop_central:*:*:*:*:-:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_desktop_central:-:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zohocorp:manageengine_desktop_central:10.1.2228.10:*:*:*:-:*:*:*"
+			}
+		],
 		"versionEndIncluding": "10.1.2228.10"
 	}
 ]

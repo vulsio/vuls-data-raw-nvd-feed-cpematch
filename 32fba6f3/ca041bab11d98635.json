@@ -1846,9 +1846,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:indesign:18.5.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:indesign:18.5.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "18.5.4"
+		"versionEndIncluding": "18.5.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:indesign:*:*:*:*:*:*:*:*",
@@ -2008,12 +2011,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:indesign:18.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:indesign:18.5.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "18.5.4"
+		"versionEndExcluding": "18.5.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:indesign:*:*:*:*:*:*:*:*",
@@ -2399,6 +2399,25 @@
 			}
 		],
 		"versionEndIncluding": "19.5",
+		"versionStartIncluding": "19.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:indesign:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:indesign:19.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:indesign:19.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:indesign:19.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:indesign:19.5:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "19.5.1",
 		"versionStartIncluding": "19.0"
 	},
 	{
