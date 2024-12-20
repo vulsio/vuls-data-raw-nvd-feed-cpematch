@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:edge_gateway_5100_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:edge_gateway_5100_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:edge_gateway_5100_firmware:0.1.19.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.17.0"
 	}
 ]

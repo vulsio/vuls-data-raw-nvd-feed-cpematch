@@ -1,17 +1,32 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:xps_8960_firmware:2.6.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.12.0"
 	}
 ]

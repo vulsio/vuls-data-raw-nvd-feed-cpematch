@@ -19,12 +19,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lenovo:solution_center:3.3.0001:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:lenovo:solution_center:3.3.002:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.3.002"
+		"versionEndExcluding": "3.3.002"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:lenovo:solution_center:*:*:*:*:*:*:*:*",
@@ -34,8 +31,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:lenovo:solution_center:3.3.0001:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lenovo:solution_center:3.3.002:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.002"
+		"versionEndIncluding": "3.3.002"
 	}
 ]

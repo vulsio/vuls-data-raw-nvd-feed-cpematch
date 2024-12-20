@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:emc_xc_core_xc740xd_system_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:emc_xc_core_xc740xd_system_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.22.2"
 	}
 ]

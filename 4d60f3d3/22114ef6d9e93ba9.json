@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:modbus_server_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:modbus_server_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.11"
 	}
 ]

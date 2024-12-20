@@ -7,12 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:1.0.2.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:1.0.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.3.6"
+		"versionEndExcluding": "1.0.3.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:*:*:*:*:*:*:*:*",
@@ -22,9 +19,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:1.0.2.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:1.0.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.3.6"
+		"versionEndIncluding": "1.0.3.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:r8900_firmware:*:*:*:*:*:*:*:*",

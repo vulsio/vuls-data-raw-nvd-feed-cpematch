@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:edge_gateway_3200_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:edge_gateway_3200_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.03.10"
 	}
 ]

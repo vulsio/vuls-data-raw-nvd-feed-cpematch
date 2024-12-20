@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:icdm-rx\\/tcp_socketserver_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:icdm-rx\\/tcp_socketserver_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "11.65"
 	}
 ]

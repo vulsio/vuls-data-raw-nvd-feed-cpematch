@@ -1,17 +1,38 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.16.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:2.16.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.18.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:2.16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:alienware_aurora_ryzen_edition_r14_firmware:2.18.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.19.1"
 	}
 ]

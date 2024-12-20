@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:inspiron_16_plus_7640_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_16_plus_7640_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.0"
 	}
 ]

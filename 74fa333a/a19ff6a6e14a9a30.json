@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:ethernet\\/ip_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:pepperl-fuchs:ethernet\\/ip_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.22"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:inspiron_7415_2-in-1_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_7415_2-in-1_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.19.0"
 	}
 ]

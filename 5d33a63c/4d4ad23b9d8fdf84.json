@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(for_pe_vrtx\\)_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(for_pe_vrtx\\)_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.22.2"
 	}
 ]

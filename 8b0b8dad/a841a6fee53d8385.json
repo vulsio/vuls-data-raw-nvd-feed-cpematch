@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:inspiron_15_3521_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_15_3521_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:inspiron_15_3521_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_15_3521_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:inspiron_15_3521_firmware:1.14.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.16.0"
 	}
 ]

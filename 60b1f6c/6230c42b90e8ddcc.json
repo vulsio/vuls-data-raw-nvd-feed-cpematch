@@ -316,12 +316,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:2.1.27:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:2.1.28:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.28",
+		"versionEndExcluding": "2.1.28",
 		"versionStartIncluding": "2.1"
 	},
 	{
@@ -422,9 +419,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:2.1.27:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:2.1.28:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.28",
+		"versionEndIncluding": "2.1.28",
 		"versionStartIncluding": "2.1"
 	},
 	{
@@ -765,9 +765,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:3.1.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:3.1.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.15",
+		"versionEndIncluding": "3.1.15",
 		"versionStartIncluding": "3.1"
 	},
 	{
@@ -841,12 +844,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:3.1.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:.net_core:3.1.15:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.15",
+		"versionEndExcluding": "3.1.15",
 		"versionStartIncluding": "3.1"
 	},
 	{

@@ -337,21 +337,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.9.1:*:*:*:*:go:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:-:*:*:*:go:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc1:*:*:*:go:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc2:*:*:*:go:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc3:*:*:*:go:*:*"
 			}
 		],
-		"versionEndIncluding": "2.10.0"
+		"versionEndExcluding": "2.10.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:resty_project:resty:*:*:*:*:*:go:*:*",
@@ -691,8 +679,20 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.9.1:*:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:-:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc1:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc2:*:*:*:go:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:resty_project:resty:2.10.0:rc3:*:*:*:go:*:*"
 			}
 		],
-		"versionEndExcluding": "2.10.0"
+		"versionEndIncluding": "2.10.0"
 	}
 ]
