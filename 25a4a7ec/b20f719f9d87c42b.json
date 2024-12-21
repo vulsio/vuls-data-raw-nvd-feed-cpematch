@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-gw:*:*:*:*:lts:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-gw:8.1.4100:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nvidia:mlnx-gw:8.1.4300:*:*:*:lts:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.1.4400"
 	}
 ]

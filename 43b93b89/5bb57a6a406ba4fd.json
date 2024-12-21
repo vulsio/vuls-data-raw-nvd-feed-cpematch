@@ -1,7 +1,59 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:*:*:*:*:*:checkmk:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:0.4a:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:1.2a:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.0:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.0a:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.3.3:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.3.4:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.4.0:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.5.3:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.5.5:*:*:*:*:checkmk:*:*"
+			}
+		],
+		"versionEndIncluding": "2.5.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:*:*:*:*:*:checkmk:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.0a:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.3.3:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.3.4:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.4.0:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.5.3:*:*:*:*:checkmk:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tomtretbar:mikrotik:2.5.5:*:*:*:*:checkmk:*:*"
+			}
+		],
 		"versionEndIncluding": "2.5.5",
 		"versionStartIncluding": "2.0.0"
 	}

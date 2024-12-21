@@ -2236,12 +2236,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.8.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.8.10"
+		"versionEndExcluding": "2.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:*:*:*:*:*:*:*:*",
@@ -2569,9 +2566,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.8.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.8.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.8.10"
+		"versionEndIncluding": "2.8.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:*:*:*:*:*:*:*:*",
@@ -12853,12 +12853,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.9.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.9.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.9.9",
+		"versionEndExcluding": "2.9.9",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -13253,9 +13250,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.9.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fasterxml:jackson-databind:2.9.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.9.9",
+		"versionEndIncluding": "2.9.9",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
