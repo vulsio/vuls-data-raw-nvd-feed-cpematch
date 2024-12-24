@@ -331,12 +331,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup_appliance:3.1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:veritas:netbackup_appliance:3.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.2"
+		"versionEndExcluding": "3.1.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:veritas:netbackup_appliance:*:*:*:*:*:*:*:*",
@@ -409,8 +406,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:veritas:netbackup_appliance:3.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:veritas:netbackup_appliance:3.1.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.2"
+		"versionEndIncluding": "3.1.2"
 	}
 ]

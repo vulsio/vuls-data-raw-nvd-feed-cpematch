@@ -481,18 +481,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.13.5",
+		"versionEndExcluding": "2.13.5",
 		"versionStartIncluding": "2.13.0"
 	},
 	{
@@ -515,29 +506,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.13.5:patch2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.13.5",
+		"versionEndIncluding": "2.13.5",
 		"versionStartIncluding": "2.13.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:rc:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.1:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.17.2",
-		"versionStartIncluding": "2.17.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
@@ -565,6 +546,25 @@
 			}
 		],
 		"versionEndIncluding": "2.17.2",
+		"versionStartIncluding": "2.17.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.0:rc:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ec-cube:ec-cube:2.17.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.17.2",
 		"versionStartIncluding": "2.17.0"
 	},
 	{

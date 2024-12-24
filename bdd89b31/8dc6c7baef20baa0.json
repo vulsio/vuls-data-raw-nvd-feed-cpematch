@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wow-company:viral_signup:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wow-company:viral_signup:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wow-company:viral_signup:2.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.1"
 	}
 ]

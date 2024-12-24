@@ -4848,12 +4848,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:9.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.1",
+		"versionEndExcluding": "9.1",
 		"versionStartIncluding": "9.0"
 	},
 	{
@@ -4861,9 +4858,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:9.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.1",
+		"versionEndIncluding": "9.1",
 		"versionStartIncluding": "9.0"
 	},
 	{

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:zynith:zynith:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zynith:zynith:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zynith:zynith:7.4.9:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "7.4.9"
 	}
 ]

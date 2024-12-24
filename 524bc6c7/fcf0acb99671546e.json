@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:booking:banner_creator:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:booking:banner_creator:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:booking:banner_creator:1.4.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4.6"
 	}
 ]

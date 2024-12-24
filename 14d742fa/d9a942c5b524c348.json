@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:osuuu:lightpicture:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:osuuu:lightpicture:1.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:osuuu:lightpicture:1.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:osuuu:lightpicture:1.2.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.2",
 		"versionStartIncluding": "1.2.0"
 	}

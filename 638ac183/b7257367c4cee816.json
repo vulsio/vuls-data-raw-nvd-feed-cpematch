@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:websevendev:attributes_for_blocks:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:websevendev:attributes_for_blocks:1.0.3:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:websevendev:attributes_for_blocks:1.0.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:websevendev:attributes_for_blocks:1.0.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:websevendev:attributes_for_blocks:1.0.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.7"
 	}
 ]

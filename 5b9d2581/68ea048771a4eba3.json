@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:irfanview:irfanview:*:*:*:*:*:*:x86:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:irfanview:irfanview:4.62:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:irfanview:irfanview:4.65:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:irfanview:irfanview:4.66:*:*:*:*:*:x86:*"
+			}
+		],
 		"versionEndExcluding": "4.70",
 		"versionStartIncluding": "4.62"
 	}

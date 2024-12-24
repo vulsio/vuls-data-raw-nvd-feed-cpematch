@@ -271,12 +271,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:10.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.8.0"
+		"versionEndExcluding": "10.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:*:*:*:*:*:*:*:*",
@@ -550,9 +547,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:10.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:10.8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.8.0"
+		"versionEndIncluding": "10.8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phoronix-media:phoronix_test_suite:*:*:*:*:*:*:*:*",

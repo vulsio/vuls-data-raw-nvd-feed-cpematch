@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:0.20:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:0.21:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:0.22:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hyscaler:wp_roles_at_registration:0.23:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.23"
 	}
 ]

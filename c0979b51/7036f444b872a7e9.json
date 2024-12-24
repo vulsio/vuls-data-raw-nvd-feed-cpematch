@@ -18,15 +18,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:-:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.1.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:-:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:4.1.1:-:*:*:*:*:*:*"
@@ -36,5 +27,14 @@
 			}
 		],
 		"versionEndIncluding": "4.1.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:dk_standard_ethernet_controller_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.1.1"
 	}
 ]
