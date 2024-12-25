@@ -4,20 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:melsoft_fielddeviceconfigurator:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:melsoft_fielddeviceconfigurator:1.04e:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.04e"
+		"versionEndExcluding": "1.04e"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mitsubishielectric:melsoft_fielddeviceconfigurator:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:melsoft_fielddeviceconfigurator:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mitsubishielectric:melsoft_fielddeviceconfigurator:1.04e:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.04e"
+		"versionEndIncluding": "1.04e"
 	}
 ]

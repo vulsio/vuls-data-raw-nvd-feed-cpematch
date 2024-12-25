@@ -11007,54 +11007,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:6.4:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0"
+		"versionEndExcluding": "7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -12324,9 +12279,54 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:6.4:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:7.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0"
+		"versionEndIncluding": "7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -27843,9 +27843,57 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:10.4:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p16:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.0"
+		"versionEndIncluding": "11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -30201,57 +30249,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:10.4:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p15:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p16:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0"
+		"versionEndExcluding": "11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -40149,60 +40149,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.3:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p10:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p12:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.4"
+		"versionEndExcluding": "11.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -42732,9 +42681,60 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.3:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p10:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p12:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.4:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.4"
+		"versionEndIncluding": "11.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -48036,45 +48036,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.3:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p8:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:rc2-p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:rc2-p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.4"
+		"versionEndExcluding": "12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -50793,9 +50757,45 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.3:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p8:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:rc2-p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:12.4:rc2-p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.4"
+		"versionEndIncluding": "12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:*:*:*:*:*:*:*:*",
@@ -59234,45 +59234,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p9:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p11:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p13:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p14:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p15:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p7:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.1",
+		"versionEndExcluding": "11.1",
 		"versionStartIncluding": "11.0"
 	},
 	{
@@ -59325,9 +59289,45 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.0:p9:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p11:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p13:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p14:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p15:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p7:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:freebsd:freebsd:11.1:p9:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.1",
+		"versionEndIncluding": "11.1",
 		"versionStartIncluding": "11.0"
 	},
 	{

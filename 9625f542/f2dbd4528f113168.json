@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:assistive_context-aware_toolkit:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:assistive_context-aware_toolkit:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.0.0"
 	}
 ]

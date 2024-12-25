@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ivanti:mobileiron_sentry:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:mobileiron_sentry:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:mobileiron_sentry:9.18.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.18.0"
 	}
 ]
