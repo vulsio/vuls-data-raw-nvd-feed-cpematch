@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:sharp:jh-rvb1_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sharp:jh-rvb1_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:sharp:jh-rvb1_firmware:b0.1.9.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "b0.1.9.1"
 	}
 ]

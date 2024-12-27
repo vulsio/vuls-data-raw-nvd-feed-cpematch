@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:safie:safie_one_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:safie:safie_one_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:safie:safie_one_firmware:1.8.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.2"
 	}
 ]

@@ -118,12 +118,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gvectors:woodiscuz_-_woocommerce_comments:2.2.9:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gvectors:woodiscuz_-_woocommerce_comments:2.3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.0"
+		"versionEndExcluding": "2.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gvectors:woodiscuz_-_woocommerce_comments:*:*:*:*:*:wordpress:*:*",
@@ -244,8 +241,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gvectors:woodiscuz_-_woocommerce_comments:2.2.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gvectors:woodiscuz_-_woocommerce_comments:2.3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.0"
+		"versionEndIncluding": "2.3.0"
 	}
 ]

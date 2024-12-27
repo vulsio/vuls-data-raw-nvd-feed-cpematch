@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1000.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1010.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1020.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1030.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1040.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:magicinfo_9_server:21.1040.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "21.1050"
 	}
 ]

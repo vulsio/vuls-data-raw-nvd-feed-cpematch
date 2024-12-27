@@ -4,21 +4,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2"
+		"versionEndExcluding": "5.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2"
+		"versionEndIncluding": "5.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:ozw672_firmware:*:*:*:*:*:*:*:*",

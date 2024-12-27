@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:safie:qbic_cloud_cc-2\\/2l_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:safie:qbic_cloud_cc-2\\/2l_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:safie:qbic_cloud_cc-2\\/2l_firmware:1.1.30:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.30"
 	}
 ]

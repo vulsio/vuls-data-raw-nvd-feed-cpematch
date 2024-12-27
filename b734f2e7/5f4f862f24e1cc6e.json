@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jumpstartcreatives:media_modal:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jumpstartcreatives:media_modal:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jumpstartcreatives:media_modal:1.0.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jumpstartcreatives:media_modal:1.0.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jumpstartcreatives:media_modal:1.0.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0.2"
 	}
 ]

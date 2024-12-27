@@ -634,9 +634,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jungo:windriver:12.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jungo:windriver:12.5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.5.1"
+		"versionEndIncluding": "12.5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jungo:windriver:*:*:*:*:*:*:*:*",
@@ -856,12 +859,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jungo:windriver:12.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jungo:windriver:12.5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.5.1"
+		"versionEndExcluding": "12.5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jungo:windriver:*:*:*:*:*:*:*:*",

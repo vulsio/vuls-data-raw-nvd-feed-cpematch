@@ -3664,12 +3664,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.13.0:*:*:*:lts:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.14.0:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.14.0",
+		"versionEndExcluding": "8.14.0",
 		"versionStartIncluding": "8.9.0"
 	},
 	{
@@ -3713,9 +3710,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.13.0:*:*:*:lts:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:nodejs:node.js:8.14.0:*:*:*:lts:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.14.0",
+		"versionEndIncluding": "8.14.0",
 		"versionStartIncluding": "8.9.0"
 	},
 	{

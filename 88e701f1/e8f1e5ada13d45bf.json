@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:tips:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:tips:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.2.9.4"
 	}
 ]

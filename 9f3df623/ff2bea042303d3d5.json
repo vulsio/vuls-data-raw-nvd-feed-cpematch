@@ -5879,9 +5879,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:db2:11.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:db2:11.5.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.5.5.0",
+		"versionEndIncluding": "11.5.5.0",
 		"versionStartIncluding": "11.5"
 	},
 	{
@@ -5901,12 +5904,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:db2:11.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:db2:11.5.5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.5.5.0",
+		"versionEndExcluding": "11.5.5.0",
 		"versionStartIncluding": "11.5"
 	},
 	{

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:wpneuron:sparkle_demo_importer:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:wpneuron:sparkle_demo_importer:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpneuron:sparkle_demo_importer:1.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4.8"
 	}
 ]

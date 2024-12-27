@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:rittal:iot_interface_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:rittal:iot_interface_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:rittal:iot_interface_firmware:6.17.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:rittal:iot_interface_firmware:6.19.00.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.21.00.2"
 	}
 ]

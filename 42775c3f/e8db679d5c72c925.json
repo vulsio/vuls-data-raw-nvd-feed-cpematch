@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:flow:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:flow:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.9.13.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:samsung:flow:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:flow:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:samsung:flow:4.9.13.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.9.15.7"
 	}
 ]
