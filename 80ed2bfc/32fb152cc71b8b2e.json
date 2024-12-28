@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:amttgroup:hotel_broadband_operating_system:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:amttgroup:hotel_broadband_operating_system:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:amttgroup:hotel_broadband_operating_system:3.0.3.151204:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.3.151204"
 	}
 ]

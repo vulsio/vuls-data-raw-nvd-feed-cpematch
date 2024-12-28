@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:poly_studio_x30_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:poly_studio_x30_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:poly_studio_x30_firmware:4.3.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "4.3.2"
 	}
 ]

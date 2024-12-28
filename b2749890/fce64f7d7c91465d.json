@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:glopium:ukrainian-currency:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:glopium:ukrainian-currency:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:glopium:ukrainian-currency:1.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:glopium:ukrainian-currency:2.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0"
 	}
 ]

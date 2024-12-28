@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:hp:poly_studio_x50_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:hp:poly_studio_x50_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.3.2"
 	}
 ]

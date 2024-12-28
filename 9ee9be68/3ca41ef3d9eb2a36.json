@@ -271,12 +271,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:7.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:7.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5"
+		"versionEndExcluding": "7.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:*:*:*:*:*:*:*:*",
@@ -316,9 +313,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:7.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:7.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5"
+		"versionEndIncluding": "7.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hp:systems_insight_manager:*:*:*:*:*:*:*:*",

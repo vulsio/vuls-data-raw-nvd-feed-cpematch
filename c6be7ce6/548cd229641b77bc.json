@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:location_intelligence:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:location_intelligence:4.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.4"
 	}
 ]
