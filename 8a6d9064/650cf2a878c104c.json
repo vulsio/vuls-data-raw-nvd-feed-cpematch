@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:avtecinc:outpost_0810_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:avtecinc:outpost_0810_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.0.0"
 	}
 ]

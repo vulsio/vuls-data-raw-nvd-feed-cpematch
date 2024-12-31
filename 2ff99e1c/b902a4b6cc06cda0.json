@@ -1138,12 +1138,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.10"
+		"versionEndExcluding": "2.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:*:*:*:*:*:*:*:*",
@@ -1375,9 +1372,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.10"
+		"versionEndIncluding": "2.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:*:*:*:*:*:*:*:*",
@@ -1509,9 +1509,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6",
+		"versionEndIncluding": "2.6",
 		"versionStartIncluding": "2.0"
 	},
 	{
@@ -1537,12 +1540,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:w1.fi:wpa_supplicant:2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6",
+		"versionEndExcluding": "2.6",
 		"versionStartIncluding": "2.0"
 	},
 	{

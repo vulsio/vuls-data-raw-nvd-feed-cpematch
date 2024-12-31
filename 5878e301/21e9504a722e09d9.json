@@ -1,19 +1,40 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:ibm:openbmc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1020.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1020.60:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "fw1020.60",
 		"versionStartIncluding": "fw1020.00"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:ibm:openbmc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1030.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1030.50:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "fw1030.50",
 		"versionStartIncluding": "fw1030.00"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:ibm:openbmc:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1050.00:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:ibm:openbmc:fw1050.10:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "fw1050.10",
 		"versionStartIncluding": "fw1050.00"
 	}

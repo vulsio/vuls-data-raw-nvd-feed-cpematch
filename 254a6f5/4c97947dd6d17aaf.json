@@ -1313,9 +1313,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:22.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:22.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "22.1.1",
+		"versionEndIncluding": "22.1.1",
 		"versionStartIncluding": "22.0"
 	},
 	{
@@ -1323,12 +1326,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:22.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:22.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "22.1.1",
+		"versionEndExcluding": "22.1.1",
 		"versionStartIncluding": "22.0"
 	},
 	{
