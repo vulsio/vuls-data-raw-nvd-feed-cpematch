@@ -148,21 +148,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:14.1:r3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.1"
+		"versionEndExcluding": "15.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:juniper:junos_space:*:*:*:*:*:*:*:*",
@@ -265,9 +253,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:14.1:r3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:juniper:junos_space:15.1:r4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.1"
+		"versionEndIncluding": "15.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:juniper:junos_space:*:*:*:*:*:*:*:*",

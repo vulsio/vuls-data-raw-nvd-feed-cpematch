@@ -1654,12 +1654,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.2"
+		"versionEndExcluding": "4.0.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:*:*:*:*:*:wordpress:*:*",
@@ -2488,8 +2485,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:custom_content_shortcode_project:custom_content_shortcode:4.0.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0.2"
+		"versionEndIncluding": "4.0.2"
 	}
 ]

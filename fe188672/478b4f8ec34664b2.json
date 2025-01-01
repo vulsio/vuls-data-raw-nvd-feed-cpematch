@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.17:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:langchain:langchain-experimental:0.0.20:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.0.21",
 		"versionStartIncluding": "0.0.15"
 	}

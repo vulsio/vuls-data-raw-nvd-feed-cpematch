@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webliberty:simple_spoiler:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webliberty:simple_spoiler:1.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webliberty:simple_spoiler:1.3:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.4",
 		"versionStartIncluding": "1.2"
 	}

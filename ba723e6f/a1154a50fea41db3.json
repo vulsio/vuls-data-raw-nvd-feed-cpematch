@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:columbia-tl00b_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:columbia-tl00b_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.0.0.187\\(c01e181r1p20t8\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:columbia-tl00b_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:columbia-tl00b_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:columbia-tl00b_firmware:9.0.0.187\\(c01e181r1p20t8\\):*:*:*:*:*:*:*"
 			}

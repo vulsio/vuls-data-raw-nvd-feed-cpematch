@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:lucasgarcia:posts_reminder:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:lucasgarcia:posts_reminder:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:lucasgarcia:posts_reminder:0.20:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.20"
 	}
 ]

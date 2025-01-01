@@ -112,7 +112,26 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:nixos:nix:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:nixos:nix:2.24.5:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.24.6",
 		"versionStartIncluding": "2.24.0"
 	}

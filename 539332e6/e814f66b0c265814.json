@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:cornell-al00a_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-al00a_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.1.0.333\\(c00e333r1p1t8\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:huawei:cornell-al00a_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:huawei:cornell-al00a_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:huawei:cornell-al00a_firmware:9.1.0.333\\(c00e333r1p1t8\\):*:*:*:*:*:*:*"
 			}
