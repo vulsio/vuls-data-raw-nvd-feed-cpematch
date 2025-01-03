@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:smart_license_utility:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:smart_license_utility:2.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:smart_license_utility:2.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:smart_license_utility:2.2.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.3.0",
 		"versionStartIncluding": "2.0.0"
 	}

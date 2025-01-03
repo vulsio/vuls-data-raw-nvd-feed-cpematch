@@ -699,12 +699,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.6",
+		"versionEndExcluding": "5.2.6",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -727,9 +724,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.6",
+		"versionEndIncluding": "5.2.6",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -805,9 +805,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.3.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.3.6",
+		"versionEndIncluding": "5.3.6",
 		"versionStartIncluding": "5.3.0"
 	},
 	{
@@ -830,12 +833,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.3.6",
+		"versionEndExcluding": "5.3.6",
 		"versionStartIncluding": "5.3.0"
 	},
 	{
@@ -1263,6 +1263,58 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.12:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:6.0.14:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.15",
+		"versionStartIncluding": "6.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1275,7 +1327,7 @@
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.3",
+		"versionEndExcluding": "7.0.4",
 		"versionStartIncluding": "7.0.0"
 	},
 	{

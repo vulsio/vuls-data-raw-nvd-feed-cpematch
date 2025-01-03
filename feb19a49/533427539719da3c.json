@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cochinoman:splashscreen:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cochinoman:splashscreen:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cochinoman:splashscreen:0.20:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.20"
 	}
 ]

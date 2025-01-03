@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:8.3.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.3.0.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:8.3.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.3.0.7",
 		"versionStartIncluding": "8.3.0"
 	},
@@ -14,12 +25,16 @@
 		"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "10.1.0.0",
-		"versionStartIncluding": "9.3.1.0"
+		"versionStartExcluding": "9.3.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hitachi:pentaho_business_analytics_server:9.3.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.1.0.0",
-		"versionStartExcluding": "9.3.1.0"
+		"versionStartIncluding": "9.3.1.0"
 	}
 ]

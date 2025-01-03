@@ -9788,12 +9788,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.7.39:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.7.40:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.7.40",
+		"versionEndExcluding": "8.7.40",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -9957,9 +9954,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.7.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:typo3:typo3:8.7.40:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.7.40",
+		"versionEndIncluding": "8.7.40",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -15929,5 +15929,11 @@
 		],
 		"versionEndExcluding": "12.4.8",
 		"versionStartIncluding": "12.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:typo3:typo3:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "13.1.1",
+		"versionStartIncluding": "13.0.0"
 	}
 ]

@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cleo:harmony:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:harmony:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:harmony:5.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.8.0.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cleo:harmony:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:harmony:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:harmony:5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:harmony:5.8.0.21:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.8.0.24"
 	}
 ]

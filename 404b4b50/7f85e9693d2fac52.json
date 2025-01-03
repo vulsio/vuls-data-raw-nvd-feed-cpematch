@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cleo:vltrader:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:vltrader:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:vltrader:5.8:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.8.0.21"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cleo:vltrader:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:vltrader:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:vltrader:5.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cleo:vltrader:5.8.0.21:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.8.0.24"
 	}
 ]
