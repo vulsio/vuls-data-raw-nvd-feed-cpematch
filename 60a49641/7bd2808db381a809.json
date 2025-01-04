@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:helmholz:rex_100_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:helmholz:rex_100_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:helmholz:rex_100_firmware:2.2.13:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.3.1"
 	}
 ]

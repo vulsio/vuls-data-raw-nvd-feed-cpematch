@@ -25,9 +25,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:myscada:mypro:7.0.26:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:myscada:mypro:8.20.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.20.0"
+		"versionEndIncluding": "8.20.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:myscada:mypro:*:*:*:*:*:*:*:*",
@@ -40,12 +43,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:myscada:mypro:7.0.26:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:myscada:mypro:8.20.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.20.0"
+		"versionEndExcluding": "8.20.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:myscada:mypro:*:*:*:*:*:*:*:*",

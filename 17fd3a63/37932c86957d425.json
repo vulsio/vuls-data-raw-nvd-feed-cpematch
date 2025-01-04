@@ -8,13 +8,13 @@
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2016:*:*:*:*:*:*:x64:*",
 		"cpe_name": [],
-		"versionEndExcluding": "13.0.6441.1",
+		"versionEndIncluding": "13.0.6441.1",
 		"versionStartIncluding": "13.0.6300.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2016:*:*:*:*:*:*:x64:*",
 		"cpe_name": [],
-		"versionEndIncluding": "13.0.6441.1",
+		"versionEndExcluding": "13.0.6441.1",
 		"versionStartIncluding": "13.0.6300.2"
 	},
 	{
@@ -28,6 +28,12 @@
 		"cpe_name": [],
 		"versionEndIncluding": "13.0.7037.1",
 		"versionStartIncluding": "13.0.6441.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2016:*:*:*:*:*:*:x64:*",
+		"cpe_name": [],
+		"versionEndExcluding": "13.0.7037.1",
+		"versionStartIncluding": "13.0.7000.253"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:sql_server_2016:*:*:*:*:*:*:x64:*",

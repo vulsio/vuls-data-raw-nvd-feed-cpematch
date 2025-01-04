@@ -7012,21 +7012,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:246.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "247"
+		"versionEndExcluding": "247"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
@@ -7486,9 +7474,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:246.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:247:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "247"
+		"versionEndIncluding": "247"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",

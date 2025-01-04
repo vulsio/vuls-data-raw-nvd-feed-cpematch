@@ -393,24 +393,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:b1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.2.8",
+		"versionEndExcluding": "4.2.8",
 		"versionStartIncluding": "4.2.0"
 	},
 	{
@@ -541,9 +526,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:b1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:isc:dhcp:4.2.8:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.2.8",
+		"versionEndIncluding": "4.2.8",
 		"versionStartIncluding": "4.2.0"
 	},
 	{

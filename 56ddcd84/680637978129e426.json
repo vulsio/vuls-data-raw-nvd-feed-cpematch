@@ -1,7 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.9.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:thinkst:opencanary:0.9.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "0.9.4"
 	}
 ]

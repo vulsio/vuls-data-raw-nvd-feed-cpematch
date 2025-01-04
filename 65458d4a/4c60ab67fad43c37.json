@@ -424,9 +424,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.6"
+		"versionEndIncluding": "5.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:marcomilesi:wp_attachments:*:*:*:*:*:wordpress:*:*",
@@ -568,11 +571,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0.6"
+		"versionEndExcluding": "5.0.6"
 	}
 ]

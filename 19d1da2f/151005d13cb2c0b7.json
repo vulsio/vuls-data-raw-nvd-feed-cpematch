@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:helmholz:rex_300_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:helmholz:rex_300_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:helmholz:rex_300_firmware:5.1.11:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "5.1.11"
 	}
 ]
