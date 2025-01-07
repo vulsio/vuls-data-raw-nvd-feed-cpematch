@@ -589,12 +589,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.12.4"
+		"versionEndExcluding": "1.12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",
@@ -889,9 +886,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zend:zend_framework:1.12.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.12.4"
+		"versionEndIncluding": "1.12.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zend:zend_framework:*:*:*:*:*:*:*:*",

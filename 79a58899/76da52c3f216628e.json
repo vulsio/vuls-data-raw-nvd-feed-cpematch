@@ -4,21 +4,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:1.9.1.0:*:*:*:community:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:magento:magento:1.9.2.1:*:*:*:community:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.2.1"
+		"versionEndExcluding": "1.9.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:community:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:magento:magento:1.9.1.0:*:*:*:community:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:magento:magento:1.9.2.1:*:*:*:community:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.2.1"
+		"versionEndIncluding": "1.9.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:magento:magento:*:*:*:*:community:*:*:*",

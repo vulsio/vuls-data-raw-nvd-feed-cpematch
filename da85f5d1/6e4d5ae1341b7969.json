@@ -301,12 +301,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:ex6100_firmware:1.0.2.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:netgear:ex6100_firmware:1.0.2.28:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.2.28"
+		"versionEndExcluding": "1.0.2.28"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:netgear:ex6100_firmware:*:*:*:*:*:*:*:*",
@@ -346,8 +343,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:netgear:ex6100_firmware:1.0.2.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:netgear:ex6100_firmware:1.0.2.28:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.2.28"
+		"versionEndIncluding": "1.0.2.28"
 	}
 ]

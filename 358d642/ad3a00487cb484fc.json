@@ -211,5 +211,18 @@
 		],
 		"versionEndIncluding": "10.1.0.3",
 		"versionStartIncluding": "10.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ibm:integration_bus:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:integration_bus:10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:integration_bus:10.1.0.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "10.1.0.3",
+		"versionStartIncluding": "10.1"
 	}
 ]
