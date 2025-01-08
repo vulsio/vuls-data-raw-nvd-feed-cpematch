@@ -34854,12 +34854,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:2.6.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:2.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.6.7"
+		"versionEndExcluding": "2.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:*:*:*:*:*:*:*:*",
@@ -37893,9 +37890,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:2.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:2.6.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.6.7"
+		"versionEndIncluding": "2.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ruby-lang:ruby:*:*:*:*:*:*:*:*",

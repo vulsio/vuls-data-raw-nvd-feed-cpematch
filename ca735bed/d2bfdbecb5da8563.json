@@ -34,12 +34,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:james:3.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:james:3.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.2"
+		"versionEndExcluding": "3.6.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:james:*:*:*:*:*:*:*:*",
@@ -58,9 +55,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:james:3.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:james:3.6.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.2"
+		"versionEndIncluding": "3.6.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:james:*:*:*:*:*:*:*:*",

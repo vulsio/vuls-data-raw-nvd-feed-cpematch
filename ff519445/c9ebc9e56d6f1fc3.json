@@ -721,12 +721,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9"
+		"versionEndExcluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",
@@ -799,9 +796,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:4.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9"
+		"versionEndIncluding": "4.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:contiki-ng:contiki-ng:*:*:*:*:*:*:*:*",

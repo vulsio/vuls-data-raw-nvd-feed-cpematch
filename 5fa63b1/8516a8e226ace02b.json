@@ -864,6 +864,9 @@
 				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.6.7:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.6.8:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.7.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -909,6 +912,9 @@
 				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.10.3:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.10.4:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.11.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -922,6 +928,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.12.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.14.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "2.14.0"
@@ -1067,7 +1094,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eprosima:fast_dds:2.13.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.13.5",
 		"versionStartIncluding": "2.13.0"
 	}

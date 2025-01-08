@@ -1390,12 +1390,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:1.9.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:1.9.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.10"
+		"versionEndExcluding": "1.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:*:*:*:*:*:*:*:*",
@@ -1645,9 +1642,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:1.9.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:1.9.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.10"
+		"versionEndIncluding": "1.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:moinmo:moinmoin:*:*:*:*:*:*:*:*",

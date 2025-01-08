@@ -118,9 +118,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:3.1.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:3.1.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.6"
+		"versionEndIncluding": "3.1.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:*:*:*:*:*:wordpress:*:*",
@@ -241,11 +244,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:3.1.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpadminify:wp_adminify:3.1.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.6"
+		"versionEndExcluding": "3.1.6"
 	}
 ]
