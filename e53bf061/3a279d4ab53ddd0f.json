@@ -3504,9 +3504,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mybb:mybb:1.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mybb:mybb:1.8.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.8.4"
+		"versionEndIncluding": "1.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mybb:mybb:*:*:*:*:*:*:*:*",
@@ -3756,12 +3759,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mybb:mybb:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mybb:mybb:1.8.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.8.4"
+		"versionEndExcluding": "1.8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mybb:mybb:*:*:*:*:*:*:*:*",

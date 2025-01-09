@@ -1289,9 +1289,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:5.5.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:5.5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.5.8",
+		"versionEndIncluding": "5.5.8",
 		"versionStartIncluding": "5.5"
 	},
 	{
@@ -1338,12 +1341,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:5.5.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:5.5.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.5.8",
+		"versionEndExcluding": "5.5.8",
 		"versionStartIncluding": "5.5"
 	},
 	{
@@ -1383,28 +1383,6 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.3:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndIncluding": "6.0.3",
-		"versionStartIncluding": "6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.1_build_55017:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "6.0.3",
@@ -1427,12 +1405,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.4:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.5",
+		"versionEndIncluding": "6.0.3",
 		"versionStartIncluding": "6.0"
 	},
 	{
@@ -1461,6 +1436,31 @@
 			}
 		],
 		"versionEndIncluding": "6.0.5",
+		"versionStartIncluding": "6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.1_build_55017:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:6.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "6.0.5",
 		"versionStartIncluding": "6.0"
 	},
 	{
@@ -1785,12 +1785,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:14.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:workstation:14.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.1.5",
+		"versionEndExcluding": "14.1.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{
@@ -1816,9 +1813,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:workstation:14.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:workstation:14.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.1.5",
+		"versionEndIncluding": "14.1.5",
 		"versionStartIncluding": "14.0.0"
 	},
 	{

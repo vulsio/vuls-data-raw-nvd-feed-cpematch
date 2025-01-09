@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:rymera:auto_refresh_single_page:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rymera:auto_refresh_single_page:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rymera:auto_refresh_single_page:1.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1"
 	}
 ]

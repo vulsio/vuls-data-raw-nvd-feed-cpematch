@@ -2476,15 +2476,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.54:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.56:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.56:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.2.56"
+		"versionEndExcluding": "6.2.56"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sympa:sympa:*:*:*:*:*:*:*:*",
@@ -3205,9 +3199,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.54:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.56:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sympa:sympa:6.2.56:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.2.56"
+		"versionEndIncluding": "6.2.56"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:sympa:sympa:*:*:*:*:*:*:*:*",

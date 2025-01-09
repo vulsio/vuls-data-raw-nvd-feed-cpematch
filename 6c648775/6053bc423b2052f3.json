@@ -7015,12 +7015,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.24.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.24.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.24.3"
+		"versionEndExcluding": "2.24.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:*:*:*:*:*:*:*:*",
@@ -7537,9 +7534,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.24.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.24.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.24.3"
+		"versionEndIncluding": "2.24.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:*:*:*:*:*:*:*:*",
@@ -11827,6 +11827,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.25.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.26.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.26.1"
@@ -12376,6 +12379,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.25.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.26.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mantisbt:mantisbt:2.26.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.26.2"
