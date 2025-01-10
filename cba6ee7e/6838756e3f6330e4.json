@@ -12872,9 +12872,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.8.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.8.16:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.8.16",
+		"versionEndExcluding": "2.8.17",
 		"versionStartIncluding": "2.1.0"
 	},
 	{
@@ -15846,6 +15849,64 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.12:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.9.13",
+		"versionStartIncluding": "2.9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.12:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.9.13:*:*:*:*:*:*:*"
@@ -16049,6 +16110,52 @@
 			}
 		],
 		"versionEndExcluding": "2.10.7",
+		"versionStartIncluding": "2.10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:rc4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.0:rc5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:argoproj:argo_cd:2.10.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.10.8",
 		"versionStartIncluding": "2.10.0"
 	},
 	{

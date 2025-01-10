@@ -190,12 +190,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:1.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:1.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.5"
+		"versionEndExcluding": "1.6.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:*:*:*:*:*:*:*:*",
@@ -292,9 +289,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:1.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:1.6.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.5"
+		"versionEndIncluding": "1.6.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gjson_project:gjson:*:*:*:*:*:*:*:*",

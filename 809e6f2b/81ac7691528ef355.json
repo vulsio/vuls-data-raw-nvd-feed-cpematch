@@ -130,9 +130,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.34:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.7.34"
+		"versionEndIncluding": "5.7.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
@@ -157,12 +160,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:5.7.34:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.7.34"
+		"versionEndExcluding": "5.7.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_server:*:*:*:*:*:*:*:*",
