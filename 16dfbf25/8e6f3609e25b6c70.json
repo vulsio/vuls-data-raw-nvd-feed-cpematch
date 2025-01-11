@@ -127,12 +127,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:1.5.12:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:1.5.13:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.5.13"
+		"versionEndExcluding": "1.5.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:*:*:*:*:*:wordpress:*:*",
@@ -262,9 +259,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:1.5.12:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:1.5.13:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.5.13"
+		"versionEndIncluding": "1.5.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:implecode:product_catalog_simple:*:*:*:*:*:wordpress:*:*",

@@ -16365,6 +16365,29 @@
 		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:*:*:*:*:continuous:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:22.001.20085:*:*:*:continuous:*:*:*"
+			}
+		],
+		"versionEndExcluding": "22.001.20112",
+		"versionStartIncluding": "22.001.20085"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:*:*:*:*:continuous:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:22.001.20085:*:*:*:continuous:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:22.001.20112:*:*:*:continuous:*:*:*"
+			}
+		],
+		"versionEndExcluding": "22.001.20117",
+		"versionStartIncluding": "22.001.20085"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:*:*:*:*:continuous:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_dc:24.002.20964:*:*:*:continuous:*:*:*"
 			},
 			{
