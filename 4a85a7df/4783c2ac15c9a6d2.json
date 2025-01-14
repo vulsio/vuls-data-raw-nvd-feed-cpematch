@@ -1,7 +1,485 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:-:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:93.0.961.47:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:93.0.961.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.31:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.37:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.38:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.47:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.57:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:94.0.992.58:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:95.0.1020.30:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:95.0.1020.38:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:95.0.1020.40:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:95.0.1020.44:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:95.0.1020.53:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.29:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.34:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.41:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.53:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.57:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.72:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:96.0.1054.75:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:97.0.1072.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:97.0.1072.69:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:97.0.1072.76:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.55:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.56:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.76:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.84:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:98.0.1108.92:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.30:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.36:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.39:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:99.0.1150.55:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:100.0.1185.39:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:100.0.1185.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:100.0.1185.57:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:100.0.1185.60:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:101.0.1210.39:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:101.0.1210.53:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:102.0.1245.33:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:102.0.1245.44:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:102.0.1245.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:102.0.1245.56:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:102.0.1245.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:103.0.1264.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:103.0.1264.71:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:103.0.1264.77:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.54:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.63:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.70:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.78:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.81:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:104.0.1293.91:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:105.0.1343.27:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:105.0.1343.33:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:105.0.1343.42:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:105.0.1343.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:105.0.1343.53:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.37:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.42:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.47:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.59:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.61:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.72:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:106.0.1370.86:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.24:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.26:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.35:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.42:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.56:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:107.0.1418.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.42:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.46:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.54:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.76:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.83:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.87:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:108.0.1462.95:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.49:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.55:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.61:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.69:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.78:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.95:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.100:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.115:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:109.0.1518.140:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.46:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.49:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.56:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.57:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.63:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.69:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:110.0.1587.78:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:111.0.1661.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:111.0.1661.44:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:111.0.1661.51:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:111.0.1661.62:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.34:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.39:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.46:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.58:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.64:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.68:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.71:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.77:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:112.0.1722.84:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:113.0.1774.35:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:113.0.1774.42:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:113.0.1774.50:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:113.0.1774.57:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.41:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.55:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.58:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.67:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.79:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.86:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.90:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:114.0.1823.106:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:115.0.1901.188:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:115.0.1901.200:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:115.0.1901.203:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:116.0.1938.69:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:116.0.1938.76:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:116.0.1938.81:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:116.0.1938.98:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.35:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.36:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.40:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.41:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.43:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.47:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.55:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:117.0.2045.60:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:118.0.2088.102:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:118.0.2088.109:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:119.0.2151.93:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:119.0.2151.97:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:120.0.2210.167:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:120.0.2210.175:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:120.0.2210.181:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:121.0.2277.106:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:121.0.2277.110:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:121.0.2277.112:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:121.0.2277.128:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:122.0.2365.52:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:122.0.2365.59:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:122.0.2365.63:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:122.0.2365.66:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:edge_chromium:122.0.2365.80:*:*:*:-:*:*:*"
+			}
+		],
 		"versionEndExcluding": "122.0.2365.92"
 	}
 ]

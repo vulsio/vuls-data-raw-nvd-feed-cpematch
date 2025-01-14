@@ -1165,12 +1165,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:horde:groupware:5.2.21:*:*:*:webmail:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:horde:groupware:5.2.22:*:*:*:webmail:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.22"
+		"versionEndExcluding": "5.2.22"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:horde:groupware:*:*:*:*:webmail:*:*:*",
@@ -1441,9 +1438,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:horde:groupware:5.2.21:*:*:*:webmail:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:horde:groupware:5.2.22:*:*:*:webmail:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.22"
+		"versionEndIncluding": "5.2.22"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:horde:groupware:*:*:*:*:webmail:*:*:*",

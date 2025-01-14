@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:themelooks:mfolio:*:*:*:*:lite:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:themelooks:mfolio:-:*:*:*:lite:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:themelooks:mfolio:1.0:*:*:*:lite:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:themelooks:mfolio:1.2.1:*:*:*:lite:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2.1"
 	}
 ]

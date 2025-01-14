@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:applications_technology_stack:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:applications_technology_stack:12.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:applications_technology_stack:12.2.13:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "12.2.13",
 		"versionStartIncluding": "12.2.3"
 	}

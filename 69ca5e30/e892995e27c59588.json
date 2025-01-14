@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:nuvoton:npcm750r_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:nuvoton:npcm750r_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "10.10.19"
 	}
 ]

@@ -1,7 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:*:*:*:*:-:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:-:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:6.0.16:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:6.0.17:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:6.0.18:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:6.0.19:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webcraftplugins:image_map_pro:6.0.20:*:*:*:-:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "6.0.20"
 	}
 ]

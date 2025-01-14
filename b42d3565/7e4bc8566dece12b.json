@@ -3075,12 +3075,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:3.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:3.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.6",
+		"versionEndExcluding": "3.0.6",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -3109,9 +3106,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:3.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:spring_boot:3.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.6",
+		"versionEndIncluding": "3.0.6",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
