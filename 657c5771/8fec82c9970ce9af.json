@@ -60730,9 +60730,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:7.8.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:7.8.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.8.14"
+		"versionEndIncluding": "7.8.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*",
@@ -62719,12 +62722,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:7.8.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:7.8.14:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.8.14"
+		"versionEndExcluding": "7.8.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:*:*:*:*:*:*:*:*",
@@ -81040,21 +81040,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.4:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.1.5",
+		"versionEndExcluding": "8.1.5",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -81116,9 +81104,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.4:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:8.1.5:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.5",
+		"versionEndIncluding": "8.1.5",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -81478,18 +81478,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.3",
+		"versionEndExcluding": "9.0.3",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -81521,9 +81512,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.0.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.3",
+		"versionEndIncluding": "9.0.3",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -82156,9 +82156,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.2.3",
+		"versionEndIncluding": "9.2.3",
 		"versionStartIncluding": "9.2.0"
 	},
 	{
@@ -82181,15 +82187,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.2.3:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.2.3",
+		"versionEndExcluding": "9.2.3",
 		"versionStartIncluding": "9.2.0"
 	},
 	{
@@ -83252,15 +83252,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.1:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.2:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.10.2",
+		"versionEndExcluding": "9.10.2",
 		"versionStartIncluding": "9.10.0"
 	},
 	{
@@ -83289,9 +83283,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.1:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost_server:9.10.2:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.10.2",
+		"versionEndIncluding": "9.10.2",
 		"versionStartIncluding": "9.10.0"
 	},
 	{

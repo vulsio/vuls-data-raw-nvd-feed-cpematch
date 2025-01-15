@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:hedge3:crypto_and_defi_widgets:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:hedge3:crypto_and_defi_widgets:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hedge3:crypto_and_defi_widgets:1.1.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.1.6"
 	}
 ]

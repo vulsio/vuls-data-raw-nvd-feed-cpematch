@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cryoutcreations:tempera:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cryoutcreations:tempera:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cryoutcreations:tempera:1.8.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.8.2"
 	}
 ]

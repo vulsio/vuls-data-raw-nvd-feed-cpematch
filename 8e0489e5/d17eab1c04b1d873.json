@@ -2536,12 +2536,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.15.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.15.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.15.7"
+		"versionEndExcluding": "3.15.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*",
@@ -2791,9 +2788,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.15.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.15.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.15.7"
+		"versionEndIncluding": "3.15.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*",
@@ -6819,6 +6819,9 @@
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -7153,6 +7156,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
@@ -7492,6 +7498,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
@@ -7834,6 +7843,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
@@ -8179,6 +8191,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
@@ -8538,6 +8553,9 @@
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -8566,6 +8584,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.6.6"
@@ -8901,6 +8922,9 @@
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -8929,6 +8953,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.7.0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.7.0"
@@ -9106,6 +9139,9 @@
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.0:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.2.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.3.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -9134,6 +9170,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:5.6.4:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "5.6.4",

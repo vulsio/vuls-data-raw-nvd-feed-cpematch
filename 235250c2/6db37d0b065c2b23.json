@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:coderevolution:aiomatic:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:coderevolution:aiomatic:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.9.4"
 	}
 ]

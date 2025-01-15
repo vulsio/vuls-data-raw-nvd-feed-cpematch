@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:alwindoss:akademy:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:alwindoss:akademy:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:alwindoss:akademy:2024-08-24:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2024-08-24"
 	}
 ]

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:codeless:cowidgets:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:codeless:cowidgets:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.2.0"
 	}
 ]

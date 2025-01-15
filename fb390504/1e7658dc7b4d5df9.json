@@ -1,12 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:flycart:discount_rules_for_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:flycart:discount_rules_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.4.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:flycart:discount_rules_for_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:flycart:discount_rules_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:flycart:discount_rules_for_woocommerce:2.6.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.6.5"
 	}
 ]

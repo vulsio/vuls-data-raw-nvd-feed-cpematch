@@ -775,12 +775,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elbtide:advanced_booking_calendar:1.7.0:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:elbtide:advanced_booking_calendar:1.7.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.7.1"
+		"versionEndExcluding": "1.7.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elbtide:advanced_booking_calendar:*:*:*:*:*:wordpress:*:*",
@@ -979,8 +976,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elbtide:advanced_booking_calendar:1.7.0:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elbtide:advanced_booking_calendar:1.7.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.7.1"
+		"versionEndIncluding": "1.7.1"
 	}
 ]

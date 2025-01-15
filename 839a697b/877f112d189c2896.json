@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:himalayasaxena:highcompress_image_compressor:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:himalayasaxena:highcompress_image_compressor:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:himalayasaxena:highcompress_image_compressor:6.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "6.0.0"
 	}
 ]

@@ -8286,9 +8286,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.23:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.24"
+		"versionEndIncluding": "2.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",
@@ -8643,12 +8646,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.23:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:glibc:2.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.24"
+		"versionEndExcluding": "2.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:glibc:*:*:*:*:*:*:*:*",

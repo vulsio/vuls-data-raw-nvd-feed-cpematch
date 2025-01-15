@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:formfacade:formfacade:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:formfacade:formfacade:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3.3"
 	}
 ]

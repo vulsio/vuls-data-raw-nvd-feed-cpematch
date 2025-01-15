@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:agnai:agnai:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:agnai:agnai:-:*:*:*:*:node.js:*:*"
+			}
+		],
 		"versionEndExcluding": "1.0.330"
 	}
 ]

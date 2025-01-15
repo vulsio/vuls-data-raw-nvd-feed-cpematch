@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:fahadmahmood:wp_docs:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fahadmahmood:wp_docs:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "2.1.4"
 	}
 ]

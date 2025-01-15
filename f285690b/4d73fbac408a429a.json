@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dh9sb.dx-info:adif_log_search_widget:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dh9sb.dx-info:adif_log_search_widget:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dh9sb.dx-info:adif_log_search_widget:1.0f:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.0f"
 	}
 ]

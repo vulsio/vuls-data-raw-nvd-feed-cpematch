@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ehues:gboy_custom_google_map:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ehues:gboy_custom_google_map:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ehues:gboy_custom_google_map:1.2:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.2"
 	}
 ]

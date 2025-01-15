@@ -8022,9 +8022,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:7.1.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:7.1.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.1.24"
+		"versionEndIncluding": "7.1.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:*:*:*:*:*:*:*:*",
@@ -8529,12 +8532,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:7.1.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:7.1.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.1.24"
+		"versionEndExcluding": "7.1.24"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:*:*:*:*:*:*:*:*",
@@ -15532,12 +15532,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.0.19:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.0.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.20",
+		"versionEndExcluding": "8.0.20",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -15626,9 +15623,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.0.19:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.0.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.20",
+		"versionEndIncluding": "8.0.20",
 		"versionStartIncluding": "8.0.0"
 	},
 	{
@@ -17332,9 +17332,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.22:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.1.24",
+		"versionEndIncluding": "8.1.24",
 		"versionStartIncluding": "8.1.0"
 	},
 	{
@@ -17420,15 +17426,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.22:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:8.1.24:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.1.24",
+		"versionEndExcluding": "8.1.24",
 		"versionStartIncluding": "8.1.0"
 	},
 	{
@@ -17958,15 +17958,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.2:h4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.2",
+		"versionEndExcluding": "9.0.2",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -17977,9 +17971,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.2:h4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.2",
+		"versionEndIncluding": "9.0.2",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -18665,21 +18665,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.14",
+		"versionEndExcluding": "9.0.14",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -18750,9 +18738,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.14:h4:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.14",
+		"versionEndIncluding": "9.0.14",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -19011,30 +19011,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h6:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h7:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.16",
+		"versionEndExcluding": "9.0.16",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -19120,9 +19099,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h6:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.0.16:h7:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.16",
+		"versionEndIncluding": "9.0.16",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
@@ -20121,9 +20121,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.1.11",
+		"versionEndIncluding": "9.1.11",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
@@ -20167,24 +20182,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.11:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.1.11",
+		"versionEndExcluding": "9.1.11",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
@@ -20631,9 +20631,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.15:h1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.1.16",
+		"versionEndIncluding": "9.1.16",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
@@ -20746,24 +20761,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.15:h1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.16:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.1.16",
+		"versionEndExcluding": "9.1.16",
 		"versionStartIncluding": "9.1.0"
 	},
 	{
@@ -21227,9 +21227,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.0.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.11",
+		"versionEndIncluding": "10.0.11",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -21267,12 +21270,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.0.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.0.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.11",
+		"versionEndExcluding": "10.0.11",
 		"versionStartIncluding": "10.0.0"
 	},
 	{
@@ -21917,24 +21917,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.1:h2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.2.2",
+		"versionEndExcluding": "10.2.2",
 		"versionStartIncluding": "10.2.0"
 	},
 	{
@@ -21963,9 +21948,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.1:h2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.2:h5:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.2.2",
+		"versionEndIncluding": "10.2.2",
 		"versionStartIncluding": "10.2.0"
 	},
 	{

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:rafasashi:todo_custom_field:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rafasashi:todo_custom_field:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rafasashi:todo_custom_field:3.0.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0.4"
 	}
 ]

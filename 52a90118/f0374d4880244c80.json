@@ -5109,15 +5109,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4249:*:*:*:*:*:x64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4317:*:*:*:*:*:arm64:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4317:*:*:*:*:*:x64:*"
 			}
 		],
-		"versionEndIncluding": "10.0.22621.4317"
+		"versionEndExcluding": "10.0.22621.4317"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:*:*:*:*:*:*:*:*",
@@ -5454,9 +5448,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4249:*:*:*:*:*:x64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4317:*:*:*:*:*:arm64:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.4317:*:*:*:*:*:x64:*"
 			}
 		],
-		"versionEndExcluding": "10.0.22621.4317"
+		"versionEndIncluding": "10.0.22621.4317"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_11_22h2:*:*:*:*:*:*:*:*",

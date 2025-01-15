@@ -1342,12 +1342,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.3.3"
+		"versionEndExcluding": "4.3.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:*:*:*:*:*:wordpress:*:*",
@@ -1750,9 +1747,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.3.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.3.3"
+		"versionEndExcluding": "4.3.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:*:*:*:*:*:wordpress:*:*",
@@ -3033,6 +3033,6 @@
 				"cpe23Uri": "cpe:2.3:a:themeisle:rss_aggregator_by_feedzy:4.4.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4.7"
+		"versionEndExcluding": "4.4.8"
 	}
 ]
