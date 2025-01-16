@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:endress:echo_curve_viewer:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:endress:echo_curve_viewer:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:endress:echo_curve_viewer:5.2.2.6:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.0"
 	}
 ]

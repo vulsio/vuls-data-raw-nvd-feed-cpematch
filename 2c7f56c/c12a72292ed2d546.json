@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dataflowx:datadiodex:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dataflowx:datadiodex:3.0.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.1.7",
 		"versionStartIncluding": "3.0.0"
 	}

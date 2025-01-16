@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ellucian:banner:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ellucian:banner:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ellucian:banner:9.17:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.17"
 	}
 ]

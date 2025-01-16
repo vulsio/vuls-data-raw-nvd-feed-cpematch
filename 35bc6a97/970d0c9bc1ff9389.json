@@ -1,24 +1,58 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndIncluding": "12.2.2",
-		"versionStartIncluding": "12.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.2.2",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "12.2.2",
+		"versionStartIncluding": "12.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.2.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.2.2.241",
 		"versionStartIncluding": "12.1.0"
 	}

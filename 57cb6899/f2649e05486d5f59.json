@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "r4.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2:*:*:*:*:*:*:*"
 			},
@@ -26,6 +33,9 @@
 		"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -39,6 +49,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2-07:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2-07p3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "r4.2-07p3"
@@ -47,6 +60,9 @@
 		"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:-:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2:*:*:*:*:*:*:*"
 			},
 			{
@@ -60,13 +76,29 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2-07:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.2-07p3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.3-00p3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.4-00p3:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "r4.4-00p3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.3-00p3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:br-automation:industrial_automation_aprol:r4.4-00p3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "r4.4-00p3",
 		"versionStartIncluding": "r4.3-00p3"
 	}

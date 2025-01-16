@@ -64,9 +64,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:rocketmq:4.9.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:rocketmq:4.9.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9.6"
+		"versionEndIncluding": "4.9.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:rocketmq:*:*:*:*:*:*:*:*",
@@ -133,12 +136,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:rocketmq:4.9.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:rocketmq:4.9.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9.6"
+		"versionEndExcluding": "4.9.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:rocketmq:*:*:*:*:*:*:*:*",

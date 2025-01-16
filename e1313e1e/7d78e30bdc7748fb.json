@@ -514,9 +514,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:automattic:jetpack:4.0.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:automattic:jetpack:4.0.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0.3"
+		"versionEndIncluding": "4.0.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:automattic:jetpack:*:*:*:*:*:wordpress:*:*",
@@ -808,12 +811,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:automattic:jetpack:4.0.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:automattic:jetpack:4.0.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.3"
+		"versionEndExcluding": "4.0.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:automattic:jetpack:*:*:*:*:*:wordpress:*:*",

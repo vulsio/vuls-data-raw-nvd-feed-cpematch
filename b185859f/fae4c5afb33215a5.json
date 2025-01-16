@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:emqx:neuron:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:emqx:neuron:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:emqx:neuron:2.10.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "2.10.0"
 	}
 ]

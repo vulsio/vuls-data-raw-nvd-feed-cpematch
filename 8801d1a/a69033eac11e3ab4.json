@@ -115,7 +115,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:nugetgallery:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:nugetgallery:2024.06.21:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2024.09.25",
 		"versionStartIncluding": "2024.06.21"
 	}

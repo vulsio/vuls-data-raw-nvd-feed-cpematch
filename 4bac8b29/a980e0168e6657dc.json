@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:etoilewebdesign:front_end_users:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:etoilewebdesign:front_end_users:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.2.24"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:etoilewebdesign:front_end_users:*:*:*:*:*:wordpress:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:etoilewebdesign:front_end_users:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:etoilewebdesign:front_end_users:3.2.28:*:*:*:*:wordpress:*:*"
+			}
+		],
+		"versionEndExcluding": "3.2.29"
 	}
 ]

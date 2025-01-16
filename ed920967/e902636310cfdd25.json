@@ -648,9 +648,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0:beta:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.1"
+		"versionEndIncluding": "1.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -666,12 +669,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0:beta:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.1"
+		"versionEndExcluding": "1.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -771,9 +771,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.7"
+		"versionEndIncluding": "1.0.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -807,12 +810,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.0.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.7"
+		"versionEndExcluding": "1.0.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -1647,12 +1647,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.1.11:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.1.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.12"
+		"versionEndExcluding": "1.1.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -1743,9 +1740,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.1.11:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:1.1.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.12"
+		"versionEndIncluding": "1.1.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -8538,30 +8538,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.12.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta5:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.13"
+		"versionEndExcluding": "2.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",
@@ -8982,9 +8961,30 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.12.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta5:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:2.13:beta6:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.13"
+		"versionEndIncluding": "2.13"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mozilla:seamonkey:*:*:*:*:*:*:*:*",

@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:darktrace:threat_visualizer:*:*:*:*:*:-:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:darktrace:threat_visualizer:-:*:*:*:*:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:darktrace:threat_visualizer:6.1.27:*:*:*:*:-:*:*"
+			}
+		],
 		"versionEndIncluding": "6.1.27"
 	}
 ]

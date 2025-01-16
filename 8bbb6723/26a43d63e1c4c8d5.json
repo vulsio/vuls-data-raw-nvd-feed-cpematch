@@ -75,12 +75,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.3.6",
+		"versionEndExcluding": "2.3.3.6",
 		"versionStartIncluding": "2.3.3.0"
 	},
 	{
@@ -100,9 +97,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:cloud_pak_system:2.3.3.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.3.6",
+		"versionEndIncluding": "2.3.3.6",
 		"versionStartIncluding": "2.3.3.0"
 	}
 ]
