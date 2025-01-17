@@ -1,12 +1,25 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:9.3.3:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "9.3.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:9.3.3:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:a:schneider-electric:easergy_studio:9.3.5:*:*:*:*:*:*:*"
 			}

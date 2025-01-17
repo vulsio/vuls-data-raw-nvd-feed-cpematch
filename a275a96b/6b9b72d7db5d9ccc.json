@@ -6,12 +6,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace_virtual_desktop_infrastructure:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_virtual_desktop_infrastructure:5.17.13:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "5.17.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace_virtual_desktop_infrastructure:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_virtual_desktop_infrastructure:6.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.11",
 		"versionStartIncluding": "6.0"
 	}

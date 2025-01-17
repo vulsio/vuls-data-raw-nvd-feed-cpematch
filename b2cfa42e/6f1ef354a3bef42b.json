@@ -6,12 +6,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.0:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace:*:*:*:*:*:android:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.0:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.12:*:*:*:*:android:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.0"
 	}
 ]

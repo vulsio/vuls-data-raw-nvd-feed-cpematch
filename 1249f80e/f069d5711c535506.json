@@ -655,9 +655,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:1.14.1:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.14.2"
+		"versionEndIncluding": "1.14.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -883,12 +886,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:1.14.1:rc3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:1.14.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.14.2"
+		"versionEndExcluding": "1.14.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -5131,9 +5131,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.0"
+		"versionEndIncluding": "3.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -5542,21 +5554,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.6.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.0"
+		"versionEndExcluding": "3.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -5703,9 +5703,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.1.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.0",
+		"versionEndIncluding": "2.2.0",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -5725,21 +5737,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.1.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.2.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.0",
+		"versionEndExcluding": "2.2.0",
 		"versionStartIncluding": "2.0.0"
 	},
 	{

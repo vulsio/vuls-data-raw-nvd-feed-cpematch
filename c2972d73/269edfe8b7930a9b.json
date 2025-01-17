@@ -1411,6 +1411,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.0.2860:build_20240817:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.1.2930:build_20241025:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.2.2950:build_20241114:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.3.3006:build_20250108:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -1560,6 +1569,51 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "4.2.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:qnap:qts:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.1:build_0927:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.4:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.6:*:*:*:*:*:*:*"
@@ -1620,51 +1674,6 @@
 			}
 		],
 		"versionEndIncluding": "4.2.6"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:o:qnap:qts:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.1:build_0927:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.2.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "4.2.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:qnap:qts:*:*:*:*:*:*:*:*",
@@ -8940,12 +8949,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.5.1.1495:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.5.1.1540:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.5.1.1540"
+		"versionEndExcluding": "4.5.1.1540"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:qnap:qts:*:*:*:*:*:*:*:*",
@@ -9879,9 +9885,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.5.1.1495:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:4.5.1.1540:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.5.1.1540"
+		"versionEndIncluding": "4.5.1.1540"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:qnap:qts:*:*:*:*:*:*:*:*",
@@ -27764,6 +27773,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.0.2860:build_20240817:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.1.2930:build_20241025:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.2.2950:build_20241114:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:qnap:qts:5.2.3.3006:build_20250108:*:*:*:*:*:*"
 			}
 		],
 		"versionStartIncluding": "4.4.0"

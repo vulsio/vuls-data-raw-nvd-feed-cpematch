@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:6.0.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.0"
 	}
 ]

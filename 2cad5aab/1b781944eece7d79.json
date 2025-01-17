@@ -1,12 +1,26 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:1.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:1.6.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:txtdot:txtdot:1.4.0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.6.1",
 		"versionStartIncluding": "1.4.0"
 	}

@@ -146,12 +146,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:app_connect_enterprise:11.0.0.23:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:app_connect_enterprise:11.0.0.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0.0.24",
+		"versionEndExcluding": "11.0.0.24",
 		"versionStartIncluding": "11.0.0.1"
 	},
 	{
@@ -225,9 +222,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:app_connect_enterprise:11.0.0.23:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:app_connect_enterprise:11.0.0.24:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.0.0.24",
+		"versionEndIncluding": "11.0.0.24",
 		"versionStartIncluding": "11.0.0.1"
 	},
 	{

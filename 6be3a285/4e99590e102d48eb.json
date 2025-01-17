@@ -2664,9 +2664,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:0.9.8j:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openssl:openssl:0.9.8k:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.9.8k"
+		"versionEndIncluding": "0.9.8k"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openssl:openssl:*:*:*:*:*:*:*:*",
@@ -2916,12 +2919,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:0.9.8j:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openssl:openssl:0.9.8k:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.9.8k"
+		"versionEndExcluding": "0.9.8k"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:openssl:openssl:*:*:*:*:*:*:*:*",
@@ -17316,9 +17316,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0h:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0i:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.0i",
+		"versionEndIncluding": "1.1.0i",
 		"versionStartIncluding": "1.1.0"
 	},
 	{
@@ -17371,12 +17374,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0h:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openssl:openssl:1.1.0i:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.0i",
+		"versionEndExcluding": "1.1.0i",
 		"versionStartIncluding": "1.1.0"
 	},
 	{
@@ -19994,12 +19994,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.9",
+		"versionEndExcluding": "3.0.9",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -20091,9 +20088,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openssl:openssl:3.0.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.9",
+		"versionEndIncluding": "3.0.9",
 		"versionStartIncluding": "3.0.0"
 	},
 	{

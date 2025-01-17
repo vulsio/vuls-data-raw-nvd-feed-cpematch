@@ -34,12 +34,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:olevmedia:olevmedia_shortcodes:1.1.8:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:olevmedia:olevmedia_shortcodes:1.1.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1.9"
+		"versionEndExcluding": "1.1.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:olevmedia:olevmedia_shortcodes:*:*:*:*:*:wordpress:*:*",
@@ -76,8 +73,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:olevmedia:olevmedia_shortcodes:1.1.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:olevmedia:olevmedia_shortcodes:1.1.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1.9"
+		"versionEndIncluding": "1.1.9"
 	}
 ]

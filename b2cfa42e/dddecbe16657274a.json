@@ -6,12 +6,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace:*:*:*:*:*:iphone_os:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.0:*:*:*:*:iphone_os:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace:*:*:*:*:*:iphone_os:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.0:*:*:*:*:iphone_os:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace:6.0.12:*:*:*:*:iphone_os:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.0"
 	}
 ]

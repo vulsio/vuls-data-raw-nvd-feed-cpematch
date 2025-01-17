@@ -6,12 +6,23 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:*:*:*:*:*:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:6.0.0:*:*:*:*:linux:*:*"
+			}
+		],
 		"versionEndExcluding": "6.0.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:*:*:*:*:*:linux:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:6.0.0:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:zoom:workplace_desktop:6.0.12:*:*:*:*:linux:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.0"
 	}
 ]

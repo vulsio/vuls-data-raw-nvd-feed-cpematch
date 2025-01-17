@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:schneider-electric:foxrtu_station:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:schneider-electric:foxrtu_station:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "9.3.0"
 	}
 ]
