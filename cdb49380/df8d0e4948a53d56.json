@@ -6,6 +6,27 @@
 				"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "5.70\\(aceg.3\\)c1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.70\\(aceg.3\\)c2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5512-t0_firmware:5.70\\(aceg.3\\)c2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.70\\(aceg4.2\\)c0"
 	}
 ]

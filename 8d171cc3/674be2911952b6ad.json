@@ -1261,9 +1261,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:7.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:7.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.4.0"
+		"versionEndIncluding": "7.4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:*:*:*:*:*:*:*:*",
@@ -1630,12 +1633,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:7.3.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:7.4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.4.0"
+		"versionEndExcluding": "7.4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:heimdal_project:heimdal:*:*:*:*:*:*:*:*",

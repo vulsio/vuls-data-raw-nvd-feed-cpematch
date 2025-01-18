@@ -4977,12 +4977,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:14.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:15.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "15.0.0"
+		"versionEndExcluding": "15.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:*:*:*:*:*:*:*:*",
@@ -5478,9 +5475,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:14.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:15.0.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "15.0.0"
+		"versionEndIncluding": "15.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:*:*:*:*:*:*:*:*",
@@ -7787,12 +7787,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.0.3",
+		"versionEndExcluding": "10.0.3",
 		"versionStartIncluding": "3.0.0"
 	},
 	{
@@ -8175,9 +8172,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dolibarr:dolibarr:10.0.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.0.3",
+		"versionEndIncluding": "10.0.3",
 		"versionStartIncluding": "3.0.0"
 	},
 	{

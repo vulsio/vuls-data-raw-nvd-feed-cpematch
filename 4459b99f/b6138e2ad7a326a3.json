@@ -6510,9 +6510,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6614:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6709:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndExcluding": "10.0.14393.6709"
+		"versionEndIncluding": "10.0.14393.6709"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:*:*:*:*:*:*:x86:*",
@@ -6969,12 +6972,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6614:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:10.0.14393.6709:*:*:*:*:*:x86:*"
 			}
 		],
-		"versionEndIncluding": "10.0.14393.6709"
+		"versionEndExcluding": "10.0.14393.6709"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_1607:*:*:*:*:*:*:x86:*",

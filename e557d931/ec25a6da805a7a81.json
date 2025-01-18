@@ -62,12 +62,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:13.1.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:13.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.1.5",
+		"versionEndExcluding": "13.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{
@@ -81,9 +78,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:13.1.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:f5:big-ip_carrier-grade_nat:13.1.5:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.1.5",
+		"versionEndIncluding": "13.1.5",
 		"versionStartIncluding": "13.1.0"
 	},
 	{

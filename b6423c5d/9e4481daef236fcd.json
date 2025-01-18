@@ -15,6 +15,27 @@
 				"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "5.50\\(abvy.5\\)c0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.50\\(abvy.5.3\\)c0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:dx3301-t0_firmware:5.50\\(abvy.5.3\\)c0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.50\\(aby.5.4\\)c0"
 	}
 ]

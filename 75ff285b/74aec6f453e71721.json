@@ -27087,9 +27087,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:4.1.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:4.1.42:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.1.42",
+		"versionEndIncluding": "4.1.42",
 		"versionStartIncluding": "4.1.0"
 	},
 	{
@@ -27154,12 +27157,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:4.1.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:4.1.42:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.1.42",
+		"versionEndExcluding": "4.1.42",
 		"versionStartIncluding": "4.1.0"
 	},
 	{
@@ -29392,7 +29392,7 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:7.0.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.0.22",
+		"versionEndExcluding": "7.0.22",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -29417,7 +29417,7 @@
 				"cpe23Uri": "cpe:2.3:a:oracle:vm_virtualbox:7.0.12:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.0.22",
+		"versionEndIncluding": "7.0.22",
 		"versionStartIncluding": "7.0.0"
 	},
 	{

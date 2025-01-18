@@ -55,9 +55,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rhubcom:turbomeeting:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rhubcom:turbomeeting:8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0"
+		"versionEndIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rhubcom:turbomeeting:*:*:*:*:*:*:*:*",
@@ -115,11 +118,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rhubcom:turbomeeting:7.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rhubcom:turbomeeting:8.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0"
+		"versionEndExcluding": "8.0"
 	}
 ]
