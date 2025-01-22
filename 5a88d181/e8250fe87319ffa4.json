@@ -106,12 +106,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpmoose:yuki:1.3.13:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpmoose:yuki:1.3.14:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.14"
+		"versionEndExcluding": "1.3.14"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpmoose:yuki:*:*:*:*:*:wordpress:*:*",
@@ -220,8 +217,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpmoose:yuki:1.3.13:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpmoose:yuki:1.3.14:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.3.14"
+		"versionEndIncluding": "1.3.14"
 	}
 ]

@@ -3471,9 +3471,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.3:candidate_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.11.4",
+		"versionEndIncluding": "2.11.4",
 		"versionStartIncluding": "2.11.0"
 	},
 	{
@@ -3508,12 +3511,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.3:candidate_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.11.4",
+		"versionEndExcluding": "2.11.4",
 		"versionStartIncluding": "2.11.0"
 	},
 	{

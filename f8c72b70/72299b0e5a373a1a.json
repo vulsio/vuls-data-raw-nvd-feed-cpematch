@@ -897,12 +897,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.8.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.8.3"
+		"versionEndExcluding": "1.8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",
@@ -1002,9 +999,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.8.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:1.8.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.8.3"
+		"versionEndIncluding": "1.8.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microsoft:chakracore:*:*:*:*:*:*:*:*",

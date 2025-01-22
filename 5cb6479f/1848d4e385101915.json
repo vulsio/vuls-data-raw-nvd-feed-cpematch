@@ -802,6 +802,39 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:6.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.1710:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.1906:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.2131:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.3006:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.3176:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.3956:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.3958:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.4101:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.4105:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.4139:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.1.4183:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "7.1.4191"
@@ -832,7 +865,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:aviatrix:controller:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aviatrix:controller:7.2.4820:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.2.4996",
 		"versionStartIncluding": "7.2"
 	}

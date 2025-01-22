@@ -1291,9 +1291,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ampache:ampache:6.5.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ampache:ampache:6.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.6.0"
+		"versionEndIncluding": "6.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ampache:ampache:*:*:*:*:*:*:*:*",
@@ -1555,12 +1558,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ampache:ampache:6.5.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ampache:ampache:6.6.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.6.0"
+		"versionEndExcluding": "6.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ampache:ampache:*:*:*:*:*:*:*:*",

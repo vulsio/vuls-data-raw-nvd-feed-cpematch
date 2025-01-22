@@ -406,9 +406,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.4"
+		"versionEndIncluding": "8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",
@@ -550,15 +556,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.4"
+		"versionEndExcluding": "8.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",
@@ -1231,15 +1231,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:8.5.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.1"
+		"versionEndExcluding": "9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",
@@ -1420,21 +1414,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.0.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:9.1:rc:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.1"
+		"versionEndIncluding": "9.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:frrouting:frrouting:*:*:*:*:*:*:*:*",

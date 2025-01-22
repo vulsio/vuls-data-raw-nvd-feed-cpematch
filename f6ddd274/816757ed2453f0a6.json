@@ -199,9 +199,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:mp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru1-mp1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.2"
+		"versionEndIncluding": "14.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:*:*:*:*:*:*:*:*",
@@ -313,27 +331,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:mp1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru1-mp1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:ru2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.2"
+		"versionEndExcluding": "14.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection_manager:*:*:*:*:*:*:*:*",

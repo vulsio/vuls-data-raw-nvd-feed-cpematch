@@ -115,15 +115,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.4"
+		"versionEndExcluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
@@ -241,9 +235,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:3.0.4:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.4"
+		"versionEndIncluding": "3.0.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:*:*:*:*:*:*:*:*",
@@ -559,9 +559,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.2.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.1",
+		"versionEndIncluding": "5.2.1",
 		"versionStartIncluding": "5.0.0"
 	},
 	{
@@ -593,12 +596,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.2.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:varnish_cache_project:varnish_cache:5.2.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.1",
+		"versionEndExcluding": "5.2.1",
 		"versionStartIncluding": "5.0.0"
 	},
 	{

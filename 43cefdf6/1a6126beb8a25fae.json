@@ -7033,12 +7033,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:13.5.1-277:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:13.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.5.2"
+		"versionEndExcluding": "13.5.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*",
@@ -7582,9 +7579,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:13.5.1-277:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:asyncos:13.5.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.5.2"
+		"versionEndIncluding": "13.5.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:asyncos:*:*:*:*:*:*:*:*",
