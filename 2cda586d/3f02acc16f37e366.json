@@ -22,6 +22,33 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.1.2031.4:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "8.1.2062.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:-:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:6.6.2046.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:7.3.2055.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.0.2028.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:8.1.2031.4:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:9.0:*:*:*:*:windows:*:*"
@@ -116,5 +143,36 @@
 		],
 		"versionEndExcluding": "9.0.2046.0",
 		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:9.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:9.0.2032.6:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "9.1.2071.0",
+		"versionStartIncluding": "9.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "10.0.2052.0",
+		"versionStartIncluding": "10.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "10.1.2063.0",
+		"versionStartIncluding": "10.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:eset:endpoint_antivirus:*:*:*:*:*:windows:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "11.0.2032.0",
+		"versionStartIncluding": "11.0"
 	}
 ]

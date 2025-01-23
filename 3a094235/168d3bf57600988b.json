@@ -283,9 +283,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:1.31:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:1.31.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.31.1"
+		"versionEndIncluding": "1.31.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:*:*:*:*:*:*:*:*",
@@ -367,12 +370,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:1.31:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:1.31.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.31.1"
+		"versionEndExcluding": "1.31.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tuxfamily:chrony:*:*:*:*:*:*:*:*",

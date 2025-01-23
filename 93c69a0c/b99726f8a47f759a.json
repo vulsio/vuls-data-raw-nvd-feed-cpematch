@@ -1211,9 +1211,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:7.1.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:7.1.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.1.10",
+		"versionEndIncluding": "7.1.10",
 		"versionStartIncluding": "7.0.0"
 	},
 	{
@@ -1296,12 +1299,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:7.1.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:traffic_server:7.1.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.1.10",
+		"versionEndExcluding": "7.1.10",
 		"versionStartIncluding": "7.0.0"
 	},
 	{

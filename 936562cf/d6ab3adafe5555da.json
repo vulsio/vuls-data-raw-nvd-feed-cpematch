@@ -85,12 +85,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.1"
+		"versionEndExcluding": "1.2.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:*:*:*:*:*:wordpress:*:*",
@@ -178,8 +175,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mf_gig_calendar_project:mf_gig_calendar:1.2.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.1"
+		"versionEndIncluding": "1.2.1"
 	}
 ]

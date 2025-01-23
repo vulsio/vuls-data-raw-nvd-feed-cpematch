@@ -1,6 +1,13 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:innovation:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:prisma_access:-:*:*:*:preferred:*:*:*"
+			}
+		]
 	}
 ]
