@@ -604,7 +604,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eclipse:vert.x:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:vert.x:4.3.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eclipse:vert.x:4.5.9:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "4.5.10",
 		"versionStartIncluding": "4.3.0"
 	}

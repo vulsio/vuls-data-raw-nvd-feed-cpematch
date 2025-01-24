@@ -15,10 +15,40 @@
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:-:*:*:*:*:windows_server:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:7.3.12013.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0:*:*:*:*:windows_server:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.0:*:*:*:*:windows_server:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.1:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12015.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12016.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0.12018.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0.12019.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.0.12014.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.0.12015.0:*:*:*:*:windows_server:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0.12012.0"
@@ -27,10 +57,16 @@
 		"cpe23Uri": "cpe:2.3:a:eset:server_security:*:*:*:*:*:windows_server:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0:*:*:*:*:windows_server:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.0:*:*:*:*:windows_server:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.1:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12015.0:*:*:*:*:windows_server:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0.12016.0",
@@ -40,10 +76,22 @@
 		"cpe23Uri": "cpe:2.3:a:eset:server_security:*:*:*:*:*:windows_server:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0:*:*:*:*:windows_server:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.0:*:*:*:*:windows_server:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12003.1:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12015.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:8.0.12016.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0:*:*:*:*:windows_server:*:*"
 			}
 		],
 		"versionEndExcluding": "9.0.12012.0",
@@ -51,13 +99,27 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:server_security:*:*:*:*:*:windows_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:9.0.12018.0:*:*:*:*:windows_server:*:*"
+			}
+		],
 		"versionEndExcluding": "9.0.12019.0",
 		"versionStartIncluding": "9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:server_security:*:*:*:*:*:windows_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.0:*:*:*:*:windows_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:server_security:10.0.12014.0:*:*:*:*:windows_server:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0.12015.0",
 		"versionStartIncluding": "10.0"
 	}

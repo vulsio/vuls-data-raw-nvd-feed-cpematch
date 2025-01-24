@@ -9970,15 +9970,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18.0:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.5.18.0"
+		"versionEndExcluding": "6.5.18.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*",
@@ -10609,9 +10603,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:6.5.18.0:*:*:*:-:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.5.18.0"
+		"versionEndIncluding": "6.5.18.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:*:*:*:*",

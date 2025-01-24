@@ -1012,12 +1012,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libpng:libpng:1.0.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:libpng:libpng:1.0.42:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.42"
+		"versionEndExcluding": "1.0.42"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libpng:libpng:*:*:*:*:*:*:*:*",
@@ -1378,9 +1375,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:libpng:libpng:1.0.41:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:libpng:libpng:1.0.42:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.42"
+		"versionEndIncluding": "1.0.42"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:libpng:libpng:*:*:*:*:*:*:*:*",

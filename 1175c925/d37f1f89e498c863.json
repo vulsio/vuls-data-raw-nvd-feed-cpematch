@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:eskooly:eskooly:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eskooly:eskooly:-:*:*:*:-:-:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eskooly:eskooly:3.0:*:*:*:-:-:*:*"
+			}
+		],
 		"versionEndIncluding": "3.0"
 	}
 ]

@@ -4930,12 +4930,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webmin:webmin:1.900:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:webmin:webmin:1.910:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.910"
+		"versionEndExcluding": "1.910"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webmin:webmin:*:*:*:*:*:*:*:*",
@@ -5368,9 +5365,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webmin:webmin:1.900:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webmin:webmin:1.910:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.910"
+		"versionEndIncluding": "1.910"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webmin:webmin:*:*:*:*:*:*:*:*",

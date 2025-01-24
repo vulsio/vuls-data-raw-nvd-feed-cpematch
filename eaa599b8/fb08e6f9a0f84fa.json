@@ -1924,12 +1924,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:14:mp1:*:*:*:macos:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:14.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "14.0"
+		"versionEndExcluding": "14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:*:*:*:*:*:*:*:*",
@@ -2539,9 +2536,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:14:mp1:*:*:*:macos:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:14.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "14.0"
+		"versionEndIncluding": "14.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:symantec:endpoint_protection:*:*:*:*:*:*:*:*",

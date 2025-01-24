@@ -22,6 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:8.1.2031.4:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:8.1.2052.0:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndExcluding": "8.1.2062.0"
@@ -51,10 +54,46 @@
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:8.1.2031.4:*:*:*:*:windows:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:8.1.2052.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:8.1.2062.0:*:*:*:*:windows:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.0:*:*:*:*:windows:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.0.2032.6:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.1.2066.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.1.2071.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.0.2049.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.0.2052.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.1.2058.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.1.2063.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:11.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:11.0.2032.0:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndExcluding": "11.1.2039.0"
@@ -152,6 +191,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.0.2032.6:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:9.1.2066.0:*:*:*:*:windows:*:*"
 			}
 		],
 		"versionEndExcluding": "9.1.2071.0",
@@ -159,19 +201,37 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.0.2049.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0.2052.0",
 		"versionStartIncluding": "10.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:10.1.2058.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "10.1.2063.0",
 		"versionStartIncluding": "10.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:*:*:*:*:*:windows:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:endpoint_security:11.0:*:*:*:*:windows:*:*"
+			}
+		],
 		"versionEndExcluding": "11.0.2032.0",
 		"versionStartIncluding": "11.0"
 	}

@@ -4428,9 +4428,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:9.0.18:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:9.0.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.0.19"
+		"versionEndIncluding": "9.0.19"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:*:*:*:*:*:*:*:*",
@@ -5160,12 +5163,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:9.0.18:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:9.0.19:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.0.19"
+		"versionEndExcluding": "9.0.19"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:postgresql:postgresql:*:*:*:*:*:*:*:*",

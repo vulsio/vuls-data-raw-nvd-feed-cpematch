@@ -232,12 +232,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:application_automation_tools:23.4:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:application_automation_tools:24.1.0:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "24.1.0"
+		"versionEndExcluding": "24.1.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:microfocus:application_automation_tools:*:*:*:*:*:jenkins:*:*",
@@ -376,8 +373,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:application_automation_tools:23.4:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:application_automation_tools:24.1.0:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndExcluding": "24.1.0"
+		"versionEndIncluding": "24.1.0"
 	}
 ]

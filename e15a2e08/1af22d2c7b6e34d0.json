@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nwa130be_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nwa130be_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.00\\(acil.2\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nwa130be_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nwa130be_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nwa130be_firmware:7.00\\(acil.2\\):*:*:*:*:*:*:*"
 			}

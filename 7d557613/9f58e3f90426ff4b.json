@@ -1,12 +1,19 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:wbe530_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:wbe530_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "7.00\\(acle.2\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:wbe530_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:wbe530_firmware:-:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:wbe530_firmware:7.00\\(acle.2\\):*:*:*:*:*:*:*"
 			}

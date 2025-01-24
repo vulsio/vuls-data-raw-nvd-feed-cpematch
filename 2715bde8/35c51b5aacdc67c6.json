@@ -79,12 +79,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:dimension:3.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:dimension:3.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.4.8"
+		"versionEndExcluding": "3.4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:dimension:*:*:*:*:*:*:*:*",
@@ -100,9 +97,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:dimension:3.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:dimension:3.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.8"
+		"versionEndIncluding": "3.4.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:dimension:*:*:*:*:*:*:*:*",

@@ -31,6 +31,36 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:security:7.2:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:7.3.15006.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0.15011.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0.15012.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:9.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:9.0.14007.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:9.0.15006.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:10.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:10.0.15004.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:10.0.15005.0:*:*:*:*:sharepoint_server:*:*"
 			}
 		],
 		"versionEndExcluding": "11.0.15004.0"
@@ -40,6 +70,12 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:eset:security:7.2:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:7.3.15006.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0:*:*:*:*:sharepoint_server:*:*"
 			}
 		],
 		"versionEndExcluding": "8.0.15009.0",
@@ -47,19 +83,40 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:security:*:*:*:*:*:sharepoint_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:8.0.15011.0:*:*:*:*:sharepoint_server:*:*"
+			}
+		],
 		"versionEndExcluding": "8.0.15012.0",
 		"versionStartIncluding": "8.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:security:*:*:*:*:*:sharepoint_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:9.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:9.0.14007.0:*:*:*:*:sharepoint_server:*:*"
+			}
+		],
 		"versionEndExcluding": "9.0.15006.0",
 		"versionStartIncluding": "9.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:eset:security:*:*:*:*:*:sharepoint_server:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:10.0:*:*:*:*:sharepoint_server:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:eset:security:10.0.15004.0:*:*:*:*:sharepoint_server:*:*"
+			}
+		],
 		"versionEndExcluding": "10.0.15005.0",
 		"versionStartIncluding": "10.0"
 	}
