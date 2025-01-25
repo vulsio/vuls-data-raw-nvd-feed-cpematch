@@ -361,12 +361,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themelooks:enter_addons:2.1.8:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:themelooks:enter_addons:2.1.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.1.9"
+		"versionEndExcluding": "2.1.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:themelooks:enter_addons:*:*:*:*:*:wordpress:*:*",
@@ -460,8 +457,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themelooks:enter_addons:2.1.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:themelooks:enter_addons:2.1.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.1.9"
+		"versionEndIncluding": "2.1.9"
 	}
 ]

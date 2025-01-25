@@ -64,6 +64,21 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:-:*:*:*:eem:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:9.2.3.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.2.4.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:solutions_enabler_virtual_appliance:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndExcluding": "9.2.1.1",
 		"versionStartIncluding": "9.2.0"

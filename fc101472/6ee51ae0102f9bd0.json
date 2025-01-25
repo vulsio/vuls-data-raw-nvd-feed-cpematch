@@ -6,12 +6,19 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:1.17\\(acca.0\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.18\\(acca.4\\)c0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:1.17\\(acca.0\\)c0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nebula_lte3301-plus_firmware:1.18\\(acca.4\\)c0:*:*:*:*:*:*:*"
 			}

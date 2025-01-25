@@ -1528,9 +1528,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.33:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.34:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.4.34"
+		"versionEndIncluding": "7.4.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",
@@ -1717,12 +1720,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.33:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:7.4.34:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.4.34"
+		"versionEndExcluding": "7.4.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:oracle:mysql_cluster:*:*:*:*:*:*:*:*",

@@ -7,9 +7,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dot_project:dot:1.0.1:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dot_project:dot:1.0.3:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "1.0.3"
+		"versionEndIncluding": "1.0.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dot_project:dot:*:*:*:*:*:node.js:*:*",
@@ -19,11 +22,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dot_project:dot:1.0.1:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dot_project:dot:1.0.3:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "1.0.3"
+		"versionEndExcluding": "1.0.3"
 	}
 ]

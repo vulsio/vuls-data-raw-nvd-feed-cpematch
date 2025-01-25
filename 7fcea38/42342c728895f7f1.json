@@ -604,12 +604,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwp:stream:3.9.1:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:xwp:stream:3.9.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.2"
+		"versionEndExcluding": "3.9.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xwp:stream:*:*:*:*:*:wordpress:*:*",
@@ -916,9 +913,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:xwp:stream:3.9.1:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:xwp:stream:3.9.2:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.2"
+		"versionEndIncluding": "3.9.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:xwp:stream:*:*:*:*:*:wordpress:*:*",

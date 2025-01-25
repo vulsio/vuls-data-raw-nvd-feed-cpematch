@@ -1,17 +1,34 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.0\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.18\\(acak.1\\)c0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.0\\)c0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.1\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.18\\(acak.1\\)c1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.0\\)c0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.1\\)c0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:ex7710-b0_firmware:5.18\\(acak.1\\)c1:*:*:*:*:*:*:*"
 			}

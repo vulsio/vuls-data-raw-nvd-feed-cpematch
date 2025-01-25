@@ -6,7 +6,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nebula_fwa510_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nebula_fwa510_firmware:1.18\\(acgd.1\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.18\\(acgd.4\\)c0"
 	}
 ]

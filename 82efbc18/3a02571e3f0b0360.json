@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:scr50axe_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:scr50axe_firmware:1.10\\(acgn.2\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10\\(acgn.3\\)c0"
 	}
 ]

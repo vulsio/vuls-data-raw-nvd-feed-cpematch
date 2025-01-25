@@ -74,5 +74,30 @@
 		],
 		"versionEndIncluding": "5.7.3.0",
 		"versionStartIncluding": "5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:5.4.35.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:5.5.37.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:5.5.40.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:5.5.46.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.6.1.0",
+		"versionStartIncluding": "5.2.20.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:dell:alienware_command_center:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "6.2.7.0",
+		"versionStartIncluding": "6.0"
 	}
 ]

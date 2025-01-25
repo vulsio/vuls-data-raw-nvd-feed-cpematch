@@ -11,7 +11,11 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:lte7480-m804_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:lte7480-m804_firmware:1.00\\(abra.8\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.00\\(abra.10\\)c0"
 	}
 ]

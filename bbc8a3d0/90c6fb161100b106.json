@@ -11,12 +11,19 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.9\\)c0:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "5.17\\(abqx.10\\)b2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.9\\)c0:*:*:*:*:*:*:*"
+			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.10\\)b2:*:*:*:*:*:*:*"
 			}
@@ -27,7 +34,13 @@
 		"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.9\\)c0:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.10\\)b2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:ex5510-b0_firmware:5.17\\(abqx.10\\)c0:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "5.17\\(abqx.11\\)c0"
