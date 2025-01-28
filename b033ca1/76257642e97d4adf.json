@@ -32391,12 +32391,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.16:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:2.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.17",
+		"versionEndExcluding": "2.7.17",
 		"versionStartIncluding": "2.0"
 	},
 	{
@@ -32689,9 +32686,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.16:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:2.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.17",
+		"versionEndIncluding": "2.7.17",
 		"versionStartIncluding": "2.0"
 	},
 	{
@@ -33467,9 +33467,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.14:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.15",
+		"versionEndIncluding": "2.7.15",
 		"versionStartIncluding": "2.7.0"
 	},
 	{
@@ -33594,18 +33603,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.14:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:2.7.15:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.15",
+		"versionEndExcluding": "2.7.15",
 		"versionStartIncluding": "2.7.0"
 	},
 	{
@@ -34023,12 +34023,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.16:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:2.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.17",
+		"versionEndExcluding": "2.7.17",
 		"versionStartIncluding": "2.7.0"
 	},
 	{
@@ -34168,9 +34165,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:2.7.16:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:2.7.17:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.17",
+		"versionEndIncluding": "2.7.17",
 		"versionStartIncluding": "2.7.0"
 	},
 	{
@@ -46304,21 +46304,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.1.4:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1.5",
+		"versionEndExcluding": "3.1.5",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -46362,9 +46350,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.1.4:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.1.5:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1.5",
+		"versionEndIncluding": "3.1.5",
 		"versionStartIncluding": "3.1.0"
 	},
 	{
@@ -46500,9 +46500,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.6",
+		"versionEndIncluding": "3.2.6",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -46558,18 +46567,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.2.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.6",
+		"versionEndExcluding": "3.2.6",
 		"versionStartIncluding": "3.2.0"
 	},
 	{
@@ -47598,9 +47598,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.3.6:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.7",
+		"versionEndIncluding": "3.3.7",
 		"versionStartIncluding": "3.3.0"
 	},
 	{
@@ -47695,18 +47704,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.3.6:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.3.7:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.3.7",
+		"versionEndExcluding": "3.3.7",
 		"versionStartIncluding": "3.3.0"
 	},
 	{
@@ -48478,9 +48478,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.4.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.4.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.4.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.10",
+		"versionEndIncluding": "3.4.10",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -48602,15 +48608,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.4.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.4.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.4.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.4.10",
+		"versionEndExcluding": "3.4.10",
 		"versionStartIncluding": "3.4.0"
 	},
 	{
@@ -50371,18 +50371,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.5.5:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.6",
+		"versionEndExcluding": "3.5.6",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -50474,9 +50465,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.5.5:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.5.6:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.6",
+		"versionEndIncluding": "3.5.6",
 		"versionStartIncluding": "3.5.0"
 	},
 	{
@@ -52030,6 +52030,52 @@
 		"cpe23Uri": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.6.5",
+		"versionStartExcluding": "3.6.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.6.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -52107,52 +52153,6 @@
 		],
 		"versionEndExcluding": "3.6.5",
 		"versionStartIncluding": "3.6.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.1:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.2:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.3:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.4:rc1:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "3.6.5",
-		"versionStartExcluding": "3.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:python:python:*:*:*:*:*:*:*:*",
@@ -52715,18 +52715,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.6.9:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.10",
+		"versionEndExcluding": "3.6.10",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -52848,9 +52839,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.6.9:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.6.10:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.10",
+		"versionEndIncluding": "3.6.10",
 		"versionStartIncluding": "3.6.0"
 	},
 	{
@@ -55790,15 +55790,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.7.7:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.7.8:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.7.8:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.7.8",
+		"versionEndExcluding": "3.7.8",
 		"versionStartIncluding": "3.7.0"
 	},
 	{
@@ -55902,9 +55896,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.7.7:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.7.8:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.7.8:rc1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.7.8",
+		"versionEndIncluding": "3.7.8",
 		"versionStartIncluding": "3.7.0"
 	},
 	{
@@ -62103,12 +62103,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.10.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:python:python:3.10.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.10.8",
+		"versionEndExcluding": "3.10.8",
 		"versionStartIncluding": "3.10.0"
 	},
 	{
@@ -62179,9 +62176,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:python:python:3.10.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:python:python:3.10.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.10.8",
+		"versionEndIncluding": "3.10.8",
 		"versionStartIncluding": "3.10.0"
 	},
 	{

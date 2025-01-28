@@ -1,12 +1,29 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.12.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xr11_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.13.2"
 	}
 ]

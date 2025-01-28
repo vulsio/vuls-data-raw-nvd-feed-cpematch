@@ -232,9 +232,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "17.1.1"
+		"versionEndIncluding": "17.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",
@@ -283,12 +286,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:after_effects:17.1.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "17.1.1"
+		"versionEndExcluding": "17.1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:after_effects:*:*:*:*:*:*:*:*",

@@ -2257,9 +2257,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.3.8"
+		"versionEndIncluding": "6.3.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",
@@ -2680,12 +2683,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:6.3.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.3.8"
+		"versionEndExcluding": "6.3.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mattermost:mattermost:*:*:*:*:*:*:*:*",

@@ -1,7 +1,20 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_t130_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_t130_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.19.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_t130_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_t130_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.20.0"
 	}
 ]

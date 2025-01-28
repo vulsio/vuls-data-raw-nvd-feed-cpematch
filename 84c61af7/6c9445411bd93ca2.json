@@ -1,6 +1,13 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:redhat:build_of_keycloak:-:*:*:*:*:*:*:*",
-		"cpe_name": []
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:build_of_keycloak:-:*:*:*:-:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:redhat:build_of_keycloak:-:*:*:*:text-only:*:*:*"
+			}
+		]
 	}
 ]

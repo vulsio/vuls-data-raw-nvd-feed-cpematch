@@ -391,9 +391,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndExcluding": "3.1"
+		"versionEndIncluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
@@ -511,15 +517,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.0.0:rc:*:*:*:ruby:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mruby:mruby:3.1:*:*:*:*:ruby:*:*"
 			}
 		],
-		"versionEndIncluding": "3.1"
+		"versionEndExcluding": "3.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mruby:mruby:*:*:*:*:*:*:*:*",
