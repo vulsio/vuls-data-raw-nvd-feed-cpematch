@@ -37,6 +37,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:4.02:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:4.20:*:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -141,12 +144,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:2.90:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:3.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.20"
+		"versionEndExcluding": "3.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:*:*:*:*:*:*:*:*",
@@ -180,9 +180,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:2.90:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:3.20:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.20"
+		"versionEndIncluding": "3.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:schneider-electric:modicon_m580_bmep585040_firmware:*:*:*:*:*:*:*:*",

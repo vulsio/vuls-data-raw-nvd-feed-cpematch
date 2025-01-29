@@ -6,6 +6,18 @@
 				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "2.19.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:2.19.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.20.1"
 	},
 	{
@@ -13,6 +25,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_m640_\\(pe_vrtx\\)_firmware:2.19.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "2.21.0"

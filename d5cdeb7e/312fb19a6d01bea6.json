@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:sonicwall:sra_ex7000_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sra_ex7000_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sra_ex7000_firmware:12.4.3-02804:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndIncluding": "12.4.3-02804"
 	}
 ]

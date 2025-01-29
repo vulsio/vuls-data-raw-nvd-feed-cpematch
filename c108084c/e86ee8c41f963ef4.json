@@ -1,12 +1,44 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.11.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.12.4"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:2.12.4:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "2.13.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe8545_firmware:2.12.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.14.1"
 	}
 ]

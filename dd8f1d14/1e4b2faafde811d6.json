@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:sonicwall:sma8200v:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:sonicwall:sma8200v:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:sonicwall:sma8200v:12.4.3-02804:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.4.3-02854"
 	}
 ]

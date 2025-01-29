@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:sonicwall:sma7200_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sma7200_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:sonicwall:sma7200_firmware:12.4.3-02804:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "12.4.3-02854"
 	}
 ]

@@ -58,9 +58,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.19:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.20:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndExcluding": "1.20"
+		"versionEndIncluding": "1.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",
@@ -121,12 +124,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.19:*:*:*:*:jenkins:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jenkins:mailer:1.20:*:*:*:*:jenkins:*:*"
 			}
 		],
-		"versionEndIncluding": "1.20"
+		"versionEndExcluding": "1.20"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:mailer:*:*:*:*:*:jenkins:*:*",

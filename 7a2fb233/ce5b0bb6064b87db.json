@@ -1,7 +1,23 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe9640_firmware:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe9640_firmware:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe9640_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe9640_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_xe9640_firmware:1.3.6:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "1.8.0"
 	}
 ]

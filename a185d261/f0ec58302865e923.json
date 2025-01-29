@@ -22212,9 +22212,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:google:tensorflow:2.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:google:tensorflow:2.3.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.3.3",
+		"versionEndIncluding": "2.3.3",
 		"versionStartIncluding": "2.3.0"
 	},
 	{
@@ -22267,12 +22270,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:google:tensorflow:2.3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:google:tensorflow:2.3.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.3.3",
+		"versionEndExcluding": "2.3.3",
 		"versionStartIncluding": "2.3.0"
 	},
 	{

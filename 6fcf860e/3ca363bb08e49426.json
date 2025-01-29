@@ -15,6 +15,18 @@
 				"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:-:*:*:*:*:*:*:*"
 			}
 		],
+		"versionEndExcluding": "1.11.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:1.11.2:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "1.12.1"
 	},
 	{
@@ -22,6 +34,9 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:poweredge_r750xa_firmware:1.11.2:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "1.13.2"

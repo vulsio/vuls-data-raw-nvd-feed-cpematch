@@ -1270,12 +1270,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:6.1.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:6.1.5:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "6.1.5"
+		"versionEndExcluding": "6.1.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:*:*:*:*:*:wordpress:*:*",
@@ -1501,9 +1498,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:6.1.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:6.1.5:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "6.1.5"
+		"versionEndIncluding": "6.1.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:getawesomesupport:awesome_support:*:*:*:*:*:wordpress:*:*",
