@@ -484,9 +484,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.3"
+		"versionEndIncluding": "3.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",
@@ -703,12 +706,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:phplist:phplist:3.5.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.3"
+		"versionEndExcluding": "3.5.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:phplist:phplist:*:*:*:*:*:*:*:*",

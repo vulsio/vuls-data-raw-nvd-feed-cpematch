@@ -2712,12 +2712,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:binutils:2.38.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnu:binutils:2.39:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.39"
+		"versionEndExcluding": "2.39"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:binutils:*:*:*:*:*:*:*:*",
@@ -2931,9 +2928,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnu:binutils:2.38.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnu:binutils:2.39:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.39"
+		"versionEndIncluding": "2.39"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnu:binutils:*:*:*:*:*:*:*:*",

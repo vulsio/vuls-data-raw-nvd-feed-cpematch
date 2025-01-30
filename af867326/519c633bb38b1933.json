@@ -331,12 +331,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:4.0.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:4.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.1"
+		"versionEndExcluding": "4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:*:*:*:*:*:wordpress:*:*",
@@ -466,9 +463,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:4.0.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:4.1:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.1"
+		"versionEndIncluding": "4.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wpeasypay:wp_easypay:*:*:*:*:*:wordpress:*:*",

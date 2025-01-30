@@ -61,15 +61,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.01:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0.1"
+		"versionEndExcluding": "4.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:*:*:*:*:*:*:*:*",
@@ -103,9 +97,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.01:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:4.0.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0.1"
+		"versionEndIncluding": "4.0.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:dreamer_cms_project:dreamer_cms:*:*:*:*:*:*:*:*",

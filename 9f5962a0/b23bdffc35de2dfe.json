@@ -421,9 +421,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:4.9:p2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:p1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0"
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:*:*:*:*:*:*:*:*",
@@ -535,18 +544,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:4.9:p2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:p1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:5.0:p2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0"
+		"versionEndExcluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:netapp:snapcenter:*:*:*:*:*:*:*:*",

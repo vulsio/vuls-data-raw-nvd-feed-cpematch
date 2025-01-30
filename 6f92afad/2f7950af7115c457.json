@@ -4853,12 +4853,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2014.2.3",
+		"versionEndExcluding": "2014.2.3",
 		"versionStartIncluding": "2014.2"
 	},
 	{
@@ -4896,9 +4893,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:openstack:nova:2014.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2014.2.3",
+		"versionEndIncluding": "2014.2.3",
 		"versionStartIncluding": "2014.2"
 	},
 	{

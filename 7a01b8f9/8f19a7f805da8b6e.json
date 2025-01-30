@@ -1384,9 +1384,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:discourse:discourse:2.8.14:*:*:*:stable:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:discourse:discourse:3.0.0:*:*:*:stable:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.0"
+		"versionEndIncluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:discourse:discourse:*:*:*:*:stable:*:*:*",
@@ -2080,12 +2083,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:discourse:discourse:2.8.14:*:*:*:stable:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:discourse:discourse:3.0.0:*:*:*:stable:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.0"
+		"versionEndExcluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:discourse:discourse:*:*:*:*:stable:*:*:*",

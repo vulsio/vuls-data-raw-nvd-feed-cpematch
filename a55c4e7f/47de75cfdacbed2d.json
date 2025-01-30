@@ -5914,12 +5914,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:strapi:strapi:3.6.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:strapi:strapi:3.6.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.6.10"
+		"versionEndExcluding": "3.6.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:*:*:*",
@@ -7105,9 +7102,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:strapi:strapi:3.6.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:strapi:strapi:3.6.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.6.10"
+		"versionEndIncluding": "3.6.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:strapi:strapi:*:*:*:*:*:*:*:*",

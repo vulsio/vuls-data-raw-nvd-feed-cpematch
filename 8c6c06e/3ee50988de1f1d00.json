@@ -4,20 +4,20 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:scratch-wiki:scratch_login:-:*:*:*:*:mediawiki:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:scratch-wiki:scratch_login:1.1:*:*:*:*:mediawiki:*:*"
 			}
 		],
-		"versionEndIncluding": "1.1"
+		"versionEndExcluding": "1.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:scratch-wiki:scratch_login:*:*:*:*:*:mediawiki:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:scratch-wiki:scratch_login:-:*:*:*:*:mediawiki:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:scratch-wiki:scratch_login:1.1:*:*:*:*:mediawiki:*:*"
 			}
 		],
-		"versionEndExcluding": "1.1"
+		"versionEndIncluding": "1.1"
 	}
 ]

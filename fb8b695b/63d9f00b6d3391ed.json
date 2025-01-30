@@ -35,6 +35,34 @@
 		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:-:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:10.0:*:*:*:se:*:*:*"
+			}
+		],
+		"versionEndExcluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:11.0:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:12.0:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:13.0:*:*:*:se:*:*:*"
+			}
+		],
+		"versionEndExcluding": "14.0",
+		"versionStartIncluding": "11.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:12.0:*:*:*:se:*:*:*"
 			},
 			{
@@ -43,5 +71,33 @@
 		],
 		"versionEndExcluding": "14.0",
 		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:12.0:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:13.0:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:14.0:*:*:*:se:*:*:*"
+			}
+		],
+		"versionEndIncluding": "14.0",
+		"versionStartIncluding": "12.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:*:*:*:*:se:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:13.0:*:*:*:se:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockwellautomation:factorytalk_view:14.0:*:*:*:se:*:*:*"
+			}
+		],
+		"versionStartIncluding": "13.0"
 	}
 ]
