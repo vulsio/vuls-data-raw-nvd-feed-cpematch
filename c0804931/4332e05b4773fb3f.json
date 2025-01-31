@@ -28,12 +28,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:easyxdm:easyxdm:2.4.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:easyxdm:easyxdm:2.4.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.18"
+		"versionEndExcluding": "2.4.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:easyxdm:easyxdm:*:*:*:*:*:*:*:*",
@@ -64,8 +61,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:easyxdm:easyxdm:2.4.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:easyxdm:easyxdm:2.4.18:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.18"
+		"versionEndIncluding": "2.4.18"
 	}
 ]

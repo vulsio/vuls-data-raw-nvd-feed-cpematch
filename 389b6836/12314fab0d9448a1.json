@@ -478,12 +478,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.16:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.17:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "4.4.17"
+		"versionEndExcluding": "4.4.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",
@@ -724,9 +721,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.16:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:npmjs:tar:4.4.17:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "4.4.17"
+		"versionEndIncluding": "4.4.17"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:npmjs:tar:*:*:*:*:*:node.js:*:*",

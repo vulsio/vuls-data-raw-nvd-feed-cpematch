@@ -610,12 +610,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.17:*:*:*:*:node.js:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.18:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndIncluding": "8.0.18"
+		"versionEndExcluding": "8.0.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",
@@ -922,9 +919,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.17:*:*:*:*:node.js:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:8.0.18:*:*:*:*:node.js:*:*"
 			}
 		],
-		"versionEndExcluding": "8.0.18"
+		"versionEndIncluding": "8.0.18"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:jsrsasign_project:jsrsasign:*:*:*:*:*:node.js:*:*",

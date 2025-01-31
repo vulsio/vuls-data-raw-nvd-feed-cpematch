@@ -12833,7 +12833,14 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.16.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elastic:elasticsearch:8.16.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "8.16.2",
 		"versionStartIncluding": "8.16.0"
 	}

@@ -7,6 +7,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.8.1:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndExcluding": "10.9"
@@ -21,9 +24,36 @@
 				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.6.1:*:*:*:*:*:*:*"
 			},
 			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.8.1:*:*:*:*:*:*:*"
+			},
+			{
 				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.9:*:*:*:*:*:*:*"
 			}
 		],
 		"versionEndIncluding": "10.9"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.6.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:10.9.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:esri:arcgis_enterprise:11.1:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndIncluding": "11.1"
 	}
 ]
