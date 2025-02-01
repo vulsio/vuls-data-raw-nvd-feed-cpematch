@@ -1576,9 +1576,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.4:candidate_4:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.5:candidate_1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.10.5"
+		"versionEndIncluding": "2.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
@@ -1948,15 +1954,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.4:candidate_4:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.5:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.10.5:candidate_1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.10.5"
+		"versionEndExcluding": "2.10.5"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:pulsar:*:*:*:*:*:*:*:*",
@@ -3471,12 +3471,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.3:candidate_2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.11.4",
+		"versionEndExcluding": "2.11.4",
 		"versionStartIncluding": "2.11.0"
 	},
 	{
@@ -3511,9 +3508,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.3:candidate_2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:pulsar:2.11.4:-:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.11.4",
+		"versionEndIncluding": "2.11.4",
 		"versionStartIncluding": "2.11.0"
 	},
 	{

@@ -699,9 +699,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.2.6",
+		"versionEndIncluding": "5.2.6",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -724,12 +727,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:5.2.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.2.6",
+		"versionEndExcluding": "5.2.6",
 		"versionStartIncluding": "5.2.0"
 	},
 	{
@@ -1390,6 +1390,37 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.0.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.9",
+		"versionStartIncluding": "7.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.2.0:*:*:*:*:*:*:*"
 			},
 			{
@@ -1410,6 +1441,22 @@
 			}
 		],
 		"versionEndExcluding": "7.2.2",
+		"versionStartIncluding": "7.2.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.2.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortiportal:7.2.2:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.5",
 		"versionStartIncluding": "7.2.0"
 	}
 ]

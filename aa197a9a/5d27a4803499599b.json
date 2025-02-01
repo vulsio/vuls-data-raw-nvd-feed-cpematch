@@ -175,12 +175,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rockcontent:rock_convert:2.10.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rockcontent:rock_convert:2.11.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.11.0"
+		"versionEndExcluding": "2.11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rockcontent:rock_convert:*:*:*:*:*:wordpress:*:*",
@@ -358,8 +355,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rockcontent:rock_convert:2.10.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rockcontent:rock_convert:2.11.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.11.0"
+		"versionEndIncluding": "2.11.0"
 	}
 ]

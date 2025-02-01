@@ -11364,9 +11364,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.51:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.52:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "9.52"
+		"versionEndIncluding": "9.52"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",
@@ -11718,12 +11721,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.51:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:9.52:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "9.52"
+		"versionEndExcluding": "9.52"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",
@@ -16434,18 +16434,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.54:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:alpha:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:beta1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "10.60"
+		"versionEndExcluding": "10.60"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",
@@ -16884,9 +16875,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.54:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:alpha:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:opera:opera_browser:10.60:beta1:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "10.60"
+		"versionEndIncluding": "10.60"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:opera:opera_browser:*:*:*:*:*:*:*:*",

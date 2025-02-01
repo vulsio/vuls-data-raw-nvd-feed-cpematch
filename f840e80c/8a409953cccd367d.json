@@ -214,12 +214,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:averta:master_slider:3.9.9:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:averta:master_slider:3.9.10:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.10"
+		"versionEndExcluding": "3.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:averta:master_slider:*:*:*:*:*:wordpress:*:*",
@@ -361,9 +358,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:averta:master_slider:3.9.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:averta:master_slider:3.9.10:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.10"
+		"versionEndIncluding": "3.9.10"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:averta:master_slider:*:*:*:*:*:wordpress:*:*",

@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:dell:display_and_peripheral_manager:*:*:*:*:*:macos:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:dell:display_and_peripheral_manager:-:*:*:*:*:macos:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3"
 	}
 ]
