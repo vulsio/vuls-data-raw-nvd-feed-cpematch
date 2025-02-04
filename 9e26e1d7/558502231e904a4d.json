@@ -7236,12 +7236,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.23.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:perl:perl:5.23.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.23.9"
+		"versionEndExcluding": "5.23.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*",
@@ -8391,9 +8388,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:perl:perl:5.23.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:perl:perl:5.23.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.23.9"
+		"versionEndIncluding": "5.23.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:perl:perl:*:*:*:*:*:*:*:*",

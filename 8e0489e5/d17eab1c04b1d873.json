@@ -1417,9 +1417,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.10.0a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.10.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.10.2"
+		"versionEndIncluding": "3.10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*",
@@ -1615,12 +1618,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.10.0a:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:3.10.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.10.2"
+		"versionEndExcluding": "3.10.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:wolfssl:wolfssl:*:*:*:*:*:*:*:*",

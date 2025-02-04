@@ -141,6 +141,19 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.4:*:*:*:*:linux:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.8",
+		"versionStartIncluding": "5.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0:*:*:*:*:linux:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.4:*:*:*:*:linux:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.8:*:*:*:*:linux:*:*"
@@ -153,14 +166,14 @@
 		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
 		"cpe_name": [
 			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0:*:*:*:*:linux:*:*"
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.1:*:*:*:*:linux:*:*"
 			},
 			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.4:*:*:*:*:linux:*:*"
+				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.1.1:*:*:*:*:linux:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0.8",
-		"versionStartIncluding": "5.0"
+		"versionEndIncluding": "5.1.1",
+		"versionStartIncluding": "5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
@@ -170,19 +183,6 @@
 			}
 		],
 		"versionEndExcluding": "5.1.1",
-		"versionStartIncluding": "5.1"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:*:*:*:*:*:linux:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.1:*:*:*:*:linux:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:paloaltonetworks:globalprotect:5.1.1:*:*:*:*:linux:*:*"
-			}
-		],
-		"versionEndIncluding": "5.1.1",
 		"versionStartIncluding": "5.1"
 	},
 	{

@@ -253,12 +253,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.6.0:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "5.6.0"
+		"versionEndExcluding": "5.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -388,9 +385,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.4.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:5.6.0:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "5.6.0"
+		"versionEndIncluding": "5.6.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -889,12 +889,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.5:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.6:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0.6"
+		"versionEndExcluding": "6.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -1063,9 +1060,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.0.6:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.6"
+		"versionEndIncluding": "6.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
@@ -3134,6 +3134,109 @@
 			}
 		],
 		"versionEndExcluding": "7.2.5",
+		"versionStartIncluding": "6.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:*:*:*:*:*:windows:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.4:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.6:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.7:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.8:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.9:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:6.4.10:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.4:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.6:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.7:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.8:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.9:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.10:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.11:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.12:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.0.13:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.0:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.1:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.2:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.3:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.4:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.2.5:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:forticlient:7.4.0:*:*:*:*:windows:*:*"
+			}
+		],
+		"versionEndExcluding": "7.4.1",
 		"versionStartIncluding": "6.4.0"
 	},
 	{

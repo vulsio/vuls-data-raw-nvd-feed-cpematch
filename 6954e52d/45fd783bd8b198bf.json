@@ -359,6 +359,50 @@
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.2.7:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.2.8",
+		"versionStartIncluding": "7.2.2"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.4.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.4.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.4.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.4.5",
+		"versionStartIncluding": "7.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:7.4.1:*:*:*:*:*:*:*"
 			},
 			{
@@ -402,5 +446,11 @@
 		],
 		"versionEndExcluding": "7.4.5",
 		"versionStartIncluding": "7.4.1"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortimanager_cloud:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "7.6.2",
+		"versionStartIncluding": "7.6.0"
 	}
 ]

@@ -15373,12 +15373,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:7.69:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:drupal:drupal:7.70:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.70",
+		"versionEndExcluding": "7.70",
 		"versionStartIncluding": "7.0"
 	},
 	{
@@ -15623,9 +15620,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:drupal:drupal:7.69:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:drupal:drupal:7.70:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.70",
+		"versionEndIncluding": "7.70",
 		"versionStartIncluding": "7.0"
 	},
 	{

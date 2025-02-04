@@ -70,12 +70,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:5.18.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:5.19.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.19.0"
+		"versionEndExcluding": "5.19.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:*:*:*:*:*:*:*:*",
@@ -100,9 +97,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:5.18.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:5.19.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.19.0"
+		"versionEndIncluding": "5.19.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:tenable:tenable.sc:*:*:*:*:*:*:*:*",
