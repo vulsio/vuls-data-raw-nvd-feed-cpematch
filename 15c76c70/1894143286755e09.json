@@ -4348,9 +4348,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.1:*:*:*:enterprise:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.2:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.2",
+		"versionEndIncluding": "1.4.2",
 		"versionStartIncluding": "1.4.0"
 	},
 	{
@@ -4361,12 +4364,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.1:*:*:*:enterprise:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hashicorp:vault:1.4.2:*:*:*:enterprise:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.2",
+		"versionEndExcluding": "1.4.2",
 		"versionStartIncluding": "1.4.0"
 	},
 	{

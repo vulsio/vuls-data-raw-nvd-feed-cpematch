@@ -118758,12 +118758,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:17.3.1z:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:17.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "17.3.2"
+		"versionEndExcluding": "17.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:*:*:*:*:*:*:*:*",
@@ -121476,9 +121473,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:17.3.1z:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:17.3.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "17.3.2"
+		"versionEndIncluding": "17.3.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:ios_xe:*:*:*:*:*:*:*:*",

@@ -1852,12 +1852,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:17.012.30205:*:*:*:classic:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:17.012.30227:*:*:*:classic:*:*:*"
 			}
 		],
-		"versionEndIncluding": "17.012.30227",
+		"versionEndExcluding": "17.012.30227",
 		"versionStartIncluding": "17.011.30059"
 	},
 	{
@@ -1946,9 +1943,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:17.012.30205:*:*:*:classic:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:acrobat_reader:17.012.30227:*:*:*:classic:*:*:*"
 			}
 		],
-		"versionEndExcluding": "17.012.30227",
+		"versionEndIncluding": "17.012.30227",
 		"versionStartIncluding": "17.011.30059"
 	},
 	{

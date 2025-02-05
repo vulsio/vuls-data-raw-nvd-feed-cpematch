@@ -1741,12 +1741,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:3.9.6:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:3.9.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.9.7"
+		"versionEndExcluding": "3.9.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:*:*:*:*:*:wordpress:*:*",
@@ -2077,9 +2074,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:3.9.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:3.9.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.9.7"
+		"versionEndIncluding": "3.9.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:inspireui:mstore_api:*:*:*:*:*:wordpress:*:*",

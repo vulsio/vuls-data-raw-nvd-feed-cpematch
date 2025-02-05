@@ -1128,9 +1128,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:3.2.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:3.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.0"
+		"versionEndIncluding": "3.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
@@ -1170,12 +1173,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:3.2.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:3.3.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.3.0"
+		"versionEndExcluding": "3.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:xen:xen:*:*:*:*:*:*:*:*",
@@ -31532,21 +31532,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:arm:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:x86:*:*"
 			}
 		],
-		"versionEndIncluding": "4.14.0",
+		"versionEndExcluding": "4.14.0",
 		"versionStartIncluding": "4.5.0"
 	},
 	{
@@ -32136,9 +32124,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:xen:xen:4.13.4:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:arm:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:xen:xen:4.14.0:*:*:*:*:x86:*:*"
 			}
 		],
-		"versionEndExcluding": "4.14.0",
+		"versionEndIncluding": "4.14.0",
 		"versionStartIncluding": "4.5.0"
 	},
 	{

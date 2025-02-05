@@ -7185,9 +7185,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2.1d",
+		"versionEndIncluding": "8.2.1d",
 		"versionStartIncluding": "8.2.1"
 	},
 	{
@@ -7222,12 +7225,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2.1d",
+		"versionEndExcluding": "8.2.1d",
 		"versionStartIncluding": "8.2.1"
 	},
 	{
@@ -7668,6 +7668,52 @@
 			}
 		],
 		"versionEndExcluding": "9.1.1d",
+		"versionStartIncluding": "9.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0:a:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0:b:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.0b:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.1:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.1:a:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.0.1a:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:9.1.1c:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "9.1.1d1",
 		"versionStartIncluding": "9.0.0"
 	},
 	{
