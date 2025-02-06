@@ -5785,12 +5785,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:1.2.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:1.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.3"
+		"versionEndExcluding": "1.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:*:*:*:*:*:*:*:*",
@@ -7261,9 +7258,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:1.2.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:1.2.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.3"
+		"versionEndIncluding": "1.2.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:btcpayserver:btcpay_server:*:*:*:*:*:*:*:*",

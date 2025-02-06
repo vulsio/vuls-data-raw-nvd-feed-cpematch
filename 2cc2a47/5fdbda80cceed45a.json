@@ -73,9 +73,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:formzu:formzu_wp:1.6.6:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:formzu:formzu_wp:1.6.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.7"
+		"versionEndIncluding": "1.6.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:formzu:formzu_wp:*:*:*:*:*:wordpress:*:*",
@@ -151,11 +154,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:formzu:formzu_wp:1.6.6:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:formzu:formzu_wp:1.6.7:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.7"
+		"versionEndExcluding": "1.6.7"
 	}
 ]

@@ -288,9 +288,18 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:upd_14:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "7.2"
+		"versionEndIncluding": "7.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",
@@ -306,18 +315,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:7.2:upd_14:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "7.2"
+		"versionEndExcluding": "7.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:siemens:simatic_wincc:*:*:*:*:*:*:*:*",

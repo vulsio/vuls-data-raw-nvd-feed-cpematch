@@ -476,16 +476,6 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:15:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.1",
-		"versionStartIncluding": "15"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:15:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:15.1:*:*:*:*:*:*:*"
@@ -495,6 +485,16 @@
 			}
 		],
 		"versionEndIncluding": "15.1",
+		"versionStartIncluding": "15"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:siemens:simatic_step_7:15:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "15.1",
 		"versionStartIncluding": "15"
 	},
 	{

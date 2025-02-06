@@ -997,12 +997,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.5.0:*:*:*:*:typo3:*:*"
 			}
 		],
-		"versionEndIncluding": "7.5.0"
+		"versionEndExcluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",
@@ -1840,9 +1837,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.4.3:*:*:*:*:typo3:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:in2code:powermail:7.5.0:*:*:*:*:typo3:*:*"
 			}
 		],
-		"versionEndExcluding": "7.5.0"
+		"versionEndIncluding": "7.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:in2code:powermail:*:*:*:*:*:typo3:*:*",

@@ -1,7 +1,17 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:jenkins:tag_profiler:*:*:*:*:*:jenkins:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:tag_profiler:-:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:tag_profiler:0.1:*:*:*:*:jenkins:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:jenkins:tag_profiler:0.2:*:*:*:*:jenkins:*:*"
+			}
+		],
 		"versionEndIncluding": "0.2"
 	}
 ]
