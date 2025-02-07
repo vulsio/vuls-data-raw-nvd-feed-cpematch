@@ -165,15 +165,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.1:*:*:*:traditional:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.2:*:*:*:container:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.2:*:*:*:traditional:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.2.0.2",
+		"versionEndExcluding": "4.2.0.2",
 		"versionStartIncluding": "4.2.0"
 	},
 	{
@@ -187,9 +181,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.1:*:*:*:traditional:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.2:*:*:*:container:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ibm:security_guardium_key_lifecycle_manager:4.2.0.2:*:*:*:traditional:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.2.0.2",
+		"versionEndIncluding": "4.2.0.2",
 		"versionStartIncluding": "4.2.0"
 	}
 ]

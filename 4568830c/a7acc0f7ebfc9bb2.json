@@ -606,9 +606,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:6.4.7:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:6.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.4.8",
+		"versionEndIncluding": "6.4.8",
 		"versionStartIncluding": "6.4.0"
 	},
 	{
@@ -649,13 +652,26 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:6.4.7:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:6.4.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.4.8",
+		"versionEndExcluding": "6.4.8",
 		"versionStartIncluding": "6.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.4:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.0.5",
+		"versionStartIncluding": "7.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:*:*:*:*",
@@ -674,22 +690,6 @@
 			}
 		],
 		"versionEndIncluding": "7.0.5",
-		"versionStartIncluding": "7.0.0"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:fortinet:fortivoice:7.0.4:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "7.0.5",
 		"versionStartIncluding": "7.0.0"
 	}
 ]

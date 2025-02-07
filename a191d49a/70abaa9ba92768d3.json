@@ -121,12 +121,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.5:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.3.6"
+		"versionEndExcluding": "3.3.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:emarketdesign:youtube_video_gallery:*:*:*:*:*:wordpress:*:*",
@@ -250,8 +247,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.5:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:emarketdesign:youtube_video_gallery:3.3.6:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.3.6"
+		"versionEndIncluding": "3.3.6"
 	}
 ]

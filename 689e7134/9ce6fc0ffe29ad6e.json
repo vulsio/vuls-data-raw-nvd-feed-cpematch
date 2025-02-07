@@ -496,12 +496,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:craterapp:crater:6.0.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:craterapp:crater:6.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.0.6"
+		"versionEndExcluding": "6.0.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:craterapp:crater:*:*:*:*:*:*:*:*",
@@ -592,8 +589,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:craterapp:crater:6.0.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:craterapp:crater:6.0.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.0.6"
+		"versionEndIncluding": "6.0.6"
 	}
 ]

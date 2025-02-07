@@ -100,12 +100,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:11.2\\(1\\):*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:11.3\\(1\\):*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.3\\(1\\)"
+		"versionEndExcluding": "11.3\\(1\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:*:*:*:*:*:*:*:*",
@@ -160,9 +157,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:11.2\\(1\\):*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:11.3\\(1\\):*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.3\\(1\\)"
+		"versionEndIncluding": "11.3\\(1\\)"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:cisco:data_center_network_manager:*:*:*:*:*:*:*:*",

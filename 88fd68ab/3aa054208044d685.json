@@ -3187,12 +3187,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:239:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "239"
+		"versionEndExcluding": "239"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
@@ -3580,9 +3577,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:239:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "239"
+		"versionEndIncluding": "239"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
@@ -8680,21 +8680,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:250.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "251"
+		"versionEndExcluding": "251"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
@@ -9295,9 +9283,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:250.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:251:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "251"
+		"versionEndIncluding": "251"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:systemd_project:systemd:*:*:*:*:*:*:*:*",
