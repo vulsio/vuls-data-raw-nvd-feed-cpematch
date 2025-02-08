@@ -136,6 +136,19 @@
 		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.10.1.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.10.1.40:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.10.1.50",
+		"versionStartIncluding": "7.10.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
 				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.11.0.0:*:*:*:*:*:*:*"
 			}
 		],
@@ -151,6 +164,42 @@
 		],
 		"versionEndExcluding": "7.13.1.10",
 		"versionStartIncluding": "7.13.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.13.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.13.1.10",
+		"versionStartIncluding": "7.13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.13.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.13.1.10:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.13.1.20",
+		"versionStartIncluding": "7.13.1.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:7.14.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:8.1.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "8.3.0.0",
+		"versionStartIncluding": "7.14.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:dell:data_domain_operating_system:*:*:*:*:*:*:*:*",

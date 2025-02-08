@@ -217,12 +217,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:0.1.0.8:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:0.1.0.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "0.1.0.9"
+		"versionEndExcluding": "0.1.0.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:*:*:*:*:*:wordpress:*:*",
@@ -385,9 +382,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:0.1.0.8:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:0.1.0.9:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "0.1.0.9"
+		"versionEndIncluding": "0.1.0.9"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:instawp:instawp_connect:*:*:*:*:*:wordpress:*:*",

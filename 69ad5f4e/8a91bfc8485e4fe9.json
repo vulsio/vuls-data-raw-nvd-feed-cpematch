@@ -37,9 +37,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:catonetworks:cato_client:5.10.26:*:*:*:*:windows:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:catonetworks:cato_client:5.10.34:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndExcluding": "5.10.34"
+		"versionEndIncluding": "5.10.34"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:catonetworks:cato_client:*:*:*:*:*:windows:*:*",
@@ -79,11 +82,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:catonetworks:cato_client:5.10.26:*:*:*:*:windows:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:catonetworks:cato_client:5.10.34:*:*:*:*:windows:*:*"
 			}
 		],
-		"versionEndIncluding": "5.10.34"
+		"versionEndExcluding": "5.10.34"
 	}
 ]
