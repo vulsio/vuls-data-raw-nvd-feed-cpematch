@@ -100,12 +100,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:apple:ipados:13.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "13.2"
+		"versionEndExcluding": "13.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",
@@ -142,9 +139,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:apple:ipados:13.1.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:apple:ipados:13.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "13.2"
+		"versionEndIncluding": "13.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:apple:ipados:*:*:*:*:*:*:*:*",

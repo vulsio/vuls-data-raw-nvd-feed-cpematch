@@ -24,21 +24,21 @@
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "4.0"
+		"versionEndExcluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:-:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:4.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "4.0"
+		"versionEndIncluding": "4.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:siemens:simatic_s7-1200_cpu_1217c_firmware:*:*:*:*:*:*:*:*",

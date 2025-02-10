@@ -5997,12 +5997,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.4894:*:*:*:*:*:x86:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.5011:*:*:*:*:*:x64:*"
 			}
 		],
-		"versionEndIncluding": "10.0.19045.5011"
+		"versionEndExcluding": "10.0.19045.5011"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:*:*:*:*:*:*:*:*",
@@ -6345,9 +6342,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.4894:*:*:*:*:*:x86:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.5011:*:*:*:*:*:x64:*"
 			}
 		],
-		"versionEndExcluding": "10.0.19045.5011"
+		"versionEndIncluding": "10.0.19045.5011"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:microsoft:windows_10_22h2:*:*:*:*:*:*:*:*",

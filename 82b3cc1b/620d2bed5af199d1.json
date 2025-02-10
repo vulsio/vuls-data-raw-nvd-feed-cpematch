@@ -76,9 +76,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:libcloud:0.10.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:libcloud:0.11.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.11.0"
+		"versionEndIncluding": "0.11.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:libcloud:*:*:*:*:*:*:*:*",
@@ -139,11 +142,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:libcloud:0.10.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:libcloud:0.11.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.11.0"
+		"versionEndExcluding": "0.11.0"
 	}
 ]

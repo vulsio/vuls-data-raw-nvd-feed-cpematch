@@ -25018,9 +25018,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.60:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.61:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.61",
+		"versionEndIncluding": "2.0.61",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -25217,12 +25220,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.60:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.61:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.0.61",
+		"versionEndExcluding": "2.0.61",
 		"versionStartIncluding": "2.0.0"
 	},
 	{
@@ -26945,6 +26945,73 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.54:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.0.55",
+		"versionStartIncluding": "2.0.35"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.35:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.36:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.37:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.38:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.39:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.40:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.41:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.42:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.43:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.44:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.45:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.46:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.47:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.48:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.49:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.50:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.51:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.52:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.53:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.54:*:*:*:*:*:*:*"
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.55:*:*:*:*:*:*:*"
@@ -27015,9 +27082,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.54:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.55:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.56:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.57:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.58:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.59:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.60:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.0.55",
+		"versionEndExcluding": "2.0.61",
 		"versionStartIncluding": "2.0.35"
 	},
 	{
@@ -27106,91 +27191,6 @@
 			}
 		],
 		"versionEndIncluding": "2.0.61",
-		"versionStartIncluding": "2.0.35"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:apache:http_server:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.35:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.36:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.37:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.38:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.39:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.40:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.41:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.42:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.43:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.44:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.45:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.46:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.47:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.48:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.49:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.50:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.51:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.52:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.53:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.54:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.55:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.56:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.57:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.58:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.59:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.0.60:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "2.0.61",
 		"versionStartIncluding": "2.0.35"
 	},
 	{
@@ -27921,12 +27921,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.8:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.9",
+		"versionEndExcluding": "2.2.9",
 		"versionStartIncluding": "2.2.0"
 	},
 	{
@@ -27958,9 +27955,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.8:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.9:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.9",
+		"versionEndIncluding": "2.2.9",
 		"versionStartIncluding": "2.2.0"
 	},
 	{
@@ -29005,9 +29005,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.30:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.31:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.31",
+		"versionEndIncluding": "2.2.31",
 		"versionStartIncluding": "2.2.0"
 	},
 	{
@@ -29108,12 +29111,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.30:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.2.31:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.31",
+		"versionEndExcluding": "2.2.31",
 		"versionStartIncluding": "2.2.0"
 	},
 	{
@@ -31401,12 +31401,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.4.59:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.4.60:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.60",
+		"versionEndExcluding": "2.4.60",
 		"versionStartIncluding": "2.4.0"
 	},
 	{
@@ -31591,9 +31588,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.4.59:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:http_server:2.4.60:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.60",
+		"versionEndIncluding": "2.4.60",
 		"versionStartIncluding": "2.4.0"
 	},
 	{

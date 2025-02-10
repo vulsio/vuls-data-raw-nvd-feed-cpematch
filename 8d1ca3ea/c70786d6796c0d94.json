@@ -145,12 +145,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:any23:2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:any23:2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7"
+		"versionEndExcluding": "2.7"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:any23:*:*:*:*:*:*:*:*",
@@ -226,8 +223,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:any23:2.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:any23:2.7:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7"
+		"versionEndIncluding": "2.7"
 	}
 ]
