@@ -1306,9 +1306,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:6.42.11:*:*:*:ltr:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:6.42.12:*:*:*:ltr:*:*:*"
 			}
 		],
-		"versionEndExcluding": "6.42.12"
+		"versionEndIncluding": "6.42.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:*:*:*:*:ltr:*:*:*",
@@ -1678,12 +1681,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:6.42.11:*:*:*:ltr:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:6.42.12:*:*:*:ltr:*:*:*"
 			}
 		],
-		"versionEndIncluding": "6.42.12"
+		"versionEndExcluding": "6.42.12"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:mikrotik:routeros:*:*:*:*:ltr:*:*:*",

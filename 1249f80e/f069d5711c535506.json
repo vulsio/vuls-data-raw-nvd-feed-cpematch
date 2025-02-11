@@ -1519,9 +1519,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.95.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.0.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.0.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.0.0"
+		"versionEndIncluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -1888,15 +1894,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:2.95.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.0.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.0.0:rc2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.0.0"
+		"versionEndExcluding": "3.0.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -4720,9 +4720,21 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.5.0"
+		"versionEndIncluding": "3.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",
@@ -5131,21 +5143,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.4.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:3.5.0:rc3:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.5.0"
+		"versionEndExcluding": "3.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zephyrproject:zephyr:*:*:*:*:*:*:*:*",

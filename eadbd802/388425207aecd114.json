@@ -7,6 +7,16 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:fortinet:fortindr:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:fortinet:fortindr:7.1.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "7.1.1",
+		"versionStartIncluding": "1.4.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:fortinet:fortindr:*:*:*:*:*:*:*:*",
 		"cpe_name": [],
 		"versionEndIncluding": "7.0.4",
 		"versionStartIncluding": "7.0.0"

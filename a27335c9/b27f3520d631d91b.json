@@ -571,12 +571,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:3.17.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:3.17.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.17.6"
+		"versionEndExcluding": "3.17.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:*:*:*:*:*:*:*:*",
@@ -793,9 +790,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:3.17.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:3.17.6:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.17.6"
+		"versionEndIncluding": "3.17.6"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:claws-mail:claws-mail:*:*:*:*:*:*:*:*",

@@ -1138,12 +1138,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:brainstormforce:elementor_header_\\&_footer_builder:1.6.45:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:brainstormforce:elementor_header_\\&_footer_builder:1.6.46:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.46"
+		"versionEndExcluding": "1.6.46"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:brainstormforce:elementor_header_\\&_footer_builder:*:*:*:*:*:wordpress:*:*",
@@ -1405,8 +1402,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:brainstormforce:elementor_header_\\&_footer_builder:1.6.45:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:brainstormforce:elementor_header_\\&_footer_builder:1.6.46:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.46"
+		"versionEndIncluding": "1.6.46"
 	}
 ]

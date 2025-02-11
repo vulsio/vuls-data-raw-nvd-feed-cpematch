@@ -13,5 +13,26 @@
 			}
 		],
 		"versionEndIncluding": "3.0.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:james_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:james_server:2.3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:james_server:2.3.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:james_server:3.0.0:*:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "3.7.6"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:james_server:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "3.8.2",
+		"versionStartIncluding": "3.8.0"
 	}
 ]

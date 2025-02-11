@@ -7257,12 +7257,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "8.2.1d",
+		"versionEndExcluding": "8.2.1d",
 		"versionStartIncluding": "8.2.1"
 	},
 	{
@@ -7297,9 +7294,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1c:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.1d:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "8.2.1d",
+		"versionEndIncluding": "8.2.1d",
 		"versionStartIncluding": "8.2.1"
 	},
 	{

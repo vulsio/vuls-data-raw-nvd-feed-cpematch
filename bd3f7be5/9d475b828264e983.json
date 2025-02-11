@@ -1777,12 +1777,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:1.8.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:1.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.9.3"
+		"versionEndExcluding": "1.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:*:*:*:*:*:*:*:*",
@@ -2098,9 +2095,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:1.8.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:1.9.3:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.9.3"
+		"versionEndIncluding": "1.9.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:octoprint:octoprint:*:*:*:*:*:*:*:*",

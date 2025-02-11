@@ -7102,12 +7102,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.6.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.7.0"
+		"versionEndExcluding": "2.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*",
@@ -7441,9 +7438,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.6.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.7.0"
+		"versionEndIncluding": "2.7.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*",
@@ -11289,6 +11289,55 @@
 			}
 		],
 		"versionEndIncluding": "2.7.3",
+		"versionStartIncluding": "2.7.0"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:apache:airflow:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.7.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.2:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.2:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.2:rc2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.2:rc3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.3:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.3:rc1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.4:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:airflow:2.8.4:rc1:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "2.9.0",
 		"versionStartIncluding": "2.7.0"
 	},
 	{

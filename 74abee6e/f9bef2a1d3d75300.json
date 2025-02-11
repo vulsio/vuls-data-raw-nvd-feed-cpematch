@@ -766,12 +766,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "19.2.2"
+		"versionEndExcluding": "19.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
@@ -877,9 +874,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:19.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "19.2.2"
+		"versionEndIncluding": "19.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:cisco:sd-wan_firmware:*:*:*:*:*:*:*:*",
