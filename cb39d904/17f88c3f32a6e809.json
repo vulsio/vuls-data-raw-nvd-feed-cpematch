@@ -658,12 +658,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2024.4.0:*:*:*:aem_cloud_service:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2024.5.0:*:*:*:aem_cloud_service:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2024.5.0"
+		"versionEndExcluding": "2024.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:aem_cloud_service:*:*:*",
@@ -799,9 +796,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2024.4.0:*:*:*:aem_cloud_service:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:2024.5.0:*:*:*:aem_cloud_service:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2024.5.0"
+		"versionEndIncluding": "2024.5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:experience_manager:*:*:*:*:aem_cloud_service:*:*:*",

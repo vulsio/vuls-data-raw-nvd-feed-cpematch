@@ -1,6 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:acronis:cyber_backup:*:*:*:*:*:*:*:*",
+		"cpe_name": [],
+		"versionEndExcluding": "12.5"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:acronis:cyber_backup:*:*:*:*:*:*:*:*",
 		"cpe_name": [
 			{
 				"cpe23Uri": "cpe:2.3:a:acronis:cyber_backup:12.5:-:*:*:*:*:*:*"
@@ -49,10 +54,5 @@
 			}
 		],
 		"versionEndIncluding": "12.5"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:acronis:cyber_backup:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
-		"versionEndExcluding": "12.5"
 	}
 ]

@@ -229,6 +229,24 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:activemq:5.18.3:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.1.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.1.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.2.0:*:*:*:*:*:*:*"
 			}
 		]
 	},
@@ -2689,7 +2707,20 @@
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:activemq:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.0.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:activemq:6.1.1:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "6.1.2",
 		"versionStartIncluding": "6.0.0"
 	}

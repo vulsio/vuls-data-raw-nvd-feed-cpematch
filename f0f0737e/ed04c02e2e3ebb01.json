@@ -310,12 +310,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:3.4.2:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:3.4.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "3.4.3"
+		"versionEndExcluding": "3.4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:*:*:*:*:*:wordpress:*:*",
@@ -430,9 +427,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:3.4.2:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:3.4.3:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "3.4.3"
+		"versionEndIncluding": "3.4.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:servit:affiliate-toolkit:*:*:*:*:*:wordpress:*:*",

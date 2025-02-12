@@ -2251,9 +2251,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themify:builder:7.6.2:*:*:*:-:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:themify:builder:7.6.3:*:*:*:-:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "7.6.3"
+		"versionEndIncluding": "7.6.3"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:themify:builder:*:*:*:*:-:wordpress:*:*",
@@ -2821,11 +2824,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:themify:builder:7.6.2:*:*:*:-:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:themify:builder:7.6.3:*:*:*:-:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "7.6.3"
+		"versionEndExcluding": "7.6.3"
 	}
 ]

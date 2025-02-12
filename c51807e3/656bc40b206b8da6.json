@@ -154,12 +154,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:1.2.34:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:1.2.35:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.35"
+		"versionEndExcluding": "1.2.35"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:*:*:*:*:*:wordpress:*:*",
@@ -316,8 +313,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:1.2.34:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:webhammer:wp_custom_fields_search:1.2.35:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.35"
+		"versionEndIncluding": "1.2.35"
 	}
 ]
