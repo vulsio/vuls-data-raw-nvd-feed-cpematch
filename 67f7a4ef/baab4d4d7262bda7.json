@@ -2334,12 +2334,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:5.0.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:google:android:5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.1"
+		"versionEndExcluding": "5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",
@@ -2496,9 +2493,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:google:android:5.0.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:google:android:5.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.1"
+		"versionEndIncluding": "5.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:google:android:*:*:*:*:*:*:*:*",

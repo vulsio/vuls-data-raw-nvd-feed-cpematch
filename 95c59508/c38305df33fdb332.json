@@ -40,9 +40,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:uimaducc:2.2.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:apache:uimaducc:2.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.2.2"
+		"versionEndIncluding": "2.2.2"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:apache:uimaducc:*:*:*:*:*:*:*:*",
@@ -85,11 +88,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:apache:uimaducc:2.2.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:apache:uimaducc:2.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.2.2"
+		"versionEndExcluding": "2.2.2"
 	}
 ]

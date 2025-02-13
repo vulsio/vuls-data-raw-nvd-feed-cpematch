@@ -19,12 +19,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:5.21\\(abag.9\\)c0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:5.21\\(abag.10\\)c0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.21\\(abag.10\\)c0"
+		"versionEndExcluding": "5.21\\(abag.10\\)c0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:*:*:*:*:*:*:*:*",
@@ -37,9 +34,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:5.21\\(abag.9\\)c0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:5.21\\(abag.10\\)c0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.21\\(abag.10\\)c0"
+		"versionEndIncluding": "5.21\\(abag.10\\)c0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:o:zyxel:nas542_firmware:*:*:*:*:*:*:*:*",

@@ -16,5 +16,23 @@
 			}
 		],
 		"versionEndExcluding": "5.0.3"
+	},
+	{
+		"cpe23Uri": "cpe:2.3:a:ivanti:cloud_services_appliance:*:*:*:*:*:*:*:*",
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:cloud_services_appliance:4.5:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:cloud_services_appliance:4.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:cloud_services_appliance:4.6:patch_518:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ivanti:cloud_services_appliance:5.0:-:*:*:*:*:*:*"
+			}
+		],
+		"versionEndExcluding": "5.0.5"
 	}
 ]

@@ -274,9 +274,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:4.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "5.0"
+		"versionEndIncluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:*:*:*:*:*:*:*:*",
@@ -376,12 +379,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:4.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:5.0:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "5.0"
+		"versionEndExcluding": "5.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:intel:data_center_manager:*:*:*:*:*:*:*:*",

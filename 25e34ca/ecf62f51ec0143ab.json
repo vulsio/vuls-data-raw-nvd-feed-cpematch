@@ -16,12 +16,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:codeless:cowidgets_elementor_addons:1.1.4:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:codeless:cowidgets_elementor_addons:1.2.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.0"
+		"versionEndExcluding": "1.2.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:codeless:cowidgets_elementor_addons:*:*:*:*:*:wordpress:*:*",
@@ -40,8 +37,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:codeless:cowidgets_elementor_addons:1.1.4:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:codeless:cowidgets_elementor_addons:1.2.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.0"
+		"versionEndIncluding": "1.2.0"
 	}
 ]

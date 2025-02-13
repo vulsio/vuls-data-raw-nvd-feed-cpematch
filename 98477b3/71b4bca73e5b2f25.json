@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:vmware:nsx_sd-wan_by_velocloud:*:*:*:*:*:*:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:nsx_sd-wan_by_velocloud:-:*:*:*:*:*:*:*"
+			}
+		],
 		"versionEndExcluding": "3.1.0"
 	}
 ]
