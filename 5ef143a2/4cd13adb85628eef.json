@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:ayecode:ketchup_shortcodes:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:ayecode:ketchup_shortcodes:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "0.2.1"
 	}
 ]

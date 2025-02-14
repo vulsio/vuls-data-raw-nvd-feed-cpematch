@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:calenfretts:lastunes:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:calenfretts:lastunes:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:calenfretts:lastunes:3.6.1:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "3.6.1"
 	}
 ]

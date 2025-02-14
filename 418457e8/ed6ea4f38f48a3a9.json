@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:aakashbhagat:single_user_chat:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:aakashbhagat:single_user_chat:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:aakashbhagat:single_user_chat:0.5:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "0.5"
 	}
 ]

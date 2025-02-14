@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:autopolis:bulgarisation_for_woocommerce:3.0.14:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "3.0.15"
 	}
 ]

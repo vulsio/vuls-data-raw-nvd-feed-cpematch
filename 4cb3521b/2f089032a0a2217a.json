@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:buynowdepot:advanced_online_ordering_and_delivery_platform:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:buynowdepot:advanced_online_ordering_and_delivery_platform:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:buynowdepot:advanced_online_ordering_and_delivery_platform:2.0.0:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.0.0"
 	}
 ]

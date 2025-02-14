@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:campusexplorer:widget:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:campusexplorer:widget:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:campusexplorer:widget:1.4:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "1.4"
 	}
 ]

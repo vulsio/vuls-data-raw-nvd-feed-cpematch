@@ -265,9 +265,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.173:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.174:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "0.174"
+		"versionEndIncluding": "0.174"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:*:*:*:*:*:*:*:*",
@@ -409,11 +412,8 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.173:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:elfutils_project:elfutils:0.174:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "0.174"
+		"versionEndExcluding": "0.174"
 	}
 ]

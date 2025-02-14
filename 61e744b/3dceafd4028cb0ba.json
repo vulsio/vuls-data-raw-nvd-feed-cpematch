@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:brandonwamboldt:wordpress_access_control:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:brandonwamboldt:wordpress_access_control:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:brandonwamboldt:wordpress_access_control:4.0.13:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "4.0.13"
 	}
 ]

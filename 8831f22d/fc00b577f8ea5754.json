@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:brechtvds:custom_related_posts:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:brechtvds:custom_related_posts:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.7.4"
 	}
 ]

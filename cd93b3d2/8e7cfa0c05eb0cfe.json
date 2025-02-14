@@ -2089,12 +2089,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:2.36.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:2.36.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "2.36.8"
+		"versionEndExcluding": "2.36.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:*:*:*:*:*:*:*:*",
@@ -2431,9 +2428,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:2.36.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:2.36.8:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "2.36.8"
+		"versionEndIncluding": "2.36.8"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:gnome:gdk-pixbuf:*:*:*:*:*:*:*:*",

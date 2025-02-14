@@ -1,7 +1,11 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:blossomthemes:blossom_spa:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:blossomthemes:blossom_spa:-:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndExcluding": "1.3.4"
 	}
 ]

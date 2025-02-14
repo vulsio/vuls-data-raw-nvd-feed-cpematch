@@ -154,12 +154,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:4.9.9:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:4.9.91:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "4.9.91"
+		"versionEndExcluding": "4.9.91"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:*:*:*:*:*:wordpress:*:*",
@@ -316,9 +313,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:4.9.9:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:4.9.91:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "4.9.91"
+		"versionEndIncluding": "4.9.91"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:latepoint:latepoint:*:*:*:*:*:wordpress:*:*",

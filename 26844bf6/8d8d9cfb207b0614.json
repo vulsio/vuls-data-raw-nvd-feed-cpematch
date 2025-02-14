@@ -1167,9 +1167,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:1.6:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:1.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.6.1"
+		"versionEndIncluding": "1.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:*:*:*:*:*:*:*:*",
@@ -1308,12 +1311,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:1.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:1.6.1:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.6.1"
+		"versionEndExcluding": "1.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:mit:kerberos_5:*:*:*:*:*:*:*:*",

@@ -595,12 +595,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:5.6.0:*:*:*:lite:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:5.6.1:*:*:*:lite:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "5.6.1"
+		"versionEndExcluding": "5.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:*:*:*:*:lite:wordpress:*:*",
@@ -757,9 +754,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:5.6.0:*:*:*:lite:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:5.6.1:*:*:*:lite:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "5.6.1"
+		"versionEndIncluding": "5.6.1"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:bdthemes:element_pack:*:*:*:*:lite:wordpress:*:*",

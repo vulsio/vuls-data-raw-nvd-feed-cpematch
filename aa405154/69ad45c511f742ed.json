@@ -1,7 +1,14 @@
 [
 	{
 		"cpe23Uri": "cpe:2.3:a:bajorat-media:pb_oembed_html5_audio:*:*:*:*:*:wordpress:*:*",
-		"cpe_name": [],
+		"cpe_name": [
+			{
+				"cpe23Uri": "cpe:2.3:a:bajorat-media:pb_oembed_html5_audio:-:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:bajorat-media:pb_oembed_html5_audio:2.6:*:*:*:*:wordpress:*:*"
+			}
+		],
 		"versionEndIncluding": "2.6"
 	}
 ]
