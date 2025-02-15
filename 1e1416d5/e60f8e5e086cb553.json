@@ -67915,9 +67915,15 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.12:rc0:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.13:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.13:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.17.13",
+		"versionEndIncluding": "1.17.13",
 		"versionStartIncluding": "1.17.0"
 	},
 	{
@@ -68030,15 +68036,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.12:rc0:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.13:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.17.13:rc0:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.17.13",
+		"versionEndExcluding": "1.17.13",
 		"versionStartIncluding": "1.17.0"
 	},
 	{
@@ -69970,9 +69970,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.25.9:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.25.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.25.10",
+		"versionEndIncluding": "1.25.10",
 		"versionStartIncluding": "1.25.0"
 	},
 	{
@@ -70034,12 +70037,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.25.9:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.25.10:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.25.10",
+		"versionEndExcluding": "1.25.10",
 		"versionStartIncluding": "1.25.0"
 	},
 	{
@@ -70364,9 +70364,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.27.2",
+		"versionEndIncluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{
@@ -70398,12 +70401,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:kubernetes:kubernetes:1.27.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.27.2",
+		"versionEndExcluding": "1.27.2",
 		"versionStartIncluding": "1.27.0"
 	},
 	{

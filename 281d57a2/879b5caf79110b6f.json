@@ -1204,12 +1204,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:2.4.3:*:*:*:free:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:2.4.4:*:*:*:free:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "2.4.4"
+		"versionEndExcluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:*:*:*:*:free:wordpress:*:*",
@@ -1513,9 +1510,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:2.4.3:*:*:*:free:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:2.4.4:*:*:*:free:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "2.4.4"
+		"versionEndIncluding": "2.4.4"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:hasthemes:ht_mega:*:*:*:*:free:wordpress:*:*",

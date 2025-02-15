@@ -839,9 +839,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.1:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "11.0.2",
+		"versionEndIncluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{
@@ -852,12 +855,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:vmware:fusion:11.0.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "11.0.2",
+		"versionEndExcluding": "11.0.2",
 		"versionStartIncluding": "11.0.0"
 	},
 	{

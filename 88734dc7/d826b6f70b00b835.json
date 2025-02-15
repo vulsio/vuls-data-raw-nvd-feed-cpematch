@@ -475,9 +475,27 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.5:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:-:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch2:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3_hotfix1:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3_hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.6",
+		"versionEndIncluding": "3.2.6",
 		"versionStartIncluding": "3.0"
 	},
 	{
@@ -548,27 +566,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:-:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch2:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3_hotfix1:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:microfocus:imanager:3.2.6:patch3_hotfix2:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.6",
+		"versionEndExcluding": "3.2.6",
 		"versionStartIncluding": "3.0"
 	}
 ]

@@ -109,9 +109,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:php:archive_tar:1.4.10:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:php:archive_tar:1.4.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "1.4.11"
+		"versionEndIncluding": "1.4.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:php:archive_tar:*:*:*:*:*:*:*:*",
@@ -166,12 +169,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:php:archive_tar:1.4.10:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:php:archive_tar:1.4.11:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "1.4.11"
+		"versionEndExcluding": "1.4.11"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:php:archive_tar:*:*:*:*:*:*:*:*",

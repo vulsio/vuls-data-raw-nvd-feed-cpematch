@@ -22,12 +22,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "12.2.2",
+		"versionEndExcluding": "12.2.2",
 		"versionStartIncluding": "12.0.0"
 	},
 	{
@@ -38,9 +35,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.1.0:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:cisco:nexus_dashboard_fabric_controller:12.2.2:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "12.2.2",
+		"versionEndIncluding": "12.2.2",
 		"versionStartIncluding": "12.0.0"
 	},
 	{

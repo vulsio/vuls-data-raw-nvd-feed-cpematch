@@ -673,12 +673,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rednao:woocommerce_pdf_invoice_builder:1.2.95:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:rednao:woocommerce_pdf_invoice_builder:1.2.102:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.2.102"
+		"versionEndExcluding": "1.2.102"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:rednao:woocommerce_pdf_invoice_builder:*:*:*:*:*:wordpress:*:*",
@@ -913,8 +910,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:rednao:woocommerce_pdf_invoice_builder:1.2.95:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:rednao:woocommerce_pdf_invoice_builder:1.2.102:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.2.102"
+		"versionEndIncluding": "1.2.102"
 	}
 ]

@@ -295,12 +295,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ari-soft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:ari-soft:ari_stream_quiz:1.3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndIncluding": "1.3.0"
+		"versionEndExcluding": "1.3.0"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:ari-soft:ari_stream_quiz:*:*:*:*:*:wordpress:*:*",
@@ -448,8 +445,11 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:ari-soft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:ari-soft:ari_stream_quiz:1.3.0:*:*:*:*:wordpress:*:*"
 			}
 		],
-		"versionEndExcluding": "1.3.0"
+		"versionEndIncluding": "1.3.0"
 	}
 ]

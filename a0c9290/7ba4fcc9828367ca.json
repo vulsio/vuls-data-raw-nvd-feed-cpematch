@@ -181,12 +181,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2.0.2070:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "3.2.0.2070"
+		"versionEndExcluding": "3.2.0.2070"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -238,9 +235,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2:*:*:*:*:*:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2.0.2070:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "3.2.0.2070"
+		"versionEndIncluding": "3.2.0.2070"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -1201,111 +1201,6 @@
 			}
 		],
 		"versionEndIncluding": "15.0.0.292"
-	},
-	{
-		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
-		"cpe_name": [
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:-:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.5.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:1.5.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.0.0:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.0.2.12610:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.5.1:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.6:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.7.0.1948:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.7.0.1953:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:2.7.1.1961:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.2.0.2070:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.3:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.4:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.4.0.2710:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.5:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.6.0.597:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.6.0.6090:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.9.0.1210:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:3.9.0.1380:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:11.0.1.153:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:11.0.1.1152:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:11.2.202.424:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:13.0.0.258:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:14.0.0.178:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:15.0.0.239:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:15.0.0.242:*:*:*:*:*:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:15.0.0.246:*:*:*:*:*:*:*"
-			}
-		],
-		"versionEndExcluding": "15.0.0.293"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -2749,12 +2644,9 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.204:*:*:*:*:android:*:*"
-			},
-			{
-				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndIncluding": "20.0.0.233"
+		"versionEndExcluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
@@ -2884,9 +2776,12 @@
 			},
 			{
 				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.204:*:*:*:*:android:*:*"
+			},
+			{
+				"cpe23Uri": "cpe:2.3:a:adobe:air:20.0.0.233:*:*:*:*:*:*:*"
 			}
 		],
-		"versionEndExcluding": "20.0.0.233"
+		"versionEndIncluding": "20.0.0.233"
 	},
 	{
 		"cpe23Uri": "cpe:2.3:a:adobe:air:*:*:*:*:*:*:*:*",
